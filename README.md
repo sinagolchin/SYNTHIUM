@@ -98,3 +98,9 @@ python -m synthium blind status       # the blind protocol, see docs/BLIND_PROTO
 - `docs/ARTICLE_a_ruler_for_judgment.md`: the July open research note
 - `docs/ROADMAP.md`, `docs/AUDIT_2026-07-10.md`, `docs/CORRECTIONS_2026-07-13.md`,
   `docs/COUNT_RECONCILIATION.md`, `docs/ENVIRONMENT.md`
+
+## License
+
+Code (`synthium/`, `tests/`): MIT, see `LICENSE`. Documents and data (`docs/`, `data/`,
+and the top-level notes): CC BY 4.0, see `LICENSE-DOCS-DATA.md`. Court opinion texts
+stored here are not covered; they belong to their sources.

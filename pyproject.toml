@@ -8,7 +8,7 @@ version = "9.0.0"
 description = "Building and testing measurement rulers for abstract concepts; judicial domain first."
 readme = "README.md"
 requires-python = ">=3.9"
-license = { text = "Proprietary / research" }
+license = { text = "MIT (code); CC BY 4.0 (docs and data), see LICENSE-DOCS-DATA.md" }
 authors = [{ name = "Sina" }]
 keywords = ["measurement", "validation", "legal-analytics", "research-framework"]
 # The whole package runs on the Python standard library.
