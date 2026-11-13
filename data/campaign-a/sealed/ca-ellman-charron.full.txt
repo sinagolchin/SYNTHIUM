@@ -1,0 +1,410 @@
+<pre class="inline">                  IN THE SUPREME COURT OF THE STATE OF IDAHO
+
+                                      Docket No. 53837-2026
+
+ FRANK ELLMAN,                                          )
+                                                        )
+      Petitioner-Appellant,                             )    Boise, August 2026 Term
+                                                        )
+ v.                                                     )    Opinion filed: October 20, 2026
+                                                        )
+ JULIET CHARRON, in her official capacity               )    Melanie Gagnepain, Clerk
+ as Director of the Idaho Department of                 )
+ Health and Welfare,                                    )
+                                                        )
+      Respondent.                                       )
+                                                        )
+
+        Appeal from the District Court of the Fourth Judicial District of the State of Idaho,
+        Ada County. Joseph Borton, District Judge.
+
+        The decision of the district court is affirmed.
+
+        Frank Ellman, Coeur d’Alene, for Appellant Pro Se. Frank Ellman argued.
+
+        Raúl R. Labrador, Idaho Attorney General, Boise, for Respondent. Aaron M. Green
+        argued.
+
+
+
+ZAHN, J.
+        Frank Ellman appeals the district court’s decision denying his petition for a writ of
+mandate, seeking an order compelling the Director of the Idaho Department of Health and Welfare
+to issue a final order regarding its recommendation, made in a Kootenai County Child Protection
+Act (“CPA”) case, that Ellman’s three grandchildren be permanently placed with a non-relative
+foster parent instead of Ellman. Ellman sought the final order so he could file a petition for judicial
+review of the placement recommendation in a different court. The district court denied Ellman’s
+petition after determining that (1) it lacked subject matter jurisdiction to take action related to the
+CPA case, (2) Ellman lacked standing to challenge actions taken in the CPA case, and (3) Ellman
+could not establish that the Director had a mandatory duty to issue a final order and therefore failed
+to establish an entitlement to a writ of mandate.
+
+
+
+
+                                                    1
+       For reasons discussed below, we affirm the district court’s decision because it correctly
+concluded that it lacked subject matter jurisdiction over Ellman’s petition. The substance of
+Ellman’s writ petition sought a final order so he could challenge the Department’s permanency
+placement recommendation in a court other than the one handling the CPA case. The CPA granted
+the Kootenai County magistrate court exclusive jurisdiction over the CPA case, including any
+challenge to the Department’s permanency placement recommendation filed in that case.
+       Although we affirm the district court’s decision that the Kootenai County magistrate court
+retained exclusive subject matter jurisdiction over issues related to the Department’s
+recommendation, we disagree with the State’s assertion that Ellman is categorically precluded
+from filing a motion for limited intervention in the CPA proceeding, concerning whether the
+Department complied with the CPA in making its recommendation. As we explain below, while
+Ellman may seek to intervene in the CPA case, the magistrate court retains discretion whether to
+allow Ellman to intervene so he can challenge the Department’s compliance with Idaho Code
+section 16-1629(11).
+                  I.   FACTUAL AND PROCEDURAL BACKGROUND
+       The following facts are gleaned from the parties’ briefing and documents contained in the
+record on appeal. Ellman is the maternal grandfather of three minor children who were removed
+from their mother’s home in Kootenai County. A CPA case was initiated against his daughter and
+a Kootenai County magistrate judge placed the children in the custody of the Department. The
+Department then placed the children with a non-relative foster parent. Ellman subsequently
+obtained a license to operate a foster family home and requested the Department place the children
+in his custody. The Department declined to do so. Neither party to this appeal requested this Court
+take judicial notice of the record in the CPA proceeding. As a result, we cannot tell from the record
+on appeal why the Department declined to place the children in Ellman’s custody.
+       Ellman alleges that, in November 2025, the Department “verbally informed [Ellman] that
+placement was denied, and further, that an Idaho Department of Health and Welfare Permanency
+Committee selected the non-relative foster parent as permanent placement.” Ellman requested a
+review of the Department’s recommendation. In January 2026, the Department verbally informed
+him that the Permanency Review Committee affirmed the decision of the Permanency Committee.
+       Ellman then submitted a public records request to the Department, seeking a copy of a final
+order that detailed the Department’s findings of fact and conclusions supporting the Permanency
+
+
+
+                                                 2
+Committee’s decision. The Department advised Ellman that his request for an “extended
+placement review” was being processed and he should receive a report the following week. Ellman
+responded that he did not want a report but was instead requesting a final order pursuant to the
+Idaho Administrative Procedure Act (“APA”). The Department responded that its placement
+recommendation was not a final agency action because it was a “planning contingency.”
+        Ellman subsequently filed a petition for a writ of mandate in Ada County District Court,
+alleging that the Permanency Committee’s decision constituted a final agency action under the
+APA and therefore, the Department was required to issue a final order that included its findings of
+fact and conclusions of law. Ellman requested that the district court issue a writ of mandate
+compelling the Director to issue a final order so Ellman could seek judicial review of the
+Permanency Committee’s decision in district court. Ellman also requested a preliminary injunction
+staying further action in the Kootenai County CPA case until he was able to obtain judicial review.
+        While Ellman’s writ petition was pending in Ada County, the Department filed a petition
+for termination of parental rights in the Kootenai County CPA case. This prompted Ellman to file
+a motion in the Ada County writ case, requesting the district court to issue an expedited ruling on
+his petition. After nine days had passed, and the Ada County district court had not issued a decision
+on his motion or the petition, Ellman filed a Verified Petition for Writ of Mandate and Emergency
+Request for Injunctive Relief with this Court, seeking an order directing the Ada County district
+court to rule on his writ petition. The district court subsequently indicated that it did not believe it
+could issue a decision on Ellman’s writ petition while Ellman’s subsequent petition to this Court
+was pending. This Court then issued a writ of mandate to the district court, ordering it to rule on
+Ellman’s original petition and temporarily staying the Kootenai County CPA case for fourteen
+days.
+        The district court subsequently issued a written decision denying Ellman’s petition for a
+writ of mandate. Ellman timely filed this appeal.
+                                  II.     ISSUES ON APPEAL
+   1. Whether the district court erred when it concluded it lacked subject matter jurisdiction to
+      consider Ellman’s petition for a writ of mandate.
+   2. Whether Ellman’s procedural due process rights were violated.
+                                        III.   ANALYSIS
+        Ellman argues the district court erred when it denied his petition because the district court
+incorrectly relied on the CPA to determine it lacked subject matter jurisdiction. Ellman alleges that
+
+
+                                                   3
+he is not seeking to challenge any decision made pursuant to the CPA but instead is seeking a final
+order under the APA. Ellman contends that, because he was not challenging any decision made in
+the CPA proceeding, the district court had subject matter jurisdiction to consider his writ petition
+and to decide his claim arising under the APA. Ellman additionally asserts that the Department’s
+refusal to issue a final order, combined with the district court’s dismissal of his petition, violates
+his procedural due process rights because it deprives him of the ability to seek judicial review of
+the Department’s permanency placement recommendation. For the reasons discussed below, we
+affirm the district court’s decision that it lacked subject matter jurisdiction to consider Ellman’s
+petition.
+A. The district court correctly concluded that it lacked subject matter jurisdiction because
+   Ellman’s petition concerned the Department’s recommendation made in the CPA
+   proceeding and the Kootenai County magistrate court retained exclusive jurisdiction
+   over matters in that case.
+    1. The CPA grants the CPA court exclusive subject matter jurisdiction over review of the
+       Department’s permanency placement recommendation.
+        The Ada County district court concluded that it lacked subject matter jurisdiction to
+consider Ellman’s writ petition because, pursuant to Idaho Code section 16-1603, the Kootenai
+County magistrate court retained exclusive original jurisdiction over the CPA proceeding
+concerning the children. Citing Idaho Code section 16-1629(8), the district court also noted that
+the decision where to place the children is “subject to judicial review by the court” with jurisdiction
+over the CPA case. Reading these sections together, the district court concluded that judicial
+review of the Department’s placement recommendation in a CPA case is restricted to the court
+overseeing the CPA case. Therefore, the district court lacked subject matter jurisdiction to enter
+an order compelling the Department to issue a final order that would permit Ellman to ask a
+different court to review the Department’s placement recommendation.
+        Issues of subject matter jurisdiction are questions of law that are freely reviewed. Slavens
+v. Slavens, </pre><span class="citation" data-id="4095335"><a href="/opinion/4318074/james-adam-slavens-v-melanie-slavens/#202" aria-description="Citation for case: James Adam Slavens v. Melanie Slavens">161 Idaho 198, 202</a></span><pre class="inline">, </pre><span class="citation" data-id="4095335"><a href="/opinion/4318074/james-adam-slavens-v-melanie-slavens/#965" aria-description="Citation for case: James Adam Slavens v. Melanie Slavens">384 P.3d 962, 965</a></span><pre class="inline"> (2016). Ellman argues the district court erred
+because it misconstrued the relief sought in the writ petition. He asserts that he sought a writ of
+mandate requiring compliance with the APA, not judicial review of any decision in the CPA case.
+Additionally, Ellman asserts that Idaho Code section 7-302 grants the district court subject matter
+jurisdiction over petitions seeking issuance of a writ of mandate.
+        The district court did not err in dismissing Ellman’s petition. Regardless of how he
+describes his claims, the relief Ellman seeks is an order that would permit him to seek judicial
+
+
+                                                  4
+review of the Department’s placement recommendation for the children. The plain language of the
+CPA restricts review of these matters to the magistrate court presiding over the CPA case. Idaho
+law is clear that the child protection court retains exclusive subject matter jurisdiction over all
+matters relating to children that are the subject of the CPA proceeding. I.C. § 16-1603(1)(a)
+(“Except as otherwise provided herein, the court shall have exclusive original jurisdiction in all
+proceedings under this chapter concerning any child living or found within the state: (a) [w]ho is
+neglected, abused or abandoned by his parents, guardian or other legal custodian[.]”). This includes
+review of the Department’s consideration of options for the children’s permanency placement.
+I.C. § 16-1622(2)(d). Accordingly, if Ellman’s requested writ concerns an issue related to his
+grandchildren that are the subject of the pending CPA case, the Kootenai County magistrate court
+has exclusive jurisdiction over that issue.
+       We look to the substance of Ellman’s claim to ascertain whether it concerns an issue within
+the exclusive jurisdiction of the child protection court. See Carelon Behav. Health, Inc. v. State ex
+rel. Idaho Dep’t of Admin., </pre><span class="citation no-link">176 Idaho 631</span><pre class="inline">, ___, </pre><span class="citation no-link">581 P.3d 298</span><pre class="inline">, 307–08 (2025). While Ellman
+asserts that he only seeks compliance with the APA, not custody of his grandchildren or
+intervention in the pending CPA case, his opening brief makes clear that he seeks a final order so
+he can obtain judicial review of the Department’s permanency placement recommendation:
+       Appellant respectfully requests that this Court reverse the district court’s March 11,
+       2026 order dismissing his Verified Petition for Writ of Mandate and remand with
+       instructions to issue a peremptory writ of mandate directing the Director of the
+       Idaho Department of Health and Welfare to issue a written final agency order
+       consistent with Idaho Code [section] 67-5248 and Idaho Code [section] 16-
+       1629(11), sufficient to permit judicial review.
+(Emphasis added.)
+       Of the two statutes Ellman cites in his opening brief, the first is inapplicable and the second
+reveals the substance of what he seeks: the ability to challenge the Department’s permanency
+placement recommendation in a different court. The first statute, Idaho Code section 67-5248, is
+part of the APA and is entitled, “Contents of Orders.” It does not address whether the Department
+is required to issue an order when it makes a recommendation in a CPA proceeding. Instead, it
+identifies what must be included in an agency order.
+       The second statute, Idaho Code section 16-1629(11), is part of the CPA and sets forth the
+Department’s duties related to the protection of children. Subsection (11) addresses the
+Department’s obligations related to the placement of children subject to the CPA:
+
+
+                                                 5
+       (11) At any time the department is considering a placement pursuant to this chapter,
+       the department shall make a reasonable effort to place the child in the least
+       restrictive environment to the child and in so doing shall consider, consistent with
+       the best interest and special needs of the child, placement priority of the child in the
+       following order:
+           (a) A fit and willing relative;
+           (b) A fit and willing nonrelative with a significant relationship with the child;
+           (c) Foster parents and other persons licensed in accordance with chapter 12, title
+           39, Idaho Code, with a significant relationship with the child;
+           (d) Foster parents and other persons licensed in accordance with chapter 12,
+           title 39, Idaho Code.
+I.C. § 16-1629(11).
+       Ellman asserts that he “does not seek custody, visitation, or intervention in a child
+protection action.” However, he does seek review of the Department’s compliance with section
+16-1629(11): “Appellant seeks only a written, reviewable agency decision sufficient to permit
+judicial review of compliance with statutory placement obligations.” The substance of Ellman’s
+claim is that he wants to seek judicial review of the Department’s permanency placement
+recommendation, which did not recommend Ellman as the children’s permanent placement.
+However, that issue concerns the Department’s compliance with the CPA and its recommendation
+made in a specific CPA case. Under section 16-1603, the Kootenai County magistrate court
+presiding over the children’s CPA case retains exclusive jurisdiction over both issues.
+       The court presiding over a CPA case is required to periodically hold hearings according to
+prescribed timeframes so it can review the child’s case and permanency plan. I.C. § 16-1622(1)(a).
+The CPA defines a “permanency plan” as “a plan for a continuous residence and maintenance of
+nurturing relationships during the child’s minority.” I.C. § 16-1602(34). The permanency plan
+must include a permanency goal, which can include: (1) continued efforts at reunification, (2)
+termination of parental rights and adoption, (3) guardianship or (4) another planned living
+arrangement if the children are age 16 or older. I.C. § 16-1622(2)(a). If the permanency goal is
+termination of parental rights, then the permanency plan must include a recommendation for a
+permanent placement for the child. Id.; I.C. § 16-1621(3)(d). After reviewing the Department’s
+permanency plan, the court approves, rejects, or modifies the permanency plan. I.C. § 16-
+1622(2)(b). The permanency plan, as approved by the court, is entered as an order of the court. Id.
+
+
+
+
+                                                  6
+       Ellman concedes that, through judicial review, he seeks to challenge whether the
+Department complied with Idaho Code section 16-1629(11) in making its permanency placement
+recommendation. That Ellman’s writ petition is only the first step in seeking judicial review by a
+different court does not change the fact that the substance of what he seeks is to challenge the
+Department’s recommendation filed in the CPA case. The CPA is clear that exclusive jurisdiction
+over that issue lies with the Kootenai County magistrate court presiding over the CPA case. As a
+result, the district court did not err when it concluded it lacked subject matter jurisdiction over
+Ellman’s writ petition, and we affirm its decision on that point.
+       Although Ellman appears to assert that the APA provides an independent basis for review,
+the APA actually defers to the CPA in this instance. Idaho Code section 67-5270 provides that
+judicial review of agency action is governed by the APA unless another provision of law is
+applicable. I.C. § 67-5270(1). Here, Ellman ultimately seeks to challenge the Department’s
+compliance with section 16-1629(11), which is part of the CPA, and to challenge the Department’s
+permanency placement recommendation filed in a pending CPA case concerning his
+grandchildren. Because his challenge concerns the Department’s compliance with the CPA in a
+pending CPA proceeding, section 16-1603(1) applies here. The CPA controls over any competing
+provisions of the APA. See I.C. § 67-5270(1). As previously discussed, section 16-1603(1) vests
+the Kootenai County magistrate court with exclusive jurisdiction over Ellman’s arguments
+concerning the Department’s compliance with section 16-1629(11).
+       Our holding today is also consistent with the CPA’s stated purpose to “[t]ake such actions
+as may be necessary to provide the child with permanency including concurrent planning[.]” I.C.
+§ 16-1601(3). To that end, the CPA provides that, “if [a] child has been in the temporary or legal
+custody of the department for twelve (12) of the most recent twenty-two (22) months, the
+department shall file, prior to the last day of the twelfth month, a petition to terminate parental
+rights” unless the court makes certain findings. I.C. § 16-1622(2)(g). Based on the dates alleged in
+Ellman’s petition, Idaho law required the Department to file a petition for termination. Permitting
+Ellman to seek review of the Department’s recommendation in an entirely different court would
+only delay providing the children with permanency in a timely manner.
+       Allowing Ellman to seek judicial review of the Department’s permanency placement
+recommendation in a different court would likely add months or years to the review process. A
+judicial review process would: (1) require the Department to hold a contested case hearing before
+
+
+
+                                                 7
+making its recommendation; (2) require preparation of a record and transcript concerning the
+contested case; (3) require a briefing schedule for the parties to present written argument to the
+district court; (4) require a hearing so the parties could present argument to the district court; (5)
+require the district court to prepare a written order deciding the petition for judicial review; and
+(6) possibly require repeating steps 2 to 5 if one of the parties decided to appeal the district court’s
+decision to this Court. In short, our decision today applies the plain language of the CPA, is
+consistent with the APA, and advances the legislative purposes of the CPA.
+        Despite Ellman’s arguments to the contrary, nothing in our statutory framework concerning
+writs of mandamus changes this result. Ellman asserts that, regardless of what the CPA provides,
+the district court retains subject matter jurisdiction under Idaho Code section 7-302. That code
+section addresses when courts may issue writs of mandamus. It does not state that it overrides any
+other provision of law or otherwise allows the district court to ignore the exclusive jurisdiction
+granted by section 16-1603.
+        Ellman asserts that, if we affirm the district court, he will be deprived of the ability to seek
+judicial review of the Department’s permanency placement recommendation concerning his
+grandchildren. This argument is unpersuasive because the CPA provides for judicial review of the
+Department’s recommendation. The permanency plan, including the permanency placement
+recommendation, is subject to judicial review and approval by the magistrate court presiding over
+the CPA case. I.C. § 16-1622(2)(b).
+        The Department’s placement recommendation is merely that—a recommendation to the
+magistrate court. See id. It is the magistrate court that determines whether the Department’s
+permanency placement recommendation is appropriate and in the best interest of the children, in
+which case it accepts the recommendation and enters it as an order of the court. Id. The magistrate
+court’s consideration of the Department’s recommendation can include inquiring of the
+Department concerning its compliance with section 16-1629(11).
+    2. Ellman is not precluded from filing a motion for limited intervention concerning the
+       Department’s compliance with section 16-1629(11), but the magistrate court retains
+       discretion whether to permit intervention and the scope of any intervention.
+        The essence of Ellman’s argument here is that he is personally entitled to challenge the
+Department’s permanency plan recommendation. This is clear from Ellman’s argument that he
+must have a right to judicial review of the Department’s recommendation under the APA because
+he is not a party to the CPA case and therefore cannot challenge the Department’s recommendation
+
+
+                                                   8
+in that proceeding. In response, the Director contends that Ellman has no right to challenge the
+Department’s permanency placement recommendation. The Director asserts that the lack of review
+reflects a deliberate choice by the legislature, and Ellman cannot use the APA to make an “end-
+run around” the legislature’s decision to not provide a mechanism for relatives to seek judicial
+review of the Department’s recommendation. Relying on this Court’s decision in Roe v. State (In
+re Doe), </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/" aria-description="Citation for case: In Re Doe">134 Idaho 760</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/" aria-description="Citation for case: In Re Doe">9 P.3d 1226</a></span><pre class="inline"> (2000), the Director contends this Court “has expressly found
+that [Ellman] lacks a right to participate” in the CPA case.
+       We agree that the CPA does not expressly provide Ellman a right to seek judicial review
+of the Department’s permanency placement recommendation. The CPA provides that, when legal
+custody of a child is vested in the Department, “any party or counsel for a child may . . . file and
+serve a written motion to contest matters relating to the placement of the child by the department.”
+I.C. § 16-1619(11). Ellman concedes he is not a party to the CPA case and therefore, the CPA does
+not provide him a right to file a motion contesting the Department’s permanency placement
+recommendation.
+       However, we disagree with the Director’s contention that our decision in Roe precludes
+Ellman from filing a motion for permissive intervention in the CPA case. The Director argues that
+in Roe, we held that a grandmother did not have a right to intervene in a CPA proceeding because
+“[a] CPA action is not intended to provide a forum for multiple claimants to litigate their right to
+custody.” (Alteration in original; quoting Roe, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#767" aria-description="Citation for case: In Re Doe">134 Idaho at 767</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1233" aria-description="Citation for case: In Re Doe">9 P.3d at 1233</a></span><pre class="inline">.) While the
+Director is correct concerning what we decided in Roe, we conclude that our decision is no longer
+applicable in light of subsequent legislative amendments to the CPA.
+       Roe concerned a grandmother’s appeal of a magistrate court order denying her motion for
+permissive intervention in a CPA case concerning her grandchild. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#762" aria-description="Citation for case: In Re Doe">Id. at 762</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1228" aria-description="Citation for case: In Re Doe">9 P.3d at 1228</a></span><pre class="inline">. The
+grandmother sought intervention to argue that the magistrate court should give her custody of the
+child rather than giving custody to the child’s biological father. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/" aria-description="Citation for case: In Re Doe">Id.</a></span><pre class="inline"> The grandmother asserted that
+she was entitled to custody under section 16-1629(k) and therefore she had a right to intervene to
+assert her rights under the statute. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#764" aria-description="Citation for case: In Re Doe">Id. at 764</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1230" aria-description="Citation for case: In Re Doe">9 P.3d at 1230</a></span><pre class="inline">. Section 16-1623(k) has since been
+amended and recodified as Idaho Code section 16-1629(11). See Act of Apr. 14, 2005, ch. 391, §
+31, </pre><span class="citation no-link">2005 Idaho Sess. Laws 1261</span><pre class="inline">, 1288–89. This is the same code section that Ellman cites here as
+the basis on which he would seek judicial review of the Department’s recommendation in his
+grandchildren’s CPA case.
+
+
+
+                                                 9
+        In Roe, we held that the CPA did not provide the grandmother a conditional right to
+intervene because the CPA gave the Department the affirmative right to determine where the child
+would live, and the Department’s decision was not subject to judicial review. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#765" aria-description="Citation for case: In Re Doe">134 Idaho at 765</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1231" aria-description="Citation for case: In Re Doe">9
+P.3d at 1231</a></span><pre class="inline">. Further, we recognized that section 16-1623(k) only required the Department to
+consider related persons as an option for placement, but did not mandate that the Department place
+the children with relatives. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#764" aria-description="Citation for case: In Re Doe">Id. at 764</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1230" aria-description="Citation for case: In Re Doe">9 P.3d at 1230</a></span><pre class="inline">. Given the statutory language, this Court
+concluded that the statute did not create a permissive right for relatives to intervene in the CPA
+proceeding. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#764" aria-description="Citation for case: In Re Doe">Id. at 764, 768</a></span><pre class="inline">; </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1230" aria-description="Citation for case: In Re Doe">9 P.3d at 1230, 1234</a></span><pre class="inline">.
+        However, subsequent amendments to the CPA have undermined our holding. Following
+our decision in Roe, the Idaho legislature amended the CPA in 2013 to remove the Department’s
+ability to determine the child’s permanent placement. The amendments required the magistrate
+court to approve, modify, or reject the Department’s permanency plan, including its
+recommendation for where the children should live. Compare Act of Apr. 14, 2005, ch. 391, § 22,
+</pre><span class="citation no-link">2005 Idaho Sess. Laws 1263</span><pre class="inline">, 1282–83, with Act of Apr. 9, 2013, ch. 287, § 4, </pre><span class="citation no-link">2013 Idaho Sess.
+Laws 741</span><pre class="inline">, 747–48. As previously discussed, the magistrate court now determines the children’s
+permanent placement. See I.C. § 16-1620(4), (6). So, to the extent that Roe held that a grandparent
+did not have a right to permissive intervention because the Department made the decision
+concerning the child’s permanent placement, that premise no longer holds true.
+        Additionally, following our decision in Roe, the legislature enacted a new section in the
+CPA concerning attendance at CPA hearings. See Act of Mar. 22, 2001, ch. 107, § 7, </pre><span class="citation no-link">2001 Idaho
+Sess. Laws 350</span><pre class="inline">, 358 (current version at I.C. § 16-1613). Idaho Code section 16-1613 excludes the
+general public from attending hearings in CPA cases. I.C. § 16-1613(1). However, it also provides
+an exception to this general rule. Those who are “found by the court to have a direct interest in the
+case” may attend these hearings. Id. The statute thus provides a basis for individuals asserting a
+direct interest in a CPA case to file a motion to intervene. It is then up to the court presiding over
+the CPA case to make factual findings concerning whether the movant has a direct interest in the
+case.
+        These legislative amendments and enactments undermine the basis for our holding in Roe
+concerning the availability of permissive intervention. As a result, we hold that the permissive
+intervention holding in Roe is no longer applicable in light of the legislative actions following our
+decision in that case.
+
+
+
+                                                 10
+       Nevertheless, this opinion should not be read as holding that Ellman has an absolute right
+to intervene in the Kootenai County CPA proceeding. We stand by our statement in Roe that the
+legislature did not intend for CPA cases to become a forum for custody battles. </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#767" aria-description="Citation for case: In Re Doe">134 Idaho at 767</a></span><pre class="inline">,
+</pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1233" aria-description="Citation for case: In Re Doe">9 P.3d at 1233</a></span><pre class="inline">. We only hold that, in light of subsequent changes to the CPA, Ellman is not
+precluded from filing a motion for permissive intervention. However, the decision whether to
+permit intervention, and the scope of any intervention, is left to the discretion of the CPA court.
+</pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#763" aria-description="Citation for case: In Re Doe">Id. at 763</a></span><pre class="inline">, </pre><span class="citation" data-id="2599644"><a href="/opinion/2599644/in-re-doe/#1229" aria-description="Citation for case: In Re Doe">9 P.3d at 1229</a></span><pre class="inline">.
+       Finally, we reiterate our statement in Roe that nothing in the plain language of section 16-
+1629(11) grants Ellman a right to custody of his grandchildren. While section 16-1629(11)(a)
+requires the Department to consider fit and willing relatives for placement, consistent with the best
+interest and special needs of the child, it does not mandate that the Department place children with
+relatives. Depending on the information contained in the Department’s permanency plan and the
+other evidence presented in the CPA case, Ellman may be able to establish a direct interest in the
+CPA case for purposes of assuring the Department’s compliance with section 16-1629(11) when
+making its permanency placement recommendation. Even then, however, the CPA court retains
+discretion whether to permit Ellman to intervene on a limited basis, for purposes related to the
+Department’s statutory compliance with section 16-1629(11). It is entirely possible that the CPA
+court could already have sufficient information to assess the Department’s statutory compliance.
+B. Ellman’s procedural due process rights were not violated.
+       Ellman also asserts that the combined effect of the Department’s refusal to issue a final
+order and the district court’s refusal to issue a writ of mandate amounts to a violation of his
+procedural due process rights. However, Ellman’s assertion is without merit.
+       Procedural due process is a right guaranteed by the Fourteenth Amendment of the United
+States Constitution. U.S. Const. amend XIV, § 1. This right requires notice and a hearing prior to
+the deprivation of a life, liberty, or property interest. Telford v. Nye, </pre><span class="citation" data-id="880086"><a href="/opinion/880086/holli-l-telford-v-hon-david-c-nye/#611" aria-description="Citation for case: Holli L. Telford v. Hon. David C. Nye">154 Idaho 606, 611</a></span><pre class="inline">, </pre><span class="citation" data-id="880086"><a href="/opinion/880086/holli-l-telford-v-hon-david-c-nye/#269" aria-description="Citation for case: Holli L. Telford v. Hon. David C. Nye">301 P.3d
+264, 269</a></span><pre class="inline"> (2013). Protected interests arise either from the Due Process Clause of the United States
+Constitution or from state law. Ky. Dep’t of Corrs. v. Thompson, </pre><span class="citation" data-id="9431672"><a href="/opinion/112260/kentucky-department-of-corrections-v-thompson/#460" aria-description="Citation for case: Kentucky Department of Corrections v. Thompson">490 U.S. 454, 460</a></span><pre class="inline"> (1989). Ellman,
+however, has failed to establish any protected liberty or property interest as he has not pointed to
+a constitutional or statutory right to the custody or placement of his grandchildren during the
+pendency of their CPA case. Consequently, Ellman has failed to establish a violation of his right
+to procedural due process.
+
+
+
+                                                 11
+                                  IV.       CONCLUSION
+       For the reasons discussed herein, we affirm the district court’s decision dismissing
+Ellman’s petition for a writ of mandamus.
+
+       Justices BEVAN, MOELLER, and MEYER, and Pro Tem Justice BURDICK CONCUR.
+
+
+
+
+                                               12
+</pre>

@@ -1,0 +1,348 @@
+<pre class="inline">                  IN THE SUPREME COURT OF THE STATE OF IDAHO
+
+                                         Docket No. 52986
+
+ LEANNE CHEUNG,                          )
+                                         )
+    Plaintiff-Appellant,                 )
+                                                               Boise, September 2026 Term
+                                         )
+ v.                                      )
+                                                               Opinion Filed: November 5, 2026
+                                         )
+ RAYMUNDO G. PENA,                       )
+                                                               Melanie Gagnepain, Clerk
+                                         )
+    Defendant-Respondent.                )
+ _______________________________________ )
+
+       Appeal from the District Court of the Fourth Judicial District of the State of Idaho,
+       Ada County. Cynthia Yee-Wallace, District Judge.
+
+       The decision of the district court is affirmed.
+
+       Brassey Crawford, PLLC, Boise, for Appellant. Shannon T. Casey argued.
+
+       Lerma Grover Law, Meridian, for Respondent. Kenley E. Grover argued.
+
+                                    _____________________
+BRODY, Chief Justice.
+       This appeal addresses the period within which a judgment creditor must renew an
+unsatisfied judgment. Leanne Cheung obtained a judgment in 2006 against Raymundo G. Pena,
+her former attorney who has since been disbarred. That judgment was renewed in 2011 and again
+in 2016.
+       When Cheung moved to renew her judgment in 2016, the district court granted the motion
+but also recognized an error in the judgment amount and entered an amended judgment reflecting
+the correct amount. Cheung filed a motion to renew the judgment again in 2025, and the district
+court denied that motion on timeliness grounds. Cheung challenges that decision on appeal.
+       When Cheung’s judgment was issued in 2006, Idaho Code section 10-1111(1) required a
+judgment creditor to renew a judgment every five years. I.C. § 10-1111(1) (2004). In 2016, the
+Idaho Legislature changed the renewal period to ten years, but the enacting clause of that
+amendment expressly provided that the ten-year period applies “only to judgments issued on and
+after July 1, 2015.” Act of Mar. 30, 2016, ch. 269, § 2, </pre><span class="citation no-link">2016 Idaho Sess. Laws 724</span><pre class="inline">, 724. This
+
+
+                                                 1
+critical limitation was not codified in the Idaho Code. This case is an important reminder for all
+practitioners that “the Idaho Code is merely evidence of the laws enacted by the legislature as set
+forth in the session laws.” Peterson v. Peterson, </pre><span class="citation" data-id="2657057"><a href="/opinion/2657057/debra-peterson-v-dept-of-hw/#90" aria-description="Citation for case: Debra Peterson v. Dept of H&amp;W">156 Idaho 85, 90</a></span><pre class="inline">, </pre><span class="citation" data-id="2657057"><a href="/opinion/2657057/debra-peterson-v-dept-of-hw/#1249" aria-description="Citation for case: Debra Peterson v. Dept of H&amp;W">320 P.3d 1244, 1249</a></span><pre class="inline"> (2014)
+(emphasis added). In other words, “[t]he Idaho Code is not the law.” </pre><span class="citation" data-id="2657057"><a href="/opinion/2657057/debra-peterson-v-dept-of-hw/" aria-description="Citation for case: Debra Peterson v. Dept of H&amp;W">Id.</a></span><pre class="inline"> The session laws are the
+law.
+       Today, we hold that the 2016 amendment unambiguously applies section 10‑1111(1)’s
+ten‑year renewal period exclusively to judgments finally concluding a controversy “on or after
+July 1, 2015.” Act of Mar. 30, 2016, ch. 269, § 2, </pre><span class="citation no-link">2016 Idaho Sess. Laws 724</span><pre class="inline">, 724. Cheung’s
+judgment was subject to the five‑year renewal period because it was issued prior to July 1, 2015,
+and its subsequent renewal and amendment after that date do not permit her to avail herself of the
+more generous renewal period. Neither the renewal nor amendment of the judgment finally
+concluded her litigation with Pena. Accordingly, we affirm the district court’s denial of Cheung’s
+motion to renew the judgment.
+                        I. FACTUAL AND PROCEDURAL BACKGROUND
+       Leanne Cheung was seriously injured in an automobile collision that occurred while she
+was driving between work sites. Cheung v. Pena, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#32" aria-description="Citation for case: Cheung v. Pena">143 Idaho 30, 32</a></span><pre class="inline">, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#419" aria-description="Citation for case: Cheung v. Pena">137 P.3d 417, 419</a></span><pre class="inline"> (2006). She
+hired attorney Raymundo G. Pena to pursue a worker’s compensation claim on her behalf. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> Pena
+also negotiated a settlement agreement with the auto insurer for the other driver and secured
+medical payment coverage for Cheung through her parents’ auto insurance policy. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> After settling
+all the claims and negotiating reductions in medical bill reimbursements, Pena retained
+$166,734.23 as a contingency fee for his services, about 58.8% of Cheung’s total recovery. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#33" aria-description="Citation for case: Cheung v. Pena">Id. at
+33</a></span><pre class="inline">, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#420" aria-description="Citation for case: Cheung v. Pena">137 P.3d at 420</a></span><pre class="inline">.
+       Cheung sought relief before the Idaho Industrial Commission. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> She alleged that Pena
+had not disbursed any of the funds he had recovered on her behalf. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> The Commission concluded
+that Pena had failed to provide Cheung with the attorney fee disclosure statement required under
+its rules. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> Accordingly, the Commission ordered Pena to forfeit the $166,734.23 he had retained
+as a fee. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">Id.</a></span><pre class="inline"> Pena appealed the Commission’s decision, and this Court affirmed in part and reversed
+in part. See </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#33" aria-description="Citation for case: Cheung v. Pena">id. at 33</a></span><pre class="inline">, 35–36, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#420" aria-description="Citation for case: Cheung v. Pena">137 P.3d at 420</a></span><pre class="inline">, 422–23. We held that the Commission lacked
+jurisdiction to order the forfeiture of fees unrelated to Cheung’s worker’s compensation claim. </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#36" aria-description="Citation for case: Cheung v. Pena">Id.
+at 36</a></span><pre class="inline">, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#423" aria-description="Citation for case: Cheung v. Pena">137 P.3d at 423</a></span><pre class="inline">. Thus, we ordered Pena to remit to Cheung the revised amount of
+$155,641.26, reducing her award by about $11,000 to account for fees unrelated to his
+
+
+                                                2
+representation before the Commission, and awarded her costs on appeal as the prevailing party.
+See </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/" aria-description="Citation for case: Cheung v. Pena">id.</a></span><pre class="inline">
+          Later, in August 2006, the Ada County district court entered judgment against Pena in the
+amount of $166,896.23. See I.C. § 72-735 (providing for the enforcement of an award made by
+the Industrial Commission by the entry of judgment in district court). In 2011, Cheung moved to
+renew the judgment, and the district court granted her motion. She once again successfully moved
+to renew the judgment five years later, in 2016. At the time of the second renewal in 2016, the
+district court observed that the judgment erroneously reflected an award of $166,896.23, but that
+the correct amount of the award, in accordance with the remittitur and decision issued by this
+Court, was $155,803.26. On its own initiative, the district court issued an amended judgment
+correcting the award pursuant to Rule 60(a) of the Idaho Rules of Civil Procedure.
+          In early 2025, Cheung sought to renew the judgment for a third time. Pena objected. He
+argued that the judgment expired in December 2021 “and that the lien created by the original
+judgment is now null and void and of no legal consequence.” The district court agreed with Pena
+and denied Cheung’s motion to renew the judgment. Cheung timely appealed. See I.A.R. 14(a).
+                                     II. STANDARD OF REVIEW
+          As a “pure question[] of law,” this Court freely reviews a district court’s “construction and
+application of legislative acts.” State, Dep’t of Health &amp; Welfare v. Doe (2022-32), </pre><span class="citation no-link">171 Idaho 677</span><pre class="inline">,
+680, </pre><span class="citation" data-id="9637450"><a href="/opinion/9421753/idhw-v-john-doe-2022-32/#718" aria-description="Citation for case: IDHW v. John Doe (2022-32)">525 P.3d 715, 718</a></span><pre class="inline"> (2023).
+                                             III. ANALYSIS
+   A. The district court correctly concluded that Senate Bill 1362’s ten-year renewal period
+      does not govern Cheung’s judgment by virtue of its renewal in 2016.
+          Cheung obtained a judgment against Pena in 2006, which she renewed in 2011 and again
+in 2016. When she moved to renew the judgment a third time in 2025, about nine years after it had
+last been renewed, the district court denied Cheung’s motion, concluding that the judgment was
+subject to a five-year renewal period and could no longer be renewed because it had expired in
+2021.
+          The district court began its analysis with a recitation of the relevant legislative action
+amending Idaho Code section 10-1111. It observed that the current version of the statute provides
+for a ten-year renewal period, which superseded the prior five-year period as of July 1, 2015, by
+the terms of the 2016 amendment. Act of Mar. 30, 2016, ch. 269, § 2, </pre><span class="citation no-link">2016 Idaho Sess. Laws 724</span><pre class="inline">,
+
+
+
+                                                   3
+724. The legislature again amended section 10-1111 in 2018. On this occasion, it replaced the term
+“renewed judgment” with “an order renewing judgment,” Act of Mar. 26, 2018, ch. 284, § 1, </pre><span class="citation no-link">2018
+Idaho Sess. Laws 672</span><pre class="inline">, 672, to make clear “that the entry of an order renewing judgment . . .
+maintains the original judgment’s date and collection priority,” Statement of Purpose, S.B. 1225,
+64th Leg., 2d Reg. Sess. (Idaho 2018).
+       From this, the district court first concluded that the ten-year renewal period could not
+displace the original five-year period governing Cheung’s 2006 judgment simply because the
+judgment was renewed in 2016, even if renewal occurred after the 2016 amendment’s July 1, 2015,
+effective date. It reasoned that the 2016 amendment’s effective date applied to the entry of the
+original judgment, not to the entry of an order renewing that judgment. Relying on this Court’s
+decision in Smith v. Smith, </pre><span class="citation no-link">164 Idaho 46</span><pre class="inline">, </pre><span class="citation" data-id="4283661"><a href="/opinion/4506408/smith-v-smith/" aria-description="Citation for case: Smith v. Smith">423 P.3d 998</a></span><pre class="inline"> (2018), the district court ruled that the
+judgment here was subject to the prior five-year renewal period in perpetuity, since the date of its
+initial entry preceded July 1, 2015.
+       Furthermore, the district court concluded that the amended judgment entered in 2016 was
+not a “new” judgment governed by the ten-year renewal period applicable to judgments entered
+on or after July 1, 2015. It reasoned that the 2016 amended judgment merely rectified “clerical
+mistakes” and that its only aim was “to make the judgment . . . speak the truth” rather than “to
+make it say something other than what originally was pronounced.” In the district court’s view,
+the 2018 amendment to section 10-1111 made “clear that the legislature did not intend for orders
+renewing judgments to act as new judgments,” and the court appeared to assume the same was true
+of judgments simultaneously renewed and amended. Accordingly, the district court ruled that the
+judgment expired on December 11, 2021, and denied Cheung’s motion to renew.
+       Cheung finds error in the district court’s reasoning. She insists that section 10-1111(1) is
+ambiguous, without identifying the specific words or clauses that are reasonably susceptible to
+more than one meaning. Then, instead of grappling with any ambiguity, Cheung leapfrogs to a
+discussion of legislative history and public policy to support her contention that the 2016 renewal
+brought her judgment under the 2016 amendment’s ten-year renewal period, rather than the five-
+year period applicable to the original 2006 judgment. Pena disagrees. He relies on a footnote in
+this Court’s opinion in Smith, 164 Idaho at 48 n.1, </pre><span class="citation" data-id="4283661"><a href="/opinion/4506408/smith-v-smith/" aria-description="Citation for case: Smith v. Smith">423 P.3d at 1000</a></span><pre class="inline"> n.1, to support the contention
+that the “issuance of a renewed judgment does not . . . convert the requirement of renewal every
+five years to the ten-year renewal period.”
+
+
+                                                 4
+       Stated differently, Pena argues that the 2016 amendment unambiguously applies its ten-
+year renewal period exclusively to original judgments entered on or after July 1, 2015:
+               SECTION 2. An emergency existing therefor, which emergency is hereby
+       declared to exist, this act shall be in full force and effect on and after its passage
+       and approval, and retroactively to July 1, 2015, and shall apply only to judgments
+       issued on and after July 1, 2015, by a court of competent jurisdiction.
+Act of Mar. 30, 2016, ch. 269, § 2, </pre><span class="citation no-link">2016 Idaho Sess. Laws 724</span><pre class="inline">, 724 (emphasis added). At bottom,
+this case turns on the meaning of “issued,” as it is used in the 2016 amendment’s enacting clause.
+Cheung implicitly maintains that, when she renewed her judgment in 2016, it “issued” anew and,
+therefore, became subject to the ten-year renewal period going forward. Pena, by contrast, asserts
+that a judgment “issues” only once—the date the original judgment is entered, thereby finally
+concluding the controversy—and that Cheung’s 2016 renewal necessarily did not have this
+conclusive effect.
+       Pena advances the more reasonable interpretation, even if it is derived without direct
+reference to the plain language of the enacting clause. On many occasions, we have explained that
+the objective of statutory interpretation is to give effect to the “plain, express meaning of the
+provision in question.” State v. Yager, </pre><span class="citation" data-id="2639065"><a href="/opinion/2639065/state-v-yager/#689" aria-description="Citation for case: State v. Yager">139 Idaho 680, 689</a></span><pre class="inline">, </pre><span class="citation" data-id="2639065"><a href="/opinion/2639065/state-v-yager/#665" aria-description="Citation for case: State v. Yager">85 P.3d 656, 665</a></span><pre class="inline"> (2004) (citation
+omitted). It follows that “[t]he starting point for any statutory interpretation is the literal wording
+of the statute,” from which “the court will give the statute’s language its plain, obvious and rational
+meaning.” Martin v. State Farm Mut. Auto. Ins. Co., </pre><span class="citation" data-id="2639180"><a href="/opinion/2639180/martin-v-state-farm-mutual-automobile-insurance/#246" aria-description="Citation for case: Martin v. State Farm Mutual Automobile Insurance">138 Idaho 244, 246</a></span><pre class="inline">, </pre><span class="citation" data-id="2639180"><a href="/opinion/2639180/martin-v-state-farm-mutual-automobile-insurance/#603" aria-description="Citation for case: Martin v. State Farm Mutual Automobile Insurance">61 P.3d 601, 603</a></span><pre class="inline"> (2002).
+       When a judgment “issues,” it is “put forth officially.” Issue, Black’s Law Dictionary (12th
+ed. 2024); Issue, Webster’s Third New International Dictionary (1967) (“[T]o be or have a
+consequence or final outcome.”). That is to say, the issuance of judgment marks the point at which
+“the court has finally decided the controversy.” Restatement (First) of Judgments § 1 (1942).
+“Issuance” does not refer to non-concluding acts like “renewal,” which merely asks the court to
+restate its earlier decision in order to facilitate enforcement. Therefore, Cheung’s interpretation is
+unreasonable. The meaning of “issue” cannot be stretched to encompass the renewal of a judgment
+because the term denotes the act by which the court “puts forth” its final decision, ending the
+lawsuit, and finally determining the parties’ rights. See Watson v. Watson, </pre><span class="citation" data-id="874534"><a href="/opinion/874534/watson-v-watson/#217" aria-description="Citation for case: Watson v. Watson">144 Idaho 214, 217</a></span><pre class="inline">,
+</pre><span class="citation" data-id="874534"><a href="/opinion/874534/watson-v-watson/#854" aria-description="Citation for case: Watson v. Watson">159 P.3d 851, 854</a></span><pre class="inline"> (2007). The term “renewal” does not perform that function. Thus, Cheung’s
+reading is inconsistent with the plain meaning of “issued.”
+
+
+
+
+                                                  5
+       We conclude that the 2016 amendment’s enacting clause unambiguously refers to original
+judgments when it speaks of “judgments issued on and after July 1, 2015.” In this context, original
+judgments are those that finally resolved the controversy and were entered on or after that date.
+The ten-year renewal period does not apply to original judgments entered before July 1, 2015, even
+if those judgments were renewed after that date.
+       This reading is supported by our caselaw. While we have never squarely addressed the
+proper reading of the 2016 amendment’s enacting clause, at least two of our cases have done so
+incidentally. In Alpha Mortgage Fund II v. Drinkard, the respondent argued that a judgment
+entered in 2010 was ineligible for renewal because the appellant-judgment creditor failed to record
+the judgment. </pre><span class="citation no-link">169 Idaho 446</span><pre class="inline">, </pre><span class="citation" data-id="2625158"><a href="/opinion/2625158/yaekle-v-andrews/" aria-description="Citation for case: Yaekle v. Andrews">169 P.3d 200</a></span><pre class="inline"> (2021). This Court rejected this argument and applied
+section 10-1111(1)’s plain language with ease:
+               Based on the statutory language in effect when this case commenced in
+       2010, the motion to renew must have been made within five years. The district court
+       entered the Original Judgment on February 23, 2010. The Original Judgment was
+       renewed on February 12, 2015. Alpha’s motion to renew was filed on February 10,
+       2020, less than five years after the 2015 Judgment was last renewed. Consequently,
+       the district court did not err when it granted Alpha’s motion to renew the Original
+       Judgment.
+</pre><span class="citation" data-id="2625158"><a href="/opinion/2625158/yaekle-v-andrews/" aria-description="Citation for case: Yaekle v. Andrews">Id.</a></span><pre class="inline"> at 452–53, 497 P.3d at 206–07. Similarly, in Smith, the appellant argued that he was not barred
+by res judicata from challenging the respondent’s renewal of a 1991 judgment. In holding that res
+judicata did preclude the appellant’s challenge to the renewal, this Court explained the effect of
+the 2016 amendment:
+       Idaho Code section 10-1111 was amended in 2016 to extend the renewal of a
+       judgment lien to ten years, as opposed to five years, as was in place at the time the
+       judgments were entered in this case. S.B. 1362, S.L. 2016, ch. 269, § 1. The ten-
+       year renewal time applies only to judgments issued on and after July 1,
+       2015. Id. Thus, the judgments in this case continue to be subject to a five-year
+       renewal period.
+164 Idaho at 48 n.1, </pre><span class="citation" data-id="4283661"><a href="/opinion/4506408/smith-v-smith/" aria-description="Citation for case: Smith v. Smith">423 P.3d at 1000</a></span><pre class="inline"> n.1. To be sure, this Court’s observations in both Alpha
+Mortgage and Smith regarding the application of section 10-1111(1) after the 2016 amendment
+were “not necessary to decide the issue[s] presented” and likely amount to dicta. State v. Garcia,
+</pre><span class="citation" data-id="7803519"><a href="/opinion/7859653/state-v-garcia/#714" aria-description="Citation for case: State v. Garcia">170 Idaho 708, 714</a></span><pre class="inline">, </pre><span class="citation" data-id="7803519"><a href="/opinion/7859653/state-v-garcia/#584" aria-description="Citation for case: State v. Garcia">516 P.3d 578, 584</a></span><pre class="inline"> (2022) (citation omitted). Nonetheless, both cases provide
+persuasive support for the conclusion that the 2016 amendment’s ten-year renewal period applies
+only to original judgments entered on and after July 1, 2015, as Pena contends.
+
+
+
+                                                   6
+       Moreover, even if the enacting clause were ambiguous, Pena’s interpretation is supported
+by the public policy and legislative history underlying Idaho Code section 10‑1111. See Doe I v.
+Boy Scouts of Am., </pre><span class="citation" data-id="5174758"><a href="/opinion/5342126/doe-v-boy-scouts-of-america/#430" aria-description="Citation for case: Doe v. Boy Scouts of America">148 Idaho 427, 430</a></span><pre class="inline">, </pre><span class="citation" data-id="5174758"><a href="/opinion/5342126/doe-v-boy-scouts-of-america/#497" aria-description="Citation for case: Doe v. Boy Scouts of America">224 P.3d 494, 497</a></span><pre class="inline"> (2009). The 2018 amendment replaced
+section 10-1111(1)’s references to “renewed judgment” with “order renewing judgment.” Act of
+Mar. 26, 2018, ch. 284, § 1, </pre><span class="citation no-link">2018 Idaho Sess. Laws 672</span><pre class="inline">, 672. As the Statement of Purpose explains,
+this amendment aimed to “clarif[y] that the entry of an order renewing judgment which is recorded
+in the same manner as the original judgment maintains the original judgment’s date . . . .”
+Statement of Purpose, S.B. 1225, supra (emphasis added). This clarification accords with Idaho’s
+longstanding rule that judgment priority is fixed by the date of recording the original judgment,
+and that subsequent judgment creditors obtain priority only by recording first. See Golub v.
+Kirk‑Hughes Dev., LLC, </pre><span class="citation" data-id="3133261"><a href="/opinion/3133261/alan-golub-v-kirk-hughes-development/" aria-description="Citation for case: Alan Golub v. Kirk-Hughes Development">158 Idaho 73</a></span><pre class="inline">, 76–77, </pre><span class="citation" data-id="3133261"><a href="/opinion/3133261/alan-golub-v-kirk-hughes-development/" aria-description="Citation for case: Alan Golub v. Kirk-Hughes Development">343 P.3d 1080</a></span><pre class="inline">, 1083–84 (2015). Thus, the
+legislature intended that an order renewing judgment would not cause a new judgment to “issue”
+or create a new priority date but instead continue the original judgment’s priority.
+       In sum, the 2016 amendment unambiguously provides that its ten-year renewal period
+applies to original judgments—those that finally concluded a lawsuit—entered on or after July 1,
+2015. Judgments issued prior to that date will remain subject to Idaho Code section 10-1111(1)’s
+prior five-year renewal period. That is so even if an original judgment entered prior to July 1, 2015,
+was subsequently renewed after that date, as was Cheung’s judgment. Consequently, we conclude
+that the district court correctly applied the five-year renewal period to Cheung’s 2006 judgment.
+And it correctly determined that Cheung’s judgment expired on December 11, 2021—five years
+after its most recent renewal on December 12, 2016—rendering it unenforceable.
+   B. The district court correctly concluded that Senate Bill 1362’s ten-year renewal period
+      does not govern Cheung’s judgment by virtue of its amendment in 2016 pursuant to
+      Rule 60(a).
+       In the alternative, Cheung relies on the district court’s entry of an amended judgment in
+2016 to obtain the more favorable ten-year renewal period provided by Senate Bill 1362. The
+district court found this argument unavailing as well. It reasoned that the 2016 amended judgment
+simply ensured that Cheung’s judgment reflected the amount indicated in this Court’s remittitur
+following Pena’s appeal from the order of the Commission. By the district court’s reading, its 2016
+amended judgment did not disturb the original judgment’s finality or materially alter the rights and
+obligations of the parties. Thus, in its view, there is no basis to conclude that the amendment to
+
+
+
+                                                  7
+the judgment effected an “issuance” of the judgment that would render the 2016 legislative
+amendment’s ten‑year renewal period applicable.
+        Cheung views the matter differently. She reasons that the district court’s 2016 amended
+judgment “substantively changed the legal obligations of the parties” by reducing the amount of
+the judgment by some $11,000. Because the amendment produced this purportedly substantive
+effect, Cheung contends it constituted “a new judgment within the meaning of Idaho Code
+[section] 10-1111.” And since that new judgment “issued” in 2016—after July 1, 2015—then, in
+her view, it is governed by the 2016 amendment’s ten-year renewal period.
+        The relevant inquiry here concerns the applicability of Rule 60(a) of the Idaho Rules of
+Civil Procedure. Rule 60(a) permits a trial court to “correct a clerical mistake or a mistake arising
+from oversight or omission whenever one is found in a judgment, order, or other part of the record.”
+I.R.C.P. 60(a). We have described clerical errors as those “in which the type of mistake or omission
+is mechanical in nature, which is apparent in the record and which does not involve a legal decision
+or judgment by an attorney.” Silsby v. Kepner, </pre><span class="citation" data-id="2597461"><a href="/opinion/2597461/silsby-v-kepner/#411" aria-description="Citation for case: Silsby v. Kepner">140 Idaho 410, 411</a></span><pre class="inline">, </pre><span class="citation" data-id="2597461"><a href="/opinion/2597461/silsby-v-kepner/#29" aria-description="Citation for case: Silsby v. Kepner">95 P.3d 28, 29</a></span><pre class="inline"> (2004) (citation
+modified) (quoting Dursteler v. Dursteler, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#597" aria-description="Citation for case: Dursteler v. Dursteler">112 Idaho 594, 597</a></span><pre class="inline">, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#818" aria-description="Citation for case: Dursteler v. Dursteler">733 P.2d 815, 818</a></span><pre class="inline"> (Ct. App.
+1987)). It follows that the trial court may correct these mistakes on its own initiative, as the district
+court did here. See I.R.C.P. 60(a).
+        By contrast, judicial errors involve “instances where the court changes its mind, either
+because it made a legal or factual mistake in making its original determination, or because on
+second thought it has decided to exercise its discretion in a manner different from the way it was
+exercised in the original determination.” Silsby, </pre><span class="citation" data-id="2597461"><a href="/opinion/2597461/silsby-v-kepner/#412" aria-description="Citation for case: Silsby v. Kepner">140 Idaho at 412</a></span><pre class="inline">, </pre><span class="citation" data-id="2597461"><a href="/opinion/2597461/silsby-v-kepner/#30" aria-description="Citation for case: Silsby v. Kepner">95 P.3d at 30</a></span><pre class="inline"> (emphasis omitted)
+(quoting Blanton v. Anzalone, </pre><span class="citation" data-id="484923"><a href="/opinion/484923/blanton-v-anzalone/" aria-description="Citation for case: Blanton v. Anzalone">813 F.2d 1574</a></span><pre class="inline">, 1577 n.2 (9th Cir. 1987)). Judicial and other errors
+“of a more substantial nature” are appropriately rectified by a motion brought under either Rule
+59(e) or Rule 60(b). Id. at 411, </pre><span class="citation" data-id="2597461"><a href="/opinion/2597461/silsby-v-kepner/" aria-description="Citation for case: Silsby v. Kepner">95 P.3d at 29</a></span><pre class="inline"> (quoting Dursteler, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#597" aria-description="Citation for case: Dursteler v. Dursteler">112 Idaho at 597</a></span><pre class="inline">, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#818" aria-description="Citation for case: Dursteler v. Dursteler">733 P.2d at
+818</a></span><pre class="inline">); see also Bias v. State, </pre><span class="citation" data-id="3156600"><a href="/opinion/3156600/mitchell-james-bias-v-state/#706" aria-description="Citation for case: Mitchell James Bias v. State">159 Idaho 696, 706</a></span><pre class="inline">, </pre><span class="citation" data-id="3156600"><a href="/opinion/3156600/mitchell-james-bias-v-state/#1060" aria-description="Citation for case: Mitchell James Bias v. State">365 P.3d 1050, 1060</a></span><pre class="inline"> (Ct. App. 2015) (explaining
+the difference between relief under Rule 59(e) and Rule 60(b)). Critically, Rules 59(e) and 60(b)
+result in the vacatur of the original, erroneous judgment, erasing its conclusive effect on the
+litigation and determination of the parties’ rights and obligations. See I.R.C.P. 59(e), 60(b); Andrus
+v. Irick, </pre><span class="citation" data-id="2619291"><a href="/opinion/2619291/andrus-v-irick/" aria-description="Citation for case: Andrus v. Irick">87 Idaho 471</a></span><pre class="inline">, 475–77, </pre><span class="citation" data-id="2619291"><a href="/opinion/2619291/andrus-v-irick/" aria-description="Citation for case: Andrus v. Irick">394 P.2d 304</a></span><pre class="inline">, 305–07 (1964) (describing the effect of the district
+court’s order granting Rule 60(b) relief on an original judgment).
+
+
+
+
+                                                   8
+        Here, when the district court entered the original judgment in 2006, it expressly stated that
+it was acting pursuant to the opinion issued by this Court resolving Pena’s appeal. The opinion
+ordered Pena to pay Cheung $155,641.26, reflecting attorney fees arising exclusively from Pena’s
+representation in the worker’s compensation matter. Cheung v. Pena, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#36" aria-description="Citation for case: Cheung v. Pena">143 Idaho 30, 36</a></span><pre class="inline">, </pre><span class="citation" data-id="2633465"><a href="/opinion/2633465/cheung-v-pena/#423" aria-description="Citation for case: Cheung v. Pena">137 P.3d
+417, 423</a></span><pre class="inline"> (2006). Despite this, the district court’s 2006 judgment included approximately $11,000
+in fees incurred outside the worker’s compensation matter, producing an incorrect judgment
+amount of $166,896.23. In 2016, the district court corrected this error by entering an amended
+judgment pursuant to Rule 60(a), revising the amount to conform to the remittitur. The district
+court’s treatment of this as a clerical error was sound. The mistake is straightforward: the court
+carried the wrong dollar figure from the remittitur into the judgment. That is precisely the kind of
+mechanical error that Rule 60(a) exists to correct—it reflects no legal judgment or factual
+determination by the court, only a failure to accurately record what this Court’s opinion required.
+Cf. Dursteler, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#598" aria-description="Citation for case: Dursteler v. Dursteler">112 Idaho at 598</a></span><pre class="inline">, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#819" aria-description="Citation for case: Dursteler v. Dursteler">733 P.2d at 819</a></span><pre class="inline"> (affirming district court’s entry of amended
+judgment pursuant to Rule 60(a) to include mandatory post-judgment interest it should have
+included in original judgment).
+        We acknowledge Cheung’s argument, that the error implicated “the substantive content
+prescribing the rights and obligations of the parties,” is compelling. On its face, the amended
+judgment reduced Pena’s obligation by nearly $11,000. Even so, our caselaw makes clear that
+correcting clerical errors under Rule 60(a) may involve revisions to the judgment’s expression of
+the parties’ rights and obligations without intruding on the territory reserved to Rules 59(e) and
+60(b). See Donaldson v. Henry, </pre><span class="citation" data-id="3409227"><a href="/opinion/3413867/donaldson-v-henry/#476" aria-description="Citation for case: Donaldson v. Henry">63 Idaho 467, 476</a></span><pre class="inline">, </pre><span class="citation" data-id="3409227"><a href="/opinion/3413867/donaldson-v-henry/" aria-description="Citation for case: Donaldson v. Henry">121 P.2d 445</a></span><pre class="inline">, 448–49 (1941); Dursteler, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#598" aria-description="Citation for case: Dursteler v. Dursteler">112
+Idaho at 598</a></span><pre class="inline">, </pre><span class="citation" data-id="1244094"><a href="/opinion/1244094/dursteler-v-dursteler/#819" aria-description="Citation for case: Dursteler v. Dursteler">733 P.2d at 819</a></span><pre class="inline">; accord, e.g., Baker v. Cts. at Bayshore I Condo. Ass’n, Inc., </pre><span class="citation no-link">279
+So. 3d 799</span><pre class="inline">, 802 (Fla. Dist. Ct. App. 2019) (affirming correction of a foreclosure judgment that
+incorrectly described the real property and treating the error as a scrivener’s error). These cases
+instruct that a scrivener’s error, even when it affects the judgment’s statement of the parties’ rights
+and obligations, does not displace the court’s actual disposition of the case as set out in this Court’s
+opinion.
+        In sum, the district court’s 2016 amended judgment corrected a clerical error. This Court
+had expressly held that Pena must forfeit $155,641.26 in fees to Cheung. By entering judgment for
+$166,896.23 instead, the district court simply failed to record the correct award—a scrivener’s
+error properly rectified under Rule 60(a). Because the error was clerical rather than judicial, it did
+
+
+                                                   9
+not require vacating the original judgment under Rules 59(e) or 60(b). So, the 2016 amended
+judgment did not disturb the original judgment’s finality or its governance over the parties’ rights
+and obligations; it merely restated, accurately this time, what the original judgment should have
+said. It was therefore not a judgment that independently “finally decided the controversy.”
+Restatement (First) of Judgments § 1 (1942). The 2006 judgment remains the operative one.
+       This conclusion controls the statutory question. Because the 2016 amendment did not
+displace the original judgment, the 2006 judgment remains the one “issued” within the meaning
+of Senate Bill 1362’s enacting clause. And since its date of issuance precedes July 1, 2015,
+Cheung’s judgment remains subject to the five-year renewal period in effect at the time of its entry.
+See I.C. § 10-1111(1) (2004). Accordingly, we conclude that Cheung’s judgment expired on
+December 11, 2021, five years after its most recent renewal on December 12, 2016. Cheung’s
+motion to renew the judgment in 2025 was therefore untimely.
+                                         IV. CONCLUSION
+       Based on the foregoing reasoning and authorities, we affirm the district court’s decision.
+       Justices BEVAN, MOELLER, ZAHN, and MEYER CONCUR. This matter was decided
+prior to the retirement of Justice Bevan, and he participated fully.
+
+
+
+
+                                                 10
+</pre>

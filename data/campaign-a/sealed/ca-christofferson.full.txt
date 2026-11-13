@@ -1,0 +1,863 @@
+<pre class="inline">                                                                                          11/04/2026
+
+
+                                           DA 25-0252
+                                                                                     Case Number: DA 25-0252
+
+
+               IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                           </pre><span class="citation no-link">2026 MT 262</span><pre class="inline">
+
+
+
+IN RE THE MARRIAGE OF:
+
+KATHRYN JOAN CHRISTOFFERSON,
+
+               Petitioner and Appellant,
+
+         and
+
+COLIN ORVAL CHRISTOFFERSON,
+
+               Respondent and Appellee.
+
+
+
+APPEAL FROM:           District Court of the Fourth Judicial District,
+                       In and For the County of Missoula, Cause No. DR-22-395
+                       Honorable Tara J. Elliott, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+                For Appellant:
+
+                       Marybeth M. Sampsel, Measure Law, PC, Kalispell, Montana
+
+                For Appellee:
+
+                       Lucy Hansen, Hansen Law Practice, PLLC, Missoula, Montana
+
+
+
+                                                   Submitted on Briefs: October 7, 2026
+
+                                                             Decided: November 4, 2026
+
+
+Filed:
+
+                       __________________________________________
+                                        Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1     Kathryn Christofferson appeals from the April 15, 2026 Amended Findings of Fact,
+
+Conclusions of Law and Order resolving her motion to recalculate child support, entered
+
+by the Montana Fourth Judicial District, Missoula County, after our remand for additional
+
+findings. We restate the dispositive issues as follows:
+
+       1. Whether the District Court erred by adopting a child-support calculation
+          inconsistent with its findings and order concerning health insurance.
+
+       2. Whether the District Court abused its discretion by declining to award earlier
+          retroactive child support.
+
+We affirm in part, reverse in part, and remand.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶2     Kathryn (Katie) and Colin Christofferson (Colin) married in 2010 and have two
+
+minor children, born in 2011 and 2014. The parties separated in January 2021, and Katie
+
+filed a petition for dissolution of marriage on June 27, 2022. In April 2023, the District
+
+Court entered a decree dissolving the marriage.
+
+¶3     Before entry of the decree, the parties executed a stipulated final parenting plan and
+
+a marital and property settlement agreement. The parenting plan provided for calculation
+
+of child support under the Montana Child Support Guidelines through the Child Support
+
+Services Division (CSSD). It further provided that Colin would maintain health insurance
+
+for the children, so long as it was available to him at a reasonable cost, and that beginning
+
+with tax year 2023 the parties would divide the federal tax dependency exemptions with
+
+Colin claiming one child and Katie claiming the other, with future rotation as specified by
+
+the agreement.
+
+                                             2
+¶4     On October 10, 2023, CSSD issued a temporary administrative support order
+
+requiring Colin to pay $96.50 per child per month, for a total transfer payment of $193 per
+
+month. The accompanying worksheet assumed 210 parenting days for Katie and 155
+
+parenting days for Colin, included imputed income for Katie, used income Colin reported
+
+to CSSD, and credited Colin with paying the children’s health-insurance costs.
+
+¶5     Katie requested an administrative review hearing of the CSSD calculation, but the
+
+Office of Administrative Hearings denied her request as untimely.
+
+¶6     On January 17, 2024, Katie filed a motion in the dissolution action requesting
+
+recalculation of child support. She asserted that the CSSD calculation contained material
+
+errors—including parenting days, income, medical deductions, and health-insurance
+
+amounts—and requested back support from the date of the dissolution filing. Colin
+
+opposed the motion and argued, in part, that the parties had agreed to proceed through
+
+CSSD for the calculation and enforcement of child support. His February 2024 response
+
+opposed the request for back support, and Katie renewed it in her April 2024 reply.
+
+¶7     The parties later agreed on several inputs for a new calculation, including annual
+
+net self-employment income of $30,000 for Katie, an average of Colin’s recent earnings,
+
+and 134 parenting days for Colin. Applying the parties’ agreed three-year averaging
+
+method, CSSD used annual earnings of $83,316 for Colin and calculated a total monthly
+
+transfer payment of $853 for both children. At a January 27, 2025 conference, the District
+
+Court requested revisions to Colin’s tax-filing status and the treatment of the earned income
+
+tax credit. CSSD filed a revised worksheet the next day calculating a $770 monthly
+
+
+
+                                             3
+payment. That worksheet included $6,534 in annual health-insurance premiums for the
+
+children and credited Colin for paying them.
+
+¶8     The District Court held an evidentiary hearing on February 10, 2025. At the hearing,
+
+the parties presented testimony and exhibits regarding their respective incomes, the
+
+children’s health insurance, parenting time, and the prior CSSD calculations. Both parties
+
+and CSSD attorney Patrick Quinn testified.
+
+¶9     Katie testified that her income for 2023 was approximately $26,939 and estimated
+
+her 2024 income would be approximately $29,000. Katie also testified regarding the
+
+financial difficulties she experienced while the temporary CSSD support order remained
+
+in effect. She testified that her expenses exceeded her income and that she used savings
+
+and assistance from her parents to cover household expenses. Her parents offered their
+
+home to Katie and the children, and her parents moved to another home. Katie paid rent
+
+and utilities and hoped to purchase the home. The court admitted her monthly budget and
+
+proposed calculation of back support. She acknowledged that the children’s basic needs
+
+were met but testified that she could not provide the additional benefits they enjoyed with
+
+Colin. She requested retroactive support reaching back to the January 2021 separation.
+
+¶10    Colin testified that he had provided the information CSSD requested and had paid
+
+the support required by its temporary order. He also testified that he had maintained health
+
+insurance for the children since separation and provided for their needs during his parenting
+
+time. He confirmed a monthly insurance premium of $592 and described fluctuating
+
+earnings and a monthly mortgage payment of $3,861 after refinancing the marital home as
+
+part of the dissolution. He opposed retroactive support and testified that the proposed
+
+                                             4
+increase, together with insurance premiums and his housing expense, would create
+
+substantial financial difficulty.
+
+¶11    The parties and the court discussed placing the children on Healthy Montana Kids
+
+and removing the private insurance expense from the calculation. As allowed by the court,
+
+the parties submitted proposed findings and conclusions. With his post-hearing proposal,
+
+Colin included Exhibit D, a child-support worksheet calculation in which he assumed
+
+Katie’s income as $30,000 per year, his income as $83,316 per year, the children being
+
+with Katie 210 days per year and with him 155 days per year, and no child health-insurance
+
+premium. Exhibit D also allocated both children to Katie for tax benefits. Based on that
+
+calculation, Colin proposed he pay child support of $342 per child per month, or $684 per
+
+month for the two children.
+
+¶12    In its March 10, 2025 order, the District Court recited the testimony about income
+
+and support but did not determine the essential inputs for its calculation. The court found
+
+that no testimony indicated the children had suffered harm while Colin paid the lower
+
+amount and that testimony indicated he supplied what they needed to maintain their
+
+accustomed lifestyle. The court nevertheless ordered Colin to pay $684 per month in child
+
+support for the two children, relying on Exhibit D attached to Colin’s post-trial proposed
+
+findings, and denied back support. Exhibit D had not been admitted into evidence at the
+
+hearing.
+
+¶13    The worksheet on which the court relied, Exhibit D, reflected assumptions that
+
+differed from the earlier CSSD calculations, including parenting days, tax treatment, and
+
+health-insurance costs.     The District Court did not make findings resolving these
+
+                                            5
+discrepancies or explaining why it adopted the inputs from Colin’s post-trial submission
+
+of Exhibit D instead of the figures reflected in the evidence presented at the hearing or in
+
+the CSSD modified calculation.
+
+¶14    In addition to ordering the $684 monthly payment, the District Court modified
+
+provisions of the parties’ stipulated parenting plan. The parenting plan allocated the
+
+children’s federal tax dependency exemptions between the parties, but the court ordered
+
+that Katie claim both children beginning in tax year 2024 (or 2025 if necessary). The court
+
+also altered the parenting plan’s health-insurance provision. The plan required Colin to
+
+maintain health insurance for the children if available through his employment at a
+
+reasonable cost, but the court instead ordered Katie to enroll the children in Healthy
+
+Montana Kids and notify the court if the children later became ineligible. The order
+
+provided that, to the extent these directives conflicted with the parenting plan, the order
+
+superseded the plan.
+
+¶15    Katie appealed. We remanded for findings and conclusions explaining the support
+
+calculation, tax allocation, insurance arrangements, and denial of retroactive support. We
+
+allowed the District Court to conduct further proceedings or obtain additional filings as
+
+necessary and provided for supplemental briefing after the court entered its order.
+
+¶16    On April 15, 2026, the District Court entered its amended findings, conclusions, and
+
+order. It determined that 134 days most accurately represented Colin’s parenting time,
+
+accepted annual income of $30,000 for Katie and approximately $83,000 for Colin, and
+
+restored the allocation of one child to each parent for the child tax credit. It allocated the
+
+earned income tax credit for both children to Katie and retained the requirement that she
+
+                                              6
+enroll the children in Healthy Montana Kids. The court also resolved the disputes over
+
+additional family income and childcare expenses.
+
+¶17    The court considered the $684 calculation it previously had adopted, a new $680
+
+calculation it obtained, and the $770 calculation CSSD filed before the hearing. It selected
+
+the $770 calculation as the most accurate because it reflected 134 parenting days for Colin
+
+and the tax allocation the court determined would benefit the children. The amended order
+
+described that calculation as consistent with Healthy Montana Kids coverage, although the
+
+worksheet retained the $6,534 annual premium and corresponding credit to Colin. The
+
+operative provision made the $770 obligation effective April 1, 2025, with credit for
+
+support already paid.
+
+¶18    The court again declined to award earlier support. It found that both parents had
+
+met the children’s needs since separation and had received family assistance that benefited
+
+the children. It acknowledged Katie’s financial difficulties but found her assertions about
+
+Colin’s greater lifestyle speculative.    It emphasized Colin’s payment of insurance
+
+premiums and, after the temporary order, cash support. The court also stated that Katie
+
+waited nearly a year after the temporary order to request back support. That statement
+
+overlooked her January 2024 motion and the ensuing briefing. Katie challenges the
+
+amended calculation and seeks retroactive application from the date of that motion. Colin
+
+defends the amended order and requests appellate attorney fees and costs as sanctions.
+
+                               STANDARD OF REVIEW
+
+¶19    We review child-support determinations, including decisions concerning retroactive
+
+support, for abuse of discretion. In re Marriage of Miller, </pre><span class="citation no-link">2022 MT 110</span><pre class="inline">, ¶ 14, </pre><span class="citation no-link">409 Mont.
+
+ </span><pre class="inline">                                            7
+29, </pre><span class="citation no-link">511 P.3d 307</span><pre class="inline">. A district court abuses its discretion if it acts arbitrarily without
+
+conscientious judgment or exceeds the bounds of reason resulting in substantial injustice.
+
+In re Marriage of Miller, ¶ 14. The failure to set forth the essential and determining facts
+
+underlying a child-support calculation is an abuse of discretion. In re Marriage of Mills,
+
+</pre><span class="citation" data-id="2631679"><a href="/opinion/2631679/in-re-the-marriage-of-mills/#20" aria-description="Citation for case: In Re the Marriage of Mills">2006 MT 149, ¶ 20</a></span><pre class="inline">, </pre><span class="citation" data-id="2631679"><a href="/opinion/2631679/in-re-the-marriage-of-mills/" aria-description="Citation for case: In Re the Marriage of Mills">332 Mont. 415</a></span><pre class="inline">, </pre><span class="citation" data-id="2631679"><a href="/opinion/2631679/in-re-the-marriage-of-mills/" aria-description="Citation for case: In Re the Marriage of Mills">138 P.3d 815</a></span><pre class="inline">. We review underlying factual findings
+
+for clear error and conclusions of law for correctness. A finding is clearly erroneous if
+
+substantial evidence does not support it, the court misapprehends the effect of the evidence,
+
+or review of the record leaves us convinced the court made a mistake. An exercise of
+
+discretion resting on a clearly erroneous material finding or an erroneous application of
+
+law also constitutes an abuse of discretion. In re Marriage of Jackson, </pre><span class="citation" data-id="11119031"><a href="/opinion/10652444/marriage-of-jackson/#8" aria-description="Citation for case: Marriage of Jackson">2025 MT 177,
+
+¶¶ 8-9</a></span><pre class="inline">, </pre><span class="citation no-link">423 Mont. 329</span><pre class="inline">, </pre><span class="citation no-link">573 P.3d 812</span><pre class="inline">. We do not reweigh conflicting evidence or substitute
+
+our assessment of credibility for that of the trial court. In re Marriage of Frick, </pre><span class="citation" data-id="889887"><a href="/opinion/889887/in-re-marriage-of-frick-and-perina/#23" aria-description="Citation for case: In Re Marriage of Frick and Perina">2011 MT
+
+41, ¶ 23</a></span><pre class="inline">, </pre><span class="citation" data-id="889887"><a href="/opinion/889887/in-re-marriage-of-frick-and-perina/" aria-description="Citation for case: In Re Marriage of Frick and Perina">359 Mont. 296</a></span><pre class="inline">, </pre><span class="citation" data-id="889887"><a href="/opinion/889887/in-re-marriage-of-frick-and-perina/" aria-description="Citation for case: In Re Marriage of Frick and Perina">249 P.3d 67</a></span><pre class="inline">.
+
+                                      DISCUSSION
+
+¶20    1. Whether the District Court erred by adopting a child-support calculation
+          inconsistent with its findings and order concerning health insurance.
+
+¶21    The problem with the order on appeal is not that the District Court lacked authority
+
+to address child support after CSSD acted. A district court in a dissolution proceeding
+
+remains obligated to enter a support order consistent with § 40-4-204, MCA. A temporary
+
+administrative order under § 40-5-225(3), MCA, remains subject to supersession by the
+
+final district court order. Section 40-5-225(4)(b), MCA. The parenting plan contemplated
+
+that CSSD would calculate and collect support; it did not displace that statutory framework.
+
+
+                                             8
+The problem is that the calculation the District Court adopted does not implement the
+
+findings it made on remand.
+
+¶22    Under M. R. Civ. P. 52(a), a district court must make findings that disclose the
+
+essential and determining facts underlying its decision so that this Court can conduct
+
+meaningful appellate review. See In re Marriage of Banka, </pre><span class="citation" data-id="889158"><a href="/opinion/889158/in-re-the-marriage-of-banka/#9" aria-description="Citation for case: In Re the Marriage of Banka">2009 MT 33, ¶¶ 9-10</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="889158"><a href="/opinion/889158/in-re-the-marriage-of-banka/" aria-description="Citation for case: In Re the Marriage of Banka">349 Mont. 193</a></span><pre class="inline">, </pre><span class="citation" data-id="889158"><a href="/opinion/889158/in-re-the-marriage-of-banka/" aria-description="Citation for case: In Re the Marriage of Banka">201 P.3d 830</a></span><pre class="inline">. The rule serves a practical purpose: without adequate
+
+findings, appellate review becomes speculation. In re Marriage of Banka, ¶ 9; In re
+
+Marriage of Mills, ¶ 20.
+
+¶23    Unlike the original order, the amended order resolves the disputes over income and
+
+parenting days and explains the allocation of tax benefits. Katie does not ask us to disturb
+
+those determinations in her supplemental appeal. The remaining problem is not simply an
+
+absence of findings. The adopted worksheet contradicts the court’s decision to replace the
+
+children’s private health insurance with Healthy Montana Kids coverage.
+
+¶24    The accuracy of those inputs matters. Section 40-4-204(2), MCA, requires the court
+
+to consider all relevant factors, including the financial resources of the parents, the standard
+
+of living the children would have enjoyed had the marriage not been dissolved, the cost of
+
+day care, and the parenting plan. The court must apply the uniform Guidelines, and the
+
+resulting amount is presumptively adequate and reasonable. Section 40-4-204(3)(a), MCA.
+
+When the court varies from the presumptive Guidelines amount, § 40-4-204(3)(a)-(b),
+
+MCA, requires the court to find, by clear and convincing evidence, that application of the
+
+standards and Guidelines would be unjust to the child or a party or inappropriate in the
+
+
+
+                                               9
+particular case, explain its reasons, and identify the amount that would otherwise be
+
+ordered under the Guidelines.
+
+¶25    The Guidelines require the court to supplement the primary support allowance with
+
+specified expenses, including the actual cost of adding the children to an existing health
+
+insurance policy or obtaining a child-only policy. Admin. R. M. 37.62.123(1)(b). The
+
+court must credit each parent for the supplemental expense that parent pays. Admin. R. M.
+
+37.62.123(3). Thus, the calculation must reflect both the expense and the parent who bears
+
+it. In In re Marriage of Stevens, </pre><span class="citation" data-id="889816"><a href="/opinion/889816/in-re-the-marriage-of-stevens/#18" aria-description="Citation for case: In Re the Marriage of Stevens">2011 MT 106, ¶¶ 18-20</a></span><pre class="inline">, </pre><span class="citation" data-id="889816"><a href="/opinion/889816/in-re-the-marriage-of-stevens/" aria-description="Citation for case: In Re the Marriage of Stevens">360 Mont. 344</a></span><pre class="inline">, </pre><span class="citation" data-id="889816"><a href="/opinion/889816/in-re-the-marriage-of-stevens/" aria-description="Citation for case: In Re the Marriage of Stevens">253 P.3d 877</a></span><pre class="inline">,
+
+we reversed a calculation that failed to account for the children’s insurance costs that the
+
+father paid. Conversely, a court need not credit a parent for insurance costs the parent does
+
+not incur. In re Marriage of Frick, ¶¶ 38-41.
+
+¶26    The amended order and adopted worksheet do not agree on this essential input. The
+
+order requires Healthy Montana Kids coverage and provides for allocation of private
+
+insurance premiums only if the children later lose eligibility. The worksheet nonetheless
+
+adds $6,534 in annual private premiums to the children’s supplemental needs at line 12b
+
+and credits Colin for that expense at line 23. Those entries assume an expense that the
+
+ordered coverage eliminates.      The fact that the worksheet accurately reflects other
+
+determinations does not resolve this contradiction.
+
+¶27    Although the District Court found the $770 calculation “the most accurate,” the
+
+court did not explain why that worksheet continued to credit Colin with the children’s
+
+private insurance expense after the order replaced that coverage. Its reasons for selecting
+
+134 parenting days and the tax allocation do not resolve the insurance discrepancy. And
+
+                                             10
+the court did not enter variance findings under § 40-4-204(3), MCA, to support a departure
+
+from a correctly calculated presumptive amount. Colin’s reliance on Midence v. Hampton,
+
+</pre><span class="citation" data-id="887475"><a href="/opinion/887475/marriage-of-midence-v-hampton/#15" aria-description="Citation for case: Marriage of Midence v. Hampton">2006 MT 294, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="887475"><a href="/opinion/887475/marriage-of-midence-v-hampton/" aria-description="Citation for case: Marriage of Midence v. Hampton">334 Mont. 388</a></span><pre class="inline">, </pre><span class="citation" data-id="887475"><a href="/opinion/887475/marriage-of-midence-v-hampton/" aria-description="Citation for case: Marriage of Midence v. Hampton">147 P.3d 227</a></span><pre class="inline">, does not cure that omission. The court
+
+selected $770 as the accurate guideline calculation, not as an identified and justified
+
+variance. Deference to its factual findings does not permit us to affirm a calculation that
+
+contradicts them.
+
+¶28    We do not hold that a district court may never consider post-hearing proposed
+
+calculations. But where the court does so, the resulting order still must rest on findings
+
+that identify the material facts the court actually found and explain how those facts support
+
+the ordered amount. In In re Marriage of Frick, ¶¶ 14-15, the court entered findings and
+
+then directed the parties to submit proposed child-support calculations.          Here, the
+
+dispositive defect is substantive, not evidentiary: the worksheet the District Court adopted
+
+does not implement the Healthy Montana Kids insurance arrangement the District Court
+
+ordered. We therefore need not decide Katie’s separate contention that the court could not
+
+consider the $770 worksheet because no party formally offered it as an exhibit at the
+
+hearing.
+
+¶29    Colin also argues that Katie should not obtain more support than she requested
+
+below and that she failed to object to post-hearing submissions. Katie requested an
+
+accurate calculation and contested the treatment of health-insurance costs. The parties
+
+discussed removing those costs when they considered Healthy Montana Kids coverage.
+
+Her agreement to submit proposed findings did not concede the accuracy of Colin’s
+
+worksheet, and the particular inconsistency now before us arose when the court adopted its
+
+                                             11
+amended order. Her challenge seeks application of the Guidelines to the facts the court
+
+found, not enforcement of a particular figure divorced from those facts.
+
+¶30    2. Whether the District Court abused its discretion by declining to award earlier
+          retroactive child support.
+
+¶31    The District Court had authority to award retroactive child support. A district court
+
+has discretion regarding retroactive support, but that discretion must rest on an adequate
+
+record and a legally sufficient rationale. See In re Marriage of Miller, ¶¶ 14, 26; In re
+
+Marriage of Banka, ¶ 9. Section 40-5-225(4)(b), MCA, expressly provides for crediting
+
+payments under a temporary administrative order if the final order applies retroactively; it
+
+does not require every final order to apply retroactively. We likewise have recognized that
+
+a court may revise a temporary support obligation retroactively after hearing the evidence.
+
+Stoneman v. Drollinger, </pre><span class="citation" data-id="885302"><a href="/opinion/885302/stoneman-v-drollinger/#50" aria-description="Citation for case: Stoneman v. Drollinger">2000 MT 274, ¶ 50</a></span><pre class="inline">, </pre><span class="citation" data-id="885302"><a href="/opinion/885302/stoneman-v-drollinger/" aria-description="Citation for case: Stoneman v. Drollinger">302 Mont. 107</a></span><pre class="inline">, </pre><span class="citation" data-id="885302"><a href="/opinion/885302/stoneman-v-drollinger/" aria-description="Citation for case: Stoneman v. Drollinger">14 P.3d 12</a></span><pre class="inline">, overruled in part
+
+on other grounds by In re Marriage of Funk, </pre><span class="citation" data-id="890243"><a href="/opinion/890243/in-re-the-marriage-of-funk/#25" aria-description="Citation for case: In Re the Marriage of Funk">2012 MT 14, ¶ 25</a></span><pre class="inline">, </pre><span class="citation" data-id="890243"><a href="/opinion/890243/in-re-the-marriage-of-funk/" aria-description="Citation for case: In Re the Marriage of Funk">363 Mont. 352</a></span><pre class="inline">, </pre><span class="citation" data-id="890243"><a href="/opinion/890243/in-re-the-marriage-of-funk/" aria-description="Citation for case: In Re the Marriage of Funk">270 P.3d
+
+39</a></span><pre class="inline">. Whether to do so remains a matter of judicial discretion. In re Marriage of Frick, ¶ 44.
+
+¶32    We first address the finding that Katie waited nearly a year after the temporary order
+
+to request back support. Katie’s January 2024 motion sought back support from the
+
+dissolution filing date, while later arguments referenced other periods. Colin opposed the
+
+request in February, and Katie renewed it in April. The omission of retroactivity from a
+
+later list of issues did not make November 2024 the first notice of the request. The court
+
+heard evidence and decided the issue on its merits. We therefore do not affirm based on
+
+waiver, lack of notice, or the inaccurate finding of delay.
+
+
+
+
+                                             12
+¶33    Katie argues that the disparity between the temporary payment and the later
+
+calculations, together with her financial hardship, required a retroactive award. She
+
+distinguishes cases affirming denial of retroactivity because the custodial parent already
+
+had received substantial financial benefits. In Midence, ¶ 21, the father had paid more than
+
+the children needed under the mother’s expense calculations. In In re Marriage of Miller,
+
+¶ 27, substantial housing assistance and continuing monthly payments supported the
+
+finding that an additional retroactive award would produce a financial windfall. In In re
+
+Marriage of Franks, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/#71" aria-description="Citation for case: In re the Marriage of Franks">275 Mont. 66, 71</a></span><pre class="inline">, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/#715" aria-description="Citation for case: In re the Marriage of Franks">909 P.2d 712, 715</a></span><pre class="inline"> (1996), the mother’s use of
+
+income-producing marital property supported denial of support reaching back through an
+
+eleven-year separation. Katie maintains that she received no comparable benefit.
+
+¶34    Those cases identify circumstances supporting the particular decisions under
+
+review; they do not establish that overpayment or a financial windfall is the only
+
+permissible basis for declining retroactive support. In In re Marriage of Frick, the mother
+
+sought retroactive support based on the father’s asserted lack of financial involvement and
+
+her own difficulty maintaining employment without losing public benefits. The parties
+
+disputed the extent of past support, and the father had incurred substantial travel costs to
+
+respond to the dissolution petition. We affirmed the denial of retroactive support in light
+
+of the disputed contributions and financial hardship both parties experienced. In re
+
+Marriage of Frick, ¶¶ 43-44.       The inquiry therefore requires consideration of the
+
+circumstances, not simply comparison of the temporary payment with a later calculation.
+
+¶35    Katie also relies on Welch v. Welch, </pre><span class="citation" data-id="883488"><a href="/opinion/883488/marriage-of-welch-v-welch/#505" aria-description="Citation for case: Marriage of Welch v. Welch">273 Mont. 497, 505</a></span><pre class="inline">, </pre><span class="citation" data-id="883488"><a href="/opinion/883488/marriage-of-welch-v-welch/#137" aria-description="Citation for case: Marriage of Welch v. Welch">905 P.2d 132, 137</a></span><pre class="inline"> (1995).
+
+There, we affirmed an award applying an increased obligation retroactively because the
+
+                                            13
+children’s expenses existed before the court entered its order. We rejected the father’s
+
+objection that the resulting debt would be burdensome when the mother already had borne
+
+the additional expenses. Welch establishes that an obligor’s reluctance to incur debt does
+
+not defeat an otherwise warranted retroactive award. It does not make retroactivity
+
+mandatory whenever the final obligation exceeds temporary support; the decision
+
+expressly recognizes the court’s discretion. Welch, </pre><span class="citation" data-id="883488"><a href="/opinion/883488/marriage-of-welch-v-welch/#505" aria-description="Citation for case: Marriage of Welch v. Welch">273 Mont. at 505</a></span><pre class="inline">, </pre><span class="citation" data-id="883488"><a href="/opinion/883488/marriage-of-welch-v-welch/#137" aria-description="Citation for case: Marriage of Welch v. Welch">905 P.2d at 137</a></span><pre class="inline">.
+
+¶36    The District Court recognized that discretion and considered the circumstances of
+
+both households. It acknowledged that Katie had struggled financially, used savings, and
+
+received assistance from her parents. It also found that Colin had maintained the children’s
+
+insurance and supported them during his parenting time, including before the temporary
+
+order, and had paid the required cash support after that order. It considered his fluctuating
+
+income, increased housing expense, and the financial effect of an additional accumulated
+
+obligation. The court found that both parents had met the children’s needs, did not find
+
+that Colin received regular additional family income, and rejected as speculative Katie’s
+
+assertions about the greater lifestyle he could provide. These findings addressed actual
+
+past support and the financial circumstances of both parents, not merely compliance with
+
+the temporary order.
+
+¶37    Katie’s budget and testimony could support a different exercise of discretion. They
+
+do not permit us to disregard the findings the court made after considering that evidence.
+
+We do not treat her share of the marital estate as child support paid by Colin, or assistance
+
+from her parents as an automatic substitute for his obligation. We do not hold that an
+
+obligor’s housing expense takes priority over support. Neither compliance with the
+
+                                             14
+temporary order nor the absence of bad faith would alone defeat the request. Rather, as in
+
+In re Marriage of Frick, the court weighed competing evidence concerning support and
+
+financial hardship and concluded that an additional retroactive obligation was not
+
+warranted. Our review asks whether that determination exceeded the bounds of reason,
+
+not whether we would have reached the same result in the first instance.
+
+¶38    The court’s statement that the children had not suffered harm also requires context.
+
+Child support is not limited to avoiding deprivation of food or shelter. The statute requires
+
+consideration of the standard of living the children would have enjoyed had the marriage
+
+continued, along with the resources and needs of the children and their parents. Section
+
+40-4-204(2), MCA; In re Marriage of Jackson, ¶ 11. A parent need not prove that children
+
+suffered harm before the court may award retroactive support. Here, however, the court
+
+did not stop with the absence of harm. It considered the parents’ contributions, their
+
+financial circumstances, family assistance, and the evidence concerning the children’s
+
+standard of living. We affirm that individualized assessment, not a rule that meeting basic
+
+needs alone defeats retroactivity.
+
+¶39    We also reject Colin’s argument that adding the $592 monthly insurance premium
+
+identified in the findings to his $193 cash payment establishes that he paid more than the
+
+$770 guideline amount. The $770 reflected in the worksheet is a net transfer payment that
+
+already credits Colin for his $592 out-of-pocket insurance premium expense. Therefore,
+
+comparing Colin’s actual outlay of $785 to the $770 net transfer payment double-counts
+
+the insurance expense as a credit. Adding the premium to the cash payment and comparing
+
+that sum with the net transfer payment improperly treats the insurance payment as an
+
+                                             15
+additional credit. Colin’s total obligation under the worksheet would actually be $1,362
+
+(the $770 transfer payment plus the $592 premium he pays directly). The court could
+
+consider insurance Colin actually provided when assessing the support the children
+
+received, but those payments do not establish that $193 equaled a correctly calculated $770
+
+transfer obligation. Our affirmance does not depend on that comparison.
+
+¶40    The erroneous finding concerning Katie’s delay does not require another remand.
+
+We must disregard errors that do not affect substantial rights. M. R. Civ. P. 61. An
+
+erroneous finding unnecessary to support the decision does not require reversal. In re
+
+Marriage of Anderson, </pre><span class="citation" data-id="879263"><a href="/opinion/879263/in-re-the-marriage-of-anderson/#481" aria-description="Citation for case: In Re the Marriage of Anderson">220 Mont. 477, 481</a></span><pre class="inline">, </pre><span class="citation" data-id="879263"><a href="/opinion/879263/in-re-the-marriage-of-anderson/#14" aria-description="Citation for case: In Re the Marriage of Anderson">717 P.2d 11, 14</a></span><pre class="inline"> (1986). The amended order
+
+identified Colin’s actual contributions as its most important consideration, separately found
+
+that both parents had met the children’s needs, and evaluated the asserted disparity in their
+
+resources. Although Finding of Fact 38 referred to delay, the court separately concluded
+
+in Conclusion of Law 10        that earlier support was unwarranted because of those
+
+contributions and its assessment of the evidence, without identifying delay as a reason.
+
+Those reasons address the merits of the request regardless of when Katie raised it. They
+
+are reasons the District Court itself gave, not findings we supply on appeal. Considering
+
+the amended order as a whole, the inaccurate chronology was not necessary to its
+
+discretionary determination and does not undermine the independent grounds supporting
+
+that determination.
+
+¶41    The discrepancy in the ongoing insurance calculation does not require a different
+
+result on retroactivity.   The calculation must change because the ordered coverage
+
+eliminates an expense the worksheet continues to credit. The earlier period involved
+
+                                             16
+insurance Colin actually provided. The District Court did not have to treat that contribution
+
+as nonexistent when deciding whether to impose an earlier retroactive obligation.
+
+Conversely, affirming that discretionary decision does not validate the $770 calculation for
+
+periods governed by the new arrangement. The amount due under the final order and
+
+whether to extend that obligation into an earlier period present distinct questions.
+
+¶42    Finally, the amended order incorrectly combined the public-domain citation for
+
+In re Marriage of Frank, </pre><span class="citation" data-id="6536339"><a href="/opinion/6658903/frank-v-frank/" aria-description="Citation for case: Frank v. Frank">2019 MT 130</a></span><pre class="inline">, </pre><span class="citation" data-id="6536339"><a href="/opinion/6658903/frank-v-frank/" aria-description="Citation for case: Frank v. Frank">396 Mont. 123</a></span><pre class="inline">, </pre><span class="citation" data-id="6536339"><a href="/opinion/6658903/frank-v-frank/" aria-description="Citation for case: Frank v. Frank">443 P.3d 527</a></span><pre class="inline">, with the reporter
+
+citation for In re Marriage of Franks, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/" aria-description="Citation for case: In re the Marriage of Franks">275 Mont. 66</a></span><pre class="inline">, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/" aria-description="Citation for case: In re the Marriage of Franks">909 P.2d 712</a></span><pre class="inline">. The former concerns
+
+maintenance. In re Marriage of Frank, ¶ 1. The latter addresses retroactive child support
+
+and the applicable abuse-of-discretion review. In re Marriage of Franks, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/#70" aria-description="Citation for case: In re the Marriage of Franks">275 Mont. at
+
+70-71</a></span><pre class="inline">, </pre><span class="citation" data-id="8028446"><a href="/opinion/8069946/in-re-the-marriage-of-franks/#714" aria-description="Citation for case: In re the Marriage of Franks">909 P.2d at 714-15</a></span><pre class="inline">. The citation error does not change the governing law or the
+
+court’s express recognition that it could award retroactive support.
+
+¶43    The District Court considered the support the children actually received, the
+
+financial circumstances of both parents, and Katie’s evidence of hardship, and explained
+
+why it declined to impose an earlier retroactive obligation.         Its supported findings,
+
+independent of the erroneous finding concerning delay addressed above, provide a
+
+sufficient basis for that decision. Although the evidence could support a different result,
+
+our review does not permit us to substitute our judgment for a reasonable exercise of the
+
+District Court’s discretion. See In re Marriage of Frick, ¶¶ 43-44. On this record, the
+
+District Court did not act arbitrarily, fail to exercise conscientious judgment, or exceed the
+
+bounds of reason resulting in substantial injustice. In re Marriage of Miller, ¶ 14. We
+
+
+
+                                             17
+therefore conclude that the District Court did not abuse its discretion by declining to award
+
+child support retroactive to a date before April 1, 2025.
+
+¶44    Because we reverse only the support calculation, we do not direct the District Court
+
+to adopt any specific support figure now or direct an award of earlier retroactive support.
+
+The record includes a post-hearing CSSD worksheet attached as Exhibit C to Colin’s
+
+proposed findings that uses 134 parenting days, one child tax credit for each parent, the
+
+earned income tax credit for both children to Katie, and no children’s insurance premium,
+
+producing $957 per month. The court did not adopt that calculation or resolve its
+
+differences from the other worksheets. Determination of the correct support amount
+
+remains for the District Court on remand. Our affirmance of the denial of earlier support
+
+does not validate the $770 calculation for periods governed by the new insurance
+
+arrangement.
+
+¶45    Finally, we deny Colin’s request for appellate attorney fees and costs as sanctions
+
+under M. R. App. P. 19(5). That rule permits sanctions for an appeal that is frivolous,
+
+vexatious, brought for harassment or delay, or taken without substantial or reasonable
+
+grounds. Katie’s appeal raises substantial and reasonable grounds, and she has established
+
+reversible error in the support calculation.
+
+                                      CONCLUSION
+
+¶46    The child-support calculation in the amended order does not implement the findings
+
+and health-insurance arrangement the District Court adopted. We reverse the April 15,
+
+2026 Amended Findings of Fact, Conclusions of Law and Order insofar as it fixes child
+
+support at $770 per month and remand for further proceedings consistent with this Opinion.
+
+                                               18
+On remand, the District Court shall determine the correct presumptive support amount
+
+under the Guidelines consistently with its unchallenged determinations concerning income,
+
+parenting days, tax treatment, and health-insurance coverage, and make any required
+
+variance findings if it departs from that amount. The parties shall have an opportunity to
+
+address the corrected calculation before the court enters its order. The court may take
+
+additional evidence if necessary to determine the actual insurance expense for the relevant
+
+period.
+
+¶47    The corrected obligation shall apply from April 1, 2025, the effective date specified
+
+in the operative provision of the amended order. The court shall credit support already
+
+paid and account for any actual insurance expense during the relevant period without
+
+allowing a credit for premiums no parent incurred. Correction of the amount due from that
+
+effective date does not reopen the request to extend the obligation to January 17, 2024, or
+
+an earlier date. Our affirmance of the denial of earlier retroactive support does not postpone
+
+correction of the appealed award until entry of the order on remand.
+
+¶48    Affirmed in part, reversed in part, and remanded.
+
+
+                                                  /S/ KATHERINE M. BIDEGARAY
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ LAURIE McKINNON
+/S/ BETH BAKER
+/S/ JIM RICE
+
+
+
+
+                                             19
+</pre>

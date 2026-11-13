@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch
+19,Donald v. Commissioner of Correction,CT-Appellate,intermediate,habeas,trial,pure_law,REVERSED
+19,State v. Garrison,CT-Appellate,intermediate,criminal,trial,legal_overlay,REVERSED
+19,State v. Bouvier,CT-Appellate,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM
+19,Bucci v. Bridgeport,CT-Appellate,intermediate,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+19,Carty v. Merchant 99-111 Founders,CT-Appellate,intermediate,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+19,Dorfman v. Liberty Mutual,CT-Appellate,intermediate,civil,summary_judgment,pure_law,MODIFIED
+19,L.D. v. Commissioner of Children & Families,CT-Appellate,intermediate,admin,discretionary,discretion,CLEAN_AFFIRM
+19,One Elmcroft Stamford v. Zoning Board of Appeals,CT-Appellate,intermediate,admin,trial,pure_law,REVERSED
+19,Nutmeg State Crematorium v. DEEP,CT-Appellate,intermediate,admin,discretionary,discretion,CLEAN_AFFIRM

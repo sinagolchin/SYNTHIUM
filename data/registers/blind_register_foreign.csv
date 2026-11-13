@@ -1,0 +1,12 @@
+attempt,case,jurisdiction,court_tier,category,posture,layer,committed,actual_notch,seam_held,grade
+12,Stacey v Autosleeper,UK,intermediate,civil,trial,legal_overlay,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,uncertain_exposure
+12,Water & Sewerage Auth. v Sahadath,UK-PrivyCouncil,apex,civil,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,uncertain_exposure
+16,Ackland v Commonwealth,AU-NSWCA,intermediate,civil,trial,legal_overlay,CLEAN_AFFIRM,REVERSED,yes,likely_blind_miss
+23,Bedwell v. McGill,CA-BCCA,intermediate,civil,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,uncertain_exposure
+24,"Cass. Civ. 1, 4 juillet 2000, 98-10.744",FR-Cassation,apex,civil,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,uncertain_exposure
+25,BGH 2 StR 170/23,DE-BGH,apex,criminal,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,disclosed
+25,BGH 2 StR 367/25,DE-BGH,apex,criminal,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,disclosed
+25,BGH Steuerberater 1 StR (JURE150016465),DE-BGH,apex,admin,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,disclosed
+25,OLG Hamm 4 RVs 141/20,DE-OLG,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM,REVERSED,yes,likely_blind_miss
+26,TLM Company Ltd v Bedasie (UKPC 2014/25),UK-PrivyCouncil,apex,civil,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,uncertain_exposure
+38,Zhao — intentional injury & theft (CAIL2018),CN-2ndInstance,intermediate,criminal,trial,fact,CLEAN_AFFIRM,CLEAN_AFFIRM,yes,disclosed

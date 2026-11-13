@@ -1,0 +1,15 @@
+attempt,case,jurisdiction,category,posture,layer,actual_notch
+15,State v. Brandon,CT-Supreme,criminal,trial,legal_overlay,CLEAN_AFFIRM
+15,Grant v. Commissioner,CT-Supreme,habeas,trial,legal_overlay,CLEAN_AFFIRM
+15,State v. James A.,CT-Supreme,criminal,trial,legal_overlay,CLEAN_AFFIRM
+15,State v. Douglas C.,CT-Supreme,criminal,trial,pure_law,CLEAN_AFFIRM
+15,State v. Joseph V.,CT-Supreme,criminal,trial,pure_law,REVERSED
+15,State v. Brown,CT-Supreme,criminal,trial,fact,CLEAN_AFFIRM
+15,State v. Gary S.,CT-Supreme,criminal,trial,legal_overlay,MODIFIED
+15,State v. Ares,CT-Supreme,criminal,trial,pure_law,REVERSED
+15,Solon v. Slater,CT-Supreme,civil,summary_judgment,pure_law,MODIFIED
+15,Clinton v. Aspinwall,CT-Supreme,civil,trial,pure_law,REVERSED
+15,AGW Sono v. Downtown Soho,CT-Supreme,civil,trial,remedy_calculation,MODIFIED
+15,Kovachich v. DMHAS,CT-Supreme,admin,trial,legal_overlay,REVERSED
+15,Board of Ed v. CHRO,CT-Supreme,admin,discretionary,pure_law,CLEAN_AFFIRM
+15,Rodriguez v. Kaiaffa,CT-Supreme,admin,discretionary,legal_overlay,CLEAN_AFFIRM

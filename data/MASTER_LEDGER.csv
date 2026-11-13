@@ -1,0 +1,160 @@
+case,jurisdiction,source_file,read_depth,category,notch
+Gleason v. Durden,CT,blind_register_v1.csv,syllabus,civil,REVERSED
+Kellogg v. Middlesex,CT,blind_register_v1.csv,syllabus,civil,REVERSED
+Gottesman v. Kratter,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+KDM v. DRVN,CT,blind_register_v1.csv,syllabus,civil,REVERSED
+Canner v. Governor's Ridge,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+DiTullio v. LM General,CT,blind_register_v1.csv,syllabus,civil,MODIFIED
+Lasso v. Valley Tree,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Squillante v. Capital Region,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Menard v. State,CT,blind_register_v1.csv,syllabus,civil,MODIFIED
+Herron v. Daniels,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Medical Device v. Aferzon,CT,blind_register_v1.csv,syllabus,civil,MODIFIED
+Marco v. Starr Indemnity,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+O&G Industries v. American Home,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+DeJesus v. R.P.M.,CT,blind_register_v1.csv,syllabus,admin,MODIFIED
+Robb v. Veterinary Medicine Bd,CT,blind_register_v1.csv,syllabus,admin,CLEAN_AFFIRM
+Property Tax Mgmt v. Worldwide,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Smernoff v. Star Tire,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Eichler v. Healthy Mom,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+Lemma v. York & Chapel,CT,blind_register_v1.csv,syllabus,civil,CLEAN_AFFIRM
+State v. Brandon,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,CLEAN_AFFIRM
+Grant v. Commissioner,CT-Supreme,blind_register_attempt15.csv,syllabus,habeas,CLEAN_AFFIRM
+State v. James A.,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Douglas C.,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Joseph V.,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,REVERSED
+State v. Brown,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Gary S.,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,MODIFIED
+State v. Ares,CT-Supreme,blind_register_attempt15.csv,syllabus,criminal,REVERSED
+Solon v. Slater,CT-Supreme,blind_register_attempt15.csv,syllabus,civil,MODIFIED
+Clinton v. Aspinwall,CT-Supreme,blind_register_attempt15.csv,syllabus,civil,REVERSED
+AGW Sono v. Downtown Soho,CT-Supreme,blind_register_attempt15.csv,syllabus,civil,MODIFIED
+Kovachich v. DMHAS,CT-Supreme,blind_register_attempt15.csv,syllabus,admin,REVERSED
+Board of Ed v. CHRO,CT-Supreme,blind_register_attempt15.csv,syllabus,admin,CLEAN_AFFIRM
+Rodriguez v. Kaiaffa,CT-Supreme,blind_register_attempt15.csv,syllabus,admin,CLEAN_AFFIRM
+State ex rel. Bates v. Clancy,OH-Supreme,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Turner (OH),OH-Supreme,blind_register_backfill.csv,syllabus,criminal,REVERSED
+State ex rel. McIntyre v. McCarty,OH-Supreme,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+Sherwin-Williams v. Underwriters,OH-Supreme,blind_register_backfill.csv,syllabus,civil,REVERSED
+Weidman v. Hildebrandt,OH-Supreme,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Smith v. Ohio State Univ.,OH-Supreme,blind_register_backfill.csv,syllabus,civil,REVERSED
+Olentangy Schools v. Bd. of Revision,OH-Supreme,blind_register_backfill.csv,syllabus,admin,CLEAN_AFFIRM
+In re E. Ohio Gas,OH-Supreme,blind_register_backfill.csv,syllabus,admin,CLEAN_AFFIRM
+In re Ohio Edison Excessive Earnings,OH-Supreme,blind_register_backfill.csv,syllabus,admin,MODIFIED
+State v. Edwards,CT-Supreme,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Turner (CT),CT-Supreme,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+Jobe v. Commissioner,CT-Supreme,blind_register_backfill.csv,syllabus,habeas,CLEAN_AFFIRM
+Gilchrist v. Commissioner,CT-Supreme,blind_register_backfill.csv,syllabus,habeas,REVERSED
+State v. Lebrick,CT-Supreme,blind_register_backfill.csv,syllabus,criminal,MODIFIED
+State v. Collymore,CT-Supreme,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+Rutter v. Janis,CT-Supreme,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Graham v. Friedlander,CT-Supreme,blind_register_backfill.csv,syllabus,civil,REVERSED
+Netscout v. Gartner,CT-Supreme,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Jenzack v. Stoneridge,CT-Supreme,blind_register_backfill.csv,syllabus,civil,REVERSED
+Zhou v. Zhang,CT-Supreme,blind_register_backfill.csv,syllabus,family,CLEAN_AFFIRM
+Puff v. Puff,CT-Supreme,blind_register_backfill.csv,syllabus,family,MODIFIED
+In re Tresin J.,CT-Supreme,blind_register_backfill.csv,syllabus,family,CLEAN_AFFIRM
+State v. Lanier,CT-Appellate,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Coleman,CT-Appellate,blind_register_backfill.csv,syllabus,criminal,MODIFIED
+Wells Fargo v. Melahn,CT-Appellate,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Office Condo v. Rompre,CT-Appellate,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Black v. West Hartford,CT-Appellate,blind_register_backfill.csv,syllabus,admin,CLEAN_AFFIRM
+South Windsor v. Lanata,CT-Appellate,blind_register_backfill.csv,syllabus,admin,MODIFIED
+State v. Gray,CT-Appellate,blind_register_backfill.csv,syllabus,criminal,CLEAN_AFFIRM
+Jones v. Commissioner,CT-Appellate,blind_register_backfill.csv,syllabus,habeas,CLEAN_AFFIRM
+Lewis v. Commissioner,CT-Appellate,blind_register_backfill.csv,syllabus,habeas,CLEAN_AFFIRM
+Pringle v. Pattis,CT-Appellate,blind_register_backfill.csv,syllabus,civil,MODIFIED
+Robbins Eye v. Commerce Park,CT-Appellate,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+Desmond v. Yale-New Haven,CT-Appellate,blind_register_backfill.csv,syllabus,civil,CLEAN_AFFIRM
+State Marshal Assn v. Johnson,CT-Appellate,blind_register_backfill.csv,syllabus,admin,CLEAN_AFFIRM
+State v. Taylor,OH-Supreme,blind_register_attempt18.csv,syllabus,criminal,REVERSED
+State ex rel. Yeager v. Lake Cty.,OH-Supreme,blind_register_attempt18.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. Mitchell v. Frederick,OH-Supreme,blind_register_attempt18.csv,syllabus,habeas,CLEAN_AFFIRM
+Vandercar v. Port of Greater Cincinnati,OH-Supreme,blind_register_attempt18.csv,syllabus,civil,REVERSED
+McCarthy v. Lee,OH-Supreme,blind_register_attempt18.csv,syllabus,civil,CLEAN_AFFIRM
+Scott Fetzer v. Am. Home Assur.,OH-Supreme,blind_register_attempt18.csv,syllabus,civil,CLEAN_AFFIRM
+In re Solar Generation Fund Rider,OH-Supreme,blind_register_attempt18.csv,syllabus,admin,MODIFIED
+Karr v. McClain,OH-Supreme,blind_register_attempt18.csv,syllabus,admin,REVERSED
+N.A.T. Transp. v. McClain,OH-Supreme,blind_register_attempt18.csv,syllabus,admin,MODIFIED
+Donald v. Commissioner of Correction,CT-Appellate,blind_register_attempt19.csv,syllabus,habeas,REVERSED
+State v. Garrison,CT-Appellate,blind_register_attempt19.csv,syllabus,criminal,REVERSED
+State v. Bouvier,CT-Appellate,blind_register_attempt19.csv,syllabus,criminal,CLEAN_AFFIRM
+Bucci v. Bridgeport,CT-Appellate,blind_register_attempt19.csv,syllabus,civil,CLEAN_AFFIRM
+Carty v. Merchant 99-111 Founders,CT-Appellate,blind_register_attempt19.csv,syllabus,civil,CLEAN_AFFIRM
+Dorfman v. Liberty Mutual,CT-Appellate,blind_register_attempt19.csv,syllabus,civil,MODIFIED
+L.D. v. Commissioner of Children & Families,CT-Appellate,blind_register_attempt19.csv,syllabus,admin,CLEAN_AFFIRM
+One Elmcroft Stamford v. Zoning Board of Appeals,CT-Appellate,blind_register_attempt19.csv,syllabus,admin,REVERSED
+Nutmeg State Crematorium v. DEEP,CT-Appellate,blind_register_attempt19.csv,syllabus,admin,CLEAN_AFFIRM
+State v. Errol J.,CT-Appellate,blind_register_attempt20.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Orr,CT-Appellate,blind_register_attempt20.csv,syllabus,criminal,CLEAN_AFFIRM
+Whistnant v. Commissioner of Correction,CT-Appellate,blind_register_attempt20.csv,syllabus,habeas,CLEAN_AFFIRM
+DeMattio v. Plunkett,CT-Appellate,blind_register_attempt20.csv,syllabus,civil,CLEAN_AFFIRM
+Falcigno v. Falcigno,CT-Appellate,blind_register_attempt20.csv,syllabus,civil,CLEAN_AFFIRM
+Castle v. DiMugno,CT-Appellate,blind_register_attempt20.csv,syllabus,civil,CLEAN_AFFIRM
+Turek v. Zoning Board of Appeals,CT-Appellate,blind_register_attempt20.csv,syllabus,admin,REVERSED
+Jezouit v. Malloy,CT-Appellate,blind_register_attempt20.csv,syllabus,admin,CLEAN_AFFIRM
+Putnam Park Apartments v. Planning & Zoning Comm.,CT-Appellate,blind_register_attempt20.csv,syllabus,admin,CLEAN_AFFIRM
+State v. Gideon,OH-Supreme,blind_register_attempt21.csv,syllabus,criminal,REVERSED
+State v. Weber,OH-Supreme,blind_register_attempt21.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Pendleton,OH-Supreme,blind_register_attempt21.csv,syllabus,criminal,REVERSED
+Wildcat Drilling v. Discovery Oil,OH-Supreme,blind_register_attempt21.csv,syllabus,civil,REVERSED
+Menorah Park v. Rolston,OH-Supreme,blind_register_attempt21.csv,syllabus,civil,REVERSED
+Piazza v. Cuyahoga Cty.,OH-Supreme,blind_register_attempt21.csv,syllabus,civil,CLEAN_AFFIRM
+State ex rel. Omni Energy v. ODNR,OH-Supreme,blind_register_attempt21.csv,syllabus,admin,REVERSED
+In re Application of Ohio Edison,OH-Supreme,blind_register_attempt21.csv,syllabus,admin,MODIFIED
+In re LMD Integrated Logistics,OH-Supreme,blind_register_attempt21.csv,syllabus,admin,CLEAN_AFFIRM
+State ex rel. Zander v. Summit Cty.,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. Evans v. Scioto Cty.,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. White v. Nusbaum,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+Smith v. Sheldon,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. Miller v. Bower,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. Cobb v. Adult Parole Auth.,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,CLEAN_AFFIRM
+State ex rel. Washington v. D'Apolito,OH-Supreme,blind_register_attempt22.csv,syllabus,criminal,REVERSED
+Schmitz v. NCAA,OH-Supreme,blind_register_attempt22.csv,syllabus,civil,REVERSED
+State ex rel. Roush v. Montgomery,OH-Supreme,blind_register_attempt22.csv,syllabus,civil,CLEAN_AFFIRM
+State ex rel. O'Malley v. Russo,OH-Supreme,blind_register_attempt22.csv,syllabus,civil,CLEAN_AFFIRM
+State ex rel. Yost v. Omar Mosque,OH-Supreme,blind_register_attempt22.csv,syllabus,admin,REVERSED
+State ex rel. St. Clair Twp. v. Hamilton,OH-Supreme,blind_register_attempt22.csv,syllabus,admin,CLEAN_AFFIRM
+State v. Olivero,CT-Appellate,blind_register_attempt27.csv,syllabus,criminal,CLEAN_AFFIRM
+Foster v. Commissioner,CT-Appellate,blind_register_attempt27.csv,syllabus,habeas,CLEAN_AFFIRM
+Ross v. Commissioner,CT-Appellate,blind_register_attempt27.csv,syllabus,habeas,CLEAN_AFFIRM
+State v. Griffin,CT-Appellate,blind_register_attempt27.csv,syllabus,criminal,CLEAN_AFFIRM
+Circulent v. Hatch & Bailey,CT-Appellate,blind_register_attempt27.csv,syllabus,civil,REVERSED
+In re A'vion A.,CT-Appellate,blind_register_attempt27.csv,syllabus,child,CLEAN_AFFIRM
+Lastrina v. Bettauer,CT-Appellate,blind_register_attempt27.csv,syllabus,civil,CLEAN_AFFIRM
+Johnson v. Vita Built,CT-Appellate,blind_register_attempt27.csv,syllabus,civil,REVERSED
+Downing v. Dragone,CT-Appellate,blind_register_attempt27.csv,syllabus,civil,CLEAN_AFFIRM
+State v. Michael R.,CT-Supreme,blind_register_attempt28.csv,syllabus,criminal,CLEAN_AFFIRM
+Reserve Realty v. Windemere,CT-Supreme,blind_register_attempt28.csv,syllabus,civil,CLEAN_AFFIRM
+State v. Curet,CT-Supreme,blind_register_attempt28.csv,syllabus,criminal,REVERSED
+State v. Whitaker,OH-Supreme,blind_register_attempt28.csv,syllabus,criminal,MODIFIED
+State v. Garrett,OH-Supreme,blind_register_attempt28.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Weaver,OH-Supreme,blind_register_attempt28.csv,syllabus,criminal,REVERSED
+Brandt v. Pompa,OH-Supreme,blind_register_attempt28.csv,syllabus,civil,REVERSED
+State ex rel. Friendship Supported Living,OH-Supreme,blind_register_attempt28.csv,syllabus,admin,REVERSED
+State v. Lueders,CT-Appellate,blind_register_attempt29.csv,syllabus,criminal,CLEAN_AFFIRM
+Cockerham v. Westphalen,CT-Appellate,blind_register_attempt29.csv,syllabus,civil,CLEAN_AFFIRM
+Hilton v. Commissioner,CT-Appellate,blind_register_attempt29.csv,syllabus,habeas,CLEAN_AFFIRM
+In re Application of Steinberg,OH-Supreme,blind_register_attempt29.csv,syllabus,admin,CLEAN_AFFIRM
+Gabbard v. Madison Local School Dist.,OH-Supreme,blind_register_attempt29.csv,syllabus,admin,CLEAN_AFFIRM
+State v. Taylor (2020),OH-Supreme,blind_register_attempt29.csv,syllabus,criminal,MODIFIED
+Binder v. Cuyahoga Cty.,OH-Supreme,blind_register_attempt29.csv,syllabus,admin,REVERSED
+Rose v. Commissioner of Correction,CT-Supreme,blind_register_attempt31.csv,syllabus,habeas,REVERSED
+Barash v. Lembo,CT-Supreme,blind_register_attempt31.csv,syllabus,civil,REVERSED
+Ahmed v. Oak Management,CT-Supreme,blind_register_attempt31.csv,syllabus,civil,CLEAN_AFFIRM
+State v. Robles,CT-Supreme,blind_register_attempt31.csv,syllabus,criminal,MODIFIED
+Commissioner of MHAS v. FOIC,CT-Supreme,blind_register_attempt31.csv,syllabus,admin,MODIFIED
+State v. Graham,CT-Supreme,blind_register_attempt31.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Torres,CT-Supreme,blind_register_attempt31.csv,syllabus,criminal,CLEAN_AFFIRM
+State v. Komisarjevsky,CT-Supreme,blind_register_attempt31.csv,syllabus,criminal,CLEAN_AFFIRM
+Stacey v Autosleeper,UK,blind_register_foreign.csv,snippet_or_disclosed,civil,CLEAN_AFFIRM
+Water & Sewerage Auth. v Sahadath,UK-PrivyCouncil,blind_register_foreign.csv,snippet_or_disclosed,civil,CLEAN_AFFIRM
+Ackland v Commonwealth,AU-NSWCA,blind_register_foreign.csv,snippet_or_disclosed,civil,REVERSED
+Bedwell v. McGill,CA-BCCA,blind_register_foreign.csv,full_text,civil,CLEAN_AFFIRM
+"Cass. Civ. 1, 4 juillet 2000, 98-10.744",FR-Cassation,blind_register_foreign.csv,full_text,civil,CLEAN_AFFIRM
+BGH 2 StR 170/23,DE-BGH,blind_register_foreign.csv,snippet_or_disclosed,criminal,CLEAN_AFFIRM
+BGH 2 StR 367/25,DE-BGH,blind_register_foreign.csv,snippet_or_disclosed,criminal,CLEAN_AFFIRM
+BGH Steuerberater 1 StR (JURE150016465),DE-BGH,blind_register_foreign.csv,snippet_or_disclosed,admin,CLEAN_AFFIRM
+OLG Hamm 4 RVs 141/20,DE-OLG,blind_register_foreign.csv,full_text,criminal,REVERSED
+TLM Company Ltd v Bedasie (UKPC 2014/25),UK-PrivyCouncil,blind_register_foreign.csv,full_text,civil,CLEAN_AFFIRM
+Zhao — intentional injury & theft (CAIL2018),CN-2ndInstance,blind_register_foreign.csv,snippet_or_disclosed,criminal,CLEAN_AFFIRM

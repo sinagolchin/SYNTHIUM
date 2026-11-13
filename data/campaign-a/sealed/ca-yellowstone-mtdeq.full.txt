@@ -1,0 +1,797 @@
+<pre class="inline">                                                                                         10/13/2026
+
+
+                                          DA 25-0710
+                                                                                     Case Number: DA 25-0710
+
+
+              IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                          </pre><span class="citation no-link">2026 MT 242</span><pre class="inline">
+
+
+
+YELLOWSTONE COUNTY,
+
+              Petitioner and Appellant,
+
+         v.
+
+MONTANA DEPARTMENT OF
+ENVIRONMENTAL QUALITY,
+
+              Respondent and Appellee.
+
+
+
+APPEAL FROM:          District Court of the Thirteenth Judicial District,
+                      In and For the County of Yellowstone, Cause No. DV-24-80
+                      Honorable Jessica T. Fehr, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+               For Appellant:
+
+                      Steve Williams, Deputy Yellowstone County Attorney, Billings,
+                      Montana
+
+               For Appellee:
+
+                      Kurt R. Moser, Staff Attorney, Department of Environmental Quality,
+                      Helena, Montana
+
+
+                                                  Submitted on Briefs: May 6, 2026
+
+                                                            Decided: October 13, 2026
+
+
+Filed:
+
+                      __________________________________________
+                                       Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1        Yellowstone County (the County) appeals the order of the Thirteenth Judicial
+
+District Court, Yellowstone County, granting summary judgment to the Montana
+
+Department of Environmental Quality (DEQ) and denying the County’s cross-motion for
+
+summary judgment. The County sought categorical declarations that it lacked authority to
+
+perform the acts required by Admin. R. M. 17.30.1111(6) (2022) and that those
+
+requirements constituted an unfunded mandate. We restate and address the following
+
+issues:
+
+          1. Whether the District Court correctly granted summary judgment to DEQ on the
+             County’s categorical claim that it lacks authority to perform the acts required
+             by Admin. R. M. 17.30.1111(6) (2022).
+
+          2. Whether the requirements of Admin. R. M. 17.30.1111(6) (2022) constitute an
+             unfunded mandate under § 1-2-112, MCA.1
+
+¶2        We affirm on grounds narrower than those adopted by the District Court.
+
+                    FACTUAL AND PROCEDURAL BACKGROUND
+
+¶3        Congress enacted the modern Federal Water Pollution Control Act, commonly
+
+known as the Clean Water Act (CWA), in 1972. The CWA generally prohibits any person
+
+from discharging pollutants into navigable waters except as authorized by the Act and
+
+establishes the National Pollutant Discharge Elimination System (NPDES). </pre><span class="citation no-link">33 U.S.C.
+
+§§ 1311</span><pre class="inline">(a), 1342(a). A state may administer its own NPDES program after obtaining
+
+approval from the United States Environmental Protection Agency (the EPA), and
+
+
+
+1
+ Unless otherwise indicated, all references to the Montana Code Annotated are to the 2021 edition,
+which was in effect when the 2022 MS4 General Permit became effective.
+                                                2
+Montana obtained approval to do so in 1974. </pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(b); Upper Mo. Waterkeeper
+
+v. Mont. Dep’t of Env’t Quality, </pre><span class="citation" data-id="6535948"><a href="/opinion/6658550/waterkeeper-v-mont-dept-of-envtl-quality/" aria-description="Citation for case: Waterkeeper v. Mont. Dep&#x27;t of Envtl. Quality">2019 MT 81</a></span><pre class="inline">, ¶¶ 3–4, </pre><span class="citation" data-id="6535948"><a href="/opinion/6658550/waterkeeper-v-mont-dept-of-envtl-quality/" aria-description="Citation for case: Waterkeeper v. Mont. Dep&#x27;t of Envtl. Quality">395 Mont. 263</a></span><pre class="inline">, </pre><span class="citation" data-id="6535948"><a href="/opinion/6658550/waterkeeper-v-mont-dept-of-envtl-quality/" aria-description="Citation for case: Waterkeeper v. Mont. Dep&#x27;t of Envtl. Quality">438 P.3d 792</a></span><pre class="inline">.
+
+¶4     In 1987, Congress amended the CWA to regulate storm water discharges from
+
+municipal separate storm sewer systems (MS4s). Congress directed that permits for
+
+municipal storm water discharges “shall require controls” to reduce pollutant discharges
+
+“to the maximum extent practicable.” </pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(p)(3)(B)(iii). Congress also
+
+directed the EPA, in consultation with state and local officials, to regulate additional storm
+
+water discharges as necessary to protect water quality. </pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(p)(5), (6); Upper
+
+Mo. Waterkeeper, ¶¶ 5–6. The EPA implemented that direction through the Phase II
+
+program governing small MS4s.
+
+¶5     The EPA’s regulations require permits for regulated small MS4s to include six
+
+minimum control measures: (1) public education and outreach on storm water impacts;
+
+(2) public involvement and participation; (3) illicit-discharge detection and elimination;
+
+(4) construction-site storm water runoff control; (5) post-construction storm water
+
+management in new development and redevelopment; and (6) pollution prevention and
+
+good housekeeping for municipal operations. </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(a), (b) (2022). A small
+
+MS4 may apply for an individual permit or seek coverage under an available general
+
+permit. </pre><span class="citation no-link">40 C.F.R. § 122.33</span><pre class="inline">(b) (2022).
+
+¶6     DEQ administers the Montana Pollutant Discharge Elimination System (MPDES)
+
+under the Montana Water Quality Act (MWQA). Sections 75-5-211, -401, -402, MCA.
+
+Like the CWA, the MWQA generally prohibits the discharge of wastes into state waters
+
+without a current permit. Section 75-5-605(2), MCA. In 2003, the Montana Board of
+
+                                              3
+Environmental Review adopted rules establishing a small-MS4 MPDES permit program
+
+to comply with the CWA. Upper Mo. Waterkeeper, ¶ 7. Montana’s rules require the
+
+same six minimum control measures as the federal regulations. Compare Admin. R. M.
+
+17.30.1111(5), (6) (2022), with </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(a), (b) (2022).
+
+¶7     Portions of Yellowstone County outside the City of Billings qualify as a regulated
+
+small MS4. Admin. R. M. 17.30.1102(23)(a)(i) (2022); Upper Mo. Waterkeeper, ¶ 7. The
+
+County sought authorization to discharge pollutants under the first four iterations of DEQ’s
+
+MS4 General Permit. When DEQ issued the 2022 MS4 General Permit, the County
+
+initially declined to seek coverage because it questioned its authority and the absence of a
+
+funding source. In November 2023, the EPA ordered the County either to cease storm
+
+water discharges from its MS4 or to apply for permit coverage. The EPA also directed the
+
+County to identify any minimum-control-measure element it believed state or local law
+
+prevented it from implementing, explain its position, and describe policies and procedures
+
+intended to achieve the goals of the relevant measure.
+
+¶8     The County filed this declaratory-judgment action on January 22, 2024. While the
+
+litigation was pending, the County applied for coverage on July 11, 2024, and DEQ
+
+authorized its discharges under the 2022 permit on September 5, 2024. Its Public Works
+
+Director stated by affidavit that the County had never fully complied with the permit
+
+requirements and had spent approximately $638,645 between 2005 and 2021 attempting
+
+compliance, with additional expenditures after 2021. The County maintained that it could
+
+control its own conduct but lacked legislative authority to enact and enforce the third-party
+
+regulatory mechanisms contemplated by portions of Admin. R. M. 17.30.1111(6) (2022).
+
+                                             4
+¶9     The parties filed cross-motions for summary judgment. The District Court heard
+
+argument on November 22, 2024, and on May 12, 2025, granted DEQ’s motion and denied
+
+the County’s motion. The court concluded that the County possessed the authority
+
+necessary to implement the six minimum control measures and that the permit
+
+requirements satisfied the constitutional-law, federal-statute, and operational-necessity
+
+exceptions to § 1-2-112, MCA. The County’s motion to alter or amend was deemed denied,
+
+and the County appealed.
+
+                                STANDARD OF REVIEW
+
+¶10    We review a district court’s grant or denial of summary judgment de novo and apply
+
+the same criteria under M. R. Civ. P. 56(c) that the district court applied. N. Cheyenne
+
+Tribe v. Mont. Dep’t of Env’t Quality, </pre><span class="citation" data-id="889430"><a href="/opinion/889430/northern-cheyenne-tribe-v-montana-department-of-environmental-quality/#18" aria-description="Citation for case: Northern Cheyenne Tribe v. Montana Department of...">2010 MT 111, ¶ 18</a></span><pre class="inline">, </pre><span class="citation" data-id="889430"><a href="/opinion/889430/northern-cheyenne-tribe-v-montana-department-of-environmental-quality/" aria-description="Citation for case: Northern Cheyenne Tribe v. Montana Department of...">356 Mont. 296</a></span><pre class="inline">, </pre><span class="citation" data-id="889430"><a href="/opinion/889430/northern-cheyenne-tribe-v-montana-department-of-environmental-quality/" aria-description="Citation for case: Northern Cheyenne Tribe v. Montana Department of...">234 P.3d 51</a></span><pre class="inline">.
+
+Summary judgment is appropriate when no genuine issue of material fact exists and the
+
+moving party is entitled to judgment as a matter of law. M. R. Civ. P. 56(c)(3). We review
+
+a district court’s interpretation of law in a declaratory-judgment action for correctness. City
+
+of Missoula v. Fox, </pre><span class="citation no-link">2019 MT 250</span><pre class="inline">, ¶ 6, </pre><span class="citation no-link">397 Mont. 388</span><pre class="inline">, </pre><span class="citation no-link">450 P.3d 898</span><pre class="inline">.
+
+                                       DISCUSSION
+
+¶11    1. Whether the District Court correctly granted summary judgment to DEQ on the
+          County’s categorical claim that it lacks authority to perform the acts required
+          by Admin. R. M. 17.30.1111(6) (2022).
+
+¶12    A legal duty and governmental power are distinct. A statute, rule, or permit may
+
+impose a duty on a county when the issuing authority acts within its delegated authority.
+
+The duty does not, by its own force, confer legislative or coercive power that Montana law
+
+has not provided or necessarily implied.
+
+                                              5
+A general-powers county must trace its regulatory authority to law
+
+¶13    Article XI, Section 4(1)(b), of the Montana Constitution provides that a county
+
+without self-government powers possesses “legislative, administrative, and other powers
+
+provided or implied by law.” Article XI, Section 4(2), directs courts to construe those
+
+powers liberally. Section 7-1-2101(2), MCA, implements that constitutional structure by
+
+providing that a county has powers specified in the Code or special statutes and powers
+
+“necessarily implied from those expressed.” Liberal construction allows a court to read an
+
+existing grant of power broadly enough to accomplish its lawful purpose. It does not
+
+eliminate the requirement that law provide or necessarily imply the power in the first place.
+
+¶14    Sections   7-5-2101     and   -2102,       MCA,   do   not   alter     that   principle.
+
+Section 7-5-2101(1), MCA, authorizes county commissioners to care for county
+
+property and manage county business and concerns where no other provision is made by
+
+law. Section 7-5-2101(2), MCA, authorizes commissioners to perform acts required by
+
+law or necessary to discharge the duties of the county’s chief executive authority.
+
+Section 7-5-2102, MCA, separately authorizes the board, subject to legal limitations, to
+
+make and enforce rules for county government, the preservation of order, and the
+
+transaction of business as necessary. Both provisions expressly subject county power to
+
+“such limitations and restrictions as are prescribed by law.”               Neither provision
+
+automatically confers every coercive regulatory tool that an administrative agency includes
+
+in a permit.
+
+¶15    Our recent decision in Treasure County v. Edlund establishes the proper inquiry.
+
+We held that a county could not invoke its general authority under § 7-5-2101, MCA, to
+
+                                              6
+create a detailed countywide permitting and enforcement regime when specific statutes
+
+prescribed and limited county authority over the regulated subject. Treasure County v.
+
+Edlund, </pre><span class="citation" data-id="11346643"><a href="/opinion/10879125/treasure-county-v-edlund/" aria-description="Citation for case: Treasure County v. Edlund">2026 MT 134</a></span><pre class="inline">, ¶¶ 15–16, 41–44, 51–52, </pre><span class="citation no-link">428 Mont. 498</span><pre class="inline">, </pre><span class="citation no-link">591 P.3d 583</span><pre class="inline">. We
+
+emphasized that the proposed ordinance had to rest on valid statutory authority and that
+
+specific statutes controlled over general county powers to the extent of any conflict.
+
+Edlund, ¶¶ 16, 51–52. The inquiry asks whether law grants the County the power
+
+exercised, not whether an opposing party can identify a statute expressly prohibiting it.
+
+¶16      The inquiry begins with the County’s authority and then considers applicable
+
+statutory limitations; the absence of an express prohibition does not itself establish
+
+authority. A general-powers county does not possess every power that Montana law fails
+
+expressly to prohibit. It possesses powers that Montana law provides or necessarily
+
+implies. The ordinary appellate rule that an appellant bears the burden of establishing error
+
+does not change that substantive limitation. In re Marriage of McMahon, </pre><span class="citation" data-id="886068"><a href="/opinion/886068/in-re-the-marriage-of-mcmahon/#7" aria-description="Citation for case: In Re the Marriage of McMahon">2002 MT 198,
+
+¶ 7</a></span><pre class="inline">, </pre><span class="citation" data-id="886068"><a href="/opinion/886068/in-re-the-marriage-of-mcmahon/" aria-description="Citation for case: In Re the Marriage of McMahon">311 Mont. 175</a></span><pre class="inline">, </pre><span class="citation" data-id="886068"><a href="/opinion/886068/in-re-the-marriage-of-mcmahon/" aria-description="Citation for case: In Re the Marriage of McMahon">53 P.3d 1266</a></span><pre class="inline">. That procedural rule cannot supply governmental
+
+authority or relieve this Court of its obligation to identify the legal source of governmental
+
+power.
+
+¶17      The implied-powers cases on which DEQ relies do not support a broader rule. In
+
+State ex rel. Dreher v. Fuller, </pre><span class="citation" data-id="882979"><a href="/opinion/882979/state-ex-rel-dreher-v-fuller/" aria-description="Citation for case: State Ex Rel. Dreher v. Fuller">257 Mont. 445</a></span><pre class="inline">, 448–52, </pre><span class="citation" data-id="882979"><a href="/opinion/882979/state-ex-rel-dreher-v-fuller/" aria-description="Citation for case: State Ex Rel. Dreher v. Fuller">849 P.2d 1045</a></span><pre class="inline">, 1047–49 (1993), the
+
+Legislature expressly authorized counties to regulate subdivisions, and we upheld
+
+procedures that gave practical effect to that express authority by allowing a county to
+
+evaluate claimed exemptions from subdivision review. In Ryan v. Board of County
+
+Commissioners for Gallatin County, </pre><span class="citation" data-id="877070"><a href="/opinion/877070/ryan-v-board-of-county-commissioners/" aria-description="Citation for case: Ryan v. Board of County Commissioners">190 Mont. 273</a></span><pre class="inline">, 281–82, </pre><span class="citation" data-id="877070"><a href="/opinion/877070/ryan-v-board-of-county-commissioners/" aria-description="Citation for case: Ryan v. Board of County Commissioners">620 P.2d 1203</a></span><pre class="inline">, 1208–09
+
+                                              7
+(1980), the Legislature expressly authorized the county to approve a landfill-operating
+
+contract, and we inferred the correlative power to withdraw that approval for good cause.
+
+Both cases inferred a means reasonably necessary to exercise a legislatively assigned
+
+function. Neither case held that an agency may create a new county police power by
+
+imposing an obligation that assumes the existence of that power.
+
+¶18   The County’s historical conduct does not cure the problem. Its prior permit
+
+applications and partial storm water activities corroborate that it owns or operates a
+
+regulated small MS4 and has practical capacity to perform some program functions. That
+
+history cannot amend the Montana Code or create legislative authority through
+
+acquiescence, repetition, or administrative convenience. The record reflects that the
+
+County never achieved full compliance and continued to question whether it possessed
+
+authority to regulate third parties.   Even complete historical compliance could not
+
+independently establish a governmental power that Montana law did not provide or
+
+necessarily imply.
+
+The County’s categorical claim nevertheless fails
+
+¶19   The County presses its sound government-structure premise too far. The County
+
+correctly argues that DEQ cannot create county power through an administrative rule or
+
+permit. The County nevertheless treats its asserted lack of comprehensive authority to
+
+regulate third parties as establishing that it cannot implement the challenged minimum
+
+control measures. That argument does not account for the rule’s express limitation of the
+
+ordinance and regulatory-mechanism requirements to the extent allowable under state or
+
+local law. Those requirements do not compel an exercise of authority the County lacks
+
+                                           8
+and do not excuse the County from the other applicable components of the control
+
+measures.
+
+¶20   The Legislature placed political subdivisions within the permit regime of the
+
+MWQA. Section 75-5-103(24), MCA, defines an “owner or operator” as a “person” who
+
+owns, leases, operates, controls, or supervises a point source. Section 75-5-103(25), MCA,
+
+defines “person” to include a political subdivision of the State. Read together, those
+
+definitions bring a county within the class of entities that may constitute an owner or
+
+operator under the MWQA; they do not grant a county authority to regulate others. The
+
+Legislature also authorized DEQ to adopt rules authorizing general permits for
+
+categories of point-source discharges. Section 75-5-401(9), MCA. DEQ’s rules identify
+
+portions of Yellowstone County as a regulated small MS4 and require an owner or operator
+
+of a regulated small MS4 to obtain MPDES permit coverage.                Admin. R. M.
+
+17.30.1102(23), -1105(1), (2) (2022).     Because Yellowstone County is the political
+
+subdivision that owns or operates the regulated small MS4, the permit requirement applies
+
+directly to the County. Section 75-5-605(2), MCA, prohibits the County from using an
+
+outlet or discharging wastes into state waters without a current permit. These provisions
+
+therefore impose a legal duty on Yellowstone County to obtain permit coverage for its own
+
+MS4 discharges. Section 7-5-2101(2), MCA, authorizes the County to perform otherwise
+
+lawful acts required to satisfy that duty, but neither the MWQA’s definition of “person”
+
+nor the permit obligation supplies coercive authority over third parties that Montana law
+
+does not otherwise provide.
+
+
+
+                                            9
+¶21    Federal law likewise requires storm water controls. Congress directed the EPA to
+
+regulate additional storm water discharges as necessary to protect water quality and
+
+required municipal storm water permits to contain controls that reduce pollutant discharges
+
+to the maximum extent practicable. </pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(p)(3)(B)(iii), (p)(6). The EPA
+
+implemented that command by requiring regulated small-MS4 permits to include the six
+
+minimum control measures described above. </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(a), (b) (2022). Montana
+
+adopted the same six measures for its MPDES small-MS4 program. Admin. R. M.
+
+17.30.1111(5), (6) (2022); Upper Mo. Waterkeeper, ¶ 24.
+
+¶22    The County reads the phrase “to the extent allowable under state or local law”
+
+correctly but applies it too broadly. The phrase does not grant authority. It recognizes that
+
+the permittee must derive authority from state or local law. The federal and Montana rules
+
+attach that limitation to particular ordinance or regulatory-mechanism components of three
+
+measures: illicit-discharge detection and elimination, construction-site storm water runoff
+
+control, and post-construction management. </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(b)(3)(i)(B), (b)(4)(i)(A),
+
+(b)(5)(i)(B) (2022); Admin. R. M. 17.30.1111(6)(c)(ii)(B), (6)(d)(ii)(A), (6)(e)(iii) (2022).
+
+The limitation prevents DEQ from compelling the County to adopt an ordinance or other
+
+regulatory mechanism that Montana law does not authorize. More generally, neither the
+
+rule nor the permit can confer inspection, sanctioning, or other coercive authority that
+
+Montana law withholds. It does not erase the remaining components of those measures,
+
+the other three minimum measures, or the County’s underlying obligation to implement
+
+the program through lawful means. The phrase limits the available means of compliance;
+
+it does not eliminate the permit obligation.
+
+                                               10
+¶23    The federal and state schemes confirm that distinction. A permittee may rely on
+
+another entity to implement a minimum control measure when the other entity agrees and
+
+implements a measure at least as stringent as the permit requires. </pre><span class="citation no-link">40 C.F.R. § 122.35</span><pre class="inline">(a)
+
+(2022). The permittee remains responsible for compliance if the other entity fails to
+
+implement the measure. </pre><span class="citation no-link">40 C.F.R. § 122.35</span><pre class="inline">(a) (2022). The permitting authority also may
+
+recognize in the permit that another governmental entity is responsible under an NPDES
+
+permit for implementing a measure, or that the permitting authority itself is responsible, in
+
+which case the permittee need not include that measure in its own storm water program.
+
+</pre><span class="citation no-link">40 C.F.R. § 122.35</span><pre class="inline">(b) (2022). Montana’s rule likewise permits a small MS4 to share
+
+responsibility for implementing a minimum control measure. Admin. R. M. 17.30.1111(7)
+
+(2022). Under that arrangement, the MS4 remains responsible for compliance if the other
+
+entity fails to implement the measure. Admin. R. M. 17.30.1111(7)(c). DEQ also may
+
+specify in an MPDES permit that another governmental entity is responsible for
+
+implementing one or more minimum control measures, in which event the small MS4 need
+
+not include those measures in its program. Admin. R. M. 17.30.1111(8) (2022). DEQ may
+
+later modify the permit to require the MS4 to implement a measure if the designated entity
+
+fails to do so. Admin. R. M. 17.30.1111(8) (2022). For illicit-discharge control, the 2022
+
+MS4 General Permit expressly directs permittees that lack ordinance authority to use
+
+written policies and procedures to exert their lawful authority over employees, contractors,
+
+the traveling public, and other MS4 users. 2022 MS4 General Permit at 13. These
+
+provisions authorize alternatives; they do not establish that any particular alternative is
+
+available to the County without the required agreement or determination.
+
+                                             11
+¶24   Yellowstone County possesses express and implied authority applicable to parts of
+
+the required program. Sections 7-5-2101(1) and (2), MCA, authorize it to manage County
+
+property and business and to perform otherwise lawful acts required by law.
+
+Sections 7-14-2101 through -2103, MCA, authorize it to control, manage, and maintain
+
+County roads. It also possesses statutory authority over subdivisions and subdivision
+
+drainage. Section 76-3-501(1)(f), (1)(i), MCA. It may make contracts necessary to the
+
+exercise of its powers and enter interlocal agreements for activities that a participating
+
+public agency is authorized by law to perform, subject to the required approvals.
+
+Sections 7-1-2103(3), 7-11-104, MCA. If it follows the governing statutory requirements,
+
+it also may pursue mechanisms such as a local water-quality district. See §§ 7-13-4501
+
+through -4523, MCA; § 75-5-311, MCA. A local water-quality district also remains
+
+subject to the approval requirements and substantive limits in § 75-5-311, MCA; its
+
+creation does not supply unrestricted authority over all storm water sources. Those sources
+
+do not confer unlimited authority. They establish that the County is not powerless.
+
+¶25   The County’s subdivision regulations illustrate both points. Section 4.7 of the 2019
+
+Amended Yellowstone County Subdivision Regulations requires storm drainage facilities
+
+in subdivisions to comply with DEQ standards, requires storm water collection and
+
+conveyance systems, authorizes retention or detention requirements, and integrates DEQ
+
+storm water permitting into County subdivision review. 2019 Amended Yellowstone
+
+County Subdivision Regulations § 4.7.       Those provisions illustrate lawful means of
+
+addressing storm water within the County’s subdivision authority. They do not establish
+
+that subdivision regulation alone satisfies every component of the challenged minimum
+
+                                            12
+measures. Their statutory source and limited scope, however, do not support plenary,
+
+countywide regulation of every third party. The enforcement provisions of Section 11.7
+
+apply to violations of the Montana Subdivision and Platting Act and the County’s
+
+subdivision regulations. 2019 Amended Yellowstone County Subdivision Regulations
+
+§ 11.7. They do not establish an unlimited countywide storm water police power.
+
+¶26    The scope of this appeal therefore matters. We reject the County’s contention that
+
+its asserted lack of comprehensive third-party regulatory authority excuses implementation
+
+of the challenged minimum control measures. The rule itself limits the ordinance and
+
+regulatory-mechanism requirements to the extent allowable under state or local law. We
+
+do not hold that the County possesses every power that a particular proposal might require,
+
+that another entity necessarily will agree to perform a measure, or that the County’s existing
+
+program satisfies its permit.    Those questions require examination of the particular
+
+requirement, the asserted limits of authority, and the applicable permit provisions.
+
+¶27    We therefore affirm summary judgment to DEQ on the County’s authority claim on
+
+the following ground: Yellowstone County must obtain MPDES permit coverage and must
+
+satisfy the storm water requirements for which its permit makes it responsible through one
+
+or more lawful means. Depending on the particular control measure and the County’s
+
+statutory authority, those means may include policies, contracts, subdivision or
+
+development-review      mechanisms,      ordinances,    intergovernmental      arrangements,
+
+shared-responsibility agreements, and other mechanisms that Montana law authorizes and
+
+the permit allows. The County must use the powers it lawfully possesses; DEQ cannot
+
+require it to exercise a power it does not possess. This holding does not determine the
+
+                                             13
+County’s compliance with any particular permit condition or permit the County to
+
+disregard an applicable requirement based solely on its own assertion that it lacks authority.
+
+A challenge to a particular permit condition or regulatory mechanism would require the
+
+parties and the court to identify the specific act demanded, the asserted statutory source of
+
+authority, any applicable statutory limitation, and the lawful alternatives available under
+
+the permit.
+
+¶28    2. Whether the requirements of Admin. R. M. 17.30.1111(6) (2022) constitute an
+          unfunded mandate under § 1-2-112, MCA.
+
+The federal-statute exception defeats the categorical unfunded-mandate claim
+
+¶29    The County presented evidence that its compliance efforts have required substantial
+
+expenditures. We do not minimize that evidence or characterize the County’s funding
+
+concern as insubstantial. Section 1-2-112(1), MCA, applies by its terms to “a law enacted
+
+by the legislature” that imposes specified new local-government duties without providing
+
+a means of financing them. The challenged requirements arise immediately from an
+
+administrative rule and permit issued under legislative authority. We need not decide
+
+whether every administrative rule or permit condition falls within the threshold language
+
+of § 1-2-112(1), MCA. We assume without deciding that the statute applies because the
+
+federal-statute exception resolves the categorical claim before us.
+
+¶30    The statutory wording matters. Section 1-2-112(4)(a), MCA, excludes mandates
+
+required of local governments “as a matter of constitutional law or federal statute” or
+
+considered necessary for local-government operations. The Legislature wrote “federal
+
+statute,” not the broader term “federal law.” Because the EPA’s six minimum control
+
+
+                                             14
+measures appear in a federal regulation, the analysis must trace those requirements to
+
+Congress’s statutory command rather than treat every federal administrative requirement
+
+as self-evidently within the exception.
+
+¶31    That statutory connection exists for the core MS4 requirements. Congress directed
+
+that permits for municipal storm water discharges “shall require controls” reducing
+
+pollutants to the maximum extent practicable, including management practices, control
+
+techniques, system-design and engineering methods, and other appropriate provisions.
+
+</pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(p)(3)(B)(iii). Congress also directed the EPA to regulate additional storm
+
+water discharges as necessary to protect water quality, which resulted in the Phase II
+
+small-MS4 program. </pre><span class="citation no-link">33 U.S.C. § 1342</span><pre class="inline">(p)(6); Upper Mo. Waterkeeper, ¶ 5. The EPA’s
+
+regulations identify the six minimum measures that implement that statutory mandate.
+
+Federal regulations require state permitting authorities to issue permits consistent with
+
+</pre><span class="citation no-link">40 C.F.R. §§ 122.32</span><pre class="inline"> through 122.35 and either to include the requirements of §§ 122.33
+
+through 122.35 in the permit or to develop permit limits based on the permit application.
+
+</pre><span class="citation no-link">40 C.F.R. § 123.35</span><pre class="inline">(d), (f) (2022). Montana therefore could choose how to formulate the
+
+permit limits, but it could not omit the federally required small-MS4 controls. Montana
+
+adopted those minimum measures essentially verbatim. Upper Mo. Waterkeeper, ¶ 24.
+
+The County’s federal permitting obligation does not depend on Montana’s decision to
+
+administer the program. Federal regulations require a regulated small-MS4 operator to
+
+obtain coverage from the authorized state permitting authority or, where no authorized state
+
+program exists, from the EPA. </pre><span class="citation no-link">40 C.F.R. § 122.33</span><pre class="inline">(a) (2022). Federal statute therefore
+
+requires the core obligation to obtain permit coverage and implement municipal storm
+
+                                            15
+water controls; the six minimum control measures constitute the binding regulatory
+
+implementation of that statutory command.
+
+¶32    The County again relies on the “to the extent allowable” qualification. That
+
+qualification does not make an unavailable county power available, and § 1-2-112(4)(a),
+
+MCA, does not authorize DEQ to compel an act that Montana law forbids.                   The
+
+qualification instead defines how the federal mandate operates when a permittee lacks one
+
+particular regulatory tool.   The permittee must implement the measure through the
+
+authority it possesses unless the permitting authority recognizes another governmental
+
+entity as responsible. The permittee also may rely on another entity when the conditions
+
+governing shared responsibility are satisfied. A limitation on one means of compliance
+
+does not transform the federally required permit and storm water program into an optional
+
+undertaking.
+
+¶33    Department of Finance v. Commission on State Mandates does not compel a
+
+different conclusion, although it illustrates why we state our holding narrowly. The
+
+California Supreme Court considered particular permit conditions that federal law did not
+
+specifically compel and for which the State retained a true implementation choice. Dep’t
+
+of Fin. v. Comm’n on State Mandates, </pre><span class="citation" data-id="9835792"><a href="/opinion/4252110/department-of-finance-v-commission-on-state-mandates/#765" aria-description="Citation for case: Department of Finance v. Commission on State Mandates">1 Cal. 5th 749, 765</a></span><pre class="inline">, 767–72, </pre><span class="citation" data-id="9835792"><a href="/opinion/4252110/department-of-finance-v-commission-on-state-mandates/" aria-description="Citation for case: Department of Finance v. Commission on State Mandates">378 P.3d 356</a></span><pre class="inline">, 368–72
+
+(2016), modified on denial of reh’g (Nov. 16, 2016). The challenged conditions required
+
+particular inspections and transit-stop trash receptacles; the court did not consider the six
+
+minimum control measures prescribed for small MS4s by </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(b).
+
+Yellowstone County has not isolated a comparable Montana-only condition in this appeal.
+
+It challenges the six federally prescribed minimum measures categorically.           DEQ’s
+
+                                             16
+implementation and enforcement of those federally required measures through Montana’s
+
+delegated MPDES program do not, without more, transform them into state-imposed
+
+mandates under § 1-2-112, MCA. Federal regulations nevertheless allow permitting
+
+authorities to impose more stringent or additional terms when necessary to protect water
+
+quality. </pre><span class="citation no-link">40 C.F.R. § 122.34</span><pre class="inline">(c) (2022). A particular state-added best management practice,
+
+inspection requirement, sanction, or other condition that federal law does not compel could
+
+present a different unfunded-mandate question. We do not decide that here.
+
+¶34   Because the federal-statute exception resolves the County’s claim concerning the
+
+federally required minimum control measures, we do not address the District Court’s
+
+alternative reliance on the constitutional-mandate and operational-necessity exceptions in
+
+§ 1-2-112(4)(a), MCA.
+
+                                    CONCLUSION
+
+¶35   Yellowstone County must obtain permit coverage for discharges from its regulated
+
+small MS4 and must implement, through mechanisms authorized by Montana law, the
+
+storm water measures for which its permit makes the County responsible, as part of a
+
+program designed to reduce pollutant discharges to the maximum extent practicable. DEQ
+
+may not use an administrative rule or permit to manufacture county power that the
+
+Constitution and Legislature have not provided or necessarily implied. The phrase “to the
+
+extent allowable under state or local law” protects that structural limitation while
+
+preserving the County’s underlying obligation to comply through lawful means. Section
+
+1-2-112, MCA, does not suspend the core obligations that federal statute imposes. We do
+
+not decide whether any particular ordinance, inspection requirement, sanction, or
+
+                                            17
+additional permit condition exceeds the County’s authority or constitutes an unfunded
+
+mandate. We affirm the District Court’s grant of summary judgment to DEQ and denial
+
+of the County’s motion.
+
+¶36   Affirmed.
+
+
+                                              /S/ KATHERINE M. BIDEGARAY
+
+
+We Concur:
+
+/S/ JAMES JEREMIAH SHEA
+/S/ BETH BAKER
+/S/ INGRID GUSTAFSON
+/S/ JIM RICE
+
+
+
+
+                                         18
+</pre>

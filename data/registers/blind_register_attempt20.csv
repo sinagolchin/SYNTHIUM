@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch
+20,State v. Errol J.,CT-Appellate,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM
+20,State v. Orr,CT-Appellate,intermediate,criminal,discretionary,discretion,CLEAN_AFFIRM
+20,Whistnant v. Commissioner of Correction,CT-Appellate,intermediate,habeas,dismissal,pure_law,CLEAN_AFFIRM
+20,DeMattio v. Plunkett,CT-Appellate,intermediate,civil,trial,fact,CLEAN_AFFIRM
+20,Falcigno v. Falcigno,CT-Appellate,intermediate,civil,trial,fact,CLEAN_AFFIRM
+20,Castle v. DiMugno,CT-Appellate,intermediate,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+20,Turek v. Zoning Board of Appeals,CT-Appellate,intermediate,admin,discretionary,pure_law,REVERSED
+20,Jezouit v. Malloy,CT-Appellate,intermediate,admin,dismissal,pure_law,CLEAN_AFFIRM
+20,Putnam Park Apartments v. Planning & Zoning Comm.,CT-Appellate,intermediate,admin,discretionary,discretion,CLEAN_AFFIRM

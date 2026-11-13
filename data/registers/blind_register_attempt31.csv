@@ -1,0 +1,9 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,challenge_type,evidence_basis,actual_notch,fact_finding_disturbed
+31,Rose v. Commissioner of Correction,CT-Supreme,apex,habeas,discretionary,fact,deferential_fact,DOCUMENTARY,REVERSED,yes
+31,Barash v. Lembo,CT-Supreme,apex,civil,summary_judgment,pure_law,legal,NA,REVERSED,no
+31,Ahmed v. Oak Management,CT-Supreme,apex,civil,discretionary,pure_law,legal,NA,CLEAN_AFFIRM,no
+31,State v. Robles,CT-Supreme,apex,criminal,trial,pure_law,sufficiency,NA,MODIFIED,no
+31,Commissioner of MHAS v. FOIC,CT-Supreme,apex,admin,discretionary,pure_law,legal,NA,MODIFIED,no
+31,State v. Graham,CT-Supreme,apex,criminal,trial,legal_overlay,legal,NA,CLEAN_AFFIRM,no
+31,State v. Torres,CT-Supreme,apex,criminal,trial,legal_overlay,legal,NA,CLEAN_AFFIRM,no
+31,State v. Komisarjevsky,CT-Supreme,apex,criminal,trial,fact,deferential_fact,CREDIBILITY,CLEAN_AFFIRM,no

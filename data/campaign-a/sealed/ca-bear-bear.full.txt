@@ -1,0 +1,363 @@
+<pre class="inline">                  IN THE SUPREME COURT OF THE STATE OF IDAHO
+
+                                         Docket No. 52888
+
+ KRISTIE ANN BEAR,                       )
+                                         )
+    Plaintiff-Appellant,                 )
+                                         )
+ v.                                      )
+                                         )
+ JOSHUA BRENT BEAR, an individual,       )                     Boise, May 2026 Term
+                                         )
+    Defendant-Respondent,                )                     Opinion Filed: October 28, 2026
+                                         )
+ and                                     )                     Melanie Gagnepain, Clerk
+                                         )
+ PREMIER MORTGAGE RESOURCES, )
+ LLC, Lender,                            )
+                                         )
+    Defendant.                           )
+ _______________________________________ )
+
+       Appeal from the District Court of the Fourth Judicial District of the State of Idaho,
+       Ada County. Derrick O’Neill, District Judge.
+
+       The judgment of the district court is affirmed.
+
+       Ludwig, Shoufler, Miller, Johnson, LLP, Boise, for Appellant. Macee B. Dammeier
+       argued.
+
+       Gravis Law, PLLC, Sun Valley, for Respondent. Michael D. Pogue argued.
+
+                                        _____________________
+BRODY, Chief Justice.
+       This partition action concerns real property located in Eagle, Idaho, owned by former
+spouses Joshua Brent Bear (“Joshua”) and Kristie Ann Bear (“Kristie”). A Montana court
+dissolved the Bears’ marriage and distributed the Eagle property as part of the property settlement
+agreement incorporated into the divorce decree, awarding it to Joshua and Kristie as tenants in
+common. Later, Kristie brought this partition action in Ada County district court to force a sale of
+the property. In this appeal, we are asked to decide whether Idaho’s obligation to give full faith
+and credit to the Bears’ Montana divorce decree precludes an Idaho court from judicially
+partitioning the Eagle property because of a provision in the divorce decree giving the Montana
+                                                 1
+court exclusive jurisdiction over the “enforcement, modification, or interpretation” of the Bears’
+property settlement agreement. We conclude that the Full Faith and Credit Clause of the United
+States Constitution obliges us to honor the decree’s reservation of jurisdiction to the Montana
+court. We therefore affirm the district court’s dismissal of Kristie’s partition action, albeit on
+alternative grounds than those articulated by the district court.
+                       I.      FACTUAL AND PROCEDURAL BACKGROUND
+       Kristie and Joshua were married in 2007 in Coeur d’Alene, Idaho. The couple has three
+children, who at the time of the Bears’ divorce, were thirteen, ten, and seven years of age. Kristie
+brought a Petition for Dissolution (divorce) in Montana state court in December 2021. She averred
+that the family had resided in Montana for more than ninety days prior to the date of filing the
+Petition. In the Petition, Kristie claimed that the marriage was “irretrievably broken.” The Bears
+later mutually executed a Marital and Property Settlement Agreement (“Agreement”) and a
+Parenting Plan, which Kristie submitted to the Montana court along with the Petition. The Bears
+agreed to the merger of the Agreement into the Montana court’s decree of divorce:
+                                  DECREE OF DISSOLUTION
+               IT IS HEREBY ORDERED, ADJUDGED, AND DECREED:
+               ....
+               6. The issues of property and debt distribution and all other affairs of the
+       marriage are determined pursuant to the [Agreement] filed herein.
+               7. The [Agreement] thereto filed herein is incorporated into this decree by
+       reference. The parties are ordered to perform and comply with the terms and
+       conditions contained in the [Agreement]. Terms of the [Agreement] are enforceable
+       by all remedies available for enforcement of a judgment, including contempt, and
+       are enforceable as contract terms.
+Relevant to this case, the Agreement distributed the Bears’ community real property as follows:
+               1. The following real property shall be immediately listed for sale and sold:
+                   2815 Rustler Drive, Missoula, Montana
+                   202 Shoreline Drive, #3, Polson, Montana
+               Upon sale closing the net sale proceeds shall be divided equally between
+       the parties after payment of . . . mortgage, any sales commission, and taxes.
+            The following real property shall be immediately titled as tenant’s [sic] in
+       common, each with an undivided ½ interest, and shall be sold upon the mutual
+
+                                                  2
+        agreement of the parties with the net sale proceeds divided equally between the
+        parties after payment of any sales commissions mortgage or other obligations and
+        taxes:
+                    724 Lone Brook, Eagle, Idaho
+Furthermore, the Agreement contains an “enforcement” clause providing that the Montana court
+retains exclusive jurisdiction over subsequent actions arising from its terms:
+               The parties hereby designate the Montana Fourth Judicial District Court,
+        Missoula County, as the court having exclusive jurisdiction of the enforcement,
+        modification, or interpretation of this [A]greement.
+        During the divorce proceedings, Kristie relocated from Montana to Idaho. One month after
+the decree issued, Joshua quitclaimed a one‑half interest in the Eagle residence to her. That same
+day, he emailed Kristie inviting her to live separately with the children in the Eagle residence and
+stated that he intended to live there with the children if she declined his offer. Kristie appears not
+to have responded to the offer. Joshua later confirmed that he would move into the Eagle residence
+after the lessees vacated the property at the end of August 2022. Kristie, however, understood the
+Agreement to require Joshua to sell the Eagle residence once the lease expired.
+        Kristie later brought a personal injury action in district court in Ada County against Joshua
+for acts of violence that she alleged he committed during the marriage. Kristie also filed a petition
+in Ada County to modify the parenting plan adopted by the Montana court in the divorce decree.
+Kristie subsequently brought this partition action. In the complaint, she alleges that Joshua has
+excluded her from the Eagle residence, despite their tenancy in common, and asks the court to
+order the sale of the property and to facilitate the equitable distribution of the proceeds. She further
+requests that the court “award[] her credit against the net sale proceeds of the Eagle Property for
+50% fair market rent that she has not received from [Joshua].”
+        Kristie moved for partial summary judgment, arguing that Joshua was unable to
+demonstrate the existence of an issue of material fact as to either her right to partition the property
+as a tenant in common or as to whether “the Eagle [residence] cannot be physically partitioned
+without great prejudice to the owners.” In opposition, Joshua argued that the district court lacked
+jurisdiction to adjudicate the partition action by virtue of the Agreement’s enforcement clause,
+which was adopted and incorporated into the Montana court’s divorce decree. He further argued
+that the Agreement reflects Kristie’s waiver of the right to seek partition of the Eagle residence
+because it provides that the residence must be sold on “mutual agreement of the parties.” Thus,
+Joshua asked the district court to grant him summary judgment as the non-moving party.
+                                                3
+       The district court held a hearing to consider Kristie’s motion for summary judgment. After
+hearing the parties’ arguments, the district court denied Kristie’s motion and ruled that it lacked
+subject matter jurisdiction to partition the Eagle residence. More precisely, the district court
+reasoned that the Montana court retained exclusive jurisdiction over the “enforcement,
+modification, or interpretation” of the Agreement, precluding an Idaho court from partitioning
+property subject to its terms:
+       But I don’t think that I get to decide those issues because, I agree, that this is a case
+       where the Montana [c]ourt reserved exclusive jurisdiction. Were I to compel the
+       sale of this property and then make a determination as to how the assets are divided
+       depending upon who made what payments and who was entitled to credit for
+       mortgage payments or use of the property, I think at that point I am clearly invading
+       the purview of the original [c]ourt.
+
+               [The Montana court] reserved, as I suggested, to itself enforcement,
+       modification, or interpretation of the agreement. And I think that the issue before
+       the [c]ourt is a request to interpret the language of that agreement, to the extent they
+       can, one party to force the sale of the property in a particular period of time. I think
+       that’s consistent with the Olsen v. Olsen decision at </pre><span class="citation" data-id="9542916"><a href="/opinion/1161792/locey-v-farmers-insurance-co-of-idaho/" aria-description="Citation for case: Locey v. Farmers Insurance Co. of Idaho">115 Idaho 25</a></span><pre class="inline">.
+The district court granted summary judgment in favor of Joshua and dismissed the action without
+prejudice. Applying the same reasoning, the district court denied Kristie’s motion for
+reconsideration. Kristie timely appealed.
+                                  II.       STANDARD OF REVIEW
+       This Court reviews a lower court’s decision on summary judgment under the same standard
+applied by the lower court. Brewer v. Wash. RSA No. 8 Ltd. P’ship, </pre><span class="citation" data-id="9506729"><a href="/opinion/874447/brewer-v-washington-rsa-no-8-ltd-partnership/#738" aria-description="Citation for case: Brewer v. Washington RSA No. 8 Ltd. Partnership">145 Idaho 735, 738</a></span><pre class="inline">, </pre><span class="citation" data-id="9506729"><a href="/opinion/874447/brewer-v-washington-rsa-no-8-ltd-partnership/#863" aria-description="Citation for case: Brewer v. Washington RSA No. 8 Ltd. Partnership">184 P.3d
+860, 863</a></span><pre class="inline"> (2008) (citing Kolln v. Saint Luke’s Reg’l Med. Ctr., </pre><span class="citation" data-id="9547326"><a href="/opinion/1172713/kolln-v-saint-lukes-regional-medical-center/#327" aria-description="Citation for case: Kolln v. Saint Luke&#x27;s Regional Medical Center">130 Idaho 323, 327</a></span><pre class="inline">, </pre><span class="citation" data-id="9547326"><a href="/opinion/1172713/kolln-v-saint-lukes-regional-medical-center/#1146" aria-description="Citation for case: Kolln v. Saint Luke&#x27;s Regional Medical Center">940 P.2d 1142,
+1146</a></span><pre class="inline"> (1997)). To prevail on a summary judgment motion, the movant must “show[] that there is
+no genuine dispute as to any material fact” such that they are “entitled to judgment as a matter of
+law.” I.R.C.P. 56(a). It follows that we review questions of law at the summary judgment stage
+freely, drawing our own conclusions from the evidence. Callies v. O’Neal, </pre><span class="citation" data-id="874356"><a href="/opinion/874356/callies-v-oneal/#846" aria-description="Citation for case: Callies v. O&#x27;NEAL">147 Idaho 841, 846</a></span><pre class="inline">,
+</pre><span class="citation" data-id="874356"><a href="/opinion/874356/callies-v-oneal/#135" aria-description="Citation for case: Callies v. O&#x27;NEAL">216 P.3d 130, 135</a></span><pre class="inline"> (2009) (quoting Lettunich v. Key Bank Nat’l Ass’n, </pre><span class="citation" data-id="2520409"><a href="/opinion/2520409/lettunich-v-key-bank-national-assn/#366" aria-description="Citation for case: Lettunich v. Key Bank National Ass&#x27;n">141 Idaho 362, 366</a></span><pre class="inline">, </pre><span class="citation" data-id="2520409"><a href="/opinion/2520409/lettunich-v-key-bank-national-assn/#1108" aria-description="Citation for case: Lettunich v. Key Bank National Ass&#x27;n">109
+P.3d 1104, 1108</a></span><pre class="inline"> (2005)). The application of the Full Faith and Credit Clause of the United States
+Constitution is one such question of law subject to free review. See Markin v. Grohmann, </pre><span class="citation" data-id="880181"><a href="/opinion/880181/ron-markin-v-thomas-wolff-grohmann/#227" aria-description="Citation for case: Ron Markin v. Thomas Wolff Grohmann">153
+Idaho 223, 227</a></span><pre class="inline">, </pre><span class="citation" data-id="880181"><a href="/opinion/880181/ron-markin-v-thomas-wolff-grohmann/#730" aria-description="Citation for case: Ron Markin v. Thomas Wolff Grohmann">280 P.3d 726, 730</a></span><pre class="inline"> (2012).
+
+
+
+
+                                                  4
+                                         III.    ANALYSIS
+   A. The district court erred by concluding that it lacked subject matter jurisdiction over
+      Kristie’s partition action, but its error was harmless because the partition action was
+      properly dismissed based on full faith and credit principles.
+       The district court determined that the enforcement clause of the Agreement deprived it of
+subject matter jurisdiction to partition the Eagle residence, given that the Agreement defines the
+terms of the Bears’ possession of that property and reserves to the Montana court exclusive
+jurisdiction over any action to enforce, modify, or interpret those terms. Kristie insists this was
+error. She argues that subject matter jurisdiction “does not turn on” language in a foreign divorce
+decree; rather, “Idaho district courts unequivocally have subject matter jurisdiction over partition
+cases involving Idaho real estate.” Relying on this Court’s decision in Olsen v. Olsen, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/" aria-description="Citation for case: Olsen v. Olsen">115 Idaho
+105</a></span><pre class="inline">, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/" aria-description="Citation for case: Olsen v. Olsen">765 P.2d 130</a></span><pre class="inline"> (1988), Joshua counters that the district court lacked jurisdiction to entertain a
+partition action because doing so would constitute an impermissible collateral attack on the
+Montana divorce decree and the Agreement it incorporated. We agree with Kristie that the
+Agreement does not deprive an Idaho court of subject matter jurisdiction over a partition action.
+Nevertheless, we affirm the district court’s dismissal because the Agreement governs the parties’
+respective rights in the Eagle residence and giving the Agreement full faith and credit necessarily
+precludes the relief Kristie seeks through this partition action.
+       The Idaho Constitution vests the “judicial power” in the Supreme Court and the district
+courts, among others. Idaho Const. art. V, § 2. And it specifically gives Idaho’s district courts
+“original jurisdiction in all cases, both at law and in equity.” Id. art. V, § 20 (emphasis added).
+This language is broad; it reflects the fact that state courts, unlike our federal counterparts, are
+courts of general jurisdiction. Allen v. Campbell, </pre><span class="citation no-link">169 Idaho 613</span><pre class="inline">, 618, </pre><span class="citation no-link">499 P.3d 1103</span><pre class="inline">, 1108 (2021);
+McCormick v. Smith, </pre><span class="citation" data-id="5170300"><a href="/opinion/5338422/mccormick-v-smith/#494" aria-description="Citation for case: McCormick v. Smith">23 Idaho 487, 494</a></span><pre class="inline">, </pre><span class="citation" data-id="5170300"><a href="/opinion/5338422/mccormick-v-smith/#1001" aria-description="Citation for case: McCormick v. Smith">130 P. 999, 1001</a></span><pre class="inline"> (1913). Consequently, there will be few
+occasions where an Idaho district court lacks subject matter jurisdiction; “the only limitation likely
+. . . to arise with any frequency is preemption by federal law.” Allen, 169 Idaho at 618, 499 P.3d
+at 1108.
+       Idaho’s district courts possess subject matter jurisdiction to adjudicate partition actions. To
+begin, a partition action is one sounding in equity, and it therefore falls within the jurisdiction
+conferred on district courts by Article V, section 20. Nordgaarden v. Kiebert, </pre><span class="citation" data-id="9637439"><a href="/opinion/9421744/nordgaarden-v-kiebert/#889" aria-description="Citation for case: Nordgaarden v. Kiebert">171 Idaho 883, 889,
+892</a></span><pre class="inline">, </pre><span class="citation" data-id="9637439"><a href="/opinion/9421744/nordgaarden-v-kiebert/#492" aria-description="Citation for case: Nordgaarden v. Kiebert">527 P.3d 486, 492, 495</a></span><pre class="inline"> (2022) (citation omitted). Furthermore, partition is a cause of action
+expressly recognized by Idaho Code section 6-501. Thus, these “statutory and constitutional
+                                                  5
+provisions, when taken together, demonstrate that the district court, as a court of general
+jurisdiction, had the authority to hear this matter when filed because it was in fact dealing with
+the partition of real property under the authority granted by Idaho Code section 6-501.” Troupis v.
+Summer, </pre><span class="citation" data-id="874326"><a href="/opinion/874326/troupis-v-summer/#80" aria-description="Citation for case: Troupis v. Summer">148 Idaho 77, 80</a></span><pre class="inline">, </pre><span class="citation" data-id="874326"><a href="/opinion/874326/troupis-v-summer/#1141" aria-description="Citation for case: Troupis v. Summer">218 P.3d 1138, 1141</a></span><pre class="inline"> (2009).
+       Subject matter jurisdiction does not disappear even when other principles of law prevent
+the court from considering the case at hand. In Olsen, Mr. Olsen brought a partition action “seeking
+to obtain the value of his interest in” real property he owned with his ex-wife as joint tenants. 115
+Idaho at 106, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#131" aria-description="Citation for case: Olsen v. Olsen">765 P.2d at 131</a></span><pre class="inline">. He sought to partition the property despite language in the divorce
+decree awarding Ms. Olsen possession of the property until she remarried or “removed herself
+from the residence.” </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/" aria-description="Citation for case: Olsen v. Olsen">Id.</a></span><pre class="inline"> at 105–06, 765 P.2d at 130–31. The district court rejected Ms. Olsen’s
+contention that the parties’ rights in the property were res judicata as a result of the divorce decree
+and ordered her to buy out Mr. Olsen’s interest in the property. </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#106" aria-description="Citation for case: Olsen v. Olsen">Id. at 106</a></span><pre class="inline">, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#131" aria-description="Citation for case: Olsen v. Olsen">765 P.2d at 131</a></span><pre class="inline">. This
+Court reversed, holding that the district court “had no jurisdiction to consider anew a sale of the
+residence” given that “[t]he divorce decree was a valid and final personal judgment and
+extinguished Mr. Olsen’s claim for the sale of the residence, except as provided in the decree.” </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#107" aria-description="Citation for case: Olsen v. Olsen">Id.
+at 107</a></span><pre class="inline">, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#132" aria-description="Citation for case: Olsen v. Olsen">765 P.2d at 132</a></span><pre class="inline">.
+       Unfortunately, Olsen confuses the term “jurisdiction” with the preclusive effect of a final
+judgment. See </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/" aria-description="Citation for case: Olsen v. Olsen">id.</a></span><pre class="inline"> This confusion is not new; on several occasions we have wrestled with the
+“imprecise use of the term ‘jurisdiction.’” State v. Brown, </pre><span class="citation" data-id="6115750"><a href="/opinion/6248554/state-v-brown/#443" aria-description="Citation for case: State v. Brown">170 Idaho 439, 443</a></span><pre class="inline">, </pre><span class="citation" data-id="6115750"><a href="/opinion/6248554/state-v-brown/#863" aria-description="Citation for case: State v. Brown">511 P.3d 859, 863</a></span><pre class="inline">
+(2022); see also State v. Moore, </pre><span class="citation no-link">175 Idaho 906</span><pre class="inline">, 908, </pre><span class="citation no-link">572 P.3d 204</span><pre class="inline">, 206 (2025) (per curiam) (“This
+Court has repeatedly noted that phrases like ‘the court lacks jurisdiction’ have been used
+inconsistently, sometimes precisely and sometimes imprecisely, by both courts and parties.’”
+(citations omitted)). While Olsen held that the district court had no “jurisdiction” to reconsider the
+distribution of the Olsen’s community property, 115 Idaho at 107, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#132" aria-description="Citation for case: Olsen v. Olsen">765 P.2d at 132</a></span><pre class="inline">, the true
+meaning of its holding, as Justice Bistline notes in a concurring opinion, is that, when the divorce
+decree “became wholly final, . . . it was not subject to modification in that action or in any other
+action,” </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#108" aria-description="Citation for case: Olsen v. Olsen">id. at 108</a></span><pre class="inline">, </pre><span class="citation" data-id="5173593"><a href="/opinion/5341105/olsen-v-olsen/#133" aria-description="Citation for case: Olsen v. Olsen">765 P.2d at 133</a></span><pre class="inline"> (Bistline, J., concurring). In other words, the district court was
+precluded from modifying the final divorce decree in a collateral partition action, even if, as a
+general matter, district courts have subject matter jurisdiction to partition real property.
+       Joshua’s argument suffers from the same flaw. He insists that the Montana divorce decree
+deprived the district court of jurisdiction to entertain Kristie’s partition action. The district court
+
+                                                  6
+erred in accepting this argument. Article V, section 20 of the Idaho Constitution and Idaho Code
+section 6-501 confer enduring subject matter jurisdiction on Idaho’s district courts to adjudicate
+partition actions. That grant of jurisdiction, however, does not answer whether a court may grant
+relief in a particular case. Here, the relief Kristie seeks is precluded by a prior judgment on the
+merits between the same parties. See D.A.R., Inc. v. Sheffer, </pre><span class="citation" data-id="1195309"><a href="/opinion/1195309/dar-inc-v-sheffer/#144" aria-description="Citation for case: D.A.R., Inc. v. Sheffer">134 Idaho 141, 144</a></span><pre class="inline">, </pre><span class="citation" data-id="1195309"><a href="/opinion/1195309/dar-inc-v-sheffer/#605" aria-description="Citation for case: D.A.R., Inc. v. Sheffer">997 P.2d 602,
+605</a></span><pre class="inline"> (2000).
+       The district court’s error on this score is ultimately harmless because full faith and credit
+principles required it to dismiss Kristie’s partition action. The divorce decree provides that the
+Agreement is “incorporated into th[e] decree by reference” and that the “issues of property and
+debt distribution . . . are [to be] determined pursuant to” that Agreement. The Agreement, in turn,
+designates the Montana court “as the court having exclusive jurisdiction of the enforcement,
+modification, or interpretation of this [A]greement.” By virtue of its incorporation into the divorce
+decree—a final judgment of a sister state entitled to full faith and credit under the Constitution—
+we are required to honor the reservation of any dispute involving “enforcement, modification, or
+interpretation” to the Montana court.
+       Kristie contests this conclusion. She urges us to read the Agreement merely as a contract
+rather than as the terms of a sister‑state judgment. Under her reading, the Agreement’s
+“enforcement” provision operates as a forum‑selection clause, which she contends is
+unenforceable in Idaho. And, in any event, Kristie argues that judicial partition of the Eagle
+residence has nothing to do with the Bears’ divorce. Because she seeks “a partition of her separate
+property under general property laws that would govern any tenant‑in‑common dispute,” she
+reasons that partition of the Eagle residence does not “involve the enforcement, modification, or
+interpretation of the [Agreement].” In other words, Kristie frames this partition action as an effort
+to enforce her rights as the possessor of real property in Idaho rather than any rights created by the
+Agreement.
+       Joshua counters that the Agreement is not a contract, but rather a final judgment. In his
+view, “[a]n Idaho partition order compelling sale” would run counter to the terms of the Montana
+divorce decree and would thus impermissibly “alter a judgment term.” Like the district court,
+Joshua casts the problem as one of subject matter jurisdiction. In truth, however, the limitation he
+identifies arises from the Full Faith and Credit Clause, which requires Idaho courts to honor the
+terms of the Montana divorce decree. We thus begin by explaining why principles of full faith and
+
+                                                  7
+credit govern this dispute. We then turn to the language of the enforcement provision and conclude
+that Kristie’s partition action would necessarily require an Idaho court to interpret, enforce, or
+modify its distribution of the Bears’ marital real property—functions expressly reserved to the
+Montana court.
+       The Full Faith and Credit Clause of the United States Constitution provides that “Full Faith
+and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of
+every other State.” U.S. Const art. IV, § 1. As Chief Justice Marshall explained, the Clause
+guarantees “that the judgment of a state court should have the same credit, validity and effect, in
+every other court of the United States, which it had in the state where it was pronounced.” Hampton
+v. McConnel, </pre><span class="citation" data-id="85230"><a href="/opinion/85230/hampton-v-mconnel/#235" aria-description="Citation for case: Hampton v. M&#x27;connel">16 U.S. (3 Wheat.) 234, 235</a></span><pre class="inline"> (1818). We have held that a sister-state judgment is
+entitled to full faith and credit in Idaho when (1) the rendering court properly exercised personal
+and subject-matter jurisdiction consistent with due process and its own state-law requirements; (2)
+the judgment is final; and (3) it was decided on the merits. Andre v. Morrow, </pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/#460" aria-description="Citation for case: Andre v. Morrow">106 Idaho 455, 460</a></span><pre class="inline">,
+</pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/#1360" aria-description="Citation for case: Andre v. Morrow">680 P.2d 1355, 1360</a></span><pre class="inline"> (1984).
+       When these elements are satisfied, foreign state judgments are essentially given res judicata
+effect in Idaho courts, see Stewart E. Sterk, The Muddy Boundaries Between Res Judicata and Full
+Faith and Credit, </pre><span class="citation no-link">58 Wash. &amp; Lee L. Rev. 47</span><pre class="inline">, 62 (2001), except as against allegations that the
+sister-state court lacked jurisdiction in rendering the judgment, Andre, </pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/#459" aria-description="Citation for case: Andre v. Morrow">106 Idaho at 459</a></span><pre class="inline">, </pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/#1359" aria-description="Citation for case: Andre v. Morrow">680 P.2d
+at 1359</a></span><pre class="inline">. Although the Clause’s command tends to limit “the status of the States as independent
+sovereigns” by requiring submission to another State’s potentially “hostile policies,” it
+simultaneously promotes “the practical operation of the federal system” by forbidding collateral
+attacks on foreign judgments among state courts. Estin v. Estin, </pre><span class="citation" data-id="9420188"><a href="/opinion/104568/estin-v-estin/#546" aria-description="Citation for case: Estin v. Estin">334 U.S. 541, 546</a></span><pre class="inline"> (1948); see
+Fauntleroy v. Lum, </pre><span class="citation" data-id="96865"><a href="/opinion/96865/fauntleroy-v-lum/#238" aria-description="Citation for case: Fauntleroy v. Lum">210 U.S. 230, 238</a></span><pre class="inline"> (1908).
+       A foreign divorce decree is a variety of judgment entitled to full faith and credit in Idaho
+courts. See Beesley v. Beesley, </pre><span class="citation" data-id="9622786"><a href="/opinion/1405968/beesley-v-beesley/#537" aria-description="Citation for case: Beesley v. Beesley">114 Idaho 536, 537</a></span><pre class="inline">, </pre><span class="citation" data-id="9622786"><a href="/opinion/1405968/beesley-v-beesley/#696" aria-description="Citation for case: Beesley v. Beesley">758 P.2d 695, 696</a></span><pre class="inline"> (1988) (first citing U.S.
+Const. art. IV, § 1; then citing Andre, </pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/" aria-description="Citation for case: Andre v. Morrow">106 Idaho 455</a></span><pre class="inline">, </pre><span class="citation" data-id="9584070"><a href="/opinion/1251811/andre-v-morrow/" aria-description="Citation for case: Andre v. Morrow">680 P.2d 1355</a></span><pre class="inline">; and then citing Mitchell v.
+Pincock, </pre><span class="citation" data-id="9572088"><a href="/opinion/1230487/mitchell-v-pincock/" aria-description="Citation for case: Mitchell v. Pincock">99 Idaho 56</a></span><pre class="inline">, </pre><span class="citation" data-id="9572088"><a href="/opinion/1230487/mitchell-v-pincock/" aria-description="Citation for case: Mitchell v. Pincock">577 P.2d 343</a></span><pre class="inline"> (1978)). Here, the parties do not dispute that the Bears’ divorce
+decree was a final judgment on the merits issued in the proper exercise of the Montana court’s
+jurisdiction. But Kristie urges this Court to treat the Agreement the decree incorporates by
+reference as a mere contract. Specifically, she contends that the Agreement’s enforcement clause
+is nothing more than a contractual forum‑selection provision that should be given no effect by an
+
+                                                 8
+Idaho court pursuant to Idaho Code section 29-110(1). We are unpersuaded. By virtue of its
+incorporation into the Montana court’s divorce decree, the Agreement’s enforcement clause is a
+judgment term entitled to full faith and credit in Idaho. See Mont. Code Ann. § 40‑4‑201(4)(a); In
+re Marriage of Lorge, </pre><span class="citation" data-id="9507958"><a href="/opinion/878648/in-re-the-marriage-of-lorge/#117" aria-description="Citation for case: In Re the Marriage of Lorge">675 P.2d 115, 117</a></span><pre class="inline"> (Mont. 1984). Idaho courts are therefore obliged to respect
+the Montana court’s reservation of “exclusive jurisdiction of the enforcement, modification, or
+interpretation of th[e] [A]greement.”
+        We conclude that Kristie’s attempt to partition the Eagle residence effectively asked the
+Idaho district court to enforce, modify, or interpret the Agreement in contravention of its
+enforcement clause. The Bears offer competing interpretations of the Agreement’s language
+addressing their ownership of the Eagle residence. On the one hand, Kristie reads the Agreement
+as establishing the Bears’ ownership of the Eagle residence under the default rules of tenancies in
+common—principally, that the sale of the entire property requires the unanimous consent of the
+co‑tenants. 20 Am. Jur. 2d Cotenancy &amp; Joint Ownership § 96; see Washburn-Wilson Seed Co. v.
+Alexie, </pre><span class="citation" data-id="3409659"><a href="/opinion/3414204/washburn-wilson-seed-co-v-alexie/#730" aria-description="Citation for case: Washburn-Wilson Seed Co. v. Alexie">54 Idaho 727, 730</a></span><pre class="inline">, </pre><span class="citation" data-id="3409659"><a href="/opinion/3414204/washburn-wilson-seed-co-v-alexie/#991" aria-description="Citation for case: Washburn-Wilson Seed Co. v. Alexie">35 P.2d 990, 991</a></span><pre class="inline"> (1934). Yet those default rules, Kristie reasons, also
+bestow on her the right to vindicate her individual ownership interest in the property through a
+partition action brought in accordance with Idaho Code section 6-501. Under section 6-501, Kristie
+may unilaterally effectuate the sale of the entire property “if it appears that a partition cannot be
+made without great prejudice to the owners.” I.C. § 6-501. On this view, then, the phrase “upon
+the mutual agreement of the parties” simply restates a baseline rule of property law but does not
+limit Kristie’s right to partition the Eagle residence.
+        On the other hand, Joshua understands the Agreement itself—not Idaho’s default rules—
+as the source of the parties’ rights in the Eagle residence. In his view, the Agreement both created
+their tenancy in common and established the conditions under which the property could be sold.
+Thus, he interprets the phrase “upon the mutual agreement of the parties” not as a restatement of
+property law, but as a negotiated limitation on the parties’ partition rights. Under that reading,
+mutual agreement is a condition precedent to any sale of the property, foreclosing this partition
+action in which Kristie explicitly asked the district court to force a sale of the Eagle residence over
+Joshua’s objection.
+        Because the partition action cannot be adjudicated without resolving this dispute, an Idaho
+court would necessarily undertake the very interpretive task the Bears’ divorce decree reserves to
+the Montana court. Moreover, undertaking that inquiry would risk giving the Montana judgment
+
+                                                   9
+less effect than it has in Montana—whether by misinterpreting its terms, by effectively reopening
+or modifying a property disposition incorporated into the divorce decree, or even by correctly
+interpreting the Agreement but doing so in a manner that amounts to enforcing its terms, a task the
+Agreement likewise reserves exclusively to the Montana court. Full faith and credit does not
+deprive Idaho courts of jurisdiction over partition actions; rather, it precludes courts from
+exercising that jurisdiction in a way that would contravene a sister‑state judgment. In short, the
+Montana court must determine the parties’ rights in the Eagle residence under the Agreement, and
+full faith and credit requires the Ada County district court to respect that allocation of authority
+when it ultimately partitions the property. Thus, we affirm the district court’s dismissal of Kristie’s
+partition action.
+        To summarize, the district court had jurisdiction over the partition action, but it may not
+exercise that jurisdiction in a manner that contradicts the terms of the Bears’ Montana divorce
+decree. The Full Faith and Credit Clause requires Idaho courts to give the Bears’ divorce decree—
+and the Agreement it incorporates—the preclusive effect of a final judgment. Because Kristie’s
+partition action necessarily seeks to enforce, modify, or interpret the Agreement, she must pursue
+that relief in the Montana court before coming to an Idaho court to obtain an order partitioning the
+property in accordance with the decree.
+    B. We decline to award attorney fees to Joshua.
+        As the prevailing party, Joshua requests an award of attorney fees on appeal. We decline
+to make such an award. This Court may award reasonable attorney fees to the prevailing party if
+it finds that the case was “brought, pursued, or defended frivolously, unreasonably or without
+foundation.” I.C. § 12-121. A case does not meet section 12-121’s standard so long as it raises
+“fairly debatable issues.” Evans v. Wright, </pre><span class="citation no-link">174 Idaho 330</span><pre class="inline">, 341, </pre><span class="citation" data-id="11199303"><a href="/opinion/10732718/evans-v-wright/#602" aria-description="Citation for case: Evans v. Wright">554 P.3d 591, 602</a></span><pre class="inline"> (2024).
+However, when this Court determines that only specific issues raised on appeal are not fairly
+debatable—rather than the appeal as a whole—it may apportion fees to reflect only those
+unmeritorious claims. Idaho Mil. Hist. Soc’y, Inc. v. Maslen, </pre><span class="citation" data-id="2678800"><a href="/opinion/2678800/idaho-military-historical-society-inc-v-maslen/#632" aria-description="Citation for case: Idaho Military Historical Society, Inc. v. Maslen">156 Idaho 624, 632</a></span><pre class="inline">, </pre><span class="citation" data-id="2678800"><a href="/opinion/2678800/idaho-military-historical-society-inc-v-maslen/#1080" aria-description="Citation for case: Idaho Military Historical Society, Inc. v. Maslen">329 P.3d 1072,
+1080</a></span><pre class="inline"> (2014).
+        In the present case, the district court concluded that it lacked subject matter jurisdiction to
+hear Kristie’s partition action. The district court erred in so concluding, and Kristie’s appeal
+therefore raises a fairly debatable claim of error on that score, even if there are sound alternative
+grounds for dismissal. Moreover, much of this appeal turns on whether the Bears’ property
+
+                                                  10
+settlement agreement is properly read as a foreign judgment or a contract. Because the Agreement
+reflects qualities of both a judgment and a contract, its proper classification is fairly debatable;
+both parties’ arguments are serious, legally reasonable, and founded in the law and factual record
+of the case. We therefore decline to award attorney fees against Kristie.
+                                      IV.      CONCLUSION
+       Based on the foregoing reasoning and authorities, we affirm the district court’s order
+granting summary judgment to Joshua and dismissing this action without prejudice. We decline to
+make an award of attorney fees against Kristie. However, as the prevailing party, Joshua is entitled
+to costs as a matter of course pursuant to Idaho Appellate Rule 40(a).
+       Justices BEVAN, MOELLER, ZAHN and MEYER CONCUR.
+
+
+
+
+                                                11
+</pre>

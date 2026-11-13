@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch
+21,State v. Gideon,OH-Supreme,apex,criminal,trial,pure_law,REVERSED
+21,State v. Weber,OH-Supreme,apex,criminal,trial,pure_law,CLEAN_AFFIRM
+21,State v. Pendleton,OH-Supreme,apex,criminal,trial,pure_law,REVERSED
+21,Wildcat Drilling v. Discovery Oil,OH-Supreme,apex,civil,trial,pure_law,REVERSED
+21,Menorah Park v. Rolston,OH-Supreme,apex,civil,dismissal,pure_law,REVERSED
+21,Piazza v. Cuyahoga Cty.,OH-Supreme,apex,civil,dismissal,pure_law,CLEAN_AFFIRM
+21,State ex rel. Omni Energy v. ODNR,OH-Supreme,apex,admin,dismissal,pure_law,REVERSED
+21,In re Application of Ohio Edison,OH-Supreme,apex,admin,discretionary,pure_law,MODIFIED
+21,In re LMD Integrated Logistics,OH-Supreme,apex,admin,dismissal,pure_law,CLEAN_AFFIRM

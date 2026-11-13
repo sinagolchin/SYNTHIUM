@@ -1,0 +1,10 @@
+{
+"a": -2.1739640001330063,
+"b_lawside": 2.5578354382444006,
+"c_apex": 0.2840128353870356,
+"d_posture_open": -2.340521210068031,
+"model": "grouped_v2_posture",
+"n": 86,
+"note": "posture-open = 1 - P[posture]; P: trial .9 discretionary .7 summary_judgment .4 dismissal .3",
+"retrieved_at": {"user_local": "2026-11-12T23:30:23.818-05:00", "user_timezone": "America/New_York", "utc": "2026-11-13T04:30:23.818Z"}
+}

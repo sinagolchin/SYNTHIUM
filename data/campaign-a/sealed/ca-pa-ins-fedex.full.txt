@@ -1,0 +1,507 @@
+<pre class="inline">               United States Court of Appeals
+                          For the Eighth Circuit
+                      ___________________________
+
+                              No. 25-1777
+                      ___________________________
+
+Pennsylvania Insurance Company, a New Mexico Corporation, as the Subrogee of
+                       John Breslow and Sonia Breslow,
+
+                     lllllllllllllllllllllPlaintiff - Appellant,
+
+                                         v.
+
+            Federal Express Corporation, a Delaware Corporation,
+
+                     lllllllllllllllllllllDefendant - Appellee.
+                       ___________________________
+
+                              No. 25-1891
+                      ___________________________
+
+Pennsylvania Insurance Company, a New Mexico Corporation, as the Subrogee of
+                      John Breslow and Sonia Breslow,
+
+                      lllllllllllllllllllllPlaintiff - Appellee,
+
+                                         v.
+
+            Federal Express Corporation, a Delaware Corporation,
+
+                    lllllllllllllllllllllDefendant - Appellant.
+                                     ____________
+
+                  Appeals from United States District Court
+                    for the District of Nebraska - Omaha
+                                ____________
+                            Submitted: February 10, 2026
+                             Filed: September 3, 2026
+                                   ____________
+
+Before COLLOTON, Chief Judge, BENTON and KELLY, Circuit Judges.
+                            ____________
+
+COLLOTON, Chief Judge.
+
+        This appeal arises out of a missing watch that Sonia Breslow purchased for her
+husband. Pennsylvania Insurance Company, as subrogee of the Breslows, sued
+Federal Express Corporation, alleging that the company failed to deliver the watch.
+The district court* dismissed several claims on the ground that they were preempted
+by federal law or failed as a matter of law. After a bench trial on a breach of contract
+claim, the court determined that the insurer has the right of subrogation, and that
+Federal Express breached the delivery contract. The court ruled that the limit of
+liability under the shipping contract was $100, and entered judgment for Pennsylvania
+Insurance in that amount. Both parties appeal, and we affirm the judgment.
+
+                                           I.
+
+       This appeal arises after a bench trial, so our recitation of the facts is drawn
+from the district court’s findings. Sonia purchased a watch from Jacob &amp; Company
+for $250,000. The watch was manufactured in Switzerland, and then delivered to the
+office of Jacob &amp; Company in New York.
+
+        To avoid paying sales tax in Arizona, Sonia sought to have the watch delivered
+first to the Iron Horse Golf Club in Montana, and then shipped from Montana to her
+
+
+      *
+      The Honorable Susan M. Bazis, United States District Judge for the District
+of Nebraska.
+
+                                          -2-
+in Arizona. Jacob &amp; Company packaged the shipment. The shipment consisted of
+two boxes that were inside a yellow bag, and the bag was secured by a zip tie. One
+box contained a display case for the watch, and the other box contained the watch and
+various company-branded items. Jacob &amp; Company hired a courier to deliver the
+shipment to the Club in Montana, and the courier did so on November 17, 2022.
+
+       Sonia instructed the staff at the Club to place the shipment in one box. Instead,
+the staff removed both boxes from the yellow bag, repackaged the contents in two
+different boxes, placed those boxes in the yellow bag, and then secured the top of the
+bag with a zip tie. Video footage from the Club captured that process, although an
+employee from Federal Express, Randy Kelley, testified that he could not “really tell
+what any of the contents are that [the employee from the Club] pulled out of those
+boxes.”
+
+       Sonia instructed the Club to have the bag delivered to her in Arizona via
+Federal Express. Federal Express provides delivery services for customers who wish
+to transport packages. Federal Express maintains a fleet of aircraft and qualifies as
+an “air carrier” for purposes of federal aviation regulations. See </pre><span class="citation no-link">49 U.S.C.
+§ 40102</span><pre class="inline">(a)(2).
+
+      The Club maintained an account with Federal Express. Staff from the Club
+created a shipping label online using that account, and instructed Federal Express to
+deliver the package “priority overnight” to a United Parcel Service location in
+Scottsdale, Arizona.
+
+     The Club’s staff attached a shipping label to the outside of the yellow bag.
+When creating the shipping label, the Club did not declare a value on the package.
+
+      An employee from Federal Express picked up the bag from the Club and
+delivered it to an airplane at a Federal Express facility in Montana. The package
+
+                                          -3-
+traveled by plane to Memphis, by plane to Phoenix, and then by truck to a Federal
+Express facility in Scottsdale. Kelley from Federal Express testified that video
+footage from the Federal Express facility in Memphis shows that the bag was no
+longer secured by a zip tie, and that the zip tie “came off” at some point “between the
+watch package being picked up by [the] FedEx courier and Memphis.”
+
+       Kelley testified that video footage from the facility in Scottsdale shows that an
+employee removed one box from the yellow bag, placed the box on the conveyor belt,
+and, after a few minutes, placed the bag on the belt. The bag and the box moved
+along the conveyor belt. A different employee picked up the box, looked at all six
+sides of the box in an attempt to scan a label on the box, but was unable to do so. The
+employee then placed the box back on the belt. An employee, however, was able to
+scan the shipping label on the outside of the yellow bag. The bag and the box
+eventually moved to a location on the belt where the facility did not record video.
+
+      Federal Express delivered the yellow bag to the UPS store in Scottsdale, and
+Sonia picked up the package. When Sonia opened the bag, she found only one box,
+and the watch was not inside that box. Sonia filed an insurance claim for the loss of
+the watch, and Pennsylvania Insurance issued a check to the Breslows for $250,000.
+
+      Pennsylvania Insurance, as subrogee of the Breslows, sued Federal Express in
+Nebraska state court, alleging that the company’s actions constituted negligence,
+conversion, unjust enrichment, breach of contract, and civil theft. Federal Express
+removed the case to federal court based on diversity of citizenship. See </pre><span class="citation no-link">28 U.S.C.
+§ 1332</span><pre class="inline">.
+
+       The district court concluded that the Airline Deregulation Act pre-empted
+Pennsylvania Insurance’s state law claims of negligence, unjust enrichment, and civil
+theft. See </pre><span class="citation no-link">49 U.S.C. § 41713</span><pre class="inline">(b)(1). The court determined that the company’s
+conversion claim was not pre-empted, but dismissed the claim on the ground that
+
+                                          -4-
+there was insufficient evidence to show that Federal Express converted the watch.
+The court concluded that the company’s breach of contract claim was not pre-empted,
+but that Federal Express’s liability was limited to $100 under the terms of the
+shipping contract. The case proceeded to a bench trial on the contract claim.
+
+      After trial, the district court stated its findings of fact and conclusions of law
+under Federal Rule of Civil Procedure 52(a). The court said that it had “carefully
+reviewed each video submitted as evidence during the trial, but none capture the
+moment the FedEx employee reached into the yellow bag.” The court observed,
+however, that the parties do not dispute “that a FedEx employee did remove one box
+from the yellow bag,” and that the bag and the box eventually moved to a location on
+the conveyor belt where the facility did not record video. With respect to Kelley’s
+testimony about video from the facility in Scottsdale, the court explained that “the
+footage described by Mr. Kelley was just not included in the exhibits offered at trial.”
+
+       The court found that a contract existed between the Iron Horse Golf Club and
+Federal Express, and that “[t]he principal term of that contract was to deliver the
+shipment tendered to FedEx in Montana to the UPS store in Scottsdale.” The court
+determined that Sonia was entitled to enforce the contract as a third-party beneficiary,
+and that Pennsylvania Insurance could enforce the contract as Sonia’s subrogee. The
+court found that an employee from Federal Express “reached inside the open yellow
+bag and removed one of those boxes before placing it on a conveyor belt,” and that
+“the box that was removed contained the watch and was never delivered to Sonia.”
+The court concluded that Federal Express breached the shipping contract, and entered
+judgment in favor of Pennsylvania Insurance in the amount of $100.
+
+
+
+
+                                          -5-
+                                            II.
+
+      On appeal, Pennsylvania Insurance argues that the district court erred by
+concluding that several of its claims are pre-empted. The Airline Deregulation Act
+contains an express pre-emption clause as follows:
+
+      [A] State, political subdivision of a State, or political authority of at least
+      2 States may not enact or enforce a law, regulation, or other provision
+      having the force and effect of law related to a price, route, or service of
+      an air carrier that may provide air transportation under this subpart.
+
+</pre><span class="citation no-link">49 U.S.C. § 41713</span><pre class="inline">(b)(1) (emphasis added).
+
+        The key phrase “related to” expresses a broad pre-emptive purpose, Nw., Inc.
+v. Ginsberg, </pre><span class="citation" data-id="2659300"><a href="/opinion/2659300/northwest-inc-v-ginsberg/#280" aria-description="Citation for case: Northwest, Inc. v. Ginsberg">572 U.S. 273, 280</a></span><pre class="inline"> (2014), and the provision covers state laws “having
+a connection with or reference to airline ‘rates, routes, or services.’” Morales v.
+Trans World Airlines, Inc., </pre><span class="citation" data-id="9432562"><a href="/opinion/112742/morales-v-trans-world-airlines-inc/#384" aria-description="Citation for case: Morales v. Trans World Airlines, Inc.">504 U.S. 374, 384</a></span><pre class="inline"> (1992). The clause pre-empts both
+state laws specifically addressed to the airline industry and laws of general
+applicability that indirectly affect air carriers’ rates, routes, or services. </pre><span class="citation" data-id="9432562"><a href="/opinion/112742/morales-v-trans-world-airlines-inc/#386" aria-description="Citation for case: Morales v. Trans World Airlines, Inc.">Id. at 386</a></span><pre class="inline">.
+Some state regulation, however, may affect the rates, routes, or services of an air
+carrier “in too tenuous, remote, or peripheral a manner to have pre-emptive effect.”
+</pre><span class="citation" data-id="9432562"><a href="/opinion/112742/morales-v-trans-world-airlines-inc/#390" aria-description="Citation for case: Morales v. Trans World Airlines, Inc.">Id. at 390</a></span><pre class="inline"> (internal quotation omitted). The “state laws whose ‘effect’ is ‘forbidden’
+under federal law are those with a ‘significant impact’ on carrier rates, routes, or
+services.” Rowe v. N.H. Motor Transp. Ass’n, </pre><span class="citation" data-id="9435261"><a href="/opinion/145829/rowe-v-new-hampshire-motor-transport-assn/#375" aria-description="Citation for case: Rowe v. New Hampshire Motor Transport Ass&#x27;n">552 U.S. 364, 375</a></span><pre class="inline"> (2008) (quoting
+Morales, </pre><span class="citation" data-id="9432562"><a href="/opinion/112742/morales-v-trans-world-airlines-inc/#388" aria-description="Citation for case: Morales v. Trans World Airlines, Inc.">504 U.S. at 388, 390</a></span><pre class="inline">) (emphasis added in Rowe).
+
+        There is disagreement about the meaning of the term “service.” See Watson v.
+Air Methods Corp., </pre><span class="citation" data-id="4200383"><a href="/opinion/4423130/john-watson-v-v-air-methods-corporation/#817" aria-description="Citation for case: John Watson, V v. Air Methods Corporation">870 F.3d 812, 817</a></span><pre class="inline"> (8th Cir. 2017) (en banc). Some courts say
+that it refers only to “such things as the frequency and scheduling of transportation,
+and to the selection of markets to or from which transportation is provided.” Charas
+
+
+                                           -6-
+v. Trans World Airlines, Inc., </pre><span class="citation" data-id="6978339"><a href="/opinion/7073716/charas-v-trans-world-airlines-inc/#1265" aria-description="Citation for case: Charas v. Trans World Airlines, Inc.">160 F.3d 1259, 1265-66</a></span><pre class="inline"> (9th Cir. 1998) (en banc).
+Other courts construe the term more broadly to mean the “bargained-for or anticipated
+provision of labor from one party to another,” and the “contractual arrangement
+between the airline and the user of the service.” Headstream Techs., LLC v. FedEx
+Corp., No. 22-1410, </pre><span class="citation no-link">2023 WL 1434054</span><pre class="inline">, at *3 (6th Cir. Feb. 1, 2023) (internal
+quotation omitted); Tobin v. Fed. Express Corp., </pre><span class="citation" data-id="2765407"><a href="/opinion/2765407/tobin-ex-rel-l-v-federal-express-corp/#453" aria-description="Citation for case: Tobin Ex Rel. L. v. Federal Express Corp.">775 F.3d 448, 453-54</a></span><pre class="inline"> (1st Cir.
+2014); Hodges v. Delta Airlines, Inc., </pre><span class="citation" data-id="9413545"><a href="/opinion/6939/hodges-v-delta-airlines-inc/#336" aria-description="Citation for case: Hodges v. Delta Airlines, Inc.">44 F.3d 334, 336</a></span><pre class="inline"> (5th Cir. 1995) (en banc); Air
+Transp. Ass’n of Am., Inc. v. Cuomo, </pre><span class="citation" data-id="1201265"><a href="/opinion/1201265/air-transport-assn-of-america-inc-v-cuomo/#223" aria-description="Citation for case: Air Transport Ass&#x27;n of America, Inc. v. Cuomo">520 F.3d 218, 223</a></span><pre class="inline"> (2d Cir. 2008) (per curiam).
+
+       In American Airlines, Inc. v. Wolens, </pre><span class="citation" data-id="9433076"><a href="/opinion/117890/american-airlines-inc-v-wolens/" aria-description="Citation for case: American Airlines, Inc. v. Wolens">513 U.S. 219</a></span><pre class="inline"> (1995), the Supreme Court
+held that the plaintiffs’ state-law claims alleging breach of contract and consumer
+fraud arising from changes in a frequent flyer program related to certain “services”
+of American Airlines—namely, “access to flights and class-of-service
+upgrades”—and were thus preempted by the Airline Deregulation Act. </pre><span class="citation" data-id="9433076"><a href="/opinion/117890/american-airlines-inc-v-wolens/#226" aria-description="Citation for case: American Airlines, Inc. v. Wolens">Id. at 226-27</a></span><pre class="inline">.
+In Watson, citing Wolens, we assumed for the sake of analysis that the term “service”
+refers to the “contractual arrangement between the air carrier and the user of the
+service.” </pre><span class="citation" data-id="4200383"><a href="/opinion/4423130/john-watson-v-v-air-methods-corporation/#818" aria-description="Citation for case: John Watson, V v. Air Methods Corporation">870 F.3d at 818</a></span><pre class="inline">. We now conclude that the view assumed in Watson is the
+better understanding of the statute, and we join the First, Second, Fifth, and Sixth
+Circuits in following that approach.
+
+       The district court determined that the Airline Deregulation Act expressly pre-
+empted Pennsylvania Insurance’s claims of negligence, unjust enrichment, and civil
+theft. We see no error in this conclusion. Pennsylvania Insurance’s state common
+law claims are “provisions” that have “the force and effect of law,” and “fall
+comfortably within the language of the ADA pre-emption provision.” See Ginsberg,
+</pre><span class="citation" data-id="2659300"><a href="/opinion/2659300/northwest-inc-v-ginsberg/#281" aria-description="Citation for case: Northwest, Inc. v. Ginsberg">572 U.S. at 281-82</a></span><pre class="inline">.
+
+      Pennsylvania Insurance’s claims are also “related to a price, route, or service”
+of Federal Express. </pre><span class="citation no-link">49 U.S.C. § 41713</span><pre class="inline">(b)(1). The complaint alleged that Federal
+Express became liable “by not delivering the Bugatti Watch.” Pennsylvania
+
+                                         -7-
+Insurance argues that Federal Express was negligent when it “failed to properly track
+the package or return it to the Iron Horse Golf Club when issues involving the
+package arose.” Pennsylvania Insurance also contends that Federal Express is liable
+based on “the overall treatment of the package when it was apparently repackaged at
+the FedEx Scottsdale facility.” Package handling and transportation “plainly concern
+the contractual arrangement between FedEx and the users of its services (those who
+send packages).” Tobin, </pre><span class="citation" data-id="2765407"><a href="/opinion/2765407/tobin-ex-rel-l-v-federal-express-corp/#454" aria-description="Citation for case: Tobin Ex Rel. L. v. Federal Express Corp.">775 F.3d at 454</a></span><pre class="inline">.
+
+        For Pennsylvania Insurance to prevail on the common law claims at issue, the
+company would have to prove that Federal Express’s procedures were inadequate for
+the purpose of delivery, or that those procedures, if adequate, were carried out
+unlawfully by Federal Express’s employees. See </pre><span class="citation" data-id="2765407"><a href="/opinion/2765407/tobin-ex-rel-l-v-federal-express-corp/#455" aria-description="Citation for case: Tobin Ex Rel. L. v. Federal Express Corp.">id. at 455</a></span><pre class="inline">. If Federal Express’s
+procedures were found inadequate, then the company would be required to modify
+its current procedures for package handling and transportation. That effect would not
+be “tenuous, remote, or peripheral,” but rather a “significant impact” on the
+company’s core services. And “a finding that the actions of FedEx’s employees
+breached a state-law duty of care would . . . . create the very patchwork of state-based
+regulations that ADA preemption is meant to preclude.” </pre><span class="citation" data-id="2765407"><a href="/opinion/2765407/tobin-ex-rel-l-v-federal-express-corp/" aria-description="Citation for case: Tobin Ex Rel. L. v. Federal Express Corp.">Id.</a></span><pre class="inline">
+
+       Pennsylvania Insurance argues that its claims against FedEx are too far
+removed from Congress’s deregulation purpose to warrant preemption. The insurer
+compares its claims to personal injury claims, but the claims at issue are
+distinguishable. The Airline Deregulation Act does not pre-empt all state law claims
+for personal injury. See Wolens, </pre><span class="citation" data-id="9433076"><a href="/opinion/117890/american-airlines-inc-v-wolens/" aria-description="Citation for case: American Airlines, Inc. v. Wolens">513 U.S. at 231</a></span><pre class="inline"> n.7; Watson, </pre><span class="citation" data-id="4200383"><a href="/opinion/4423130/john-watson-v-v-air-methods-corporation/#819" aria-description="Citation for case: John Watson, V v. Air Methods Corporation">870 F.3d at 819</a></span><pre class="inline">;
+Hodges, </pre><span class="citation" data-id="9413545"><a href="/opinion/6939/hodges-v-delta-airlines-inc/#338" aria-description="Citation for case: Hodges v. Delta Airlines, Inc.">44 F.3d at 338</a></span><pre class="inline">. The Act does, however, preclude variations in state law
+insofar as they relate to a price, route, or service of an air carrier. See Watson, </pre><span class="citation" data-id="4200383"><a href="/opinion/4423130/john-watson-v-v-air-methods-corporation/#819" aria-description="Citation for case: John Watson, V v. Air Methods Corporation">870
+F.3d at 819</a></span><pre class="inline">. Pennsylvania Insurance’s claims are centered around Federal Express’s
+handling and transportation of packages—core services of the company—and they
+are thus preempted.
+
+
+
+                                          -8-
+                                           III.
+
+       Pennsylvania Insurance next argues that the district court erred by granting
+summary judgment for Federal Express on the insurance company’s claim alleging
+conversion of the watch. The insurer argues that Federal Express converted the
+watch, and that the carrier therefore may not limit its liability under the shipping
+contract. Under the federal common law that governs such contractual clauses, the
+“released value” doctrine allows an air carrier to limit its liability for lost shipments.
+See Kemper Ins. Cos. v. Fed. Express Corp., </pre><span class="citation" data-id="199441"><a href="/opinion/199441/kemper-insurance-companies-v-federal-express-corp/#512" aria-description="Citation for case: Kemper Insurance Companies v. Federal Express Corp.">252 F.3d 509, 512</a></span><pre class="inline"> (1st Cir. 2001).
+Under the “conversion exception to the released value doctrine,” however, “‘[i]f the
+property has been converted by the carrier, it would be against public policy to permit
+the carrier to limit its liability and thus to profit from its own misconduct.’” </pre><span class="citation" data-id="199441"><a href="/opinion/199441/kemper-insurance-companies-v-federal-express-corp/" aria-description="Citation for case: Kemper Insurance Companies v. Federal Express Corp.">Id.</a></span><pre class="inline"> at 515
+(quoting Glickfeld v. Howard Van Lines, </pre><span class="citation" data-id="234270"><a href="/opinion/234270/glickfeld-v-howard-van-lines-inc-howard-van-lines-inc-v-glickfeld/#727" aria-description="Citation for case: Glickfeld v. Howard Van Lines, Inc. Howard Van Lines,...">213 F.2d 723, 727</a></span><pre class="inline"> (9th Cir. 1954)).
+
+       Kelley from Federal Express testified that the video footage from the Scottsdale
+facility shows that an employee removed one box from the yellow bag, placed it on
+the conveyor belt, and then placed the yellow bag on the belt. Pennsylvania
+Insurance argues that after the box and the bag moved to a location on the belt that
+was not under video surveillance, an employee removed the watch from the box and
+stole the watch.
+
+       Even if Pennsylvania Insurance is correct about what happened, we agree with
+the district court that “there is no evidence presented that true conversion by
+Defendant has occurred.” In the context of employee theft, “‘the conversion doctrine
+is pertinent only when there has been a true conversion, i.e., where the carrier has
+appropriated the property for its own use or gain.’” Kemper, </pre><span class="citation" data-id="199441"><a href="/opinion/199441/kemper-insurance-companies-v-federal-express-corp/" aria-description="Citation for case: Kemper Insurance Companies v. Federal Express Corp.">252 F.3d at 515</a></span><pre class="inline"> (quoting
+Glickfeld, </pre><span class="citation" data-id="234270"><a href="/opinion/234270/glickfeld-v-howard-van-lines-inc-howard-van-lines-inc-v-glickfeld/#727" aria-description="Citation for case: Glickfeld v. Howard Van Lines, Inc. Howard Van Lines,...">213 F.2d at 727</a></span><pre class="inline">). In Kemper, the plaintiff alleged that “FedEx had been
+aware of, and ignored, the repeated theft of valuable shipped goods by employees.”
+Id. at 512. The court determined that even if the allegations were true, “willful
+blindness to the activity of third parties (even employees) does not qualify” for the
+
+                                           -9-
+“conversion exception.” Id. at 516. Here, Pennsylvania Insurance alleges that, in an
+area not under video surveillance, a single employee removed the watch from the box.
+Pennsylvania Insurance has not presented evidence to support a finding that “FedEx
+appropriated the property itself, or profited from its conversion.” Id. A carrier “may
+properly limit its liability where the conversion is by third parties or even by its own
+employees.” Glickfeld, </pre><span class="citation" data-id="234270"><a href="/opinion/234270/glickfeld-v-howard-van-lines-inc-howard-van-lines-inc-v-glickfeld/#727" aria-description="Citation for case: Glickfeld v. Howard Van Lines, Inc. Howard Van Lines,...">213 F.2d at 727</a></span><pre class="inline">. The district court did not err in granting
+summary judgment on the conversion claim.
+
+                                           IV.
+
+       Pennsylvania Insurance contends that even if Federal Express did not convert
+the watch, the district court erred in ruling that the terms of the delivery contract
+limited the carrier’s liability on the breach of contract claim to $100. The Iron Horse
+Golf Club is bound by the limitation on liability if Federal Express gave the Club
+reasonable notice of limited liability, and presented the Club with a fair opportunity
+to purchase greater liability coverage. See Husman Constr. Co. v. Purolator Courier
+Corp., </pre><span class="citation" data-id="496747"><a href="/opinion/496747/husman-construction-company-and-larry-husman-v-purolator-courier-corp-and/#461" aria-description="Citation for case: Husman Construction Company and Larry Husman v. Purolator...">832 F.2d 459, 461</a></span><pre class="inline"> (8th Cir. 1987); Kemper, </pre><span class="citation" data-id="199441"><a href="/opinion/199441/kemper-insurance-companies-v-federal-express-corp/#512" aria-description="Citation for case: Kemper Insurance Companies v. Federal Express Corp.">252 F.3d at 512</a></span><pre class="inline">; Kesel v. United
+Parcel Serv., Inc., </pre><span class="citation" data-id="9496319"><a href="/opinion/783115/mark-kesel-v-united-parcel-service-inc-ups-airlines-inc-ups/#852" aria-description="Citation for case: Mark Kesel v. United Parcel Service, Inc. UPS Airlines,...">339 F.3d 849, 852</a></span><pre class="inline"> (9th Cir. 2003).
+
+        We see no error in the district court’s conclusion that Federal Express’s
+liability was limited to $100. The evidence established that the Club entered into a
+“Pricing Agreement” with Federal Express in 2009. The pricing agreement provides
+that the terms of the “FedEx Service Guide” are incorporated into the pricing
+agreement. The service guide contains a limited liability provision, which states that
+“[t]he declared value of any package represents our maximum liability in connection
+with a shipment of that package.” The guide further provides that “unless a higher
+value is declared and paid for, our liability . . . is limited to US$100.” At the last step
+of creating the shipping label, the Club clicked “Finalize.” Next to the “Finalize”
+option was a notice that stated, “By clicking ‘Finalize,’ I accept the Terms of Use of
+the FedEx website and the FedEx Service Guide.”
+
+                                           -10-
+       Pennsylvania Insurance argues that Federal Express did not provide the Iron
+Horse Golf Club with adequate notice “of a choice of liabilities and rates,” but we are
+not persuaded. The service guide provides that shipments containing jewelry are
+limited to a maximum declared value of $1,000. The guide provides information on
+prices that a customer would pay if the customer declares a value exceeding $100.
+The price varies depending “on whether (1) the shipper is a FedEx account holder and
+(2) the shipper has discounts applied to his or her account.” When the Club created
+a shipping label, the staff was presented with a checkbox that stated that the Club can
+“[p]urchase a higher limit of liability from FedEx.” The Club negotiated its pricing
+agreement with Federal Express, and had used the company’s services on several
+occasions. Federal Express thus provided the Club with ample notice, and there was
+no error in concluding that the limit of liability on these facts is $100.
+
+                                         V.
+
+       On cross-appeal, Federal Express challenges the district court’s determination
+that the company breached the delivery contract. Federal Express argues first that
+there was “no evidence at trial of any contract that FedEx supposedly breached.” To
+create a contract, there must be both an offer and an acceptance; there must be a
+meeting of the minds between the parties as to the essential terms and conditions of
+the proposed contract. Gibbons Ranches, L.L.C. v. Bailey, </pre><span class="citation no-link">857 N.W.2d 808</span><pre class="inline">, 812-13
+(Neb. 2015). Under Nebraska law, whether a contract exists is a question of fact.
+GGNSC Omaha Oak Grove, LLC v. Payich, </pre><span class="citation" data-id="854199"><a href="/opinion/854199/ggnsc-omaha-oak-grove-llc-v-ivan-payich/#1027" aria-description="Citation for case: GGNSC Omaha Oak Grove, LLC v. Ivan Payich">708 F.3d 1024, 1027</a></span><pre class="inline"> (8th Cir. 2013); see
+Gerhold Concrete Co. v. St. Paul Fire &amp; Marine Ins. Co., </pre><span class="citation" data-id="1278716"><a href="/opinion/1278716/gerhold-concrete-co-v-st-paul-fire-marine-insurance-co/#670" aria-description="Citation for case: Gerhold Concrete Co. v. St. Paul Fire &amp; Marine Insurance Co.">695 N.W.2d 665, 670</a></span><pre class="inline"> (Neb.
+2005).
+
+      The district court did not clearly err in finding that a contract existed between
+the Club and Federal Express, and that the “principal term of that contract was to
+deliver the shipment tendered to FedEx in Montana to the UPS store in Scottsdale.”
+The evidence included an invoice from Federal Express dated November 23, 2022.
+
+                                         -11-
+The invoice lists the Club’s “Account Number,” and provides details on several
+transactions, including the shipment at issue. The invoice lists the Club as the
+“Sender” of the package, and Sonia Breslow as the “Recipient” of the package. The
+invoice established that the Club instructed Federal Express to deliver the package
+“FedEx Priority Overnight” to the UPS store in Scottsdale, and that the “Ship Date”
+was November 17, 2022. The invoice shows that Federal Express charged the Club
+$127.69 for that delivery. The invoice thus established the essential terms and
+conditions of the contract. Cf. J.V. &amp; Sons Trucking, Inc. v. Asset Vision Logistics,
+LLC, </pre><span class="citation" data-id="10739189"><a href="/opinion/10272599/jv-sons-trucking-inc-v-asset-vision-logistics-llc/#699" aria-description="Citation for case: J.V. &amp; Sons Trucking, Inc. v. Asset Vision Logistics, LLC">121 F.4th 690, 699-700</a></span><pre class="inline"> (8th Cir. 2024); In re Driggs Corp., </pre><span class="citation" data-id="1009393"><a href="/opinion/1009393/martin-marietta-materials-inc-v-driggs-corp/#620" aria-description="Citation for case: Martin Marietta Materials, Inc. v. Driggs Corp.">55 F. App’x 618,
+620</a></span><pre class="inline"> (4th Cir. 2003) (per curiam).
+
+      The evidence also established an offer and acceptance by the Club and Federal
+Express. Testimony received without objection established that Sonia instructed an
+employee at the Club to “[m]ake sure the FedEx label” was on the package, and that
+the Club created the shipping label using the account that it maintained with Federal
+Express. Testimony also established that an employee from Federal Express picked
+up the yellow bag from the Club. There was no error in the court’s finding that a
+contract existed.
+
+       Federal Express argues next that the district court erred in concluding that the
+company breached the contract. The company contends that “there was no evidence
+FedEx was ever given the Watch to ship to Breslow in Arizona.” The district court
+found that when the employee from Federal Express picked up the yellow bag from
+the Club, the bag “contained two boxes—one with the watch inside.” The court also
+found “that the box that was removed [at the Scottsdale facility] contained the watch
+and was never delivered to Sonia.” The court determined that “FedEx breached its
+duty to deliver the entire shipment to Sonia in Arizona.”
+
+      The district court’s findings that the Club received the watch, and that the
+watch was tendered to an employee from Federal Express are not clearly erroneous.
+
+                                         -12-
+Sonia testified that she attended an event where Jacob &amp; Company showed samples
+of the watch, and that she paid the full purchase price of the watch in installments via
+credit card before the watch was manufactured. Testimony received without
+objection established that “Jacob packaged . . . the display case for the watch” in one
+box, and “gifts from Jacob &amp; Company” and the watch in the second box. Kelley
+testified that he watched video footage of employees at the Club “handling the
+package” that was “received from Jacob &amp; Company.” The court received without
+objection Sonia’s testimony that she instructed an employee at the Club to “[m]ake
+sure the FedEx label’s on [the package].” Kelley’s testimony established that an
+employee from Federal Express picked up the yellow bag from the Club, and that the
+bag arrived at the Scottsdale facility.
+
+       The district court’s finding that “the box that was removed [at the Scottsdale
+facility] contained the watch and was never delivered to Sonia” is not clearly
+erroneous. Kelley testified that the video footage from the facility shows an
+employee taking out one box from the yellow bag. Testimony established that the
+yellow bag was delivered to the UPS store where Sonia sought to have it delivered.
+Sonia testified that she opened the yellow bag, that only one box was in it, that the
+“watch case” was in that box, and that the watch was not in the box. Thus, the district
+court did not clearly err in finding that Federal Express failed to “deliver the entire
+shipment to Sonia in Arizona,” as required under the contract.
+
+       Federal Express argues that the district court erred in relying on Sonia’s
+testimony because she was not credible. When reviewing the district court’s findings
+of fact, this court “must give due regard to the trial court’s opportunity to judge the
+witnesses’ credibility.” Fed. R. Civ. P. 52(a)(6). We decline on this record to
+“second-guess the bench-trial court’s credibility assessments.” Krist v. Kolombos
+Rest. Inc., </pre><span class="citation" data-id="805033"><a href="/opinion/805033/krist-v-kolombos-rest-inc/#95" aria-description="Citation for case: Krist v. Kolombos Rest. Inc.">688 F.3d 89, 95</a></span><pre class="inline"> (2d Cir. 2012); see Anderson v. City of Bessemer City, </pre><span class="citation" data-id="9429949"><a href="/opinion/111373/anderson-v-city-of-bessemer-city/#574" aria-description="Citation for case: Anderson v. City of Bessemer City">470
+U.S. 564, 574-75</a></span><pre class="inline"> (1985).
+
+
+
+                                         -13-
+       Federal Express contends next that Pennsylvania Insurance did not have
+standing to bring the breach of contract claim. Federal Express contends that the
+district court erred in concluding that Pennsylvania Insurance has the right of
+subrogation to assume Sonia’s position. The right of subrogation is established
+“where a party is compelled to pay the debt of a third person to protect his own rights
+or interest.” Cagle, Inc. v. Sammons, </pre><span class="citation" data-id="9702387"><a href="/opinion/1967920/cagle-inc-v-sammons/#403" aria-description="Citation for case: Cagle, Inc. v. Sammons">254 N.W.2d 398, 403</a></span><pre class="inline"> (Neb. 1977). The district
+court determined that “Sonia was a third-party beneficiary entitled to enforce the
+contract between FedEx and the Iron Horse Golf Club,” and that Pennsylvania
+Insurance established that it was “entitled to enforce the contract” as Sonia’s
+“subrogated insurer.”
+
+       The district court did not err in determining that Sonia was entitled to enforce
+the contract as a third-party beneficiary. “In order for those not named as parties to
+recover under a contract as third-party beneficiaries, it must appear by express
+stipulation or by reasonable intendment that the rights and interest of such unnamed
+parties were contemplated and that provision was being made for them.” Podraza v.
+New Century Physicians of Neb., LLC, </pre><span class="citation no-link">789 N.W.2d 260</span><pre class="inline">, 267 (Neb. 2010). The
+evidence established that Sonia was the “recipient” of the package that Federal
+Express was required to deliver pursuant to the contract. The Club, by naming Sonia
+as the recipient, evidenced its intent to give Sonia “the benefit of FedEx’s promised
+performance,” thus making her a third-party beneficiary who could enforce the
+contract. See Aretakis v. Fed. Express Corp., No. 10 Civ. 1696, </pre><span class="citation no-link">2011 WL 1226278</span><pre class="inline">,
+at *6 (S.D.N.Y. Feb. 28, 2011).
+
+       The district court did not err in determining that Pennsylvania Insurance has
+the right of subrogation. The district court cited two documents sent by Treadwell
+Fine Art &amp; Collections Underwriters. One document is an invoice. The invoice
+shows that Treadwell charged a premium to the Breslows for the issuance of a
+“Private Collections” policy, that “Pennsylvania Insurance Co” was a “Carrier” of
+that policy, and that the policy was issued on November 9, 2022. The second
+
+                                         -14-
+document is a letter sent on November 28 that concerns a “Jewelry Claim” filed by
+the Breslows. The letter lists the same policy number as the policy number from the
+invoice. The letter states that although “the watch was not yet added to the policy,”
+there “is a newly acquired overage clause which extends coverage for 90 days.”
+
+       The parties do not dispute that Pennsylvania Insurance issued a check to the
+Breslows in the amount of $250,000, which matches the purchase price of the watch.
+On this record, the district court did not clearly err in finding that Pennsylvania
+Insurance “paid the Breslows under the private collections policy for the loss of the
+watch.” Pennsylvania Insurance thus established that it has standing. By paying the
+Breslows pursuant to the collections policy, the company succeeded to Sonia’s right
+to recover under the contract. See Ehlers v. Perry, </pre><span class="citation" data-id="2218842"><a href="/opinion/2218842/ehlers-v-perry/#334" aria-description="Citation for case: Ehlers v. Perry">494 N.W.2d 325, 334-35</a></span><pre class="inline"> (Neb.
+1993).
+
+       Federal Express argues that the district court erred when it refused to consider
+a letter “from Maximum Subrogation and Recovery Services as an impeachment
+exhibit for the limited purpose of showing [Pennsylvania Insurance] did not issue a
+policy covering the Watch but some other carrier may have.” We review the district
+court’s exclusion of the letter for abuse of discretion. See Sellers v. Mineta, </pre><span class="citation" data-id="784292"><a href="/opinion/784292/wendy-ferguson-sellers-v-norman-y-mineta-secretary-of-transportation/#711" aria-description="Citation for case: Wendy Ferguson Sellers v. Norman Y. Mineta, Secretary of...">350 F.3d
+706, 711</a></span><pre class="inline"> (8th Cir. 2003).
+
+       The local rules of the district court provide that “documents and objects
+expected to be introduced as exhibits must be physically numbered and inspected”
+before the final pretrial conference. Neb. Civ. R. 16.2(a)(1). A complete list of the
+exhibits prepared under Rule 16.2(a)(1) must be attached to the “jointly prepared”
+proposed final pretrial order. Neb. Civ. R. 16.2(a)(2)(A). Here, the district court
+refused to receive the letter as an exhibit, because Federal Express “didn’t produce
+this, nor was it part of the pretrial order.”
+
+
+
+
+                                         -15-
+      Federal Express argues that the court erred by excluding the letter because it
+was offered for impeachment purposes only. Although a letter that is expected to be
+used solely for impeachment purposes need not be disclosed under the pretrial order,
+Neb. Civ. R. 16.2(a)(1), Federal Express asserted at trial that it was “not offering it
+for impeachment.” T. Tr. at 135. Thus, the district court did not abuse its discretion,
+because “[t]he power of the trial court to exclude exhibits and witnesses not disclosed
+in compliance with its discovery and pretrial orders is essential to the judge’s control
+over the case.” Sellers, </pre><span class="citation" data-id="784292"><a href="/opinion/784292/wendy-ferguson-sellers-v-norman-y-mineta-secretary-of-transportation/#711" aria-description="Citation for case: Wendy Ferguson Sellers v. Norman Y. Mineta, Secretary of...">350 F.3d at 711</a></span><pre class="inline"> (internal quotation omitted).
+
+      The judgment of the district court is affirmed.
+                     ______________________________
+
+
+
+
+                                         -16-
+</pre>

@@ -1,0 +1,1071 @@
+<pre class="inline">               IN THE SUPREME COURT, STATE OF WYOMING
+
+                                 </pre><span class="citation no-link">2026 WY 100</span><pre class="inline">
+                                               APRIL TERM, A.D. 2026
+
+                                                    September 23, 2026
+
+
+WAGONHOUND LAND &amp;
+LIVESTOCK COMPANY, LLC, a
+Wyoming limited liability company,
+
+Appellant
+(Plaintiff),
+
+v.
+                                                  S-25-0303
+LITTLE MEDICINE CREEK RANCH,
+INC., a Wyoming corporation, f/k/a
+BURNETT RANCH, INC.,
+
+Appellee
+(Defendant).
+
+
+
+
+LITTLE MEDICINE CREEK RANCH,
+INC., a Wyoming corporation, f/k/a
+BURNETT RANCH, INC.,
+
+Appellant
+(Defendant),
+                                                  S-25-0304
+v.
+
+WAGONHOUND LAND &amp;
+LIVESTOCK COMPANY, LLC, a
+Wyoming limited liability company,
+
+Appellee
+(Plaintiff).
+                     Appeal from the District Court of Albany County
+                         The Honorable Misha E. Westby, Judge
+
+Representing Little Medicine Creek Ranch, Inc.:
+      Mitchell H. Edwards, Nicholas &amp; Tangeman, LLC, Laramie, Wyoming. Eric C.
+      Rusnak, Pillsbury Winthrop Shaw Pittman LLP, Washington, D.C. Argument by Mr.
+      Rusnak.
+
+Representing Wagonhound Land and Livestock Company, LLC:
+      William L. Hiser, Kermit C. Brown, Brown &amp; Hiser, LLC, Laramie, Wyoming.
+      Argument by Mr. Hiser.
+
+
+Before BOOMGAARDEN, C.J., GRAY, FENN, JAROSH, and HILL, JJ.
+
+
+
+
+NOTICE: This opinion is subject to formal revision before publication in Pacific Reporter Third.
+Readers are requested to notify the Clerk of the Supreme Court, Supreme Court Building, Cheyenne,
+Wyoming 82002, of typographical or other formal errors so correction may be made before final
+publication in the permanent volume.
+JAROSH, Justice.
+
+[¶1] Wagonhound Land &amp; Livestock Company (Wagonhound) petitioned the district
+court to establish a private road across neighboring Little Medicine Creek Ranch (LMCR).
+Following a bench trial, the district court established a private road in favor of
+Wagonhound after concluding that the road was necessary for Wagonhound to access an
+isolated tract known as Parcel 1. The district court also established conditions and
+restrictions on the private road. Wagonhound appealed and challenges three of the district
+court’s conditions. In its cross-appeal, LMCR challenges the district court’s findings on
+good faith, necessity, route selection, and damages. LMCR also challenges the district
+court’s rejection of an agricultural-use-only restriction on the private road.
+
+[¶2] We affirm the district court’s findings on good faith, necessity, route selection, and
+damages, as well as its rejection of LMCR’s proposed agricultural-use-only restriction.
+Having found two of the district court’s restrictions on the private road are not supported
+by evidence, we reverse Condition 4 (in part) and Condition 6.
+
+                                      ISSUES
+
+[¶3]   These appeals present the following dispositive issues:
+
+       1.     Did the district court err in finding Wagonhound proceeded with its
+              private road action in good faith?
+
+       2.     Did the district court err in finding necessity for the private road?
+
+       3.     Did the district court err in selecting the route for the private road?
+
+       4.     Did the district court err in its award of damages to LMCR?
+
+       5.     Did the district court err in ordering Conditions 4, 5, and 6 on the
+              private road when those restrictions were not recommended by the
+              Viewers or supported by the record?
+
+       6.     Did the district court err when it denied LMCR’s request to adopt an
+              agricultural-only use restriction?
+
+                             FACTS AND PROCEEDINGS
+
+[¶4] Parcel 1 rests in a remote and rugged area of northern Albany County. At
+approximately 640 acres, Parcel 1 is surrounded almost entirely by deeded land owned by
+
+
+
+                                              1
+LMCR and known as the Burnett Ranch. 1 To the east, Parcel 1 adjoins a small tract of
+land managed by the Bureau of Land Management (BLM) and a section of State trust land.
+As depicted below and aligned to the north, BLM land is shown in light yellow, State trust
+land is blue, and LMCR land is orange:
+
+
+
+
+LMCR’s BLM grazing allotment falls generally inside the red fenceline depicted in the
+image above, whereas Wagonhound’s BLM grazing allotment is to the east.
+
+[¶5] On April 21, 2023, Wagonhound sent LMCR a letter expressing interest in
+purchasing legally enforceable access to Parcel 1. It also shared its intent to construct a
+partition fence around Parcel 1. After Wagonhound’s effort to secure access to Parcel 1
+proved unsuccessful, it filed a complaint with the district court to establish a private road
+pursuant to Wyoming’s private road statute. See </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 24-9-101-105</span><pre class="inline"> (2026).
+
+        A.      Initial Proceedings
+
+[¶6] The district court held an initial hearing to determine the necessity of establishing a
+private road. The district court found Wagonhound established necessity because it did
+not have legally enforceable access to Parcel 1. Although Wagonhound has an outlet from
+Parcel 1 to adjoining BLM land, the court reasoned that Parcel 1 is still “landlocked”
+
+
+1
+ In 2023, this Court affirmed a district court decision to quiet title to Parcel 1 to Wagonhound following
+an effort by LMCR to claim the parcel through adverse possession. See generally, Little Medicine Creek
+Ranch, Inc. v. d’Elia Trustee of the d’Elia Fam. Trust, </pre><span class="citation" data-id="9387279"><a href="/opinion/9391803/little-medicine-creek-ranch-inc-a-wyoming-corporation-fka-burnett/" aria-description="Citation for case: Little Medicine Creek Ranch, Inc., a Wyoming Corporation,...">2023 WY 30</a></span><pre class="inline">, </pre><span class="citation no-link">527 P.3d 856</span><pre class="inline"> (Wyo. 2023).
+                                                    2
+because vehicle access is controlled by LMCR. The district court also rejected a claim by
+LMCR that Wagonhound failed to bring its private road action in good faith.
+
+[¶7] As required by statute, the district court appointed three disinterested viewers and
+appraisers (the Viewers) to “locate and mark out a private road and alternative routes as
+they deem appropriate …” </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026). The district court issued
+its instructions for the Viewers and appointed Don Schramm, Jon Keil, and Professor Alan
+Romero. Mr. Schramm is a licensed surveyor and former BLM employee once responsible
+for supervising transportation planning, road construction, road maintenance, and easement
+acquisition. Mr. Keil is a rancher, outfitter, real estate broker, and licensed attorney.
+Professor Romero teaches introductory and advanced property law courses at the
+University of Wyoming College of Law. He also instructs classes on real estate finance,
+land use law, and agricultural law. Professor Romero’s scholarship similarly focuses on
+property law, land use, and takings.
+
+       B.     Locating the Private Road
+
+[¶8] The district court instructed the Viewers to consider the two routes identified by the
+parties in their pleadings. The map below, aligned to the north, depicts the general location
+of the potential routes:
+
+
+
+
+              1.     Wagonhound’s Proposed Route
+[¶9] Wagonhound proposed connecting the southern end of Parcel 1 with a county road
+by relying, in part, on an existing route LMCR uses to access its seasonal headquarters.
+The first 0.8 miles of this proposed route from the county road is a “marginal road” until
+the point where LMCR turns off to its headquarters. After that fork, the proposed route is
+a two-track road until it reaches the southern portion of Parcel 1.
+
+                                             3
+                2.       LMCR’s Alternative Route
+
+[¶10] The alternative route LMCR recommended joins the county road at the same point
+as the proposed route but follows a developed road for one mile until arriving at a gravel
+pit owned by LMCR. From there, Wagonhound would need to construct a new segment
+of road approximately 1/3 of a mile long to access Parcel 1. However, a rocky ridge
+separates the gravel pit from Parcel 1. As a result, it would require significant construction
+to complete the route.
+
+                3.       The Parsons Creek Route
+
+[¶11] In addition to identifying its alternative route for the private road, LMCR’s answer
+alleged a private road is not necessary because Wagonhound has an outlet from Parcel 1 to
+the adjoining BLM parcel. 2 The outlet consists of a rough two-track road across the
+adjoining BLM parcel which then crosses a State trust section before arriving at LMCR
+deeded land. That existing two-track must then bisect approximately 1,700 feet of LMCR
+before returning to a larger tract of BLM land to the east. 3 LMCR maintains the outlet
+from Parcel 1 constitutes access to a public road because the road is on public land.
+
+[¶12] LMCR also maintains the Parsons Creek Route provides Wagonhound with legally
+enforceable access to Parcel 1 from the east because it can secure authorization from BLM
+and the State of Wyoming to construct a bypass around LMCR’s deeded land, thereby
+connecting the two BLM tracts through the State trust section. Such a bypass would allow
+Wagonhound to travel from east to west several miles from Wagonhound’s BLM grazing
+allotment to Parcel 1.
+
+        C.      The Viewers’ Report and Recommendations
+
+[¶13] After conducting a site visit, the Viewers recommended locating the private road
+along Wagonhound’s proposed route. The Viewers determined the proposed route “is the
+most reasonable and convenient” and is “shorter and more direct” than the alternative route
+
+2
+  The private road statute requires a defendant’s answer to “set forth the location and description” in a
+specified manner of “any alternative routes proposed by the defendant and the owners of record.” </pre><span class="citation no-link">Wyo.
+Stat. Ann. § 24-9-101</span><pre class="inline">(b) (2026). LMCR’s answer identified the alleged outlet from Parcel 1 in its answer
+but did not set forth the complete Parsons Creek Route as an alternative route as required by statute. LMCR
+maintains it did not designate the Parsons Creek Route in its answer because it believes the route is a public
+road. Later, LMCR asked the district court to consider the Parsons Creek Route at trial, and it did so.
+Because Wagonhound did not object, and the Parsons Creek Route was a basis for the district court’s order,
+we will consider the matter as an issue tried by consent. See W.R.Civ.P. 15(b)(2) (For Issues Tried by
+Consent).
+3
+  The record offers conflicting positions as to whether LMCR would grant Wagonhound an easement to
+cross the 1,700 feet of LMCR land to use the Parsons Creek Route. The bulk of the record, however,
+reflects LMCR’s strong opposition to entertain any easement.
+                                                      4
+offered by LMCR. The Viewers also expressed doubt about the viability of the alternative
+route. Although the alternative route would allow Wagonhound to use an established road
+to reach LMCR’s gravel pit, the Viewers anticipated the rocky ridge separating the gravel
+pit from Parcel 1 would deny Wagonhound winter access to its property.
+
+[¶14] The Viewers also determined the private road along the proposed route would affect
+680 acres of LMCR land. They relied on calculations and appraisals from a comparable
+report, the Lummis Report, used to establish a private road on a property in Albany and
+Platte County. Unable to find better sales data, the Viewers adopted the value used in the
+Lummis Report — a $90 per acre reduced market value for land with a private road
+easement. The Viewers prepared a “before and after” appraisal and concluded that LMCR
+suffered $61,200 in damages from locating the private road along the proposed route.
+
+[¶15] The Viewers made two other recommendations. First, they suggested the private
+road should not exceed thirty feet in width, with the centerline along the existing ranch
+road. Second, the Viewers recommended Wagonhound install and maintain culverts and
+“be responsible for maintaining the road for its use.”
+
+[¶16] While not a proposed route, LMCR asked the Viewers to look at the Parsons Creek
+Route. The Viewers attempted to traverse the route from the west before turning around
+halfway due to the steepness and ruggedness of the terrain. One Viewer described the
+Parsons Creek Route after it leaves the 1,700 feet of LMCR land as “not much more than
+a trail.” A Wagonhound surveyor similarly attempted to locate the Parsons Creek Route
+from the opposite direction and reported a similar experience, testifying the route “was
+more of a trail than a road.”
+
+       D.     The District Court’s Order
+
+[¶17] Following a two-day bench trial during which the Viewers and the parties’
+respective witnesses testified, the district court entered an order establishing a private road
+along the Viewers’ recommended route, i.e., Wagonhound’s proposed route. It also
+ordered Wagonhound to pay LMCR the recommended $61,200 in damages and costs. In
+adopting the Viewers’ damage recommendation, the district court found that “there was no
+testimony or evidence provided that disputed the viewers’ calculations of the 680 acres of
+affected land, the $90 dollars per acre of decreased value of the land after the private road
+is established, nor was there testimony disputing the calculation of the $61,200 in
+damages.”
+
+[¶18] The district court also denied LMCR’s request to order Wagonhound to pay $30,000
+to $50,000 per year in alleged “operational damages” because Wyoming Statute, § 24-9-
+101(j) (2026), does not authorize such damages.
+
+
+
+                                              5
+[¶19] Finally, the district court ordered seven conditions on the private road, three of
+which are disputed in this appeal:
+
+      [Condition] 4. Wagonhound is responsible for maintaining the road for its
+      use, including all expenses related to installing culverts, upkeep, and
+      maintenance of the road. Wagonhound is responsible for paying all costs
+      associated with fixing any damage caused to the road, regardless of whether
+      LMCR or Wagonhound, or any associated guests, actually caused the
+      damage.
+
+      [Condition] 5. Wagonhound is required to maintain the road so as to
+      minimize extra dust that may affect LMCR’s property. Wagonhound shall
+      regularly apply water as a dust suppressant to the road to reduce dust.
+
+      [Condition] 6. The only vehicles that will be permitted to use the private road
+      to access Wagonhound’s property are vehicles with four or less axels [sic].
+      Semi-tractor-trailers will not be permitted on the road, unless related to
+      maintenance, repairs, construction, and dust mitigation of the road.
+
+The district court adopted these conditions “to reduce the damage to LMCR’s property.”
+It recognized that LMCR requires the gravel operation on its land to use water as a dust
+suppressant on the gravel pit road and reasoned:
+
+       [S]ince LMCR already approves of this dust suppressant method, that is the
+       method the Court will order Wagonhound to perform on the new road. In
+       addition, to decrease dust and any nuisance from extra noises and lights, the
+       Court has determined Wagonhound will not be permitted to use the new road
+       for semi-tractor-trailer traffic in order to mitigate the damage to LMCR’s
+       property.
+
+The district court also denied LMCR’s request to adopt a condition limiting the private
+road to only agricultural purposes because LMCR did not provide any evidence that any
+roads in the area had a similar restriction.
+
+                          STANDARD OF REVIEW
+
+[¶20] The district court held a bench trial pursuant to Wyoming Statute § 24-9-103(a)
+(2026). We therefore review the district court’s “findings of fact for clear error, and its
+conclusions of law de novo.” Sharpe v. Timchula, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#19" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">2019 WY 121, ¶ 19</a></span><pre class="inline">, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#766" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d 761, 766</a></span><pre class="inline">
+(Wyo. 2019) (citing Clark v. Ryan Park Prop. &amp; Homeowners Ass’n, </pre><span class="citation" data-id="2765305"><a href="/opinion/2765305/clark-v-ryan-park-property-homeowners-assn/#6" aria-description="Citation for case: Clark v. Ryan Park Property &amp; Homeowners Ass&#x27;n">2014 WY 169, ¶ 6</a></span><pre class="inline">,
+</pre><span class="citation" data-id="2765305"><a href="/opinion/2765305/clark-v-ryan-park-property-homeowners-assn/#289" aria-description="Citation for case: Clark v. Ryan Park Property &amp; Homeowners Ass&#x27;n">340 P.3d 288, 289</a></span><pre class="inline"> (Wyo. 2014)). When reviewing a district court’s factual findings for
+clear error, we have stated:
+
+
+                                            6
+              The factual findings of a judge are not entitled to the limited
+              review afforded a jury verdict. While the findings are
+              presumptively correct, the appellate court may examine all of
+              the properly admissible evidence in the record. Due regard is
+              given to the opportunity of the trial judge to assess the
+              credibility of the witnesses, and our review does not entail
+              reweighing disputed evidence. Findings of fact will not be set
+              aside unless they are clearly erroneous. A finding is clearly
+              erroneous when, although there is evidence to support it, the
+              reviewing court on the entire evidence is left with the definite
+              and firm conviction that a mistake has been committed. In
+              considering a trial court’s factual findings, we assume that the
+              evidence of the prevailing party below is true and give that
+              party every reasonable inference that can fairly and reasonably
+              be drawn from it. We do not substitute ourselves for the trial
+              court as a finder of facts; instead, we defer to those findings
+              unless they are unsupported by the record or erroneous as a
+              matter of law. The district court’s conclusions of law are
+              reviewed de novo.
+
+Boot Ranch, LLC v. Wagonhound Land &amp; Livestock Co., LLC, </pre><span class="citation" data-id="10759209"><a href="/opinion/10292621/boot-ranch-llc-a-wyoming-close-limited-liability-company-v-wagonhound/#23" aria-description="Citation for case: Boot Ranch, Llc, a Wyoming Close Limited Liability...">2024 WY 136, ¶ 23</a></span><pre class="inline">, </pre><span class="citation" data-id="10759209"><a href="/opinion/10292621/boot-ranch-llc-a-wyoming-close-limited-liability-company-v-wagonhound/#893" aria-description="Citation for case: Boot Ranch, Llc, a Wyoming Close Limited Liability...">560
+P.3d 887, 893</a></span><pre class="inline"> (Wyo. 2024) (citations omitted).
+
+                                      DISCUSSION
+
+I.     Wagonhound proceeded with the private road action in good faith.
+
+[¶21] LMCR maintains the district court erred in finding Wagonhound acted in good faith
+when it initiated its private road action. According to LMCR, Wagonhound acted in bad
+faith when it: (1) failed to make a firm offer to purchase a private easement; (2) demanded
+LMCR share the cost of a partition fence; and (3) bid on an adjoining State trust land lease
+during the private road proceedings.
+
+[¶22] Proceeding in good faith is a substantive requirement for commencing a private road
+action. Lavitt v. Stephens, </pre><span class="citation" data-id="2793895"><a href="/opinion/2793895/gregory-d-lavitt-and-debra-c-lavitt/#18" aria-description="Citation for case: Gregory D. Lavitt and Debra C. Lavitt">2015 WY 57, ¶ 18</a></span><pre class="inline">, </pre><span class="citation" data-id="2793895"><a href="/opinion/2793895/gregory-d-lavitt-and-debra-c-lavitt/#519" aria-description="Citation for case: Gregory D. Lavitt and Debra C. Lavitt">347 P.3d 514, 519</a></span><pre class="inline"> (Wyo. 2015). “Our
+definition of good faith is that it encompasses an honest, lawful intent, and actions taken
+without knowledge of fraud and without any intent to assist in any fraudulent or otherwise
+unlawful scheme.” Williston Basin Interstate Pipeline Co. v. Wyo. Pub. Serv. Comm’n,
+</pre><span class="citation" data-id="1316012"><a href="/opinion/1316012/williston-basin-interstate-pipeline-co-v-wyoming-public-service/#668" aria-description="Citation for case: Williston Basin Interstate Pipeline Co. v. Wyoming Public...">996 P.2d 663, 668</a></span><pre class="inline"> (Wyo. 2000) (quoting Brown v. Avery, </pre><span class="citation" data-id="9534630"><a href="/opinion/1130970/brown-v-avery/#617" aria-description="Citation for case: Brown v. Avery">850 P.2d 612, 617</a></span><pre class="inline"> (Wyo. 1993)
+(Thomas, J., specially concurring)); see also Mayland v. Flitner, </pre><span class="citation" data-id="2525241"><a href="/opinion/2525241/mayland-v-flitner/#16" aria-description="Citation for case: Mayland v. Flitner">2001 WY 69, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="2525241"><a href="/opinion/2525241/mayland-v-flitner/#845" aria-description="Citation for case: Mayland v. Flitner">28
+P.3d 838, 845</a></span><pre class="inline"> (Wyo. 2001).
+
+
+
+                                             7
+[¶23] LMCR argues Wagonhound did not comply with the good faith requirement
+because it did not offer a “definite price” for purchasing access to Parcel 1. The statute, in
+relevant part, requires a complaint for establishing a private road to provide, “[a]
+description of the plaintiff’s efforts to purchase a legally enforceable access to a public
+road[.]” </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(a)(iii) (2026).
+
+[¶24] In its complaint, Wagonhound stated it contacted LMCR through written letters and
+phone conversations inviting negotiations to purchase private road access, and that those
+conversations were unsuccessful. Indeed, an April 21, 2023, letter to LMCR from
+Wagonhound identified Parcel 1, described its proposed route for the private road, and
+stated, “we hereby offer to purchase a thirty-foot (30’) non-exclusive access right-of-way,
+fifteen feet on either side of centerline of the existing ranch roads and as indicated on the
+[attached] maps.” That letter also stated Wagonhound was “willing to offer LMCR the
+difference between the appraised value of its land with and without the proposed easement
+or a fair price per rod for acquisition.”
+
+[¶25] We find no textual support for the notion that </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(a)(iii)
+(2026) required Wagonhound to make a sum certain offer to purchase legal access before
+initiating its private road action. See, e.g., Adekale v. State, </pre><span class="citation multiple-matches"><a href="/c/WY/2015/30/">2015 WY 30</a></span><pre class="inline">, ¶ 13, </pre><span class="citation" data-id="2782385"><a href="/opinion/2782385/adebowale-oluseyi-adekale-aka-ted-adekale/#765" aria-description="Citation for case: Adebowale Oluseyi Adekale A/K/A Ted Adekale">344 P.3d
+761, 765</a></span><pre class="inline"> (Wyo. 2015) (stating “we will not add language or choose other words to change
+the meaning of a statute.”) (citation omitted). Wagonhound’s offer to purchase access was
+not evasive; it constituted a reasonable effort to start negotiating with LMCR. Because
+Wagonhound attempted to purchase access, and then described those efforts in its
+complaint, it satisfied the requirements of </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(a)(iii) (2026).
+
+[¶26] LMCR also argues Wagonhound acted in bad faith because it sought to construct a
+partition fence around Parcel 1. In its offer to purchase access to Parcel 1, Wagonhound
+notified LMCR it intended to construct a partition fence around the inholding and seek
+one-half of the cost for constructing the fence from LMCR. Under Wyoming law, “the
+owner of any lawful fence which is or becomes a partition fence separating the owner’s
+land from that belonging to some other person may require the person to pay for one-half
+(½) of what it would or does actually cost to construct the partition fence.” </pre><span class="citation no-link">Wyo. Stat.
+Ann. § 11-28-106</span><pre class="inline">(a) (2026). As the owner of Parcel 1, Wyoming law entitles Wagonhound
+to construct the partition fence and recover one-half of the cost from LMCR. Absent any
+argument the proposed fence is unlawful, Wagonhound’s plans to construct a partition
+fence does not amount to bad faith. See </pre><span class="citation no-link">Wyo. Stat. Ann. § 11-28-102</span><pre class="inline"> (2026) (defining
+lawful fences generally).
+
+[¶27] Finally, LMCR claims Wagonhound acted in bad faith by filing a conflicting State
+grazing lease application after filing its private road action. Wagonhound’s conflicting
+lease application competed with LMCR for access to grazing on State lands adjacent to
+Parcel 1. LMCR’s argument lacks merit. Any conflicting application for a grazing lease
+on State trust lands must be filed by a qualified applicant and submitted within a narrow
+
+                                              8
+statutory window. See, e.g., </pre><span class="citation no-link">Wyo. Stat. Ann. § 36-5-104</span><pre class="inline">(b)(2026) (process for filing a
+conflicting application to lease grazing and agricultural lands). Although LMCR suggests
+Wagonhound’s application was filed for unscrupulous reasons, the timing of that
+application was dictated by the term of the existing lease and Wyoming statute. LMCR
+also takes issue with acknowledgements and statements Wagonhound made in its
+application about its access and existing fencing in relation to the State trust land.
+Considering good faith is a prerequisite to commencing a private road action, in this
+context, LMCR’s argument is unconvincing. See Mayland, ¶ 13, </pre><span class="citation" data-id="2525241"><a href="/opinion/2525241/mayland-v-flitner/#843" aria-description="Citation for case: Mayland v. Flitner">28 P.3d at 843</a></span><pre class="inline"> (“This
+court has found good faith in bringing the application is an essential prerequisite.”).
+Otherwise, any allegation against Wagonhound regarding their application for a State
+grazing lease is best addressed by the State Board of Land Commissioners.
+
+[¶28] Wagonhound acted lawfully and complied with </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(a)(iii)
+(2026) in initiating the private road action. The district court did not err when it concluded
+Wagonhound proceeded in good faith.
+
+II.    The district court did not err in finding a necessity for the private road.
+
+[¶29] “Wyoming’s private road statute was enacted to ensure that a landowner who
+otherwise has no access to his property is able to use his land for productive purposes.”
+Thornock v. Esterholdt, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#15" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">2016 WY 63, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#754" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d 750, 754</a></span><pre class="inline"> (Wyo. 2016) (citations
+omitted). The statute outlines the circumstances under which a private road will be
+considered and the information required to support a private road complaint. See </pre><span class="citation no-link">Wyo.
+Stat. Ann. § 24-9-101</span><pre class="inline">(a) (2026) (requirements for commencing a private road complaint).
+“The taking of property for a private road is, however, constitutionally restricted, and any
+private road applicant must make a threshold showing that the road is a necessity.”
+Thornock, ¶ 16, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d at 755</a></span><pre class="inline"> (citing Reidy v. Stratton Sheep Co., </pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/#11" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">2006 WY 69, ¶ 11</a></span><pre class="inline">,
+</pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/#604" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">135 P.3d 598, 604</a></span><pre class="inline"> (Wyo. 2006)); see also In re Crago, </pre><span class="citation" data-id="5154615"><a href="/opinion/5325037/elk-horn-ranch-inc-v-board-of-county-commissioners/#17" aria-description="Citation for case: Elk Horn Ranch, Inc. v. Board of County Commissioners">2007 WY 158, ¶ 17</a></span><pre class="inline">, </pre><span class="citation" data-id="5154615"><a href="/opinion/5325037/elk-horn-ranch-inc-v-board-of-county-commissioners/#854" aria-description="Citation for case: Elk Horn Ranch, Inc. v. Board of County Commissioners">168 P.3d 845,
+854</a></span><pre class="inline"> (Wyo. 2007) (“Wyo. Const. Art. I, § 32 mandates that in order to constitutionally
+justify a private condemnation of property, there must be necessity.”).
+
+[¶30] The district court must hold an initial hearing to determine whether the plaintiff has
+satisfied the requirements of the statute and that “access is necessary because the plaintiff
+has no legally enforceable access.” </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026). Once a plaintiff
+proves there is no legally enforceable means to gain access to a public road, the plaintiff
+has demonstrated the “necessity” for a private road. In re Crago, ¶ 6, </pre><span class="citation" data-id="5154615"><a href="/opinion/5325037/elk-horn-ranch-inc-v-board-of-county-commissioners/" aria-description="Citation for case: Elk Horn Ranch, Inc. v. Board of County Commissioners">168 P.3d at 849</a></span><pre class="inline">
+(citing Pine Bar Ranch, LLC v. Luther, </pre><span class="citation" data-id="2635256"><a href="/opinion/2635256/pine-bar-ranch-llc-v-luther/#9" aria-description="Citation for case: Pine Bar Ranch, LLC v. Luther">2007 WY 35, ¶ 9</a></span><pre class="inline">, </pre><span class="citation" data-id="2635256"><a href="/opinion/2635256/pine-bar-ranch-llc-v-luther/#1066" aria-description="Citation for case: Pine Bar Ranch, LLC v. Luther">152 P.3d 1062, 1066</a></span><pre class="inline"> (Wyo.
+2007)) (citation modified).
+
+[¶31] At the initial hearing, the district court concluded Wagonhound demonstrated
+necessity by showing Parcel 1 was landlocked. LMCR argues the district court erred in its
+finding because a two-track road to adjoining BLM land provides Wagonhound with an
+“immediate” outlet from Parcel 1 and connection to what LMCR considers a public road.
+
+                                              9
+Additionally, LMCR argues the two-track road on BLM land provides Wagonhound with
+access to a public road via the Parsons Creek Route.
+
+[¶32] LMCR land prevents the two-track road outlet from Parcel 1 from connecting to the
+Parsons Creek Route. Therefore, we will bifurcate LMCR’s necessity arguments. We will
+first consider whether the BLM two-track road in and of itself is a public road, then we will
+determine whether the Parsons Creek Route provides Wagonhound with legally
+enforceable access to a public road.
+
+       A.     The adjoining BLM land does not provide Wagonhound with an outlet
+              to or connection with a public road.
+
+[¶33] An isolated tract of BLM land adjoins Parcel 1 to the east. A primitive two-track
+leads from Parcel 1, crosses the BLM land, bisects a section of State trust land, and then
+reaches LMCR property. Because that route provides Wagonhound with a point of egress
+from Parcel 1 to a road on public land, LMCR argues Wagonhound has an outlet to and
+connection with a public road.
+
+[¶34] “The [Wyoming private road] statute does not require connection with a public road
+that is state or county controlled.” McGuire v. McGuire, </pre><span class="citation" data-id="9562457"><a href="/opinion/1208610/mcguire-v-mcguire/#1287" aria-description="Citation for case: McGuire v. McGuire">608 P.2d 1278, 1287</a></span><pre class="inline"> (Wyo. 1980).
+As a matter of law, we have held “a road over federal lands may be considered a public
+road within the meaning of our private road statutes, provided the characteristics of the
+road indicate it is available to the general public.” Reidy, ¶ 19, </pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/#606" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">135 P.3d at 606</a></span><pre class="inline">. In the
+absence of a statutory definition, we define a “public road” as “one that the public generally
+— not merely a portion of the public — is privileged to use.” Reidy, ¶ 13, </pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">135 P.3d at 605</a></span><pre class="inline">
+(quoting McGuire, </pre><span class="citation" data-id="9562457"><a href="/opinion/1208610/mcguire-v-mcguire/#1287" aria-description="Citation for case: McGuire v. McGuire">608 P.2d at 1287-88</a></span><pre class="inline">).
+
+[¶35] LMCR equates Wagonhound’s legal access to adjoining public land as access to a
+public road for purposes of the private road statute. But LMCR’s argument requires this
+Court to conclude that having a point of egress from a landlocked parcel alone is sufficient
+to demonstrate a lack of necessity for a private road. That argument is inconsistent with
+the plain language in the statute. Wyoming’s private road statute provides “[a]ny person
+whose land has no outlet to, nor connection with a public road” may commence a private
+road action. </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(a) (2026) (emphasis added). Because “nor” is a
+coordinating conjunction meaning “and not” the plain language of the statute requires both
+an outlet and connection with a public road. See nor, Webster’s Third New International
+Dictionary (2023) (“and not – often used with inversion of subject and predicate after an
+affirmative that is equivalent to or implies a negative”); and Wyo. Dep’t of Revenue v.
+PacifiCorp, </pre><span class="citation" data-id="11212554"><a href="/opinion/10745969/wyoming-department-of-revenue-v-pacificorp-and-merit-energy-company-llc/#36" aria-description="Citation for case: Wyoming Department of Revenue v. Pacificorp and Merit...">2025 WY 126, ¶ 36</a></span><pre class="inline">, </pre><span class="citation no-link">580 P.3d 491</span><pre class="inline">, 501 (Wyo. 2025) (recognizing we “construe
+each statutory provision in pari materia, giving effect to every word, clause, and sentence
+according to their arrangement and connection.”) (citations omitted). The controlling
+question, therefore, is whether the two-track road on the adjoining BLM land leading from
+Parcel 1 possesses the characteristics of a public road.
+
+                                             10
+[¶36] Practical considerations govern our determination as to whether a road is a public
+road. See, e.g., McGuire, </pre><span class="citation" data-id="9562457"><a href="/opinion/1208610/mcguire-v-mcguire/#1287" aria-description="Citation for case: McGuire v. McGuire">608 P.2d at 1287</a></span><pre class="inline"> (relying on evidence and testimony of actual,
+longstanding public use of a BLM road); Reidy, ¶ 20, </pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/#606" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">135 P.3d at 606-07</a></span><pre class="inline"> (noting evidence
+the Forest Service improved and maintained the road); Thornock, ¶ 23, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#757" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d at 757</a></span><pre class="inline">
+(evidence the BLM road was open for public recreation and casual use); see also Pine Bar
+Ranch, LLC, ¶¶ 14-15, </pre><span class="citation" data-id="2635256"><a href="/opinion/2635256/pine-bar-ranch-llc-v-luther/#1068" aria-description="Citation for case: Pine Bar Ranch, LLC v. Luther">152 P.3d at 1068-69</a></span><pre class="inline"> (considering the Bureau of Indian Affairs
+regulatory definition of a public road and evidence road use was limited to ranch
+employees). The Court also does not presume a road is public merely because the road is
+in the public domain. See Wagstaff v. Sublette Cnty. Bd. of Cnty. Comm’rs, </pre><span class="citation" data-id="2581846"><a href="/opinion/2581846/wagstaff-v-sublette-county-board-of-county-commissioners/#17" aria-description="Citation for case: Wagstaff v. Sublette County Board of County Commissioners">2002 WY 123,
+¶ 17</a></span><pre class="inline">, </pre><span class="citation" data-id="2581846"><a href="/opinion/2581846/wagstaff-v-sublette-county-board-of-county-commissioners/#8384" aria-description="Citation for case: Wagstaff v. Sublette County Board of County Commissioners">53 P.3d 79, 8384</a></span><pre class="inline"> (Wyo. 2002) (noting the absence of evidence that the public has the
+privilege to traverse unimproved dirt tracks on State trust and BLM land).
+
+[¶37] Only surrounding landowners or their employees are known to have ever used the
+two-track road across the isolated BLM tract adjoining Parcel 1. BLM’s grazing allotment
+map indicates the existence of this two-track road and shows all points leading to/from the
+road blocked by private land – Parcel 1 to the west, LMCR to the south and north, and after
+crossing the State trust land LMCR to the northeast. At the necessity hearing, a BLM
+employee expressed doubt as to whether the BLM portion of the road is publicly accessible
+because private land thwarts any vehicle access. Specifically, the existing two-track road
+must cross 1,700 feet of private land owned by LMCR before crossing back onto BLM
+land.
+
+[¶38] LMCR maintains we can rely on Thornock to conclude Wagonhound has access to
+a public road. In Thornock, the Court considered whether a two-track road on public land
+connecting the petitioning landowner’s south and north properties was a public road.
+Thornock, ¶¶ 22-28, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#756" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d at 756-57</a></span><pre class="inline">. There, the petitioning landowner controlled both
+ends of the two-track road and claimed it was not a public road because he selectively
+determined which members of the public were allowed to use the road. Id., ¶ 24, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#756" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d
+at 756-57</a></span><pre class="inline">. We found the two-track was a public road because the relevant land
+management agency considered it open to public use, and but for petitioners’ gatekeeping,
+the road provided recreational access to the public. Id., ¶¶ 25-28, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#757" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d at 757</a></span><pre class="inline">.
+
+[¶39] However, LMCR conceded at oral argument Thornock is distinguishable. Unlike
+that case, all access to the isolated BLM two-track is controlled by LMCR. The two-track
+road, therefore, is a dead end for Wagonhound — after leaving Parcel 1, vehicles can only
+access the adjoining BLM tract or State trust lands until reaching LMCR property.
+Likewise, LMCR’s land prevents vehicle traffic from accessing the two-track road in the
+opposite direction. Accordingly, Thornock is not persuasive here.
+
+[¶40] Because no evidence was offered at trial showing the public has ever used the BLM
+two-track road, our reasoning in Wagstaff controls. See Wagstaff, ¶ 17, </pre><span class="citation" data-id="2581846"><a href="/opinion/2581846/wagstaff-v-sublette-county-board-of-county-commissioners/#83" aria-description="Citation for case: Wagstaff v. Sublette County Board of County Commissioners">53 P.3d at 83-84</a></span><pre class="inline">
+(noting the absence of any evidence that the public generally has the privilege to traverse
+
+                                            11
+the unimproved dirt tracks on federal and State trust land). In that case, we found the
+unimproved dirt tracks crossing BLM and State trust lands were not a public road because
+BLM did not maintain it, the route was only slowly passable during summer months, and
+it was only used occasionally by hunters. Id., ¶¶ 15-20, </pre><span class="citation" data-id="2581846"><a href="/opinion/2581846/wagstaff-v-sublette-county-board-of-county-commissioners/#83" aria-description="Citation for case: Wagstaff v. Sublette County Board of County Commissioners">53 P.3d at 83-84</a></span><pre class="inline">. None of the
+practical considerations we typically consider are present, and trial testimony reveals only
+adjoining landowners or their employees are known to have accessed the adjoining BLM
+tract. Id.; see also Pine Bar Ranch, ¶ 15, </pre><span class="citation" data-id="2635256"><a href="/opinion/2635256/pine-bar-ranch-llc-v-luther/#1069" aria-description="Citation for case: Pine Bar Ranch, LLC v. Luther">152 P.3d at 1069</a></span><pre class="inline"> (finding the access road in
+question was not a public road based on the limited class of individuals (e.g., employees,
+former employees, and family members) allowed to access the road).
+
+[¶41] Given the physical isolation of the two-track segment, and the lack of evidence that
+the public has ever accessed it, the outlet is not to a public road. See Reidy, ¶ 13, </pre><span class="citation" data-id="2639584"><a href="/opinion/2639584/reidy-v-stratton-sheep-co/#605" aria-description="Citation for case: Reidy v. Stratton Sheep Co.">135 P.3d
+at 605</a></span><pre class="inline"> (reiterating “[a] public road is one that the public generally—not merely a portion
+of the public—is privileged to use.”). The district court did not err when it concluded
+Wagonhound satisfied the necessity requirement of the private road statute.
+
+       B.     The Parsons Creek Route does not provide Wagonhound with an
+              existing outlet to or connection with a public road.
+
+[¶42] Alternatively, LMCR challenges the district court’s necessity finding by arguing
+that Wagonhound has access to a public road because it can secure BLM authorization to
+construct a new road around LMCR, thereby connecting the two-track road with the
+Parsons Creek Route. That argument is unconvincing and inconsistent with the private
+road statute.
+
+[¶43] We have held that the “no outlet to, nor connection with” language in Wyoming
+Statute § 24-9-101(a) means “no legally enforceable, existing outlet to nor connection with
+a public road.” Reaves v. Riley, </pre><span class="citation" data-id="1147676"><a href="/opinion/1147676/reaves-v-riley/#1137" aria-description="Citation for case: Reaves v. Riley">782 P.2d 1136, 1137</a></span><pre class="inline"> (Wyo. 1989) (citing McGuire, </pre><span class="citation" data-id="9562457"><a href="/opinion/1208610/mcguire-v-mcguire/#1286" aria-description="Citation for case: McGuire v. McGuire">608
+P.2d at 1286</a></span><pre class="inline">) (emphasis added). The bypass LMCR wants Wagonhound to use does not
+physically exist; therefore, the Parsons Creek Route does not provide Wagonhound with a
+legally enforceable connection to a public road.
+
+[¶44] In lieu of constructing its own public land bypass, LMCR maintains Wagonhound
+can obtain a permit to trail livestock with dirt bikes across the roadless section of BLM
+land. An authorization to trail livestock across open range is not the type of “outlet” or
+“connection” contemplated by </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline"> (2026). See Reaves, </pre><span class="citation" data-id="1147676"><a href="/opinion/1147676/reaves-v-riley/#1137" aria-description="Citation for case: Reaves v. Riley">782 P.2d
+at 1137</a></span><pre class="inline"> (noting a legal right to cross a property alone, is not an “outlet” for purposes of the
+private road statute). LMCR’s open range trailing suggestion also tacitly concedes the very
+point it seeks to refute – Parcel 1 is landlocked and only accessible by vehicle across LMCR
+land.
+
+[¶45] Even if a bypass road connecting the BLM two-track road and the Parsons Creek
+Route existed, the district court concluded the Parsons Creek Route was not a reasonable,
+
+                                              12
+convenient, or practical option. See Tilden v. Jackson, </pre><span class="citation" data-id="11057363"><a href="/opinion/10590775/samuel-j-tilden-v-linda-j-jackson/#13" aria-description="Citation for case: Samuel J. Tilden v. Linda J. Jackson">2025 WY 57, ¶ 13</a></span><pre class="inline">, </pre><span class="citation no-link">568 P.3d 1197</span><pre class="inline">,
+1202 (Wyo. 2025) (recognizing courts must also “inquire into the convenience of using the
+available public road.”) (citing Thornock, ¶ 18, </pre><span class="citation" data-id="4025104"><a href="/opinion/4247843/jason-john-thornock-and-tracy-thornock-v-erick-w-esterholdt-as-trustee/#755" aria-description="Citation for case: Jason John Thornock and Tracy Thornock v. Erick W....">375 P.3d at 755</a></span><pre class="inline">). LMCR claims the district
+court lacked evidence to weigh the inconvenience of the Parsons Creek Route. We
+disagree; the record unequivocally supports the district court’s findings.
+
+[¶46] The Parsons Creek Route does not appear on the BLM master plat or the Parsons
+Creek grazing allotment map. A BLM employee expressed doubt at the necessity hearing
+about the existence of the Parsons Creek Route and testified he could not locate it using
+aerial imagery. He also confirmed no BLM rights-of-way existed within the grazing
+allotment, which typically would indicate the existence of a road. A second BLM
+employee, a range specialist, confirmed his colleague’s conclusion.
+
+[¶47] The Wagonhound surveyor, Mr. Neumiller, mapped the Parsons Creek Route during
+an effort to find access to Parcel 1 from the east. That effort proved difficult and required
+extensive route finding. Mr. Neumiller testified the Parsons Creek Route “was more of a
+trail than a road” by the time he reached the BLM grazing allotment boundary. As the
+route narrowed, Mr. Neumiller was forced to exchange his side-by-side for an ATV to
+navigate the remaining few miles of terrain. Mr. Neumiller ended his survey where the
+Parsons Creek Route met and continued onto LMCR land. When the Viewers attempted
+to traverse the Parsons Creek Route from the opposite direction, they abandoned their
+efforts halfway through after concluding it was not a reasonable route, also describing it as
+“not much more than a trail.”
+
+[¶48] LMCR land prevents the Parsons Creek Route from connecting with the two-track
+outlet from Parcel 1. The evidence presented at the necessity hearing and trial also shows
+the Parsons Creek Route does not provide vehicle access to Parcel 1. Whether we consider
+the two-track road leading from Parcel 1 in isolation, or the Parsons Creek Route in its
+entirety, neither route offers Wagonhound legally enforceable access to a public road. The
+district court’s finding that a private road was necessary for Wagonhound to access Parcel
+1 was not clearly erroneous.
+
+III.   The district court did not err in selecting the route for the private road.
+
+[¶49] The Viewers recommended locating the private road along the route proposed by
+Wagonhound. The district court then adopted the Viewers’ recommendation, concluding
+it was the most reasonable and convenient route. LMCR argues the Viewers and district
+court clearly erred in selecting this route because it is “more damaging” to LMCR than
+LMCR’s alternative route. Because the proposed route and LMCR’s alternative route meet
+the public road at the same point, LMCR also asserts the district court should have found
+both routes equally convenient.
+
+
+
+                                             13
+       A.      The Viewers’ statutory requirement to recommend “the most
+               reasonable and convenient route” is distinct from their duty when
+               locating and marking out a private road.
+
+[¶50] Section 101(h) establishes statutory requirements for both locating and determining
+the route for a private road. </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 24-9-101</span><pre class="inline">(h) (2026). With respect to route
+selection, “[t]he viewers must recommend to the court, and the court must select, the most
+reasonable and convenient route, provided that access shall be along section and boundary
+lines whenever practical.” Sharpe, ¶ 22, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 767</a></span><pre class="inline"> (citing </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 24-9</span><pre class="inline">-
+101(h), -103(a)) (internal quotations omitted). LMCR’s argument that the Viewers erred
+in “selecting a more damaging route” is inconsistent with the statute because it suggests
+the Viewers were required to select the least damaging route.
+
+[¶51] The plain text of Section 101 requires Viewers to “recommend to the court the most
+reasonable and convenient route . . . .” </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026).
+Correspondingly, Section 103 requires the district court to “select the most reasonable and
+convenient route for the access, . . . .” </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-103</span><pre class="inline"> (a) (2026).
+
+[¶52] The Viewers’ statutory requirement to recommend “the most reasonable and
+convenient route” is distinct from their duty to physically “locate and mark out” a private
+road. </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026). This court has discussed, at length, the series
+of amendments to the private road statute. See Whaley v. Flitner Ltd. P’ship, </pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#16" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">2017 WY 59,
+¶¶ 16-23</a></span><pre class="inline">, </pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#659" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">395 P.3d 653, 659-61</a></span><pre class="inline"> (Wyo. 2011) (comparing 2011 enactments with the 1985
+revision); Sharpe, ¶ 31, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#770" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 770, n.9</a></span><pre class="inline"> (discussing 2013 amendment to vest district
+courts with authority to adjudicate private road actions). The requirement that a proposed
+road, “shall be located so as to do the least possible damage to the lands through which the
+private road is located” has not changed since 1985. 4 Compare 1985 Session Laws ch. 88,
+§§ 1-3; with </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026). Notably, the 1985 statute gave
+significant weight to the petitioner in proposing the route for a private road. Whaley, ¶ 18,
+</pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#659" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">395 P.3d at 659-60</a></span><pre class="inline">; see also Goodman v. Voss, </pre><span class="citation" data-id="9761233"><a href="/opinion/2624771/goodman-v-voss/#31" aria-description="Citation for case: Goodman v. Voss">2011 WY 33, ¶ 31</a></span><pre class="inline">, </pre><span class="citation" data-id="9761233"><a href="/opinion/2624771/goodman-v-voss/" aria-description="Citation for case: Goodman v. Voss">248 P.3d 1120</a></span><pre class="inline"> (Wyo.
+2011) (recognizing under the 1985 statute the petitioner had the right to choose any
+“reasonable and convenient” route for the proposed private road), superseded by statute on
+other grounds.
+
+[¶53] We have interpreted the phrase “least possible damage” in the context of the
+Viewers’ obligation to locate and mark “the exact location of the road so that it will do the
+least possible damage to the land through which it passes.” Dunning v. Ankney, </pre><span class="citation" data-id="1224737"><a href="/opinion/1224737/dunning-v-ankney/#65" aria-description="Citation for case: Dunning v. Ankney">936 P.2d
+61, 65</a></span><pre class="inline"> (Wyo. 1997); see also Whaley, ¶ 18, </pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#660" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">395 P.3d at 660</a></span><pre class="inline"> (stating the statute requires
+Viewers to “locate and mark a private road in accordance with the [petitioners] application
+or in such other manner and location as they deem appropriate.”) (citing 1985 Session Laws
+
+4
+ We note, however, this language was reorganized into a new subsection (h) in 2000 when Section 101
+was restructured. 2000 Session Laws Ch. 88, codified at </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h).
+                                                14
+ch. 88, §§ 1-3). And unless otherwise altered by the Legislature, our precedents of this
+statute hold. See </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-105</span><pre class="inline">(b) (“The legislature further intends that the
+precedents established with respect to the creation of private roads prior to the July 1, 2013,
+amendments to this article should continue to be followed to the extent they are not
+inconsistent with the provisions of this article.”).
+
+[¶54] The most recent 2013 amendments to the private road statute vested district courts
+with the authority to adjudicate private road actions. Sharpe, ¶ 31, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#770" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 770, n.9</a></span><pre class="inline">.
+But those amendments did not alter the Viewers’ obligation to locate the road to do the
+least possible damage to the land through which the private road is located. 2013 Session
+Laws ch. 99, § 2.
+
+[¶55] Viewers have a duty to locate a road to do the least possible damage to the lands
+through which the private road is located. </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h). For example,
+viewers may need to physically locate the private road around existing infrastructure, crop
+lands, or structures to avoid needless damage. And we remain confident in our
+interpretation because adopting LMCR’s position would result in a potentially incongruent
+outcome where the Viewers would have to adopt a route with the least possible damage,
+but the district court would not. See </pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-103</span><pre class="inline">(a) (only requiring the
+district court to “select the most reasonable and convenient route”); see also PacifiCorp, ¶
+48, 580 P.3d at 503 (stating we consider “every word in the statute so as to make it
+harmonious and reasonable in its operation”) (citation omitted).
+
+[¶56] On the other hand, route selection must provide for “the most reasonable and
+convenient route.” </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 24-9-101</span><pre class="inline">(h), -103(a). While the amount of damage
+a particular route might cause to the burdened estate is a factor in the reasonableness of a
+route, it is not conclusive. See, e.g. Whaley, </pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#41" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">2017 WY 59, ¶ 41</a></span><pre class="inline"> (affirming route selection
+where several factors including “which road would cause the least damage to property over
+which it passes” were used in assessing the reasonableness and convenience of a private
+road). Neither the Viewers nor the district court erred in recommending and selecting
+Wagonhound’s proposed route for the private road.
+
+       B.     The proposed route is the most reasonable and convenient route.
+
+[¶57] The Viewers recommended selecting Wagonhound’s proposed route because it is
+shorter and more direct than LMCR’s alternative route. This recommended route follows
+an existing marginal road that transitions into a two-track road. Although Wagonhound’s
+proposed route will require it to perform moderately more improvement than LMCR’s
+alternative route, the last portion of the alternative route would require an entirely new
+segment of road. As a result, the Viewers determined Wagonhound’s proposed route
+provided more reasonable access than LMCR’s alternative route.
+
+
+
+                                              15
+[¶58] Specifically, the alternative route identified by LMCR follows a well-built,
+developed road until it reaches a gravel pit. As the Viewers explained, Wagonhound would
+need to build a new segment of road across a rocky ridge to access Parcel 1.
+
+[¶59] LMCR does not offer any legal authority to support its argument that both routes
+are equally convenient because they meet the public road at the same point. The plain text
+of the statute, however, dispels that notion because Viewers and the district court must
+select “the most reasonable and convenient route for the access” which indicates the entire
+course of travel, not just the point of egress. </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 24-9-101</span><pre class="inline">(h); -103(a)
+(emphasis added); see also route, Webster’s Third New International Dictionary (2023)
+(defining “route” as a “traveled way” in the context of a road or highway).
+
+[¶60] The record supports the district court’s conclusion that the proposed route is the
+most reasonable and convenient route for the private road. The alternative route traverses
+a longer distance across LMCR land and Wagonhound would face a difficult and costly
+construction effort to build a road over a rocky ridge to reach Parcel 1. Moreover, the
+Viewers doubted Wagonhound could access Parcel 1 during winter conditions via the
+alternative route. This Court has declined to second guess a private road designation where
+the alternative route was technically “doable” but “came in second” with respect to its
+reasonableness and convenience. Sharpe, ¶ 31, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 769</a></span><pre class="inline"> (citing Whaley, ¶ 40, </pre><span class="citation" data-id="4169029"><a href="/opinion/4391776/patrick-j-whaley-and-mary-l-whaley-v-flitner-limited-partnership-a/#665" aria-description="Citation for case: Patrick J. Whaley and Mary L. Whaley v. Flitner Limited...">395
+P.3d at 665</a></span><pre class="inline">; In re Crago, ¶ 18, </pre><span class="citation" data-id="5154615"><a href="/opinion/5325037/elk-horn-ranch-inc-v-board-of-county-commissioners/#855" aria-description="Citation for case: Elk Horn Ranch, Inc. v. Board of County Commissioners">168 P.3d at 855</a></span><pre class="inline">). We find no error in the district court’s
+selection of the proposed route as the course for the private road.
+
+IV.    The district court did not err in awarding LMCR damages.
+
+[¶61] The district court adopted the Viewers’ damage recommendation after finding
+LMCR did not provide any evidence or testimony at trial disputing the $61,200 calculation.
+LMCR argues the district court erred when it adopted the Viewer’s recommendation
+because it afforded too much credibility to the Viewers’ Report and did not consider
+LMCR’s spoilation testimony. LMCR also asserts that the district court ignored evidence
+supporting its claims for operational damage associated with the private road.
+
+[¶62] LMCR asks this Court to reweigh the evidence presented at the bench trial. Under
+the applicable standard of review, “[w]e do not reweigh disputed evidence[.]” In re J. Kent
+Kinniburgh Revocable Tr., </pre><span class="citation" data-id="9399799"><a href="/opinion/9404323/in-the-matter-of-the-j-kent-kinniburgh-revocable-trust-dated-january-27/#21" aria-description="Citation for case: In the Matter of the J. Kent Kinniburgh Revocable Trust...">2023 WY 56, ¶ 21</a></span><pre class="inline">, </pre><span class="citation" data-id="9399799"><a href="/opinion/9404323/in-the-matter-of-the-j-kent-kinniburgh-revocable-trust-dated-january-27/#586" aria-description="Citation for case: In the Matter of the J. Kent Kinniburgh Revocable Trust...">530 P.3d 579, 586</a></span><pre class="inline"> (Wyo. 2023) (citation
+omitted). We instead, “defer to [the district court] findings unless they are unsupported by
+the record or erroneous as a matter of law.” Tilden, ¶ 18, 568 P.3d at 1204 (citation
+omitted).
+
+       A.     The record substantiates the Viewers’ Report calculation of damages.
+
+[¶63] LMCR argues the record contains no evidence about why the Lummis Report is
+relevant to the damage assessment in this case. We read the record differently. The
+
+                                            16
+Viewers explained that the Lummis Report identified four sales of comparable ranch
+properties, two sold without private road easements and two sold with private road
+easements. Much like this case, the Lummis Report involved an appraisal for a private
+road action in a similar setting and area of Wyoming. Because the Viewers “were unable
+to find better comparable sales with and without private road easements” they used the data
+and assumptions from the Lummis Report. At trial, each Viewer confirmed his general
+agreement to use the Lummis Report data and analysis. While Mr. Keil, who served as a
+viewer on the Lummis Report, noted the comparison was not perfect, he considered it the
+best option under the circumstances.
+
+[¶64] LMCR also asserts the district court should not have relied upon the Viewers’
+Report because the Viewers could not explain the Lummis Report methodology at trial.
+The Viewers’ inability to recall how the Lummis Report arrived at its inputs during the
+trial is not a source of clear error because the record contains sufficient evidence of the
+Viewers’ methodology. See, e.g., Winter v. Pleasant, </pre><span class="citation" data-id="2583678"><a href="/opinion/2583678/winter-v-pleasant/#28" aria-description="Citation for case: Winter v. Pleasant">2010 WY 4, ¶ 28</a></span><pre class="inline">, </pre><span class="citation" data-id="2583678"><a href="/opinion/2583678/winter-v-pleasant/" aria-description="Citation for case: Winter v. Pleasant">222 P.3d 828</a></span><pre class="inline">, 839-
+40 (Wyo. 2010) (affirming district court’s damage calculations under the clear error
+standard where sufficient evidence existed in the record to support the disputed calculation,
+even if that evidence is drawn from various sources in the record). The Viewers’ Report
+states that the Viewers relied on the $90 per acre reduced value resulting from a private
+road easement because they were unable to find better comparable sales. Mr. Keil testified
+the Lummis Report included work prepared by a professional appraiser. Accordingly, the
+Viewers attached the Lummis Report to their findings because it showed the assumptions
+used to produce the $90 per acre adjustment.
+
+[¶65] The district court found “there was no testimony or evidence provided that disputed
+the viewers’ calculations of the 680 acres of affected land, the $90 dollars per acre of
+decreased value of the land after the private road is established, nor was there testimony
+disputing the calculation of the $61,200 in damages.” The record supports the district
+court’s finding. While Mr. Shane Cross testified on behalf of LMCR, his damages
+testimony focused on indirect operational damages and did not challenge the Viewers’
+calculations.
+
+[¶66] At a bench trial, the district court is “free to make credibility determinations, draw
+inferences, and assign weight to evidence in any manner supported by the record.” Little
+Medicine Creek Ranch, Inc. v. D’Elia, </pre><span class="citation" data-id="10478851"><a href="/opinion/10012250/little-medicine-creek-ranch-inc-a-wyoming-corporation-fka-burnett/#43" aria-description="Citation for case: Little Medicine Creek Ranch, Inc., a Wyoming Corporation,...">2019 WY 103, ¶ 43</a></span><pre class="inline">, </pre><span class="citation no-link">450 P.3d 222</span><pre class="inline">, 234 (Wyo. 2019).
+Here, the district court agreed with the recommendation to award $61,200 to LMCR after
+considering the Viewers’ Report and supporting testimony. Because the Viewers’ findings
+are supported by the record, the district court’s award of damages was not clearly
+erroneous.
+
+       B.     The Wyoming private road statute does not require an appraisal to
+              consider indirect operational damages.
+
+
+                                             17
+[¶67] LMCR maintains the Viewers’ appraisal failed to consider its demand for future
+operational damages. As a result of the private road, LMCR argues it will suffer livestock
+losses from dust-induced pneumonia, increased staffing expenses, and loss of hunting
+opportunities.
+
+[¶68] The private road statute establishes a straightforward “before and after” test for
+calculating damages associated with a private road:
+
+              In determining any damages to be suffered by a defendant, the
+              viewers and appraisers shall appraise the value of the property
+              affected by the road before and after the road is in place.
+              Damages also may include reasonable compensation for any
+              improvements on the lands over which any private road is to
+              be granted which were not paid for and will be used by the
+              plaintiff.
+
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(j) (2026); see also Sharpe, ¶¶ 36-37, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#771" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 771</a></span><pre class="inline">
+(discussing the Legislature’s incorporation of the “before and after” test). The use of the
+word “shall” in the statute means viewers and appraisers must use this method to calculate
+damages. Id., ¶ 38, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 771</a></span><pre class="inline"> (citing Stutzman v. Office of Wyo. State Eng’r, </pre><span class="citation" data-id="2622746"><a href="/opinion/2622746/stutzman-v-office-of-the-wyoming-state-engineer/#17" aria-description="Citation for case: Stutzman v. Office of the Wyoming State Engineer">2006
+WY 30, ¶ 17</a></span><pre class="inline">, </pre><span class="citation" data-id="2622746"><a href="/opinion/2622746/stutzman-v-office-of-the-wyoming-state-engineer/#475" aria-description="Citation for case: Stutzman v. Office of the Wyoming State Engineer">130 P.3d 470, 475</a></span><pre class="inline"> (Wyo. 2006)). In other words, the plain language of the
+private road statute sets forth “one, and only one, method by which damages may be
+calculated—a ‘before and after’ appraisal—and then allows damages to include reasonable
+compensation for any improvements on the lands.” </pre><span class="citation" data-id="2622746"><a href="/opinion/2622746/stutzman-v-office-of-the-wyoming-state-engineer/" aria-description="Citation for case: Stutzman v. Office of the Wyoming State Engineer">Id.</a></span><pre class="inline">
+
+[¶69] The term “before and after” appraisal is a “phrase of art in the appraisal business.”
+In re Crago, ¶ 20, </pre><span class="citation" data-id="5154615"><a href="/opinion/5325037/elk-horn-ranch-inc-v-board-of-county-commissioners/#855" aria-description="Citation for case: Elk Horn Ranch, Inc. v. Board of County Commissioners">168 P.3d at 855</a></span><pre class="inline"> (citations omitted). For the purposes of the private road
+statute, we recognize a before and after appraisal should be conducted as follows:
+
+              [V]iewers and appraisers must: first, determine the value of the
+              property over which the road crosses before the private road is
+              established; second, determine the value of the property over
+              which the road crosses after the private road is established; and
+              third, subtract the “after” value from the “before” value, which
+              equals the damages due the owners of land over which the road
+              crosses. In applying this formula, the viewers and appraisers
+              are to determine the “before” and “after” value only of those
+              lands over which the private road crosses; not ... the “before”
+              and “after” value of all surrounding lands affected by the
+              proposed road.
+
+Sharpe, ¶ 36, n.13, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 771</a></span><pre class="inline"> (citing Mayland, ¶ 35, </pre><span class="citation" data-id="2525241"><a href="/opinion/2525241/mayland-v-flitner/#850" aria-description="Citation for case: Mayland v. Flitner">28 P.3d at 850-51</a></span><pre class="inline">). The Viewers’
+Report detailed their calculations which, as the district court acknowledged, followed the
+
+                                             18
+before and after appraisal process outlined above. Nonetheless, LMCR maintains its future
+operational losses should have been considered using this method.
+
+[¶70] The plain language of Section 101(j) is unambiguous. Sharpe, ¶ 38, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#771" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at
+771</a></span><pre class="inline">. The statute authorizes damages for the actual property affected when it uses the phrase
+“the value of the property affected by the road before and after the road is in place” and
+“reasonable compensation for any improvements on the lands over which any private road
+is to be granted which were not paid for and will be used by the plaintiff.” Wyo. Stat. Ann
+§ 24-9-101(j) (2026).
+
+[¶71] LMCR offers no statutory support for the notion that Section 101(j) provides for the
+recovery of indirect business-related damages. We have also found no instance where the
+“before and after” method included indirect damages in an appraisal. In the absence of any
+textual support for awarding LMCR its claimed operational damages, we find future
+business losses fall outside the plain language of Wyoming Statute § 24-9-101(j) (2026).
+See State Highway Comm’n v. Scrivner, </pre><span class="citation" data-id="1222782"><a href="/opinion/1222782/state-highway-commission-v-scrivner/#739" aria-description="Citation for case: State Highway Commission v. Scrivner">641 P.2d 735, 739</a></span><pre class="inline"> (Wyo. 1982) (“Loss of business
+is not compensable in a condemnation case.”); see also Mayland, ¶ 39, </pre><span class="citation" data-id="2525241"><a href="/opinion/2525241/mayland-v-flitner/#852" aria-description="Citation for case: Mayland v. Flitner">28 P.3d at 852</a></span><pre class="inline">
+(discussing Wyo. Const. art. 1, § 33 and concluding just compensation “is only for the fair
+market value of the property or property right lost or taken. Compensation for the owner’s
+personal loss is not allowable.”) (citation omitted).
+
+[¶72] The district court did not err when it denied LMCR’s request for operational
+damages associated with the establishment of the private road.
+
+V.     The district court erred in adopting Conditions 4 and 6.
+
+[¶73] Wagonhound challenges three of the conditions the district court imposed on the
+private road. Specifically, Wagonhound appeals (1) the requirement that Wagonhound
+maintain the road and fix any damage regardless of who causes the damage; (2) the
+limitation on vehicles with four or less axles on the road; and (3) Wagonhound’s obligation
+to suppress dust on the road.
+
+[¶74] Viewers may “recommend specific conditions that the court place on the private
+road, including provisions for maintenance and limitations on the amount and type of use.”
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-101</span><pre class="inline">(h) (2026). The private road statute then authorizes the district
+court to “accept, reject or modify the report and recommendations” made by the viewers.
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 24-9-103</span><pre class="inline">(a) (2026). The district court must “specify” any conditions it
+is imposing in its final order. Sharpe, ¶ 32, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 770</a></span><pre class="inline"> (citing </pre><span class="citation no-link">Wyo. Stat. Ann. § 24</span><pre class="inline">-
+9-103(a)).
+
+       A.     The district court erred when it ordered Wagonhound is responsible for
+              fixing any damage to the private road regardless of who caused the
+              damage.
+
+                                            19
+[¶75] The district court ordered Wagonhound to pay “all costs associated with fixing any
+damage caused to the road, regardless of whether LMCR or Wagonhound, or any
+associated guests, actually caused the damage.” Wagonhound argues this condition is not
+supported by evidence, violates public policy, and is punitive considering LMCR has
+unrestricted access to its portion of the private road. 5
+
+[¶76] The district court did not make any findings regarding its requirement that
+Wagonhound pay for any road damage regardless of who caused the damage. As a general
+matter of law, “the owner of the servient estate may use the land burdened by the easement
+as long as the use does not interfere with the easement holder’s rights.” Mueller v. Hoblyn,
+</pre><span class="citation" data-id="9541969"><a href="/opinion/1160176/mueller-v-hoblyn/#504" aria-description="Citation for case: Mueller v. Hoblyn">887 P.2d 500, 504</a></span><pre class="inline"> (Wyo. 1994) (citing Wilkoske v. Warren, </pre><span class="citation" data-id="5165317"><a href="/opinion/5334201/wilkoske-v-warren/#1258" aria-description="Citation for case: Wilkoske v. Warren">875 P.2d 1256, 1258</a></span><pre class="inline"> (Wyo.
+1994)). “This rule is subject to the qualification that an owner of an easement may not
+overburden the servient estate.” Testolin v. Thirty-One Bar Ranch Co., </pre><span class="citation" data-id="9918743"><a href="/opinion/9460918/tony-r-testolin-and-tim-karlberg-v-thirty-one-bar-ranch-company-a/#24" aria-description="Citation for case: Tony R. Testolin and Tim Karlberg v. Thirty-One Bar Ranch...">2024 WY 6, ¶ 24</a></span><pre class="inline">,
+</pre><span class="citation" data-id="9918743"><a href="/opinion/9460918/tony-r-testolin-and-tim-karlberg-v-thirty-one-bar-ranch-company-a/#463" aria-description="Citation for case: Tony R. Testolin and Tim Karlberg v. Thirty-One Bar Ranch...">541 P.3d 455, 463</a></span><pre class="inline"> (Wyo. 2024); see also Bard Ranch Co. v. Weber, </pre><span class="citation" data-id="1148773"><a href="/opinion/1148773/bard-ranch-company-v-weber/#731" aria-description="Citation for case: Bard Ranch Company v. Weber">557 P.2d 722, 731</a></span><pre class="inline">
+(Wyo. 1976) (“A principle which underlies the use of all easements is that the owner of the
+easement cannot materially increase the burden of the servient estate or impose thereon a
+new and additional burden.”). “Whether a use overburdens the servient estate is a question
+of fact.” </pre><span class="citation" data-id="1148773"><a href="/opinion/1148773/bard-ranch-company-v-weber/" aria-description="Citation for case: Bard Ranch Company v. Weber">Id.</a></span><pre class="inline"> (citing Goodman v. Voss, </pre><span class="citation" data-id="9761233"><a href="/opinion/2624771/goodman-v-voss/#37" aria-description="Citation for case: Goodman v. Voss">2011 WY 33, ¶ 37</a></span><pre class="inline">, </pre><span class="citation" data-id="9761233"><a href="/opinion/2624771/goodman-v-voss/#1130" aria-description="Citation for case: Goodman v. Voss">248 P.3d 1120, 1130</a></span><pre class="inline"> (Wyo.
+2011), superseded on other grounds by statute).
+
+[¶77] We have found no evidence in the record indicating Wagonhound’s use will
+overburden the private road. In fact, the record indicates the contrary. Wagonhound’s
+business interests are consistent with existing uses in the area including grazing, outfitting,
+and gravel mining. Both parties will also share at least a portion of the private road because
+LMCR uses the first 0.8 miles to access its seasonal “headquarters” down the draw.
+Although the Viewers’ Report recommended Wagonhound maintain the private road, the
+Viewers deferred to general easement law where each party would “have an obligation not
+to unreasonably interfere with the enjoyment of an easement.” Accordingly, the Viewers
+did not recommend any additional restrictions on the private road.
+
+[¶78] The district court did not specify why it was necessary to deviate from the general
+rule of law and to burden Wagonhound, the easement owner, with the exclusive duty of
+paying for all road damage regardless of who may have damaged the road. Because the
+district court did not make a factual finding to support this condition, it clearly erred when
+it adopted the second sentence of Condition 4. See, e.g., Testolin, ¶¶ 22-23, </pre><span class="citation" data-id="9918743"><a href="/opinion/9460918/tony-r-testolin-and-tim-karlberg-v-thirty-one-bar-ranch-company-a/#462" aria-description="Citation for case: Tony R. Testolin and Tim Karlberg v. Thirty-One Bar Ranch...">541 P.3d at
+462</a></span><pre class="inline"> (finding clear error when no evidence supported the district court’s finding that an
+easement was restricted).
+
+
+5
+  Wagonhound does not challenge the first sentence of Condition 4 which provides “Wagonhound is
+responsible for maintaining the road for its use, including all expenses related to installing culverts, upkeep,
+and maintenance of the road.”
+                                                      20
+       B.     The district court committed no error when it required Wagonhound to
+              suppress dust.
+
+[¶79] Condition 5 mandates Wagonhound “minimize extra dust” by requiring it to
+regularly apply water on the private road as a dust suppressant. Wagonhound objects to
+this condition because other users of roads in the area, including the gravel pit operator on
+LMCR’s land, are not required to mitigate dust.
+
+[¶80] Mr. Cross testified the gravel operator applied water on the road leading to LMCR’s
+gravel pit at peak times to reduce dust. The gravel operator also uses water to suppress
+dust at the operation site. At trial, LMCR presented evidence about the impact dust had on
+cattle, its efforts to treat dust induced pneumonia in livestock, and the need for dust
+suppression. Other witnesses, including the Wagonhound ranch manager, generally
+corroborated Mr. Cross’ testimony about the impact of dust and cattle pneumonia.
+
+[¶81] The district court found LMCR’s evidence persuasive and concluded it was
+necessary for Wagonhound to “use dust suppressant methods to reduce extra dust that may
+occur from increased travel on the road.” Condition 5 is supported by the record; therefore,
+the district court did not clearly err when it required Wagonhound to minimize extra dust
+that may result from increased traffic on the private road.
+
+       C.     The district court erred when it restricted the private road to vehicles
+              with four axles or less.
+
+[¶82] Condition 6 states “[t]he only vehicles that will be permitted to use the private road
+to access Wagonhound’s property are vehicles with four or less axles. Semi-tractor-trailers
+will not be permitted on the road, unless related to maintenance, repairs, construction, and
+dust mitigation of the road.” Wagonhound argues the restriction on heavy trucks is not
+supported by the record.
+
+[¶83] The district court determined it was necessary to prohibit the use of semi tractor-
+trailer traffic “to decrease dust and any nuisance from extra noises and lights.” We have
+“adopted the principle that the matter of a nuisance is determined by the effect an
+annoyance has on ordinary persons and businesses.” Sheridan Drive-In Theatre, Inc. v.
+State, </pre><span class="citation" data-id="2609218"><a href="/opinion/2609218/sheridan-drive-in-theatre-inc-v-state/#600" aria-description="Citation for case: Sheridan Drive-In Theatre, Inc. v. State">384 P.2d 597, 600</a></span><pre class="inline"> (Wyo. 1963). Put differently, “[t]he test is not what effect the
+matter complained of would have on persons who use their land for purposes which require
+exceptional freedom from deleterious influences, but what effect it would have on persons
+who use their land for ordinary purposes.” </pre><span class="citation" data-id="2609218"><a href="/opinion/2609218/sheridan-drive-in-theatre-inc-v-state/" aria-description="Citation for case: Sheridan Drive-In Theatre, Inc. v. State">Id.</a></span><pre class="inline"> (citations omitted).
+
+[¶84] The district court would have us assume any heavy truck traffic across the private
+road is a per se nuisance. But that is not the case. Whether noise and light constitute a
+nuisance is usually a question of fact. See Sheridan Drive-In Theatre, </pre><span class="citation" data-id="2609218"><a href="/opinion/2609218/sheridan-drive-in-theatre-inc-v-state/#600" aria-description="Citation for case: Sheridan Drive-In Theatre, Inc. v. State">384 P.2d at 600</a></span><pre class="inline">
+(acknowledging “disturbing noises” may constitute a nuisance and stating “light is not
+
+                                             21
+inherently harmful and it does not unreasonably or substantially interfere with the ordinary
+use and enjoyment of property”); see also Monaghan Farms, Inc. v. Bd. of Cnty. Comm’rs
+of Albany Cnty., </pre><span class="citation multiple-matches"><a href="/c/WY/2023/31/">2023 WY 31</a></span><pre class="inline">, ¶ 59, </pre><span class="citation no-link">527 P.3d 1195</span><pre class="inline">, 1215 (Wyo. 2023) (recognizing
+“lighting impacts, [and] noise impacts” involve questions of fact).
+
+[¶85] Neither the district court nor LMCR cite evidence showing that light or noise from
+the road will impair LMCR’s ability to use or enjoy its property. Notably, the district court
+concludes that such “annoyances” already exist because the proposed route is “already
+consistently traveled and already causes annoyances such as dust and lights from vehicles.”
+It is also difficult to reconcile the district court’s heavy truck restriction considering that
+semi-trucks are allowed to use similarly developed roads on other portions of LMCR’s
+property.
+
+[¶86] The record also suggests vehicle traffic on the private road will not affect LMCR’s
+headquarters. At the time of trial, nobody lived in the headquarters, but LMCR employees
+and hunters are known to stay there on occasion. Mr. Cross testified that the house sits
+below the hill and is not visible from the private road. A Viewer confirmed that fact.
+Additionally, nothing in the record indicates that heavy trucks would compromise the
+design or construction of the private road.
+
+[¶87] Although LMCR requested the restriction at trial, there is no evidence in the record
+to suggest that it was necessary to impose a four-axle limit on trucks using the private road.
+
+[¶88] The district court clearly erred when it ruled Wagonhound would be prohibited from
+using semi-trucks to address “any nuisance” from extra noises and lights.
+
+VI.    The district court properly rejected LMCR’s request to impose an
+       agricultural-use-only limitation on the private road.
+
+[¶89] LMCR asked the district court to adopt an agricultural-use-only limitation on the
+private road. The district court denied LMCR’s request because it lacked evidence
+showing similar use restrictions in the area. LMCR argues the district court’s reasoning
+was “not legitimate.” LMCR’s objection is misplaced because this Court has already
+considered that argument.
+
+[¶90] In Sharpe, we affirmed the denial of a similar restriction using nearly identical
+reasoning. See Sharpe, ¶¶ 32-35, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#770" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 770-71</a></span><pre class="inline"> (finding no clear error where the
+district court rejected a proposed agricultural/residential use restriction on a private road).
+There, the servient estate sought to prevent the dominant estate from using the private road
+to support a subdivision. Id., ¶ 10, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#764" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 764</a></span><pre class="inline">. The district court declined the
+condition, in part, because there was not “sufficient evidence as to why such conditions
+should be imposed” and because the servient estate was not subject to the same use
+restriction. Id., ¶ 11, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#765" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 765</a></span><pre class="inline">. The present case is no different in that LMCR
+
+                                              22
+offered no evidence at trial explaining why an agricultural-use-only condition should exist
+on the private road. The district court correctly relied on the fact that LMCR is not subject
+to the same limitation in rejecting the proposed limitation.
+
+[¶91] The district court also explained it rejected the proposed condition because
+“Wagonhound has not had easy access to Parcel 1” and “it would be unfair to hold
+Wagonhound to a specific, limited use” of the property at this time. LMCR argues this line
+of reasoning was similarly inappropriate. We find no error in the district court’s reasoning
+for two reasons. First, there is no dispute that Wagonhound historically has not enjoyed
+any road access to Parcel 1. Second, Wagonhound cited a range of potential uses consistent
+with its existing business interests that it might consider for Parcel 1. The district court’s
+reasoning, therefore, is supported by the record.
+
+[¶92] Limiting a private road to a single lawful use is extraordinary and the district court
+must have sufficient evidence to warrant imposing such a condition. See Hulse v. First
+Am. Title Co. of Crook Cnty., </pre><span class="citation" data-id="2516001"><a href="/opinion/2516001/hulse-v-first-american-title-co-of-crook-county/#34" aria-description="Citation for case: Hulse v. First American Title Co. of Crook County">2001 WY 95, ¶ 34</a></span><pre class="inline">, </pre><span class="citation" data-id="2516001"><a href="/opinion/2516001/hulse-v-first-american-title-co-of-crook-county/#133" aria-description="Citation for case: Hulse v. First American Title Co. of Crook County">33 P.3d 122, 133</a></span><pre class="inline"> (Wyo. 2001)
+(recognizing that the public’s interest in promoting “the productive use of land” is furthered
+by giving individuals access to the road network); see also Sharpe, ¶ 11, </pre><span class="citation" data-id="10478834"><a href="/opinion/10012233/cindy-a-sharpe-george-a-logan-and-sybille-ranch-llc-v-judith-timchula/#765" aria-description="Citation for case: Cindy A. Sharpe George A. Logan and Sybille Ranch, Llc v....">453 P.3d at 765</a></span><pre class="inline">
+(discussing district court’s rejection of proposed restriction because it did not offer
+sufficient evidence). Because LMCR offered no evidence to justify the proposed
+restriction, the district court did not clearly err when it rejected LMCR’s proposed
+agricultural-use-only condition.
+
+                                      CONCLUSION
+
+[¶93] Wagonhound made an offer to purchase access to Parcel 1 and did not act in bad
+faith in initiating its private road action. The district court did not err when it found
+necessity for a private road because Parcel 1 is only accessible by vehicle through LMCR
+land. Similarly, the district court did not err in adopting the Viewers’ recommendation to
+establish the private road along Wagonhound’s proposed route. LMCR offered no
+evidence to dispute the “before and after” appraisal prepared by the Viewers and its claim
+for operational damages is not supported by law.
+
+[¶94] The district court, however, erred when it imposed Conditions 4 (second sentence
+only) and 6 on the private road because those restrictions were not supported by the record.
+We find no error in the district court’s adoption of Condition 5 or its denial of LMCR’s
+request for an agricultural-use-only restriction on the private road.
+
+[¶95] Affirmed in part and reversed in part.
+
+
+
+
+                                             23
+</pre>

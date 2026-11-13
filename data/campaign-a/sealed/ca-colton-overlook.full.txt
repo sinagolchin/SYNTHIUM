@@ -1,0 +1,530 @@
+<pre class="inline">                 IN THE SUPREME COURT OF THE STATE OF IDAHO
+
+                                        Docket No. 52603
+
+CRAIG COLTON,                                        )
+                                                     )
+     Plaintiff-Counterdefendant-                     )         Boise, May 2026 Term
+     Appellant,                                      )
+                                                     )         Opinion filed: November 9, 2026
+v.                                                   )
+                                                     )         Melanie Gagnepain, Clerk
+THE OVERLOOK AT FOX CREEK                            )
+SUBDIVISION OWNERS’ ASSOCIATION,                     )
+INC., an Idaho nonprofit corporation; GNJ            )
+PROPERTIES, LLC, an Arizona limited                  )
+liability company; JEFFREY FLOWERS,                  )
+RHONDA G. FLOWERS, DAVID HEWES,                      )
+LEE NAYLON, and CHARLES                              )
+WOODWARD,                                            )
+                                                     )
+     Defendants-Counterclaimants-                    )
+     Respondents,                                    )
+                                                     )
+and                                                  )
+                                                     )
+WILLIAM KYLE REICHART, SARAH                         )
+FLYNN, CAROLINE KNOBELSPIES, and                     )
+LINDA SUZANNE SWAN,                                  )
+                                                     )
+     Defendants-Respondents.                         )
+
+
+       Appeal from the District Court of the Seventh Judicial District of the State of Idaho,
+       Teton County. Steven W. Boyce, District Judge.
+
+       The decision of the district court dismissing Appellant’s complaint and granting
+       summary judgment to Respondents on their counterclaims is reversed and
+       remanded, and its judgments granting attorney fees to Respondents are vacated.
+
+       Craig Colton, Victor, Pro Se Appellant. Craig Colton argued.
+
+       Beard St. Clair Gaffney PA, Idaho Falls, for Respondents. Jared W. Allen argued.
+                _____________________________________________
+
+MOELLER, Justice.
+
+
+
+
+                                                 1
+       This appeal arises from a dispute over snow removal and other maintenance along a
+segment of a common road in rural Teton County, Idaho. Craig Colton sued the Overlook at Fox
+Creek Subdivision Owners’ Association (“the Overlook HOA”), GNJ Properties, LLC (“GNJ”)
+(the developer of that subdivision), Jeffrey Flowers, Rhonda G. Flowers, David Hewes, Lee
+Naylon, William Kyle Reichart, Sarah Flynn, Caroline Knobelspies, Linda Suzanne Swan, and
+Charles Woodward (the “individual Respondents”) (all collectively “Respondents”), seeking a
+declaratory judgment that either: (1) the Overlook HOA is responsible for all road maintenance
+costs, or (2) those costs must be shared equitably among all parcel owners who use the road.
+Respondents filed an answer and a counterclaim seeking a declaratory judgment of their own. The
+district court later granted Respondents’ motion to dismiss the complaint and granted their motion
+for summary judgment on their counterclaims, ruling that because the disputed portions of the road
+are not within the boundaries of the subdivision, the Overlook HOA is not responsible for the costs.
+       On appeal, Colton argues that the district court erred in several respects. First, he contends
+it failed to address his alternative argument: that all neighboring property owners who use the road
+should share responsibility for its maintenance costs. Instead, it dismissed his claims solely based
+on his lack of standing as to one party—the Overlook HOA. Second, Colton maintains that the
+court erred in concluding that the Overlook HOA has no obligation to contribute to the road’s
+maintenance costs based on its finding that the road is not a subdivision road. Third, he avers that
+the court erred in awarding attorney fees and costs to Respondents on two occasions. For the
+reasons explained below, we reverse and remand this matter to the district court for further
+proceedings. The judgments awarding attorney fees are also vacated.
+                    I.    FACTUAL AND PROCEDURAL BACKGROUND
+       Colton owns a home and property in Teton County, Idaho, located in the Spruce Hill
+Subdivision, a single lot subdivision (“Spruce Hill”). See property identified in magenta in Figure
+1, infra. His home sits at the end of a road identified as East 5250 South. See road identified in
+yellow in Figure 1, infra. Part of the road is a public county road (the east-west trajectory) and part
+of the road is created by partial public easements (the north-south trajectory). Teton County’s
+portion of the road begins at the intersection of East 5250 South and South 750 in Teton County
+and ends at the southwest corner of Lot 14 in the Overlook at Fox Creek Subdivision (the
+“Overlook Subdivision” or “Subdivision”). There are two right-of-way easements on East 5250
+South that also provide access to Spruce Hill and to a property neighboring Spruce Hill. According
+
+
+
+                                                  2
+to Colton, Teton County is only obligated to plow part of East 5250 South running to “the Parish
+Ranch entry gate,” the location of which is not clear from the record. The remaining unplowed
+portion of the road is at issue in this case (“the Roadway”).
+
+
+
+
+                               Figure 1: Final Plat for the Overlook Subdivision.1
+
+         In 2007, GNJ established the Overlook Subdivision. It consists of 18 lots, 17 of which are
+located to the west of East 5250 South and Spruce Hill and one to the east of East 5250 South and
+to the south of Spruce Hill. No party provided evidence in the record definitively establishing
+whether the Roadway at issue is located within or outside the boundaries of the Overlook
+Subdivision. The only maps in the record are inconclusive on this point. See, e.g., Figure 1, supra.
+Additionally, there is an Overlook Subdivision road that branches off the East 5250 South: Balsam
+Lane (originally called Fox Creek Drive), which accesses Lots 11 through 17. See road identified
+in blue in Figure 1, supra. Lot 18 is only accessible via the Roadway. See property identified in
+green in Figure 1, supra.
+
+
+
+1
+  The colors on the map have been added by this Court solely for illustrative purposes. The yellow line indicates the
+Roadway at issue, the magenta line marks the location of Colton’s property, the blue line identifies Balsam Lane
+(formerly Fox Creek Drive), the orange line indicates Overlook Way, and the green line marks Lot 18.
+
+
+                                                         3
+       GNJ entered into a Development Agreement with Teton County. The Development
+Agreement contains the following provision with respect to East 5250 South: “So as to mitigate
+impact resulting from increased traffic on the county road system, the developer agrees to
+contribute their fair pro-rata share of costs to improve 525 [sic] South in accordance with standards
+and criteria commonly used by Teton County, Idaho.” GNJ recorded its Declaration of Covenants,
+Conditions and Restrictions for the Overlook at Fox Creek (“the Overlook CC&amp;Rs” or “the
+CC&amp;Rs”). The CC&amp;Rs impose obligations on the Overlook HOA to maintain the Subdivision’s
+roads, including snow removal: “The Board shall be responsible for hiring an independent
+contractor for snow removal on all roads within the Project.” The parties to the CC&amp;Rs are GNJ,
+the Overlook HOA, and anyone acquiring an interest in real property within the Overlook
+Subdivision.
+       For several years, Colton and a neighbor paid the cost of snow plowing and road
+maintenance of the Roadway. In 2022, the owner of Lot 18 in the Overlook Subdivision
+constructed a driveway on his property, which Colton alleged required gravel trucks to travel the
+Roadway, causing erosion and damage. When the property owner and the Overlook HOA did not
+repair the roads, Colton researched available remedies. After obtaining the CC&amp;Rs, Colton sent a
+demand letter to the HOA. Following a series of communications, the HOA eventually agreed to
+share in the plowing costs for the winter of 2022/2023. Colton also sent demand letters to every
+individual property owner whose property was reachable only by the Roadway. However, neither
+the HOA nor the property owners ever contributed to the plowing costs.
+       On May 26, 2023, Colton filed a complaint seeking a declaratory judgment that the
+Overlook HOA is “responsible for the snow plowing of, maintenance of, and weed eradication
+along said segment of E 5250 S.” Alternatively, Colton asked the court to find “that all of the
+subdivision and non-subdivision owners served by this segment of county road . . . should share
+said costs as an equitable and fair remedy.” The HOA filed an answer and counterclaim on July
+31, 2023, denying the allegations, raising several affirmative defenses, and seeking a judicial
+declaration that the complaint be dismissed. GNJ and the individual Respondents later joined in
+the HOA’s answer and counterclaim. On October 23, 2023, Respondents filed a motion to dismiss
+Colton’s complaint under Idaho Rules of Civil Procedure 7, 8, and 12(b)(6). After a hearing, the
+district court entered an order granting Respondents’ motion to dismiss after concluding that
+Colton did not have standing to bring a declaratory judgment action pertaining to the CC&amp;Rs or
+
+
+
+                                                 4
+the Development Agreement because he was not in privity of contract with the Overlook HOA
+through the CC&amp;Rs or with GNJ through the Development Agreement. On March 15, 2024, the
+district court also issued an order and amended judgment awarding attorney fees and costs to
+Respondents.
+       Subsequently, on June 12, 2024, Respondents filed a motion for summary judgment on
+their counterclaim. Colton filed an opposition to Respondents’ motion on June 24, 2024. The
+district court granted Respondents’ motion for summary judgment in part and denied it in part.
+After declining to formally declare the road as a county or subdivision road, it determined that
+because there was insufficient evidence in the record to establish that East 5250 South was located
+within the Overlook Subdivision, the HOA did not have an obligation to plow or maintain it under
+the CC&amp;Rs. It also made several other rulings, not at issue in this appeal: (1) that Respondents did
+not have a contractual duty to provide snow removal or maintenance to Colton, (2) that the
+Development Agreement did not create an ongoing obligation for the HOA to maintain, repair, or
+plow the road, and (3) that the HOA has a right, not an obligation, to implement a noxious weed
+program. Final judgment in favor of Respondents on the counterclaims was entered on November
+27, 2024. The district court later awarded additional attorney fees and costs to Respondents. Colton
+timely appealed.
+                              II.    STANDARDS OF REVIEW
+       A district court’s dismissal of a complaint pursuant to Idaho Rule of Civil Procedure
+12(b)(6) and grant of summary judgment under Rule 56 are both reviewed de novo. Paslay v. A&amp;B
+Irrigation Dist., </pre><span class="citation" data-id="9879402"><a href="/opinion/4447197/daniel-paslay-v-ab-irrigation-district/#868" aria-description="Citation for case: Daniel Paslay v. A&amp;B Irrigation District">162 Idaho 866, 868</a></span><pre class="inline">, </pre><span class="citation" data-id="9879402"><a href="/opinion/4447197/daniel-paslay-v-ab-irrigation-district/#880" aria-description="Citation for case: Daniel Paslay v. A&amp;B Irrigation District">406 P.3d 878, 880</a></span><pre class="inline"> (2017).
+       Rule 12(b)(6) provides that, when considering a motion to dismiss, the court must first
+“view[] all facts and inferences from the record in favor of the non-moving party, [then] the Court
+will ask whether a claim for relief has been stated.” Losser v. Bradstreet, </pre><span class="citation" data-id="2581193"><a href="/opinion/2581193/losser-v-bradstreet/#673" aria-description="Citation for case: Losser v. Bradstreet">145 Idaho 670, 673</a></span><pre class="inline">, </pre><span class="citation" data-id="2581193"><a href="/opinion/2581193/losser-v-bradstreet/#761" aria-description="Citation for case: Losser v. Bradstreet">183
+P.3d 758, 761</a></span><pre class="inline"> (2008) (quoting Gallagher v. State, </pre><span class="citation" data-id="2575967"><a href="/opinion/2575967/gallagher-v-state/#667" aria-description="Citation for case: Gallagher v. State">141 Idaho 665, 667</a></span><pre class="inline">, </pre><span class="citation" data-id="2575967"><a href="/opinion/2575967/gallagher-v-state/#758" aria-description="Citation for case: Gallagher v. State">115 P.3d 756, 758</a></span><pre class="inline"> (2005)).
+“A 12(b)(6) motion looks only at the pleadings to determine whether a claim for relief has been
+stated and this Court determines whether the non-movant has alleged sufficient facts in support of
+his claim, which if true, would entitle him to relief.” Boren v. Gadwa, </pre><span class="citation no-link">176 Idaho 489</span><pre class="inline">, ___, </pre><span class="citation no-link">578
+P.3d 861</span><pre class="inline">, 868–69 (2024) (internal quotation marks omitted) (quoting Fulfer v. Sorrento Lactalis,
+Inc., </pre><span class="citation no-link">171 Idaho 296</span><pre class="inline">, 300, </pre><span class="citation" data-id="11199356"><a href="/opinion/10732771/fulfer-v-sorrento-lactalis-inc/#712" aria-description="Citation for case: Fulfer v. Sorrento Lactalis, Inc.">520 P.3d 708, 712</a></span><pre class="inline"> (2022)). “[A] complaint should not be dismissed for
+failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in
+
+
+
+                                                  5
+support of his claim which would entitle him to relief.” Gardner v. Hollifield, </pre><span class="citation" data-id="1236034"><a href="/opinion/1236034/gardner-v-hollifield/#611" aria-description="Citation for case: Gardner v. Hollifield">96 Idaho 609, 611</a></span><pre class="inline">,
+</pre><span class="citation" data-id="1236034"><a href="/opinion/1236034/gardner-v-hollifield/#732" aria-description="Citation for case: Gardner v. Hollifield">533 P.2d 730, 732</a></span><pre class="inline"> (1975).
+       Summary judgment is only appropriate where “the pleadings, depositions, and admissions
+on file, together with the affidavits, if any, show that there is no genuine issue as to any material
+fact and that the moving party is entitled to a judgment as a matter of law.” Friel v. Boise City
+Hous. Auth., </pre><span class="citation" data-id="1160125"><a href="/opinion/1160125/friel-v-boise-city-housing-authority/#485" aria-description="Citation for case: Friel v. Boise City Housing Authority">126 Idaho 484, 485</a></span><pre class="inline">, </pre><span class="citation" data-id="1160125"><a href="/opinion/1160125/friel-v-boise-city-housing-authority/#30" aria-description="Citation for case: Friel v. Boise City Housing Authority">887 P.2d 29, 30</a></span><pre class="inline"> (1994) (citation omitted); I.R.C.P. 56(a). “When
+considering whether the evidence shows a genuine issue of material fact, the trial court must
+liberally construe the facts, and draw all reasonable inferences in favor of the nonmoving party.”
+Spears v. Antelope Mountain Resort, LLC, </pre><span class="citation no-link">177 Idaho 70</span><pre class="inline">, ___, </pre><span class="citation no-link">585 P.3d 314</span><pre class="inline">, 320 (2026) (citation
+omitted). “To establish that a genuine dispute of material fact exists, a party must present evidence
+upon which a jury could reasonably rely; a ‘scintilla of evidence merely casting a slight doubt of
+the facts’ will not suffice.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Fragnella v. Petrovich, </pre><span class="citation" data-id="880186"><a href="/opinion/880186/tiffany-ann-marie-fragnella-v-robert-b-petrovich-jr/#271" aria-description="Citation for case: Tiffany Ann Marie Fragnella v. Robert B. Petrovich, Jr.">153 Idaho 266, 271</a></span><pre class="inline">, </pre><span class="citation" data-id="880186"><a href="/opinion/880186/tiffany-ann-marie-fragnella-v-robert-b-petrovich-jr/#108" aria-description="Citation for case: Tiffany Ann Marie Fragnella v. Robert B. Petrovich, Jr.">281 P.3d 103,
+108</a></span><pre class="inline"> (2012)).
+       “The awarding of attorney fees and costs is within the discretion of the trial court and
+subject to review for an abuse of discretion.” Smith v. Mitton, </pre><span class="citation" data-id="2639987"><a href="/opinion/2639987/smith-v-mitton/#897" aria-description="Citation for case: Smith v. Mitton">140 Idaho 893, 897</a></span><pre class="inline">, </pre><span class="citation" data-id="2639987"><a href="/opinion/2639987/smith-v-mitton/#371" aria-description="Citation for case: Smith v. Mitton">104 P.3d 367,
+371</a></span><pre class="inline"> (2004). In determining whether the court abused its discretion, this Court asks “[w]hether the
+trial court: (1) correctly perceived the issue as one of discretion; (2) acted within the outer
+boundaries of its discretion; (3) acted consistently with the legal standards applicable to the
+specific choices available to it; and (4) reached its decision by the exercise of reason.” Lunneborg
+v. My Fun Life, </pre><span class="citation no-link">163 Idaho 856</span><pre class="inline">, 863, </pre><span class="citation" data-id="4289457"><a href="/opinion/4512204/lunneborg-v-my-fun-life-corp/#194" aria-description="Citation for case: Lunneborg v. My Fun Life, Corp.">421 P.3d 187, 194</a></span><pre class="inline"> (2018).
+                                      III.    ANALYSIS
+A. We reverse the district court’s dismissal of Colton’s claims.
+       In addressing the scope of Colton’s claims, the district court first concluded that Colton’s
+only claim was centered on the enforceability of the Overlook CC&amp;Rs and the Development
+Agreement against Respondents. In its analysis of whether Colton had standing to bring this claim,
+the court first determined that Colton’s complaint sufficiently alleged an injury in fact (economic
+damage due to the cost of maintaining of the road). However, the court then concluded that Colton
+could not demonstrate a sufficient causal connection between the complained-of conduct and the
+alleged injury. It explained that because Colton is not a contracting party to either the Development
+Agreement or the Overlook CC&amp;Rs, he has no privity of contract and, thus, no standing to request
+relief on the basis of those documents.
+
+
+
+                                                 6
+        Colton now argues on appeal that the district court erred when it dismissed his complaint
+based solely on its ruling that he lacked standing. He claims that his complaint sufficiently pleaded
+a claim based in equity and based on the law of easements, rather than just on the terms of the
+CC&amp;Rs and the Development Agreement, but the court failed to consider those issues. He also
+asserts that, aside from the Overlook HOA, there were ten other defendants who accessed their
+property over the Roadway, and the district court dismissed his case against all of them based
+solely on his standing with one defendant.
+        When ruling on contested matters, district courts “must address all the issues the parties
+present.” Evans v. Wright, </pre><span class="citation no-link">174 Idaho 330</span><pre class="inline">, 340, </pre><span class="citation" data-id="11199303"><a href="/opinion/10732718/evans-v-wright/#601" aria-description="Citation for case: Evans v. Wright">554 P.3d 591, 601</a></span><pre class="inline"> (2024) (concluding that the
+district court erred in failing to address one of the appellant’s arguments when granting the
+respondents’ motions to dismiss). Here, the district court summarily concluded that Colton only
+stated one claim of relief in his complaint: “Colton raises a single claim and asks this [c]ourt for a
+declaratory judgment . . . .” However, it overlooked the alternative request in Colton’s complaint
+as to whether the neighboring property owners in the HOA who use and benefit from the Roadway
+must share in the costs of the Roadway’s maintenance. We conclude that the district court erred in
+its failure to address this issue.
+        Idaho’s Uniform Declaratory Judgment Act provides that “[c]ourts of record within their
+respective jurisdictions shall have power to declare rights, status, and other legal relations, whether
+or not further relief is or could be claimed.” I.C. § 10-1201. To state a claim for declaratory relief
+under the statute, a plaintiff may allege that they are “any person interested”: (1) “under a deed,
+will, written contract or other writings constituting a contract or any oral contract,” or (2) “whose
+rights, status or other legal relations are affected by a statute, municipal ordinance, contract or
+franchise[.]” I.C. § 10-1202. Contrary to Respondents’ argument on appeal, Colton’s failure to
+allege his status as an interested party under Idaho Code section 10-1202 is not dispositive. Section
+10-1202 merely identifies certain categories of persons who may seek declaratory relief, while
+section 10-1205 expressly provides that the enumeration in section 10-1202 “does not limit or
+restrict the exercise of the general powers conferred in [s]ection 10-1201, in any proceedings where
+declaratory relief is sought, in which a judgment or decree will terminate the controversy or remove
+an uncertainty.” I.C. § 10-1205. Thus, the question is not whether Colton adequately alleged that
+he is a “person interested.” Rather, we must first determine whether he sufficiently alleged an
+
+
+
+
+                                                  7
+actual controversy regarding the parties’ respective rights and obligations to maintain the
+Roadway, such that declaratory relief would resolve the dispute.
+       We first turn to Colton’s complaint to determine whether he sufficiently alleged a
+justiciable controversy supporting declaratory relief under Idaho’s pleading standards. Under
+Idaho Rule of Civil Procedure 8(a), “a claim for relief must contain: . . . (2) a short and plain
+statement of the claim showing that the pleader is entitled to relief . . . .” I.R.C.P. 8(a)(2). “Each
+allegation must be simple, concise, and direct.” I.R.C.P. 8(d)(1). Idaho’s notice-pleading
+requirement only “requires a pleading to put the adverse party ‘on notice of the claims brought
+against it.’ ” Noell Indus., Inc. v. Idaho State Tax Comm’n, </pre><span class="citation no-link">167 Idaho 367</span><pre class="inline">, 371, </pre><span class="citation no-link">470 P.3d 1176</span><pre class="inline">,
+1180 (2020) (quoting Hodge ex rel. Welch v. Waggoner, </pre><span class="citation no-link">164 Idaho 89</span><pre class="inline">, 96, </pre><span class="citation" data-id="9886923"><a href="/opinion/4521454/hodge-v-waggoner/#1239" aria-description="Citation for case: Hodge v. Waggoner">425 P.3d 1232, 1239</a></span><pre class="inline">
+(2018)). “Accordingly, notice pleading requires the complaint to provide ‘some indication’ of the
+basis for relief, but not always an exact statutory basis or formal cause of action.” </pre><span class="citation" data-id="9886923"><a href="/opinion/4521454/hodge-v-waggoner/" aria-description="Citation for case: Hodge v. Waggoner">Id.</a></span><pre class="inline"> (quoting
+Brown v. City of Pocatello, </pre><span class="citation" data-id="874275"><a href="/opinion/874275/brown-v-city-of-pocatello/#808" aria-description="Citation for case: Brown v. City of Pocatello">148 Idaho 802, 808</a></span><pre class="inline">, </pre><span class="citation" data-id="874275"><a href="/opinion/874275/brown-v-city-of-pocatello/#1170" aria-description="Citation for case: Brown v. City of Pocatello">229 P.3d 1164, 1170</a></span><pre class="inline"> (2010)). Our liberal pleading
+standard “prevent[s] the dismissal of a valid claim for a mere technical failing.” Brown, </pre><span class="citation" data-id="874275"><a href="/opinion/874275/brown-v-city-of-pocatello/#809" aria-description="Citation for case: Brown v. City of Pocatello">148 Idaho
+at 809</a></span><pre class="inline">, </pre><span class="citation" data-id="874275"><a href="/opinion/874275/brown-v-city-of-pocatello/#1171" aria-description="Citation for case: Brown v. City of Pocatello">229 P.3d at 1171</a></span><pre class="inline">.
+       Moreover, “[a] prerequisite to a declaratory judgment action is an actual or justiciable
+controversy.” Miles v. Idaho Power Co., </pre><span class="citation" data-id="9855450"><a href="/opinion/1298150/miles-v-idaho-power-co-ex-rel-evans/#639" aria-description="Citation for case: Miles v. Idaho Power Co. Ex Rel. Evans">116 Idaho 635, 639</a></span><pre class="inline">, </pre><span class="citation" data-id="9855450"><a href="/opinion/1298150/miles-v-idaho-power-co-ex-rel-evans/#761" aria-description="Citation for case: Miles v. Idaho Power Co. Ex Rel. Evans">778 P.2d 757, 761</a></span><pre class="inline"> (1989). “[T]o
+invoke the trial court’s jurisdiction in a declaratory judgment action, the plaintiffs must allege a
+‘personal stake’ in the outcome of the controversy, which ‘has come to be understood to require
+not only a “distinct palpable injury” to the plaintiff, but also a “fairly traceable” causal connection
+between the claimed injury and the challenged conduct.’ ” Idaho Branch Inc. of Associated Gen.
+Contractors of Am., Inc. v. Nampa Highway Dist. No. 1, </pre><span class="citation" data-id="9604166"><a href="/opinion/1367562/idaho-branch-inc-of-associated-general-contractors-of-america-inc-v/#242" aria-description="Citation for case: Idaho Branch, Inc. of Associated General Contractors of...">123 Idaho 237, 242</a></span><pre class="inline">, </pre><span class="citation" data-id="9604166"><a href="/opinion/1367562/idaho-branch-inc-of-associated-general-contractors-of-america-inc-v/#244" aria-description="Citation for case: Idaho Branch, Inc. of Associated General Contractors of...">846 P.2d 239, 244</a></span><pre class="inline">
+(Ct. App. 1993) (quoting Miles, </pre><span class="citation" data-id="9855450"><a href="/opinion/1298150/miles-v-idaho-power-co-ex-rel-evans/#641" aria-description="Citation for case: Miles v. Idaho Power Co. Ex Rel. Evans">116 Idaho at 641</a></span><pre class="inline">, </pre><span class="citation" data-id="9855450"><a href="/opinion/1298150/miles-v-idaho-power-co-ex-rel-evans/#763" aria-description="Citation for case: Miles v. Idaho Power Co. Ex Rel. Evans">778 P.2d at 763</a></span><pre class="inline">); see also Nemeth v. Shoshone
+County, </pre><span class="citation" data-id="4459131"><a href="/opinion/10732905/nemeth-v-shoshone-county/" aria-description="Citation for case: Nemeth v. Shoshone County">165 Idaho 851</a></span><pre class="inline">, 860–61, </pre><span class="citation" data-id="4459131"><a href="/opinion/10732905/nemeth-v-shoshone-county/" aria-description="Citation for case: Nemeth v. Shoshone County">453 P.3d 844</a></span><pre class="inline">, 853–54 (2019) (holding plaintiffs had a personal
+stake in obtaining a declaration concerning roadway access to their property). Importantly, the
+requirement for a “personal stake in the outcome” also contemplates that the claimed injury is
+redressable by the relief requested by the injured party. That element is met here because a judicial
+declaration apportioning responsibility for the Roadway’s maintenance among the respective
+parties would redress the injury Colton alleges from bearing the maintenance costs alone.
+       Turning next to Colton’s claims against the HOA and GNJ, which the district court
+dismissed for lack of standing, we hold that the district court erred. Idaho Code section 10-1202
+
+
+
+                                                  8
+states, in relevant part: “Any person . . . whose rights, status or other legal relations are affected
+by a . . . contract . . . may have determined any question of construction or validity arising under
+the . . . contract . . . and obtain a declaration of rights, status or other legal relationships thereunder.”
+I.C. § 10-1202. The statute permits declaratory relief not only for a person “interested under” a
+contract, but also for a person whose legal rights are “affected by” the contract. Id. In City of
+Middleton v. Coleman Homes, LLC, we held that, despite the fact that “all four [defendants] were
+not signatories to the [a]greements, all four alleged they were interested parties and involved with
+the [a]greements”; thus, the district court did not err in treating them as such when issuing a
+declaratory judgment. </pre><span class="citation no-link">163 Idaho 716</span><pre class="inline">, 727, </pre><span class="citation" data-id="4276622"><a href="/opinion/4499369/city-of-middleton-v-coleman-homes-llc/#1236" aria-description="Citation for case: City of Middleton v. Coleman Homes, LLC">418 P.3d 1225, 1236</a></span><pre class="inline"> (2018).
+        Here, as alleged in Colton’s complaint, the CC&amp;Rs impose a duty on another party to
+contribute to the plowing and maintenance costs of the Roadway. Even though Colton is not
+himself a party to that agreement, whether that obligation exists and is enforceable has a direct
+financial effect on Colton because the HOA and GNJ are not contributing to the costs—Colton has
+been bearing all the road-plowing expenses himself. Thus, the legal question of whether the
+disputed portion of the Roadway falls within the obligations the HOA and GNJ assumed under the
+CC&amp;Rs and Development Agreement is key to ascertaining Colton’s own legal and financial
+responsibilities for the Roadway. In sum, Colton’s interest in the construction of the CC&amp;Rs and
+Development Agreement is sufficient to seek declaratory relief to determine the parties’ respective
+rights and obligations under Idaho Code section 10-1202.
+        Finally, we consider whether Colton alleged sufficient facts to establish standing as to his
+claims against the individual Respondents. Colton alleged in his complaint that he and the
+individual Respondents share common interests in the Roadway and make use of it pursuant to an
+easement. For example, Colton avers in his complaint:
+        E 5250 S is a public road that is not maintained or plowed by the County and it
+        provides the sole access to seven lots in the Overlook at Fox Creek Subdivision and
+        three private parcels.
+               . . . While E 5250 S is a public roadway, under Idaho Code [s]ection 40-
+        117(9): “the government may keep a public right-of-way open to the public without
+        assuming an obligation to maintain it.”
+                ....
+                 . . . [Colton] subsequently sent letters to all the persons who own property
+        which is solely accessed by this segment of road E 5250 S, to notify them of the
+        plowing costs, of the HOA’s refusal to contribute and their potential individual
+        liabilities for the costs.
+
+
+                                                     9
+              [Colton], as the owner of property that shares ingress and egress access with
+       several property owners on the road known as E 5250 S, a county road, has a
+       personal stake in the outcome of this controversy . . . .
+               ....
+               . . . [A]lthough[] the Defendants use this segment of E 5250 S as the sole
+       access to their property, they have refused to participate in the required snow-
+       plowing and upkeep of the road in any substantial way. Instead, they leave the
+       burden upon just three property owners (two of which are located at the end of this
+       road) and essentially, take the stance that [Colton] has to keep the entire segment
+       of E 5250 S open in order to get to his home, so he can bear the burden and we will
+       benefit from his efforts without any expense to ourselves.
+In sum, Colton alleged that multiple property owners use the Roadway as their sole means of
+access, yet he has solely borne the cost of maintaining it. His final alternative request is: “that the
+court rule that all of the subdivision and non-subdivision owners served by this segment of county
+road (not publicly maintained) should share said costs as an equitable and fair remedy.” Construing
+the complaint liberally, this allegation was sufficient to place the individual Respondents on notice
+that Colton sought a judicial determination regarding the respective obligations of each individual
+party for maintenance of the Roadway.
+       In reviewing a motion to dismiss under Idaho Rule of Civil Procedure 12(b)(6), this Court
+is not tasked with determining whether Colton will ultimately prevail on his claim. Rather, the
+question is whether the complaint alleges facts sufficient to state a plausible claim of relief.
+Hammer v. Ribi, </pre><span class="citation" data-id="4199132"><a href="/opinion/4421879/sharon-r-hammer-v-nils-ribi/#573" aria-description="Citation for case: Sharon R. Hammer v. Nils Ribi">162 Idaho 570, 573</a></span><pre class="inline">, </pre><span class="citation" data-id="4199132"><a href="/opinion/4421879/sharon-r-hammer-v-nils-ribi/#151" aria-description="Citation for case: Sharon R. Hammer v. Nils Ribi">401 P.3d 148, 151</a></span><pre class="inline"> (2017). Accepting the allegations as true
+and drawing all reasonable inferences in Colton’s favor, the complaint alleges that, although the
+parties shared use of the Roadway, Colton individually incurred and paid all the expenses in
+maintaining and plowing it, and that a dispute existed regarding whether Respondents were
+obligated to contribute to the cost. Whether the easement at issue here ultimately imposes the
+obligations asserted by Colton is a question for resolution on the merits, not on a motion to dismiss.
+       Colton also sufficiently alleged a personal stake in the controversy. The complaint alleged
+that he incurred expenses maintaining the Roadway and that Respondents benefited from and used
+the Roadway while failing to bear their alleged share of the costs. Accepting those allegations as
+true, Colton alleged a distinct and palpable injury in the maintenance costs, a conclusion also
+reached by the district court. The complaint also alleged a causal connection between Colton’s
+asserted injury and Respondents’ failure to contribute to the Roadway’s maintenance, despite
+
+
+
+
+                                                  10
+benefiting from its use. At the pleading stage, those allegations are sufficient to establish Colton’s
+standing.
+       Although the complaint lacks precision in certain respects, its allegations were sufficient
+to survive a motion to dismiss. Thus, we reverse the district court’s order dismissing Colton’s
+complaint for a declaratory judgment.
+B. We reverse the district court’s grant of summary judgment in favor of the Overlook HOA
+   on its counterclaim for declaratory judgment.
+       Next, we turn to the district court’s ruling on summary judgment that the Overlook CC&amp;Rs
+do not create an obligation for the Overlook HOA to maintain the Roadway. After once again
+finding that Colton did not have standing to seek enforcement of the CC&amp;Rs, the court addressed
+the Overlook HOA’s counterclaim asking it to enter a declaratory judgment determining its
+obligations as to the Roadway. The court first expressed its concern about the implications of
+determining that the Roadway is not a subdivision road, both for the public and for Teton County.
+The court explained that such a determination could effectively require it to designate the Roadway
+as a county road or subdivision road, a function which is normally performed by a county board
+or highway district under Idaho Code section 40-202. The court ultimately declined to designate
+the Roadway a subdivision road, stating:
+                The record as it stands establishes only that the road consisted of access and
+       utility easements which existed during the construction of the subdivision, and that
+       during the time of the development of the subdivision, the Overlook was obligated
+       to share pro-rata costs for the maintenance of the road during construction to
+       prevent issues with traffic while the development was in the midst of construction.
+       These facts are inadequate for the court to enter declaratory judgment defining the
+       road at this juncture.
+       The district court then ruled that the Overlook CC&amp;Rs do not create an obligation to
+maintain the Roadway:
+       There is no evidence established by the record that the road in question is within
+       the subdivision and subject to the provisions obligating the HOA to maintain the
+       road and ensure the road’s snow removal. . . . [T]he [c]ourt determines that there
+       are no genuine issues of material fact precluding summary judgment and will
+       GRANT summary judgment as to the HOA’s request for declaratory relief on this
+       claim.
+Further, the court pointed to its previous finding that Colton did not have privity of contract with
+the Overlook HOA.
+
+
+
+
+                                                 11
+       Colton contends that the district court erred by ruling on summary judgment that the
+Overlook CC&amp;Rs do not create an obligation to maintain the Roadway while also declining to
+determine the designation of the Roadway. He insists that he submitted evidence establishing that
+the disputed Roadway is located within the Overlook Subdivision’s boundaries, so there was a
+genuine issue of material fact as to whether the Roadway is located within the Subdivision. He
+argues that, by concluding that the Overlook CC&amp;Rs did not create a duty to maintain the
+Roadway, the court also necessarily concluded that the Roadway is not located in the Overlook
+Subdivision. Thus, he asserts that the district court contradicted itself. The individual Respondents
+argue that Colton lacks standing to raise this issue because he is not a party to the Overlook
+CC&amp;Rs. They further argue that, regardless of standing, the Roadway is an access and utility
+easement, not a subdivision road, which is established by the plat boundary description and the
+Development Agreement.
+       First, we turn to the individual Respondents’ argument that Colton lacks standing to appeal
+the court’s order of summary judgment. Under Idaho Appellate Rule 4, an aggrieved party has
+standing to appeal an appealable judgment. An “aggrieved party” is defined “as any party
+injuriously affected by the judgment.” First State Bank of Eldorado v. Rowe, </pre><span class="citation" data-id="2622712"><a href="/opinion/2622712/first-state-bank-of-eldorado-v-rowe/#612" aria-description="Citation for case: First State Bank of Eldorado v. Rowe">142 Idaho 608, 612</a></span><pre class="inline">,
+</pre><span class="citation" data-id="2622712"><a href="/opinion/2622712/first-state-bank-of-eldorado-v-rowe/#1150" aria-description="Citation for case: First State Bank of Eldorado v. Rowe">130 P.3d 1146, 1150</a></span><pre class="inline"> (2006) (quoting Fed. Land Bank of Spokane v. Parsons, </pre><span class="citation" data-id="1156690"><a href="/opinion/1156690/federal-land-bank-of-spokane-v-parsons/#547" aria-description="Citation for case: Federal Land Bank of Spokane v. Parsons">116 Idaho 545, 547</a></span><pre class="inline">,
+</pre><span class="citation" data-id="1156690"><a href="/opinion/1156690/federal-land-bank-of-spokane-v-parsons/#1220" aria-description="Citation for case: Federal Land Bank of Spokane v. Parsons">777 P.2d 1218, 1220</a></span><pre class="inline"> (Ct. App. 1989)). Because Colton is a party to the individual Respondents’
+counterclaim, he possesses an interest that may be affected by the judgment; therefore, he is
+aggrieved and entitled to appeal. See Fed. Land Bank of Spokane, 116 Idaho at 547–48, 777 P.2d
+at 1220–21. Additionally, as discussed above, Colton is also an aggrieved party because the adverse
+declaratory judgment economically injures Colton. Because the district court concluded that the
+Overlook HOA has no obligation to maintain the road, Colton must continue to pay the costs on
+his own.
+       This brings us to the issue of whether the district court erred in ruling that the Overlook
+HOA has no obligation under the CC&amp;Rs to maintain the Roadway. While Colton argues that the
+district court effectively contradicted itself by declining to legally designate the Roadway’s status
+and then determining that the Roadway is not located within the Subdivision, these are actually
+two separate rulings. The authority to designate a public highway rests with the county or highway
+district commissioners under Idaho Code section 40-202, and any such designation must be
+supported under section 40-208 by “substantial and competent evidence.” Flying A Ranch, Inc. v.
+
+
+
+                                                 12
+Cnty. Comm’rs of Fremont Cnty., </pre><span class="citation" data-id="3133268"><a href="/opinion/3133268/flying-a-ranch-v-county-commissioners-of-fremont-county/#942" aria-description="Citation for case: Flying &quot;A&quot; Ranch v. County Commissioners of Fremont County">157 Idaho 937, 942</a></span><pre class="inline">, </pre><span class="citation" data-id="3133268"><a href="/opinion/3133268/flying-a-ranch-v-county-commissioners-of-fremont-county/#654" aria-description="Citation for case: Flying &quot;A&quot; Ranch v. County Commissioners of Fremont County">342 P.3d 649, 654</a></span><pre class="inline"> (2015). The district court
+concluded that the record before it was insufficient to designate the Roadway. That ruling is distinct
+from the court’s separate finding that the Roadway was not located within the Overlook
+Subdivision.
+       Colton additionally argues that the record clearly shows that portions of the Roadway are
+located within the Overlook Subdivision. Yet the district court concluded that there was no
+evidence establishing this as a fact. “At the summary judgment stage, a trial court should refrain
+from making such factual determinations until evidence is heard on the disputed facts and should
+look to the affidavit itself to determine if it alleges facts which, if taken as true, would render the
+evidence therein sufficient.” Watts v. Lynn, </pre><span class="citation" data-id="9594308"><a href="/opinion/1350019/watts-v-lynn/#346" aria-description="Citation for case: Watts v. Lynn">125 Idaho 341, 346</a></span><pre class="inline">, </pre><span class="citation" data-id="9594308"><a href="/opinion/1350019/watts-v-lynn/#1305" aria-description="Citation for case: Watts v. Lynn">870 P.2d 1300, 1305</a></span><pre class="inline"> (1994). As
+the party moving for summary judgment on its counterclaim, the HOA had the burden “to prove
+that no genuine issues of material fact exist and that it is entitled to judgment as a matter of law.”
+Boise Mode, LLC v. Donahoe Pace &amp; Partners Ltd., </pre><span class="citation" data-id="880122"><a href="/opinion/880122/boise-mode-llc-v-donahoe-pace-partners-ltd/" aria-description="Citation for case: Boise Mode, LLC v. Donahoe Pace &amp; Partners Ltd.">154 Idaho 99</a></span><pre class="inline">, 103–04, </pre><span class="citation" data-id="880122"><a href="/opinion/880122/boise-mode-llc-v-donahoe-pace-partners-ltd/" aria-description="Citation for case: Boise Mode, LLC v. Donahoe Pace &amp; Partners Ltd.">294 P.3d 1111</a></span><pre class="inline">, 1115–
+16 (2013). Only after this burden is met does the burden shift “to the nonmoving party to show the
+existence of a genuine issue of material fact.” </pre><span class="citation" data-id="880122"><a href="/opinion/880122/boise-mode-llc-v-donahoe-pace-partners-ltd/#104" aria-description="Citation for case: Boise Mode, LLC v. Donahoe Pace &amp; Partners Ltd.">Id. at 104</a></span><pre class="inline">, </pre><span class="citation" data-id="880122"><a href="/opinion/880122/boise-mode-llc-v-donahoe-pace-partners-ltd/" aria-description="Citation for case: Boise Mode, LLC v. Donahoe Pace &amp; Partners Ltd.">294 P.3d at 1116</a></span><pre class="inline"> (quoting Asbury Park,
+LLC v. Greenbriar Est. Homeowners’ Ass’n, Inc., </pre><span class="citation" data-id="874062"><a href="/opinion/874062/asbury-park-llc-v-greenbriar-estate-homeowners-assn/" aria-description="Citation for case: Asbury Park, LLC v. Greenbriar Estate Homeowners&#x27; Ass&#x27;n">152 Idaho 338</a></span><pre class="inline">, 343–44, </pre><span class="citation" data-id="874062"><a href="/opinion/874062/asbury-park-llc-v-greenbriar-estate-homeowners-assn/" aria-description="Citation for case: Asbury Park, LLC v. Greenbriar Estate Homeowners&#x27; Ass&#x27;n">271 P.3d 1194</a></span><pre class="inline">, 1199–
+1200 (2012)).
+       The CC&amp;Rs’ snow removal provision plainly obligates the HOA to snowplow roads within
+the Subdivision. “Within” is defined as “being inside.” Within, Merriam-Webster’s Collegiate
+Dictionary (11th ed. 2006). Thus, the dispositive issue in determining the HOA’s obligations under
+the CC&amp;Rs for snowplowing the Roadway is whether the Roadway is located within or outside of
+the Subdivision. It is worth noting that the HOA initially took the position in its memorandum in
+support of its motion for summary judgment that the Roadway was a public county road and that
+is why it did not fall within the roads to be maintained by the HOA. At the time of the hearing,
+when the district court expressed concerns about the implications of declaring a road public,
+particularly when Teton County had not been joined, the HOA shifted its position about the public
+nature of the road. As the party moving for summary judgment on its own counterclaim, it was the
+HOA’s burden to establish that the Roadway lies outside the Subdivision; yet it never made this
+assertion below. Thus, the HOA could not carry its burden, and summary judgment should not
+have been entered in its favor.
+
+
+
+
+                                                  13
+        The district court prematurely shifted the burden to Colton to establish the existence of a
+genuine issue of material fact on this issue. While it determined that “[t]here is no evidence
+established by the record that the road in question is within the subdivision,” it did not rule whether
+the Roadway is located outside of the Subdivision’s boundaries, which was the HOA’s obligation
+to prove on its motion for summary judgment on its counterclaim. Thus, the district court erred in
+concluding that the HOA, as the moving party on its counterclaim, met its burden to prove that the
+Roadway is located outside of the Subdivision. Our review of the record does not clearly establish
+whether the Roadway lies within or outside the Subdivision. As noted, the only maps in the record
+are inconclusive. See, e.g., Figure </pre><span class="citation" data-id="9604166"><a href="/opinion/1367562/idaho-branch-inc-of-associated-general-contractors-of-america-inc-v/" aria-description="Citation for case: Idaho Branch, Inc. of Associated General Contractors of...">1, supra.</a></span><pre class="inline"> Because that determination bears directly on the HOA’s
+counterclaim and its potential obligations under the CC&amp;Rs, this uncertainty presents a genuine
+issue of material fact.
+        Simply put, the record contains insufficient evidence to establish the Roadway’s location
+relative to the Subdivision. The Roadway’s true location—the primary issue of contention in this
+case—remains an unresolved factual determination that was inappropriately dispensed with at the
+summary judgment stage. As a result, the trial court’s treatments of Colton’s claims on the motion
+to dismiss, and the HOA’s counterclaim on summary judgment, were inconsistent. Thus, we
+reverse the district court’s grant of summary judgment in favor of the HOA and remand for
+proceedings consistent with this opinion. On remand, the court must: (1) ascertain whether the
+Roadway lies inside the boundaries of the Subdivision; (2) if it lies inside the boundaries,
+determine the HOA’s and GNJ’s respective obligations under the CC&amp;Rs and the Development
+Agreement; and (3) address Colton’s alternative claims, under both easement law and in equity,
+and determine whether the property owners using the Roadway as their sole access route should
+share in its maintenance costs. Because these are intensely factual determinations, we leave these
+matters to the trial court.
+C. We vacate the district court’s awards of attorney fees to the Respondents.
+        Colton also appeals the district court’s two awards of attorney fees and costs totaling
+$23,650 to the individual Respondents under Idaho Code sections 12-120(3) and 12-121. Since we
+have reversed the district court’s orders (1) dismissing Colton’s claims against the individual
+Respondents and (2) granting summary judgment in favor of the HOA, it is now unclear who will
+ultimately prevail on remand; thus, we cannot review the award for an abuse of discretion.
+Accordingly, we vacate the awards of attorney fees and costs.
+
+
+
+                                                  14
+D. Respondents are not entitled to attorney fees and costs on appeal under Idaho Code
+   sections 12-120(3) or 12-121.
+       Respondents have requested an award of attorney fees. However, attorney fees under Idaho
+Code sections 12-120(3) and 12-121 may only be awarded to a prevailing party. Given our
+disposition of this matter, Respondents are not prevailing parties and their request must be denied.
+                                     IV.     CONCLUSION
+          For the foregoing reasons, we reverse the district court’s order dismissing Colton’s claims
+against Respondents and its order granting summary judgment in favor of Respondents on their
+counterclaim. This matter is remanded to the district court for further proceedings consistent with
+this opinion. We also vacate the district court’s award of attorney fees to Respondents under both
+Idaho Code sections 12-120 and 12-121. Finally, we decline to award attorney fees on appeal to
+any party. As the prevailing party on appeal, Colton is entitled to recover his costs as a matter of
+right pursuant to Idaho Appellate Rule 40(a).
+
+          Chief Justice BRODY, Justices BEVAN, ZAHN, and MEYER CONCUR.
+          (This matter was decided prior to the retirement of Chief Justice Bevan and he participated
+fully.)
+
+
+
+
+                                                  15
+</pre>

@@ -1,0 +1,1157 @@
+<pre class="inline">                                                                                 10/27/2026
+
+
+                                 DA 26-0037
+                                                                            Case Number: DA 26-0037
+
+
+         IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                </pre><span class="citation no-link">2026 MT 251</span><pre class="inline">
+
+
+
+IN THE MATTER OF THE ESTATE OF:
+
+MARY JO BRADFORD,
+
+         Deceased.
+
+
+
+APPEAL FROM:    District Court of the First Judicial District,
+                In and For the County of Lewis and Clark, Cause No. ADP-2025-38
+                Honorable Mike Menahan, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+          For Appellant:
+
+                Chris Walker, Silverman Law Office, PLLC, Helena, Montana
+
+          For Appellees:
+
+                Jeffrey E. Janca, Lyons Law Firm, Billings, Montana
+
+
+
+                                          Submitted on Briefs: September 16, 2026
+
+                                                     Decided: October 27, 2026
+
+
+Filed:
+
+                __________________________________________
+                                 Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1     Rhonda Purtle appeals three orders of the First Judicial District Court, Lewis and
+
+Clark County, concerning the estate of her mother, Mary Jo Bradford. On the requests of
+
+Purtle’s brothers, Robert Bates and Kenneth Bates (the Bateses), the District Court
+
+removed Purtle as personal representative, directed appointment of a special administrator,
+
+and froze financial accounts that Purtle claims passed to her outside probate. The court
+
+removed Purtle without the statutorily required hearing. It later appointed a special
+
+administrator without a hearing and without an adequate basis for invoking the statutory
+
+emergency exception. Even assuming broader statutory authority to preserve the disputed
+
+assets, the court abused its discretion by imposing a blanket account freeze without a
+
+sufficient basis for its scope and continuing operation.
+
+¶2     We address the following restated issues:
+
+       1. Whether the District Court abused its discretion by removing Purtle as personal
+          representative without the hearing required by § 72-3-526, MCA.
+
+       2. Whether the Bateses have standing to seek Purtle’s removal for cause or interim
+          protection before resolution of their will contest.
+
+       3. Whether the District Court abused its discretion by appointing a special
+          administrator without the hearing required by § 72-3-701(2), MCA, and whether
+          the assigned investigation improperly shifted the burden of proof in the will
+          contest.
+
+       4. Whether the District Court exceeded its statutory authority or abused its
+          discretion by freezing all financial accounts in which Bradford held an interest
+          at death, including accounts Purtle claimed through nonprobate transfer.
+
+We reverse and remand without deciding the validity of the will, the merits of the
+
+financial-exploitation claim, or ownership of the disputed property.
+
+
+                                             2
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶3     Bradford died on January 9, 2025, while domiciled in Lewis and Clark County.
+
+Purtle and the Bateses survived her. Her husband, Alvin Ellis Bradford, had died on
+
+October 5, 2023. On February 13, 2025, Purtle applied for informal probate of a will
+
+Bradford signed on September 3, 2024, and for appointment as personal representative.
+
+The clerk admitted the will to informal probate and issued letters appointing Purtle that
+
+day.
+
+¶4     Several provisions of the will underlie the dispute. The will states that Bradford is
+
+married to Alvin and identifies Purtle under the heading “Current Children,” without
+
+naming Robert or Kenneth. It nominates Purtle as sole executor and specifically devises
+
+Bradford’s Helena residence to her. It leaves the residue to Alvin if he survives Bradford
+
+by thirty days; otherwise, paragraph 13 directs division among Bradford’s children then
+
+living, with provision for descendants of a deceased child. Paragraph 21 states that
+
+omission of heirs “as named above” is intentional. Paragraph 26 separately expresses a
+
+gift to Purtle of property and possessions and refers to a document titled “Bradford Family
+
+Trust.” These provisions bear both on the challenge to Bradford’s testamentary capacity
+
+and on the parties’ disagreement about whether the Bateses have an interest under the will.
+
+¶5     On May 30, 2025, the Bateses filed a verified objection and counter-petition
+
+challenging the will and Purtle’s appointment.      They asserted five counts: improper
+
+disinheritance, lack of testamentary capacity, undue influence, financial exploitation of a
+
+vulnerable adult, and removal of the personal representative. They relied in part on the
+
+references to Bradford’s deceased husband and the omission of their names. They also
+
+                                             3
+alleged that Purtle had procured benefits through misconduct and could not impartially
+
+investigate her own conduct. They requested invalidation of the will, a determination of
+
+intestacy, forfeiture of Purtle’s benefits, appointment of an independent fiduciary, and
+
+protection of assets.
+
+¶6     The District Court granted the requested removal that same day, without a hearing.
+
+It revoked Purtle’s letters; directed appointment of an independent third-party personal
+
+representative; stayed sales, transfers, and liquidation of Bradford’s assets; and set a
+
+scheduling conference. Beyond referring to its review of the counter-petition and “good
+
+cause,” the court gave no explanation for removal. It did not determine that Bradford
+
+lacked testamentary capacity, that anyone exercised undue influence or financially
+
+exploited her, or that the will was invalid. Purtle filed her response on June 9, disputing
+
+the allegations supporting the counter-petition and her removal.
+
+¶7     The parties then conducted discovery under a stipulated scheduling order. Purtle
+
+supplied an inventory identifying property she regarded as probate assets and other
+
+property she claimed through nonprobate transfers, including an individual retirement
+
+account and multiple-party bank accounts. Discovery also identified Dallas Davis, a
+
+nonlawyer who had assisted Bradford in preparing the will. The Bateses questioned
+
+whether Purtle had disclosed all assets and financial records and whether the claimed
+
+nonprobate transfers were valid. Purtle disputed the significance of those concerns and
+
+maintained that the nonprobate accounts belonged to her individually.
+
+¶8     In their November 17, 2025 amended motion, the Bateses requested a new schedule,
+
+immediate appointment of a special administrator, and a freeze of all financial accounts in
+
+                                            4
+which Bradford had held an interest. They sought a neutral fiduciary to obtain records,
+
+investigate the allegations in their counter-petition, preserve assets, and pursue litigation
+
+as the court might direct. Their exhibits included discovery responses, the inventory,
+
+correspondence, and bank records for a statement period encompassing Bradford’s death.
+
+Purtle opposed the motion. She maintained that the court had removed her without the
+
+required hearing, that the Bateses had not established grounds for appointing a special
+
+administrator, and that the court lacked authority in the probate proceeding to freeze
+
+accounts she owned individually.
+
+¶9     The Bateses replied that the unresolved questions about the assets and
+
+Purtle’s conduct required a neutral fiduciary and immediate protection. They also invoked
+
+§ 72-3-304, MCA, as authority to restrict an informally appointed personal representative
+
+during a formal testacy proceeding. They characterized the earlier revocation of Purtle’s
+
+letters as a temporary protective measure rather than removal for cause. Their attorney
+
+submitted an affidavit addressing discovery and scheduling. The court did not hold a
+
+hearing on the amended motion.
+
+¶10    On December 3, 2025, the District Court granted the amended motion. Its findings
+
+recounted the procedural history, the existence of accounts Purtle claimed as nonprobate
+
+property, and the limited period covered by the records. The court then recited the Bateses’
+
+contentions that allegations of incapacity, undue influence, financial exploitation, and
+
+possible unauthorized practice of law required immediate action.          It concluded that
+
+appointment of a special administrator was necessary to preserve the estate and secure its
+
+proper administration, consistent with its earlier revocation of Purtle’s letters. It further
+
+                                             5
+concluded that immediate preservation measures would prevent dissipation and maintain
+
+the status quo.
+
+¶11    The order directed the Bateses to nominate two candidates for special administrator.
+
+It prescribed duties that included collecting and preserving estate assets, reviewing
+
+financial records, investigating matters in the counter-petition and motion, making
+
+recommendations to the court, and commencing or defending actions at the court’s
+
+direction. It also froze every financial account in which Bradford had held a legal or
+
+equitable interest at death, whether she held the account individually, jointly, or otherwise.
+
+The order prohibited withdrawals, transfers, closures, and beneficiary changes without
+
+further court authorization or limited written authorization from the administrator. It
+
+directed financial institutions to honor the freeze upon presentment. The court vacated the
+
+scheduling order pending a preliminary report due within 120 days after appointment.
+
+¶12    On January 15, 2026, the court appointed Seth H. Blades, CPA, and reaffirmed the
+
+December 3 order. It held no intervening hearing and made no additional findings
+
+supporting an emergency appointment.          Purtle served notice of entry of the three
+
+challenged orders on January 16 and appealed on January 20. The Bateses moved to
+
+dismiss the first two appellate issues as untimely, arguing that Purtle should have appealed
+
+within thirty days after the May 30 order. We denied that motion on May 12, 2026, because
+
+the Bateses had not shown service of notice of entry before January 16. That order resolved
+
+the timeliness objection; we now consider the merits.
+
+
+
+
+                                              6
+                                STANDARD OF REVIEW
+
+¶13    We review a decision to remove a personal representative or appoint a special
+
+administrator for abuse of discretion. In re Estate of Williams, </pre><span class="citation" data-id="9391730"><a href="/opinion/9396254/estate-of-g-williams/#17" aria-description="Citation for case: Estate of G. Williams">2023 MT 72, ¶¶ 17, 35</a></span><pre class="inline">,
+
+</pre><span class="citation no-link">412 Mont. 58</span><pre class="inline">, </pre><span class="citation no-link">528 P.3d 1087</span><pre class="inline">. A court abuses its discretion when it acts arbitrarily, without
+
+conscientious judgment, or exceeds the bounds of reason resulting in substantial injustice.
+
+In re Estate of Thomas, </pre><span class="citation" data-id="11297538"><a href="/opinion/10830758/estate-of-sean-thomas/#14" aria-description="Citation for case: Estate of Sean Thomas">2026 MT 66, ¶ 14</a></span><pre class="inline">, </pre><span class="citation no-link">427 Mont. 291</span><pre class="inline">, </pre><span class="citation no-link">586 P.3d 791</span><pre class="inline">. We review de
+
+novo for correctness questions concerning the meaning of the statutory hearing
+
+requirements, the scope of probate jurisdiction, and the court’s statutory authority to
+
+impose an account freeze. In re Estate of Thomas, ¶ 14. We review the exercise of any
+
+available statutory discretion to grant protective relief for abuse of discretion. In re Estate
+
+of Thomas, ¶¶ 14, 36. A court also abuses its discretion when an erroneous view of the law
+
+governs its decision. City of Missoula v. Girard, </pre><span class="citation" data-id="9515854"><a href="/opinion/904348/city-of-missoula-v-girard/#10" aria-description="Citation for case: City of Missoula v. Girard">2013 MT 168, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="9515854"><a href="/opinion/904348/city-of-missoula-v-girard/" aria-description="Citation for case: City of Missoula v. Girard">370 Mont. 443</a></span><pre class="inline">, </pre><span class="citation" data-id="9515854"><a href="/opinion/904348/city-of-missoula-v-girard/" aria-description="Citation for case: City of Missoula v. Girard">303
+
+P.3d 1283</a></span><pre class="inline">. Whether a party has standing likewise presents a question of law that we review
+
+for correctness. In re Estate of Lawlor, </pre><span class="citation multiple-matches"><a href="/c/MT/2015/54/">2015 MT 54</a></span><pre class="inline">, ¶ 13, </pre><span class="citation" data-id="9806154"><a href="/opinion/2781782/stoican-v-wagner/" aria-description="Citation for case: Stoican v. Wagner">378 Mont. 281</a></span><pre class="inline">, </pre><span class="citation" data-id="9806154"><a href="/opinion/2781782/stoican-v-wagner/" aria-description="Citation for case: Stoican v. Wagner">343 P.3d 577</a></span><pre class="inline">.
+
+                                       DISCUSSION
+
+¶14    1. Whether the District Court abused its discretion by removing Purtle as personal
+          representative without the hearing required by § 72-3-526, MCA.
+
+¶15    Purtle argues that the District Court violated § 72-3-526, MCA, by removing
+
+her without first holding a hearing and determining whether cause existed.
+
+Section 72-3-526(1), MCA, permits a person interested in an estate to petition for removal
+
+for cause and directs the court, upon filing of the petition, to “fix a time and place for
+
+hearing.” The petitioner must give notice to the personal representative and to any other
+
+
+                                              7
+persons the court directs. Section 72-3-526(1), MCA. Cause exists when removal would
+
+serve the best interests of the estate or when the representative intentionally misrepresented
+
+material facts leading to appointment, disregarded a court order, became incapable of
+
+discharging the duties of the office, mismanaged the estate, or failed to perform an official
+
+duty. Section 72-3-526(2), MCA. The petitioner bears the burden of establishing grounds
+
+for removal, and the record must support those grounds. In re Estate of Robbin, </pre><span class="citation" data-id="879364"><a href="/opinion/879364/in-re-the-estate-of-robbin/" aria-description="Citation for case: In Re the Estate of Robbin">230 Mont.
+
+30</a></span><pre class="inline">, 33–34, </pre><span class="citation" data-id="879364"><a href="/opinion/879364/in-re-the-estate-of-robbin/#871" aria-description="Citation for case: In Re the Estate of Robbin">747 P.2d 869, 871</a></span><pre class="inline"> (1987).
+
+¶16    The May 30 order revoked Purtle’s letters and directed her replacement. It did not
+
+merely restrict particular acts pending a hearing on whether she should remain in office.
+
+The court thus granted the requested removal on the day the Bateses filed their
+
+counter-petition, before Purtle responded and without the hearing § 72-3-526(1), MCA,
+
+requires. Its general reference to “good cause” neither identified facts establishing a
+
+statutory ground for removal nor supplied the opportunity to contest those grounds
+
+at a hearing. The power to remove a representative in the best interests of the estate
+
+does not eliminate the notice-and-hearing requirements that govern that decision.
+
+Section 72-3-526(1)–(2), MCA.
+
+¶17    The Bateses defend the removal on the alternative theory that their counter-petition
+
+and the will itself established Bradford’s incapacity, defeated the will, and eliminated
+
+Purtle’s priority to serve. They argue that a person who described a deceased husband as
+
+living and failed to identify two living sons could not have understood the objects of her
+
+bounty.   This argument confuses evidence supporting a will contest with a judicial
+
+determination resolving it. Informal probate remains conclusive until an order in a formal
+
+                                              8
+testacy proceeding supersedes it. Section 72-3-215(2), MCA. Section 72-3-310, MCA,
+
+assigns contestants the burden of establishing lack of capacity, undue influence, and the
+
+other grounds for invalidity specified there. The May 30 order neither determined those
+
+issues nor superseded the informal probate of Bradford’s will.
+
+¶18    The challenged provisions may bear on Bradford’s capacity and intentions, but the
+
+Bateses’ interpretation of them did not relieve the court of its duty to hear the dispute before
+
+deciding it. The formal testacy provisions themselves require the court to set a hearing and
+
+the petitioner to give notice to the persons the statute identifies. Section 72-3-305(1)–(2),
+
+MCA. Verification of the counter-petition did not convert disputed allegations and
+
+inferences into judicial findings. The court instead set a scheduling conference, and the
+
+parties later obtained deadlines for discovery and trial on the unresolved claims. We do
+
+not decide what weight the will or other evidence should receive. We hold that the asserted
+
+strength of the contest did not authorize the court to remove Purtle before conducting the
+
+hearing required by § 72-3-526(1), MCA.
+
+¶19    Recognizing that the May 30 order contains no findings resolving capacity, the
+
+Bateses ask us to apply the doctrine of implied findings and affirm on the premise that the
+
+District Court found the will invalid. Under that doctrine, a reviewing court may imply a
+
+necessary finding when the record supports it, and it does not conflict with the court’s
+
+express findings. When an express statutory requirement is at issue, specific evidence
+
+referenced in other express findings must clearly support the implied finding. Sayler v.
+
+Sun, </pre><span class="citation multiple-matches"><a href="/c/MT/2023/175/">2023 MT 175</a></span><pre class="inline">, ¶ 43, </pre><span class="citation" data-id="9840992"><a href="/opinion/9427367/sayler-v-yan-sun/" aria-description="Citation for case: Sayler v. Yan Sun">413 Mont. 303</a></span><pre class="inline">, </pre><span class="citation" data-id="9840992"><a href="/opinion/9427367/sayler-v-yan-sun/" aria-description="Citation for case: Sayler v. Yan Sun">536 P.3d 399</a></span><pre class="inline">. Here, the court identified no
+
+evidence establishing incapacity and left the will contest for later proceedings. The Bateses
+
+                                               9
+seek more than recognition of an omitted finding supporting an adjudication the court
+
+made; they ask us to supply the adjudication itself. The doctrine does not permit that result
+
+or excuse the hearing required by § 72-3-526(1), MCA.
+
+¶20    The Probate Code also answers the concern that the estate might need protection
+
+while a removal petition awaits decision. After receiving notice of removal proceedings,
+
+a personal representative may act only to account, correct maladministration, or
+
+preserve the estate, except as the court otherwise orders under § 72-3-617, MCA.
+
+Section 72-3-526(1), MCA. These restrictions preserve assets while the court determines
+
+whether statutory grounds warrant removal. They do not terminate the appointment.
+
+Unlike § 72-3-701(2), MCA, which expressly allows emergency appointment of a special
+
+administrator without notice, § 72-3-526, MCA, contains no corresponding exception
+
+allowing removal for cause without the required hearing. The court therefore could protect
+
+the estate without deciding the removal request first and hearing it later.
+
+¶21    The Bateses’ reliance in their District Court reply on § 72-3-304, MCA, does not
+
+change that conclusion. They argued that the court had only suspended Purtle’s authority
+
+during a formal testacy proceeding. Section 72-3-304, MCA, permits restrictions on the
+
+powers of an acting representative and a request for a special administrator; it does not
+
+transform an express revocation of letters into a temporary restriction. Whatever authority
+
+the court had to restrain Purtle pending the contest, it exercised a different power when it
+
+terminated her appointment. Because the court granted removal for cause without the
+
+hearing and determination that § 72-3-526(1)–(2), MCA, require, it abused its discretion.
+
+We therefore reverse the removal ruling.
+
+                                             10
+¶22    2. Whether the Bateses have standing to seek Purtle’s removal for cause or interim
+          protection before resolution of their will contest.
+
+¶23    Purtle also seeks a ruling that the Bateses lack standing to obtain her removal or
+
+appointment of a special administrator unless they first prevail in their will contest. The
+
+Bateses respond that they already defeated the will, that Purtle admitted their status as
+
+devisees in her application, and that their improper-disinheritance count gives them an
+
+independent claim against the estate. These arguments require us to distinguish the
+
+interests necessary for removal for cause from those sufficient to request protection during
+
+a will contest. The statutory definition of “interested person” expressly directs that inquiry:
+
+its meaning varies with the particular purpose and matter involved in the proceeding.
+
+Section 72-1-103(25), MCA.
+
+¶24    In In re Estate of Lawlor, we held that standing to contest a will did not itself
+
+establish standing to seek removal for cause under § 72-3-526, MCA. In re Estate of
+
+Lawlor, ¶¶ 16–17, 20, 27. An heir who would gain from a successful contest qualified to
+
+challenge the will, but her prospective inheritance did not establish a present property right
+
+while the probated will remained effective. In re Estate of Lawlor, ¶¶ 16–17, 20, 27. For
+
+removal for cause, the petitioner needed a property right in the estate, a claim against it, or
+
+priority for appointment. In re Estate of Lawlor, ¶¶ 25–31. We expressly confined that
+
+analysis to removal for cause and distinguished appointment proceedings associated with
+
+a change in testacy. In re Estate of Lawlor, ¶ 21. The decision therefore does not make
+
+success in a will contest a prerequisite to every form of relief the Probate Code authorizes
+
+during that contest.
+
+
+                                              11
+¶25    The Bateses cannot establish a present intestate interest by treating the will as
+
+already invalid; no order has resolved that issue. Section 72-3-215(2), MCA; In re Estate
+
+of Lawlor, ¶ 27. We also reject the Bateses’ argument that Purtle admitted their status as
+
+devisees in her application for informal probate. The application grouped the three children
+
+under a heading identifying “heirs and devisees” and described the Bateses as sons. Section
+
+72-3-202(2), MCA, requires an applicant to identify the spouse, children, heirs, and
+
+devisees. Compliance with that disclosure requirement does not establish that every listed
+
+person belongs to every category. A devisee is a person whom a will designates to receive
+
+a devise. Section 72-1-103(12), MCA. The application establishes the family relationships
+
+and identifies persons relevant to probate; it does not itself resolve who receives property
+
+under the will.
+
+¶26    The Bateses separately argue that Count I, which they labeled “improper
+
+disinheritance,” supplies the claim against the estate that In re Estate of Lawlor requires
+
+even if the will remains valid. They invoke the omitted-child statute, § 72-2-332, MCA,
+
+and contend that their demand for a share differs from their claims seeking to invalidate
+
+the will. That distinction does not make the demand a “claim” merely because they pleaded
+
+it as a separate count. Section 72-1-103(6)(a), MCA, defines claims in terms of liabilities
+
+of the decedent or estate, including contractual and tort liabilities, funeral expenses, and
+
+administration expenses. A demand to inherit does not, without more, assert such a
+
+liability. In re Estate of Lawlor, ¶ 26. A legally supported entitlement to a share may
+
+instead bear on whether the claimant has a property right under § 72-1-103(25), MCA. The
+
+
+
+                                            12
+relevant inquiry concerns the legal basis of the asserted entitlement, not the title of the
+
+count.
+
+¶27      Purtle responds that § 72-2-332, MCA, cannot provide that basis because the
+
+Bateses were adults when Bradford executed the will.           Her reading is incomplete.
+
+Although § 72-2-332(1), MCA, addresses after-born and after-adopted children,
+
+§ 72-2-332(3), MCA, also addresses a living child omitted solely because the testator
+
+believed the child dead. The Bateses’ contrary assumption—that every unnamed child
+
+receives a share unless the proponent proves an intentional omission—is also too broad.
+
+Section 72-2-332(1)–(3), MCA, identifies circumstances in which an omitted child may
+
+take; omission alone does not establish them. We do not decide whether the Bateses have
+
+alleged or can prove an entitlement under § 72-2-332(3), MCA. Neither do we construe
+
+the provisions concerning children, the residue, intentional omissions, and the separate gift
+
+to Purtle to determine whether they receive a devise. Those unresolved questions prevent
+
+the categorical declaration Purtle requests that the Bateses can acquire an interest only by
+
+invalidating the will.
+
+¶28      A separate statutory provision answers whether the Bateses may request interim
+
+protection while they pursue the contest. Section 72-3-304, MCA, expressly permits a
+
+petitioner who seeks a different personal representative in a formal proceeding to request
+
+an order restraining the acting representative’s powers and appointment of a special
+
+administrator. That authority operates during the proceeding. Requiring the petitioner to
+
+prevail first would eliminate the protection the statute provides while the dispute remains
+
+unresolved.     Section 72-3-319(1), MCA, likewise restricts administration, except
+
+                                             13
+preservation of the estate or as the court otherwise orders, after an informally appointed
+
+representative receives notice of a formal proceeding concerning appointment priority or
+
+qualification. These provisions distinguish preserving an estate during litigation from
+
+deciding who ultimately should administer it.
+
+¶29    That distinction applies here. The Bateses requested a determination of intestacy,
+
+appointment of a different representative, and protection of assets pending resolution of
+
+their challenge. They expressly invoked § 72-3-304, MCA, in their District Court reply.
+
+Purtle does not dispute their standing to contest the will as heirs who would benefit from a
+
+successful challenge. Their ability to pursue that formal proceeding permits them to
+
+request the interim protection § 72-3-304, MCA, expressly provides. It does not establish
+
+their entitlement to that protection or to removal for cause under § 72-3-526, MCA.
+
+Applying each statute to the particular relief requested follows the distinction recognized
+
+in In re Estate of Lawlor, ¶¶ 20–21, rather than extending will-contest standing to every
+
+dispute concerning the estate.
+
+¶30    We therefore reject both the assumption that filing the will contest established
+
+standing for removal for cause and Purtle’s broader assertion that the Bateses could request
+
+no interim protection until they prevailed. The District Court must evaluate any asserted
+
+independent basis for removal standing under § 72-1-103(25), MCA, and In re Estate of
+
+Lawlor, ¶¶ 25–31. It may not treat a combined disclosure heading or the label of a count
+
+as conclusive. At the same time, § 72-3-304, MCA, permits the Bateses to request interim
+
+relief during their formal proceeding. That provision does not dispense with the notice,
+
+
+
+                                            14
+hearing, and necessity requirements for appointment of a special administrator under
+
+§ 72-3-701(2), MCA. We turn to those requirements.
+
+¶31    3. Whether the District Court abused its discretion by appointing a special
+          administrator without the hearing required by § 72-3-701(2), MCA, and whether
+          the assigned investigation improperly shifted the burden of proof in the will
+          contest.
+
+¶32    Purtle argues that the special-administrator appointment violated § 72-3-701(2),
+
+MCA, because the District Court held no hearing and did not establish an emergency
+
+permitting it to dispense with one. The statute authorizes appointment on an interested
+
+person’s petition after notice and a hearing, upon a finding that appointment is necessary
+
+to preserve the estate or secure its proper administration, including when a general personal
+
+representative cannot or should not act. Section 72-3-701(2), MCA. It then provides an
+
+exception: if an emergency appears to the court, it may order appointment without notice.
+
+Section 72-3-701(2), MCA. The Bateses maintain that the court invoked that exception by
+
+finding “immediate preservation measures” necessary. They argue that the statute does not
+
+require the court to use the word “emergency.”
+
+¶33    We agree that § 72-3-701(2), MCA, does not require the court to use the words “an
+
+emergency exists.” But the substance of the emergency determination matters. The first
+
+sentence authorizes an appointment when necessary to preserve the estate or secure proper
+
+administration and requires notice and a hearing before that decision. Section 72-3-701(2),
+
+MCA. The second permits departure from that requirement when an emergency appears.
+
+Section 72-3-701(2), MCA. A general need for a neutral administrator therefore does not,
+
+by itself, establish the circumstances needed to appoint one before a hearing. The order
+
+
+                                             15
+and record must show why an apparent emergency requires appointment before the court
+
+can hold the hearing the statute requires.       Merely describing the appointment as
+
+“immediate” does not explain why the court must act before providing that opportunity.
+
+Section 72-3-701(2), MCA.
+
+¶34    The December 3 order did not make that distinction.          It recited the Bateses’
+
+allegations concerning incapacity, undue influence, exploitation, and the preparation of the
+
+will. It identified accounts Purtle claimed individually and the limited financial records
+
+she had produced. But it did not identify threatened conduct or an administrative need that
+
+required appointment before a hearing. A dispute over disclosure or ownership may justify
+
+further inquiry and may support an appointment after a hearing. Reciting that dispute and
+
+the requested relief, however, does not establish why an emergency permits the court to
+
+dispense with the hearing required by § 72-3-701(2), MCA.
+
+¶35    The Bateses contend that the bank records supply the missing urgency because
+
+Purtle spent or withdrew more than $37,000 during the month Bradford died. Their
+
+amended motion also describes a $10,000 in-person withdrawal as occurring the day after
+
+Bradford’s death.    The exhibits do not establish the alleged timing of the $10,000
+
+withdrawal. The statement period ran from December 25, 2024, through January 24, 2025,
+
+and the aggregate debits include transfers between the identified accounts and a returned
+
+Social Security payment. Both the transaction list and the withdrawal image date the
+
+$10,000 withdrawal on January 7, 2025, two days before Bradford’s January 9 death. The
+
+debit total therefore does not establish that Purtle took that amount from the estate after
+
+
+
+                                            16
+death, and the records do not explain why appointment without a hearing became necessary
+
+in December 2025, almost eleven months after the alleged post-death transfer.
+
+¶36    These limitations do not establish that Purtle acted properly. Conduct before
+
+Bradford’s death may bear on the exploitation claim, and the court may need further
+
+evidence concerning the purpose and ownership of the transactions. An emergency
+
+appointment does not require the court to resolve that claim first. Section 72-3-701(2),
+
+MCA. But the question here is not whether the exhibits warrant investigation; it is whether
+
+they establish circumstances permitting the court to forgo a hearing before appointing the
+
+investigator. The court made no finding connecting the months-old transactions to a
+
+threatened loss or administrative harm that required appointment without a hearing. The
+
+unresolved need to investigate cannot, standing alone, satisfy both the necessity
+
+requirement and the distinct emergency exception in § 72-3-701(2), MCA. The Bateses
+
+also emphasize that the estate had lacked an authorized general representative for more
+
+than six months after the May 30, 2025 revocation. That vacancy may have supported
+
+appointment to secure proper administration, but it did not automatically supply an
+
+emergency under § 72-3-701(2), MCA. The court identified no impending obligation,
+
+transaction, or other circumstance requiring it to appoint a fiduciary before a hearing. It
+
+directed the Bateses to submit nominees and selected Blades on January 15, 2026, more
+
+than six weeks after granting the amended motion, without an intervening hearing or
+
+additional emergency findings. Delay does not categorically disprove an emergency.
+
+Here, however, neither order nor the record explains why the court could omit the statutory
+
+hearing while the appointment remained pending.
+
+                                            17
+¶37   Purtle opposed appointment and quoted the notice-and-hearing requirement in
+
+§ 72-3-701(2), MCA. Her notice that briefing was complete did not authorize the court’s
+
+earlier omission: she filed that notice on December 4, after the court granted the amended
+
+motion. The January 15 order appointing Blades as fiduciary added only the identity of
+
+the administrator and reaffirmed the December 3 directives. The District Court abused its
+
+discretion by making the appointment without the hearing required by § 72-3-701(2),
+
+MCA, when neither its findings nor the record adequately supported application of the
+
+statutory emergency exception. We therefore reverse the appointment. On remand, the
+
+court may consider a renewed request under that statute, but it must hold the required
+
+hearing unless the circumstances support an emergency appointment.
+
+¶38   Purtle separately argues that assigning an administrator to investigate the
+
+counter-petition unlawfully shifts the Bateses’ burden of proving their will contest. The
+
+Bateses answer that a special administrator may investigate and pursue estate claims.
+
+Section 72-3-704, MCA, supports the latter proposition: it gives a court-appointed special
+
+administrator the powers of a general personal representative, subject to the duties and
+
+limits in the appointment order.     In In re Estate of Sauter, </pre><span class="citation" data-id="877145"><a href="/opinion/877145/matter-of-estate-of-sauter/#245" aria-description="Citation for case: Matter of Estate of Sauter">189 Mont. 244, 245</a></span><pre class="inline">,
+
+250–51, </pre><span class="citation" data-id="877145"><a href="/opinion/877145/matter-of-estate-of-sauter/#876" aria-description="Citation for case: Matter of Estate of Sauter">615 P.2d 875, 876</a></span><pre class="inline">, 878–79 (1980), we directed appointment of a special
+
+administrator to handle an estate claim when the general personal representative’s law
+
+partner had represented the defendants. We allowed the general personal representative to
+
+continue other administration. In re Estate of Sauter, 189 Mont. at 250–51, 615 P.2d at
+
+878–79. Thus, a disputed estate claim may require independent administration before the
+
+
+
+                                           18
+court resolves its merits; the mere assignment of an investigation does not make the
+
+appointment unlawful.
+
+¶39    The necessary distinction concerns whose interests the administrator serves and who
+
+must prove the pending claims. A will proponent must establish prima facie proof of due
+
+execution; contestants must establish the grounds for invalidity assigned to them by
+
+§ 72-3-310, MCA. Obtaining records or investigating a potential estate claim does not
+
+itself change those burdens. A court-appointed administrator’s authority under § 72-3-704,
+
+MCA, does not, however, replace the parties’ obligations under § 72-3-310, MCA, or
+
+the court’s responsibility to decide the contest. Because the appointment fails under
+
+§ 72-3-701(2), MCA, we need not decide the permissible scope of every task the
+
+December 3 order assigned. Any renewed appointment must satisfy § 72-3-701(2), MCA.
+
+In prescribing duties under § 72-3-704, MCA, the court must distinguish estate
+
+administration from the proponents’ and contestants’ burdens in the will contest under
+
+§ 72-3-310, MCA.
+
+¶40    4. Whether the District Court exceeded its statutory authority or abused its
+          discretion by freezing all financial accounts in which Bradford held an interest
+          at death, including accounts Purtle claimed through nonprobate transfer.
+
+¶41    Purtle challenges the account freeze on the ground that the accounts passed to her
+
+outside probate and therefore lie beyond the court’s probate jurisdiction. The Bateses
+
+respond that their financial-exploitation claim invokes § 72-2-813, MCA, which may
+
+revoke benefits and sever survivorship interests in nonprobate property. They contend that
+
+freezing the accounts was necessary to preserve property potentially subject to that relief.
+
+Neither argument fully distinguishes authority to adjudicate a statutory claim affecting
+
+                                            19
+nonprobate benefits from authority to impose this particular restraint before adjudication.
+
+The former does not automatically supply the latter.
+
+¶42    Section 72-1-202(1)(a), MCA, grants the court jurisdiction over matters relating to
+
+decedents’ estates, including construction of wills and determination of heirs and
+
+successors.   Section 72-1-202(2), MCA, authorizes action necessary and proper to
+
+administer justice in those matters. These provisions do not give a court sitting in probate
+
+every remedy available in an ordinary civil action. In re Estate of Cooney, </pre><span class="citation no-link">2019 MT 293</span><pre class="inline">,
+
+¶¶ 6–7, 11–16, </pre><span class="citation no-link">398 Mont. 166</span><pre class="inline">, </pre><span class="citation no-link">454 P.3d 1190</span><pre class="inline">. In In re Estate of Thomas, ¶¶ 30–34, we
+
+applied that distinction to provisional relief: § 72-3-617, MCA, specifically authorizes
+
+restraints on a personal representative’s conduct, whereas the preliminary-injunction
+
+provisions of Title 27, chapter 19, MCA, govern civil actions. The restraint must fall
+
+within a power the Probate Code expressly grants or a power necessary to carry out an
+
+authorized probate function. Section 72-1-202(2), MCA; In re Estate of Cooney, ¶ 7.
+
+Principles of law and equity supplement the Code unless a particular provision displaces
+
+them. Section 72-1-104, MCA. The absence of an expressly named remedy therefore does
+
+not end the inquiry; the court still must determine whether the requested restraint is
+
+necessary and proper to exercise an authorized probate power.
+
+¶43    Purtle correctly identifies a distinction between estate property and property that
+
+passes through a nonprobate transfer. A provision for transfer on death in an account
+
+agreement or individual retirement plan is nontestamentary. Section 72-6-111(1), MCA.
+
+Subject to the statutory exceptions, sums in a multiple-party account belong to the
+
+surviving party or parties; account terms that exclude survivorship produce a different
+
+                                            20
+result. Section 72-6-212(1), (3), MCA. A survivorship transfer takes effect through the
+
+account terms and governing statutes rather than through the will. Section 72-6-214, MCA.
+
+We do not decide whether every account Purtle identified qualifies as nonprobate property.
+
+These provisions nevertheless foreclose treating Bradford’s interest at death, without
+
+further analysis, as sufficient to subject every account to estate administration.
+
+¶44    Purtle goes too far, however, when she argues that a nonprobate designation
+
+defeats any probate inquiry.         Section 72-2-813(3)(a), MCA, revokes specified
+
+revocable dispositions, powers, and fiduciary nominations benefiting an abuser.
+
+Section 72-2-813(3)(b), MCA, severs the interests of the decedent and abuser in property
+
+they held as joint tenants with survivorship rights at the time of the exploitation and
+
+converts those interests to tenancies in common. In the absence of a qualifying conviction,
+
+the court must determine, on an interested person’s petition and under the preponderance
+
+standard, whether the individual would be criminally accountable for financially exploiting
+
+the decedent. Section 72-2-813(7), MCA. The statute therefore supplies authority to
+
+determine the effect of exploitation on covered nonprobate benefits. We do not resolve
+
+whether the Bateses can establish the facts necessary for that relief.
+
+¶45    The Bateses argue that the freeze was incidental to that authorized determination,
+
+not independent equitable relief of the kind disallowed in In re Estate of Cooney. A probate
+
+court may decide an equitable question when necessary to exercise a power the statutes
+
+expressly grant. In re Day’s Estate, </pre><span class="citation" data-id="3544104"><a href="/opinion/3564914/in-re-days-estate/" aria-description="Citation for case: In Re Day&#x27;s Estate">119 Mont. 547</a></span><pre class="inline">, 551–52, </pre><span class="citation" data-id="3544104"><a href="/opinion/3564914/in-re-days-estate/#865" aria-description="Citation for case: In Re Day&#x27;s Estate">177 P.2d 862, 865</a></span><pre class="inline"> (1947).
+
+Even assuming § 72-1-202(2), MCA, permits a restraint necessary to preserve relief
+
+available on the pending exploitation claim, that authority does not sustain this order. The
+
+                                             21
+court used Bradford’s former interest in an account—not the nature and extent of the
+
+interests potentially affected by the statutory claim—to define the property restrained. It
+
+prohibited every withdrawal, transfer, closure, and beneficiary change absent court or
+
+administrator authorization, without distinguishing benefits subject to revocation,
+
+survivorship interests subject to severance, or any separate ownership interests that would
+
+remain unaffected by that relief. Section 72-2-813(3), MCA. It then left the freeze in effect
+
+until further order while suspending the case schedule pending a report due 120 days after
+
+the administrator’s appointment.     The court did not need to resolve exploitation or
+
+ownership before considering protection.          But its recitals of disputed ownership,
+
+incomplete disclosure, and possible dissipation did not explain why this categorical control
+
+over all covered accounts was necessary for that scope and duration. On this record, the
+
+court did not establish that the blanket restraint was necessary and proper to carry out its
+
+authority under § 72-2-813, MCA. Section 72-1-202(2), MCA.
+
+¶46    Purtle’s reply nevertheless overstates the absence of statutory protection when it
+
+asserts that § 72-2-813, MCA, operates only after a final exploitation determination.
+
+Section 72-2-813(8)(a)–(b), MCA, expressly addresses disputed property before
+
+adjudication. A claimant may give a payor or third party the prescribed written notice
+
+identifying the decedent, the claimant, the property, and the asserted forfeiture or
+
+revocation. Section 72-2-813(8)(a)–(b), MCA. The statute limits potential liability under
+
+this provision to actions taken two or more business days after actual receipt of written
+
+notice served as § 72-2-813(8)(b), MCA, requires. Section 72-2-813(8)(a), MCA. The
+
+payor or third party may deposit the disputed property with the probate court, which must
+
+                                             22
+hold it pending a determination. Section 72-2-813(8)(b), MCA. This procedure provides
+
+a means to preserve disputed property held by a payor or third party without treating the
+
+asserted forfeiture as established. The December 3 order did not direct the court to hold
+
+property deposited under that procedure; it commanded financial institutions to freeze
+
+covered accounts and authorized the administrator to permit transactions. Subsection (8)
+
+does not itself authorize that directive. Section 72-2-813(8)(a)–(b), MCA. We do not,
+
+however, treat its notice-and-deposit procedure as the exclusive source of protective
+
+authority.   The Bateses’ broader argument depends on the court’s authority under
+
+§ 72-1-202(2), MCA, which does not sustain this blanket restraint for the reasons just
+
+explained.
+
+¶47    The decisions the Bateses invoke do not authorize a broader result. In In re Estate
+
+of Thomas, the court restrained the representative’s use and distribution of estate funds
+
+after a hearing; the requested relief concerned the exercise of her fiduciary office. In re
+
+Estate of Thomas, ¶¶ 9–11, 28, 30–34. Section 72-3-617(1), MCA, also permits other
+
+orders securing proper performance of a personal representative’s duties and permits
+
+persons with whom the representative may transact business to become parties. Those
+
+provisions remain tied to estate administration; they do not confer a general power to
+
+restrain a person’s use of property merely because that person serves as personal
+
+representative. In re Estate of Thomas, ¶ 34. Here, the court did not confine the challenged
+
+restraint to Purtle’s fiduciary conduct. It froze disputed accounts and directed financial
+
+institutions to honor the prohibition on transactions. It also failed to set the hearing within
+
+ten days after entering the restraint, as § 72-3-617(2), MCA, requires unless the parties
+
+                                              23
+otherwise agree. Instead, it deferred further scheduling until after the administrator’s
+
+report. Section 72-3-617, MCA, therefore, does not sustain the order as entered. In re
+
+Estate of Ronan, </pre><span class="citation no-link">2023 MT 197</span><pre class="inline">, ¶¶ 21–22, 28–29, </pre><span class="citation no-link">413 Mont. 468</span><pre class="inline">, </pre><span class="citation no-link">537 P.3d 868</span><pre class="inline">, likewise
+
+concerned distribution of insurance proceeds in accordance with a testamentary disposition
+
+and settlement agreement, not a provisional freeze of disputed personal accounts. Neither
+
+decision allows a court to replace the applicable statutory requirements with a general
+
+assertion that preserving the status quo would help resolve the estate.
+
+¶48    We reverse the blanket freeze. The order does not satisfy § 72-3-617, MCA; and
+
+§ 72-2-813(8), MCA, does not itself authorize the directive. Even assuming § 72-1-202(2),
+
+MCA, permits a restraint necessary to preserve relief on the exploitation claim, the court
+
+abused its discretion by imposing this categorical freeze without a sufficient basis for its
+
+scope and continuing operation. In re Estate of Thomas, ¶ 14; § 72-1-202(2), MCA. We
+
+do not decide whether § 72-1-202(2), MCA, would support a narrower protective order on
+
+a different record. This holding does not validate Purtle’s claimed transfers, prevent
+
+discovery relevant to the exploitation claim, or immunize disputed property from a remedy
+
+the governing law authorizes. It requires the District Court to distinguish control of estate
+
+administration from control of property Purtle claims individually and to identify the
+
+statutory basis and required showing for any provisional relief. The parties remain free to
+
+pursue the protection expressly available under § 72-2-813(8), MCA, and other relief for
+
+which they establish the applicable statutory prerequisites.
+
+
+
+
+                                             24
+                                     CONCLUSION
+
+¶49    The District Court violated § 72-3-526(1)–(2), MCA, by granting removal for cause
+
+without the required hearing and determination. Its appointment of a special administrator
+
+also failed to satisfy § 72-3-701(2), MCA, because it held no hearing and did not adequately
+
+establish the emergency exception. The District Court also abused its discretion by
+
+imposing the blanket account freeze without adequately justifying its scope and continuing
+
+operation, even assuming that § 72-1-202(2), MCA, authorizes some provisional
+
+protection. We therefore reverse the removal and replacement directives in the May 30,
+
+2025 order, the special-administrator and account-freeze rulings in the December 3, 2025
+
+order, and the January 15, 2026 appointment order.
+
+¶50    On remand, the District Court shall restore Purtle’s appointment, subject to the
+
+restrictions that apply during the pending formal proceeding. Reinstatement does not
+
+authorize distributions that § 72-3-304, MCA, prohibits or other administration that
+
+§ 72-3-319(1), MCA, restricts. The court may consider requests for interim protection
+
+under the applicable statutes, including §§ 72-3-304, -617, and -701(2), MCA, but must
+
+apply the requirements governing the particular relief. If necessary, it shall direct an
+
+orderly accounting and transfer of estate records and property held by the special
+
+administrator. It also shall establish an appropriate schedule for resolving the pending
+
+claims rather than reinstate expired deadlines. The District Court shall lift the account
+
+freeze imposed by the December 3 order. To the extent the May 30 stay would continue
+
+that same blanket restraint, the court shall modify the stay consistently with this Opinion.
+
+
+
+                                             25
+¶51   The Bateses’ standing to contest the will does not alone establish standing to obtain
+
+removal for cause, but they need not prevail in that contest before requesting the interim
+
+protection § 72-3-304, MCA, permits. We leave any unresolved independent basis for
+
+removal standing to the District Court under § 72-1-103(25), MCA, and In re Estate of
+
+Lawlor, ¶¶ 25–31. We express no opinion on the validity or construction of the will,
+
+whether financial exploitation occurred, ownership of the accounts, or ultimate entitlement
+
+to estate property. We also do not foreclose appointment of a neutral fiduciary upon
+
+satisfaction of § 72-3-701(2), MCA.
+
+¶52   Reversed and remanded.
+
+                                                 /S/ KATHERINE M. BIDEGARAY
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ LAURIE McKINNON
+/S/ INGRID GUSTAFSON
+/S/ JIM RICE
+
+
+
+
+                                            26
+</pre>

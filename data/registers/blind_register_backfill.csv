@@ -1,0 +1,36 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch
+13,State ex rel. Bates v. Clancy,OH-Supreme,apex,criminal,dismissal,pure_law,CLEAN_AFFIRM
+13,State v. Turner (OH),OH-Supreme,apex,criminal,dismissal,pure_law,REVERSED
+13,State ex rel. McIntyre v. McCarty,OH-Supreme,apex,criminal,dismissal,pure_law,CLEAN_AFFIRM
+13,Sherwin-Williams v. Underwriters,OH-Supreme,apex,civil,,pure_law,REVERSED
+13,Weidman v. Hildebrandt,OH-Supreme,apex,civil,,pure_law,CLEAN_AFFIRM
+13,Smith v. Ohio State Univ.,OH-Supreme,apex,civil,,pure_law,REVERSED
+13,Olentangy Schools v. Bd. of Revision,OH-Supreme,apex,admin,dismissal,pure_law,CLEAN_AFFIRM
+13,In re E. Ohio Gas,OH-Supreme,apex,admin,discretionary,pure_law,CLEAN_AFFIRM
+13,In re Ohio Edison Excessive Earnings,OH-Supreme,apex,admin,discretionary,pure_law,MODIFIED
+14,State v. Edwards,CT-Supreme,apex,criminal,trial,legal_overlay,CLEAN_AFFIRM
+14,State v. Turner (CT),CT-Supreme,apex,criminal,trial,legal_overlay,CLEAN_AFFIRM
+14,Jobe v. Commissioner,CT-Supreme,apex,habeas,dismissal,pure_law,CLEAN_AFFIRM
+14,Gilchrist v. Commissioner,CT-Supreme,apex,habeas,dismissal,pure_law,REVERSED
+14,State v. Lebrick,CT-Supreme,apex,criminal,trial,legal_overlay,MODIFIED
+14,State v. Collymore,CT-Supreme,apex,criminal,trial,legal_overlay,CLEAN_AFFIRM
+14,Rutter v. Janis,CT-Supreme,apex,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+14,Graham v. Friedlander,CT-Supreme,apex,civil,dismissal,pure_law,REVERSED
+14,Netscout v. Gartner,CT-Supreme,apex,civil,summary_judgment,legal_overlay,CLEAN_AFFIRM
+14,Jenzack v. Stoneridge,CT-Supreme,apex,civil,trial,legal_overlay,REVERSED
+14,Zhou v. Zhang,CT-Supreme,apex,family,trial,fact,CLEAN_AFFIRM
+14,Puff v. Puff,CT-Supreme,apex,family,trial,legal_overlay,MODIFIED
+14,In re Tresin J.,CT-Supreme,apex,family,trial,fact,CLEAN_AFFIRM
+16,State v. Lanier,CT-Appellate,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM
+16,State v. Coleman,CT-Appellate,intermediate,criminal,trial,pure_law,MODIFIED
+16,Wells Fargo v. Melahn,CT-Appellate,intermediate,civil,dismissal,pure_law,CLEAN_AFFIRM
+16,Office Condo v. Rompre,CT-Appellate,intermediate,civil,dismissal,pure_law,CLEAN_AFFIRM
+16,Black v. West Hartford,CT-Appellate,intermediate,admin,dismissal,pure_law,CLEAN_AFFIRM
+16,South Windsor v. Lanata,CT-Appellate,intermediate,admin,trial,discretion,MODIFIED
+17,State v. Gray,CT-Appellate,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM
+17,Jones v. Commissioner,CT-Appellate,intermediate,habeas,trial,legal_overlay,CLEAN_AFFIRM
+17,Lewis v. Commissioner,CT-Appellate,intermediate,habeas,trial,pure_law,CLEAN_AFFIRM
+17,Pringle v. Pattis,CT-Appellate,intermediate,civil,dismissal,pure_law,MODIFIED
+17,Robbins Eye v. Commerce Park,CT-Appellate,intermediate,civil,discretionary,legal_overlay,CLEAN_AFFIRM
+17,Desmond v. Yale-New Haven,CT-Appellate,intermediate,civil,dismissal,pure_law,CLEAN_AFFIRM
+17,State Marshal Assn v. Johnson,CT-Appellate,intermediate,admin,dismissal,pure_law,CLEAN_AFFIRM

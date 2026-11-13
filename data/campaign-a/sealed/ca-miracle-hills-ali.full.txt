@@ -1,0 +1,404 @@
+<pre class="inline">Nebraska Supreme Court Online Library
+www.nebraska.gov/apps-courts-epub/
+10/30/2026 08:18 AM CDT
+
+
+
+
+                                                        - 710 -
+                               Nebraska Supreme Court Advance Sheets
+                                        322 Nebraska Reports
+                                        11819 MIRACLE HILLS DRIVE v. ALI
+                                                Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+
+
+
+                             11819 Miracle Hills Drive, LP, appellee, v.
+                                   Maman Lawan Ali, appellant.
+                                                   ___ N.W.3d ___
+
+                                        Filed October 30, 2026.   No. S-25-461.
+
+                 1. Summary Judgment: Appeal and Error. An appellate court reviews
+                    the district court’s grant of summary judgment de novo, viewing the
+                    record in the light most favorable to the nonmoving party and drawing
+                    all reasonable inferences in that party’s favor.
+                 2. ____: ____. A grant of summary judgment will be affirmed if the plead-
+                    ings and admitted evidence show that there is no genuine issue as to any
+                    material facts or as to the ultimate inferences that may be drawn from
+                    the facts and that the moving party is entitled to judgment as a matter of
+                    law.
+                 3. Judgments: Statutes: Appeal and Error. When an appeal calls for
+                    statutory interpretation or presents questions of law, an appellate court
+                    must reach an independent, correct conclusion irrespective of the deter-
+                    mination made by the court below.
+                 4. Homesteads. To select a homestead under </pre><span class="citation no-link">Neb. Rev. Stat. § 40-101</span><pre class="inline">
+                    (Cum. Supp. 2024), an application under </pre><span class="citation no-link">Neb. Rev. Stat. § 40-105</span><pre class="inline">
+                    (Reissue 2016) that comports with </pre><span class="citation no-link">Neb. Rev. Stat. §§ 40-106</span><pre class="inline"> and 40-107
+                    (Reissue 2016) must be filed with the district court.
+
+                 Appeal from the District Court for Douglas County: Katie L.
+               Benson, Judge. Vacated and remanded for further proceedings.
+
+                  Chinedu Igbokwe, of Banwo &amp; Igbokwe Law Firm, L.L.C.,
+               for appellant.
+
+                  Aimee K. Cizek, of McGill, Gotsdiner, Workman &amp; Lepp,
+               P.C., L.L.O., for appellee.
+                                    - 711 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                    11819 MIRACLE HILLS DRIVE v. ALI
+                            Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+  Funke, C.J., Cassel, Stacy,                   Papik,     Freudenberg,
+Bergevin, and Vaughn, JJ.
+    Bergevin, J.
+                       INTRODUCTION
+   Maman Lawan Ali appeals from the district court’s decree
+foreclosing his interest in his marital residence, which he owns
+with his wife as a joint tenant with right of survivorship. The
+decree ordered “the Sheriff or a special master of Plaintiff’s
+choice” to sell the real property to satisfy a judgment lien that
+11819 Miracle Hills Drive, LP (Miracle Hills), obtained against
+Ali individually. The primary issue before us is the applicabil-
+ity and operation of the homestead statutes 1 to the facts of
+this case. We conclude that the homestead exemption did not
+prevent the court from entering the decree. However, we find
+plain error in the decree and, accordingly, vacate the decree
+and remand the cause for further proceedings.
+                       BACKGROUND
+   In a prior action, Miracle Hills obtained a money judgment
+against Ali related to a commercial lease agreement. Miracle
+Hills filed the instant action by way of a “Complaint for
+Foreclosure of Judgment Lien (Equity),” seeking to foreclose
+its judgment lien against Ali’s undivided one-half interest in
+real property owned by him and his wife as joint tenants with
+rights of survivorship. It is undisputed that the property is the
+couple’s primary residence and family home. In their answers
+to Miracle Hills’ complaint, neither Ali nor his wife raised
+any defenses or counterclaims.
+   Miracle Hills moved for summary judgment. At the hear-
+ing on the motion, Ali and his wife appeared, both self-
+represented. Three exhibits were offered and received. The
+1
+    See, </pre><span class="citation no-link">Neb. Rev. Stat. §§ 40-101</span><pre class="inline"> to 40-116 (Reissue 2016 &amp; Cum. Supp.
+    2024); State Bank v. Carson, </pre><span class="citation" data-id="6642061"><a href="/opinion/6759383/state-bank-v-carson/#502" aria-description="Citation for case: State Bank v. Carson">4 Neb. 498, 502</a></span><pre class="inline"> (1876) (“no sale can be had
+    of such portion as may be selected as a homestead by the judgment debtor,
+    or his authorized agent, so long as the premises thus selected are owned
+    and occupied for that purpose”).
+                             - 712 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                11819 MIRACLE HILLS DRIVE v. ALI
+                        Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+first exhibit was an affidavit from Miracle Hills’ property man-
+ager and business records manager. The affidavit set forth that
+Miracle Hills obtained a judgment against Ali for his breach
+of a commercial lease agreement and attached a certified copy
+of the judgment. The second exhibit was a stipulation between
+Miracle Hills and the real property’s mortgagee setting forth
+that the mortgagee’s interest in the property was senior to
+Miracle Hills’. The third exhibit was a copy of the commercial
+lease agreement, which showed that Ali’s wife was not a party
+to the lease.
+   Ali argued that the property “is my residential house with
+my family, [where] I live with my four children and my wife.
+And I don’t see legally . . . how my house can be foreclosed.”
+However, he was unable to cite to any law in support of his
+argument. His wife argued that the judgment was against Ali
+alone and that “the ownership of the house is protected by
+the Nebraska law.” She maintained that the “house cannot be
+foreclosed because the interest is for both of us, and they don’t
+have [a] judgment against myself.” She contended that (1) a
+judgment lien cannot attach to a nondebtor property interest
+and (2) her ownership interest is protected by tenancy in the
+entirety, as such property cannot be subject to a judgment lien
+against only one spouse; thus, Miracle Hills could not divide
+her and Ali’s interest by foreclosure.
+   In its decree, the district court found that there were no
+issues of fact and that Ali and his wife did not set forth any
+valid defenses in their answers. The court found that Miracle
+Hills had a judgment lien based on the prior judgment and
+that its lien was second in priority to the mortgagee’s deed
+of trust.
+   The court ordered that unless the debt was paid in full
+within 20 days, “the Sheriff or a special master of [Miracle
+Hills’] choice, shall, . . . sell the Real Property and appur-
+tenances [and] bring the proceeds of the sale into Court to
+be applied to the satisfaction of the sums so found due upon
+confirmation of said sale.” The definition of “Real Property”
+                               - 713 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                 11819 MIRACLE HILLS DRIVE v. ALI
+                         Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+in the decree was the legal description and common address
+of the marital residence. Upon confirmation of the sale, Ali’s
+interest would be foreclosed and “the Sheriff [or] special
+master shall make, execute, and deliver to the purchaser at
+said sale a good and sufficient deed of conveyance of [Ali’s]
+undivided one-half interest [and] put the purchaser in posses-
+sion thereof.”
+   Ali filed a timely appeal.
+                 ASSIGNMENTS OF ERROR
+   Ali assigns that the trial court erred in (1) granting sum-
+mary judgment despite material issues of fact regarding the
+homestead status of the property, (2) ordering foreclosure
+of his undivided interest in the marital residence contrary to
+§§ 40-101 and 40-103, and (3) extending a judgment lien
+against one spouse to divest the nondebtor spouse of her co-
+ownership interest in the homestead.
+                   STANDARD OF REVIEW
+   [1,2] An appellate court reviews the district court’s grant
+of summary judgment de novo, viewing the record in the
+light most favorable to the nonmoving party and drawing all
+reasonable inferences in that party’s favor. 2 A grant of sum-
+mary judgment will be affirmed if the pleadings and admitted
+evidence show that there is no genuine issue as to any material
+facts or as to the ultimate inferences that may be drawn from
+the facts and that the moving party is entitled to judgment as
+a matter of law. 3
+   [3] When an appeal calls for statutory interpretation or pres-
+ents questions of law, an appellate court must reach an inde-
+pendent, correct conclusion irrespective of the determination
+made by the court below. 4
+2
+  Schuemann v. Timperley, </pre><span class="citation" data-id="11409662"><a href="/opinion/10942079/schuemann-v-timperley/" aria-description="Citation for case: Schuemann v. Timperley">321 Neb. 955</a></span><pre class="inline">, </pre><span class="citation no-link">38 N.W.3d 417</span><pre class="inline"> (2026).
+3
+  </pre><span class="citation no-link">Id.</span><pre class="inline">
+4
+  Park ‘N Go v. Airport Authority, </pre><span class="citation" data-id="11399888"><a href="/opinion/10932345/park-n-go-v-airport-authority/" aria-description="Citation for case: Park &#x27;N Go v. Airport Authority">321 Neb. 798</a></span><pre class="inline">, </pre><span class="citation no-link">37 N.W.3d 459</span><pre class="inline"> (2026).
+  See Chambers v. Bringenberg, </pre><span class="citation" data-id="5121977"><a href="/opinion/5293415/chambers-v-bringenberg/" aria-description="Citation for case: Chambers v. Bringenberg">309 Neb. 888</a></span><pre class="inline">, </pre><span class="citation" data-id="5121977"><a href="/opinion/5293415/chambers-v-bringenberg/" aria-description="Citation for case: Chambers v. Bringenberg">963 N.W.2d 37</a></span><pre class="inline"> (2021).
+                                - 714 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                 11819 MIRACLE HILLS DRIVE v. ALI
+                         Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+                           ANALYSIS
+   We begin by recognizing the unique action that Miracle
+Hills brought to enforce its judgment lien. Instead of seeking
+a writ of execution on Ali’s property, 5 Miracle Hills brought
+what it called an equitable foreclosure action. We have, at
+least on two occasions, recognized such an action; however,
+the facts of those cases were extreme and readily distinguish-
+able from the instant action. 6 Nevertheless, the district court
+heard the action and entered a decree, and Ali has not chal-
+lenged the type of action brought. Accordingly, we do not con-
+sider whether an equitable foreclosure action is proper under
+these circumstances.
+   On appeal, all three of Ali’s assignments of error concern
+the effect and applicability of the homestead exemption to this
+case. In sum, he argues that the homestead exemption pre-
+vented the district court from ordering the sale of his interest
+in the real property. Miracle Hills argues that, if the homestead
+exemption applies, it is not a defense to foreclosure but applies
+“at the execution stage.” 7 As we discuss below, we disagree
+with both parties. To understand why, we first provide an over-
+view of the homestead statutes 8 before turning to the resolu-
+tion of this case.
+                     Homestead Statutes
+   We have explained that the purpose of the Legislature in
+enacting the homestead statutes was to protect the debtor and
+the debtor’s family residing in a home from the forced sale of
+the home on execution or attachment. 9 A homestead is gener-
+ally “exempt from judgment liens and from execution or forced
+5
+  See </pre><span class="citation no-link">Neb. Rev. Stat. §§ 25-1502</span><pre class="inline">(1) and 25-1516 (Reissue 2016).
+6
+  See, Ehlers v. Campbell, </pre><span class="citation" data-id="1849223"><a href="/opinion/1849223/ehlers-v-campbell/" aria-description="Citation for case: Ehlers v. Campbell">159 Neb. 328</a></span><pre class="inline">, </pre><span class="citation" data-id="1849223"><a href="/opinion/1849223/ehlers-v-campbell/" aria-description="Citation for case: Ehlers v. Campbell">66 N.W.2d 585</a></span><pre class="inline"> (1954) (judgment
+  debtor conveyed property); Rich v. Cooper, </pre><span class="citation" data-id="8037383"><a href="/opinion/8078442/rich-v-cooper/" aria-description="Citation for case: Rich v. Cooper">136 Neb. 463</a></span><pre class="inline">, </pre><span class="citation" data-id="8037383"><a href="/opinion/8078442/rich-v-cooper/" aria-description="Citation for case: Rich v. Cooper">286 N.W. 383</a></span><pre class="inline">
+  (1939) (deceased judgment debtor).
+7
+  Brief for appellee at 18.
+8
+  See §§ 40-101 to 40-116.
+9
+  Chambers v. </pre><span class="citation" data-id="5121977"><a href="/opinion/5293415/chambers-v-bringenberg/#4" aria-description="Citation for case: Chambers v. Bringenberg">Bringenberg, supra note 4</a></span><pre class="inline">.
+                                  - 715 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                   11819 MIRACLE HILLS DRIVE v. ALI
+                           Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+sale.” 10 However, a homestead is subject to certain judgment
+debts not exempted by the general rule, such as mechanics’
+liens and mortgages, among others not applicable here. 11 In
+any event, “the homestead of a married person cannot be
+conveyed or encumbered unless the instrument by which it is
+conveyed or encumbered is executed . . . by both spouses.” 12
+   A homestead has certain characteristics. In its inception,
+a homestead is a parcel of land on which the family resides,
+and which is to them a home. 13 It is specific to “[e]ach natu-
+ral person,” requires the claimant to reside in “the dwelling
+house,” and is “to be selected by the owner.” 14 A homestead is
+constituted by the two acts of selection and residence. 15
+   To select a homestead,
+      [w]hen an execution for the enforcement of a judgment
+      [to which the homestead exemption applies] is levied
+      upon the lands or tenements of a claimant, the claimant
+      may at any time prior to confirmation of sale apply to
+      the district court . . . for an order to determine whether
+      [the real property is] exempt as a homestead . . . . 16
+“The application must show (1) the fact that an execution has
+been levied upon property which is claimed as a homestead,
+(2) the name of the judgment creditor, (3) the facts which
+give rise to a homestead exemption, and (4) the value of
+the homestead.” 17
+10
+   § 40-101.
+11
+   See § 40-103.
+12
+   § 40-104.
+13
+   Anderson v. Schertz, </pre><span class="citation" data-id="6660868"><a href="/opinion/6777438/anderson-v-schertz/" aria-description="Citation for case: Anderson v. Schertz">94 Neb. 390</a></span><pre class="inline">, </pre><span class="citation" data-id="6660868"><a href="/opinion/6777438/anderson-v-schertz/" aria-description="Citation for case: Anderson v. Schertz">143 N.W. 238</a></span><pre class="inline"> (1913); Meisner v. Hill,
+   </pre><span class="citation" data-id="6660447"><a href="/opinion/6777060/meisner-v-hill/" aria-description="Citation for case: Meisner v. Hill">92 Neb. 435</a></span><pre class="inline">, </pre><span class="citation" data-id="6660447"><a href="/opinion/6777060/meisner-v-hill/" aria-description="Citation for case: Meisner v. Hill">138 N.W. 583</a></span><pre class="inline"> (1912); Palmer v. Sawyer, </pre><span class="citation" data-id="6656293"><a href="/opinion/6773213/palmer-v-sawyer/" aria-description="Citation for case: Palmer v. Sawyer">74 Neb. 108</a></span><pre class="inline">, </pre><span class="citation" data-id="6656293"><a href="/opinion/6773213/palmer-v-sawyer/" aria-description="Citation for case: Palmer v. Sawyer">103
+   N.W. 1088</a></span><pre class="inline"> (1905); Galligher v. Smiley, </pre><span class="citation" data-id="6646460"><a href="/opinion/6763712/galligher-v-smiley/" aria-description="Citation for case: Galligher v. Smiley">28 Neb. 189</a></span><pre class="inline">, </pre><span class="citation" data-id="6646460"><a href="/opinion/6763712/galligher-v-smiley/" aria-description="Citation for case: Galligher v. Smiley">44 N.W. 187</a></span><pre class="inline"> (1889).
+14
+   § 40-101.
+15
+   See, Weatherington v. Smith, </pre><span class="citation" data-id="6657068"><a href="/opinion/6773966/weatherington-v-smith/" aria-description="Citation for case: Weatherington v. Smith">77 Neb. 369</a></span><pre class="inline">, </pre><span class="citation no-link">112 N.W. 566</span><pre class="inline"> (1907); Palmer v.
+   </pre><span class="citation" data-id="6656293"><a href="/opinion/6773213/palmer-v-sawyer/#13" aria-description="Citation for case: Palmer v. Sawyer">Sawyer, supra note 13</a></span><pre class="inline">; Galligher v. </pre><span class="citation" data-id="6646460"><a href="/opinion/6763712/galligher-v-smiley/#13" aria-description="Citation for case: Galligher v. Smiley">Smiley, supra note 13</a></span><pre class="inline">.
+16
+   § 40-105.
+17
+   § 40-106.
+                                   - 716 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                   11819 MIRACLE HILLS DRIVE v. ALI
+                           Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+   “The application must be filed with the clerk of the district
+court . . . .” 18 In addition, the application and “notice of the
+time and place of hearing” must be served upon the “judgment
+creditor,” the judgment creditor’s “attorney of record,” and
+the “officer making the levy.” 19 They must be served “at least
+[10] days before the hearing,” which “may be had before or at
+the hearing on confirmation of sale.” 20
+   At the hearing on the application, the court must “deter-
+mine whether or not such land is subject to the homestead
+exemption.” 21 The court must also determine: “(1) The extent
+and value of the homestead; and (2) if of greater value than
+the homestead exemption, whether or not the land claimed as
+a homestead can be divided without material injury.” 22 The
+homestead statutes also provide procedures for various circum-
+stances, such as when the homestead has already been sold 23
+and when the homestead is divisible 24 or indivisible. 25
+
+                          Resolution
+   To the extent Miracle Hills contends that the homestead
+exemption could not apply in this circumstance, we disagree.
+None of the exceptions of § 40-103 apply to its judgment
+against Ali. 26 We can also dispel its contention that the home-
+stead exemption could not be raised in this action prior to the
+“execution stage.” 27 The text of § 40-105 is plain: Ali “may at
+18
+   § 40-107.
+19
+   Id.
+20
+   Id.
+21
+   § 40-108.
+22
+   Id.
+23
+   See id.
+24
+   See § 40-110.
+25
+   See §§ 40-111 to 40-113.
+26
+   See § 40-103 (debts secured by mechanics’, laborers’, or vendors’ liens or
+   by mortgages or trust deeds).
+27
+   Brief for appellee at 18.
+                                  - 717 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                   11819 MIRACLE HILLS DRIVE v. ALI
+                           Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+any time prior to confirmation of sale apply” for a homestead
+exemption.
+   It is undisputed that Ali did not file an application for a
+homestead exemption that comported with the requirements
+of §§ 40-105 and 40-106. But Ali asserts that the homestead
+exemption acts as a limit on judicial power, “a substantive
+legislative restriction on what relief a court . . . may order.” 28
+We disagree.
+   Ali’s argument is premised on the contention that a home-
+stead is a residence. As discussed above, a homestead is consti-
+tuted by two acts, residence and selection. 29 A homestead does
+not exist until it is selected. Thus, the homestead exemption is
+not a limit on judicial power. Instead, as mentioned above, the
+purpose of the homestead statutes is to protect the debtor and
+the debtor’s family residing in a home from the forced sale of
+the home on execution or attachment. 30
+   [4] To select a homestead under § 40-101, an application
+under § 40-105 that comports with §§ 40-106 and 40-107 must
+be filed with the district court. Here, Ali did not file such an
+application. Accordingly, the homestead exemption did not
+apply to the proceeding before the court. However, for the rea-
+sons explained next, we find plain error in the decree.
+
+                          Plain Error
+   Plain error may be found on appeal when an error unas-
+serted or uncomplained of below, but plainly evident from the
+record, prejudicially affects a litigant’s substantial right and, if
+uncorrected, would result in damage to the integrity, reputa-
+tion, and fairness of the judicial process. 31
+28
+   Supplemental brief for appellant at 10.
+29
+   See, Weatherington v. </pre><span class="citation" data-id="6657068"><a href="/opinion/6773966/weatherington-v-smith/#15" aria-description="Citation for case: Weatherington v. Smith">Smith, supra note 15</a></span><pre class="inline">; Palmer v. </pre><span class="citation" data-id="6656293"><a href="/opinion/6773213/palmer-v-sawyer/#13" aria-description="Citation for case: Palmer v. Sawyer">Sawyer, supra note
+   13</a></span><pre class="inline">; Galligher v. </pre><span class="citation" data-id="6646460"><a href="/opinion/6763712/galligher-v-smiley/#13" aria-description="Citation for case: Galligher v. Smiley">Smiley, supra note 13</a></span><pre class="inline">.
+30
+   See Chambers v. </pre><span class="citation" data-id="5121977"><a href="/opinion/5293415/chambers-v-bringenberg/#4" aria-description="Citation for case: Chambers v. Bringenberg">Bringenberg, supra note 4</a></span><pre class="inline">.
+31
+   State v. Ansell, ante p. 28, </pre><span class="citation no-link">38 N.W.3d 788</span><pre class="inline"> (2026).
+                               - 718 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                 11819 MIRACLE HILLS DRIVE v. ALI
+                         Cite as </pre><span class="citation no-link">322 Neb. 710</span><pre class="inline">
+
+   Two errors are plain from a review of the district court’s
+decree. First, the decree defines the “Real Property” as Ali
+and his wife’s marital residence. However, as Miracle Hills
+concedes, the judgment lien attached only to Ali’s one-half
+interest in the marital residence. Yet, the decree calls for the
+sale of the “Real Property,” and not merely Ali’s one-half
+interest. Because the judgment lien attached only to Ali’s one-
+half interest, the district court erred by ordering the sale of the
+entire marital residence.
+   Second, the district court did not identify the party respon-
+sible for selling Ali’s one-half interest in the marital resi-
+dence. The court’s decree specifies that the sale be conducted
+by “the Sheriff or a special master of [Miracle Hills’] choice.”
+This provision is insufficient. The court must identify the
+party responsible for the sale of the real property. The court
+cannot leave the choice to one party’s discretion, as the par-
+ties to an action have opposing interests. The court plainly
+erred in not identifying the party ordered to sell Ali’s one-half
+interest in the marital residence.
+   These plain errors require us to vacate the court’s decree and
+remand the cause for further proceedings.
+
+                          CONCLUSION
+   The homestead exemption does not apply in the absence of
+an application filed by Ali, in accordance with §§ 40-105 to
+40-107. However, the district court plainly erred by ordering
+the sale of the entire marital residence, rather than Ali’s one-
+half interest, and in not identifying the party ordered to sell that
+interest. Accordingly, we vacate the court’s decree and remand
+the cause for further proceedings.
+                                   Vacated and remanded for
+                                   further proceedings.
+</pre>

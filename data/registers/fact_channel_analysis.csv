@@ -1,0 +1,18 @@
+case,court_level,evidence_basis,fact_disturbed,note
+Circulent v. Hatch & Bailey,intermediate,DOCUMENTARY,yes,payment findings unsupported by the exhibits
+Johnson v. Vita Built,intermediate,DOCUMENTARY,yes,findings contradicted by undisputed record
+Baywing v. WPCA,intermediate,DOCUMENTARY,yes,no substantial evidence in the agency record
+C.W. v. E.W.,intermediate,DOCUMENTARY,yes,clearly erroneous on the record
+Downing v. Dragone,intermediate,CREDIBILITY,no,court declined to second-guess credibility
+Ayuso v. Commissioner,intermediate,CREDIBILITY,no,would not second-guess credibility of medical expert
+Smith v. Commissioner,intermediate,CREDIBILITY,no,habeas testimony found not credible
+Soto v. Commissioner,intermediate,CREDIBILITY,no,credited counsel discredited petitioner
+Cockerham v. Westphalen,intermediate,CREDIBILITY,no,entitled to make credibility determination
+Hilton v. Commissioner,intermediate,CREDIBILITY,no,would not disturb finding that expert not credible
+Foster v. Commissioner,intermediate,CREDIBILITY,no,credibility
+Ross v. Commissioner,intermediate,CREDIBILITY,no,actual-innocence testimony
+In re A'vion A.,intermediate,CREDIBILITY,no,findings supported by record evidence
+Menard v. State,apex,CREDIBILITY,no,trial court did not arbitrarily reject expert opinion
+Reserve Realty v. Windemere,apex,CREDIBILITY,no,intent inferred from testimony
+State v. Garrett,apex,CREDIBILITY,no,guilt findings
+In re Application of Steinberg,apex,CREDIBILITY,no,character and fitness findings

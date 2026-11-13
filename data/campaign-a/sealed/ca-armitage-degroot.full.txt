@@ -1,0 +1,586 @@
+<pre class="inline">                   IN THE SUPREME COURT OF THE STATE OF IDAHO
+
+                                          Docket No. 53115
+
+
+ DAVE and ARDEAN ARMITAGE, husband )
+ and wife,                               )
+                                         )
+    Plaintiffs-Counterdefendants-        )
+    Respondents,                         )
+                                                                September 2026 Term
+                                         )
+ v.                                      )
+                                                                Opinion Filed: October 28, 2026
+                                         )
+ BRANDAAN and MELISSA DEGROOT, )
+                                                                Melanie Gagnepain, Clerk
+ husband and wife,                       )
+                                         )
+    Defendants-Counterclaimants-         )
+    Appellants.                          )
+ _______________________________________ )
+
+        Appeal from the District Court of the Second Judicial District of the State of Idaho,
+        Nez Perce County. Michelle Evans, District Judge.
+
+        The district court’s order on the amended motion for reconsideration is affirmed;
+        and the district court’s order on reconsideration of attorney fees is affirmed.
+
+        Clark &amp; Feeney, LLP, Lewiston, for Appellants. W. Jeremy Carr appeared,
+        submitted on the briefs.
+
+        Ramsden, Marfice, Ealy, &amp; De Smet, LLP, Coeur d’Alene, for Respondents. Jack
+        A. Mosby appeared, submitted on the briefs.
+                                     _____________________
+BRODY, Chief Justice
+        This appeal involves the district court’s decision to reject the application of the merger
+doctrine in a real property dispute and its decision to award attorney fees to the sellers under Idaho
+Code section 12-120(3). Brandaan and Melissa DeGroot purchased a family cabin and its contents
+from Dave and Ardean Armitage. After closing the sale, a dispute arose over payment for the
+personal property, and the Armitages sued for breach of contract. Following a bench trial, the
+district court entered judgment in favor of the Armitages for $96,538 in damages plus attorney
+fees.
+        The DeGroots challenge the district court’s denial of their post-trial motion for
+reconsideration. They do not challenge the district court’s findings of fact but instead argue that
+
+
+                                                  1
+the district court erred in refusing to apply the merger doctrine to bar the Armitages’ claim. They
+contend that, given the district court’s conclusion that the parties mutually intended to transfer both
+the real and personal property in a single transaction for a total amount of $450,000, their promise
+to pay the $100,000 for the personal property merged into the warranty deed and was extinguished
+at closing. They argue the district court’s legal analysis of the merger doctrine was erroneous and
+that the case should be remanded for reconsideration of the issue. The DeGroots also challenge the
+district court’s award of attorney fees to the Armitages under Idaho Code section 12-120(3). Their
+contention is that any civil action that falls within the ambit of section 12-120(3) must involve a
+“commercial transaction.” For the reasons discussed below, we affirm the district court’s decisions.
+                        I.   FACTUAL AND PROCEDURAL BACKGROUND
+A. The property and the parties.
+       In July 2024, the Armitages agreed to sell their real property in Lenore, Idaho, to the
+DeGroots. The ten-acre property included a cabin, a three-bay enclosed shop, a shed, outhouse,
+wooded areas, and an open meadow overlooking Dworshak Reservoir (collectively, “Property”).
+Dave Armitage and his twin brother, Doug, built the cabin, and the two families owned the property
+together for about twenty years. The Armitages became the sole owners of the Property when Doug
+passed away. The Armitages and their extended family treated the Property as their getaway spot,
+hosting vacations, reunions, and a wedding on the property. Because of their advancing age, and
+Dave’s health problems, Ardean decided it was time to sell the Property in the summer of 2024.
+B. The transaction.
+       On July 4, 2024, Ardean told her neighbors that she and Dave were ready to sell the
+Property. The news traveled fast, and the DeGroot family heard about the opportunity the next day.
+Three days later the parties shook hands, agreeing on $450,000 cash for the real property and the
+personal property on the premises. On July 8, 2024, the DeGroots arrived back at the Property with
+two documents they drafted to effectuate the transaction. While the Armitages had reservations
+with there being two documents instead of one, they signed both documents.
+       The first document, titled “Idaho Residential Real Estate Purchase Agreement” (“Real
+Estate Agreement”) addressed the purchase of the single-family home and ten acres of land. The
+second document, titled “Idaho General Bill of Sale” (“Personalty Agreement”) addressed the sale
+of the personal property. The Real Estate Agreement provided that the Armitages agreed to sell the
+real property to the DeGroots for $350,000, cash. The Real Estate Agreement also addressed the
+
+
+
+                                                  2
+sale of the personal property on the premises in three different provisions: (1) “the Seller shall
+include the following personal property: Separate Agreement,” (2) “the Seller DOES NOT include
+the following fixtures: Personal Items and Pictures only,” and (3) “Additional Terms and
+Conditions: Seller to Include All contents, furniture, tools, Appliances, 2 Four Wheelers, Boat, and
+any/all other Contents of Shop and House.”
+       The Personalty Agreement provided a separate purchase price of $100,000 for “[a]ny and
+[a]ll contents of all buildings” located on the premises. It also listed two 4-Wheeler recreational
+vehicles, a boat, and a trailer, with the “REMAINDER UNKNOWN.” The district court noted in
+its findings of fact that neither party performed a complete inventory of the personal property at
+signing or by closing. Above the description of the personal property, the Personalty Agreement
+stated: “Purchase Conditioned upon Completed Purchase of [Physical Address], by: DEGROOTS,
+FROM: ARMITAGE.”
+       The district court found that the Armitages intended to sell the real property and the
+personal property altogether for $450,000. The district court also found that the DeGroots would
+not have purchased the personal property independent of the real property.
+C. The disappearances of personal property from the premises.
+       After the Real Estate Agreement and Personalty Agreement were signed, the Armitages
+promptly packed up the few personal items that the Real Estate Agreement allowed them to retain
+and headed back home to Washington. The items they took included a large sign saying, “Doug’s
+Den” (the name of Dave’s twin), which Brandaan DeGroot helped them load into their car, as well
+as a sauerkraut cutter and some photos. When the Armitages left the Property that day, they
+mistakenly left behind Ardean’s customized hiking poles. The remainder of the personal property
+in and around the Property were to be transferred to the DeGroots at closing, except for some
+fishing poles that were going to be picked up by the Armitages’ nephew, Jared Meske.
+       The parties closed their transaction on July 26, 2024. It is not disputed that the Armitages
+conveyed title of the Property to the DeGroots, and the DeGroots paid the $350,000 in return. The
+warranty deed does not appear to have been presented as an exhibit at trial, and it does not
+otherwise appear to be in the record on appeal. The DeGroots never paid the $100,000
+contemplated under the Personalty Agreement.
+       When the DeGroots arrived at the Property after closing, they discovered some of the items
+that they had anticipated being left on the premises were missing. They claimed the items included:
+
+
+
+                                                 3
+(1) a radial saw; (2) a trolling motor; (3) a pair of walkie talkies; (4) the large “Doug’s Den” sign;
+(5) a white utility trailer and damaged tire; (6) high-power binoculars; (7) various hand tools,
+including a mallet and a rake; (8) Ardean’s custom hiking poles; (9) various gas cans; (10) a Sorry
+board game; (11) a spotting scope and related stand; (12) an electric constellation finder; (13) a
+binocular stand; and (14) a shovel.
+       Many of these items were later discovered to be in the possession of Meske who had visited
+the property prior to closing to pick up the fishing poles that the Armitages had expressly excluded
+from the sale. The binoculars, the Sorry board game, the electric constellation finder, and binocular
+stand were allegedly returned prior to closing. The white utility trailer (minus a tire) was returned
+after closing and after Meske’s wedding. The district court estimated the value of the missing items
+to be, at most, $3,462.
+D. The breach of contract complaint and resulting litigation.
+       The Armitages filed suit, seeking recovery of the $100,000 contemplated by the Personalty
+Agreement. Following the bench trial, the district court ruled in favor of the Armitages on their
+breach of contract claim. The district court concluded that the Armitages had substantially
+complied with their obligations and that the removal of the personal property did not constitute a
+material breach. In its judgment, the district court awarded the $100,000 in damages to the
+Armitages; however, it offset the $100,000 award by $3,462 to account for the missing items. The
+Armitages have not challenged the offset on appeal.
+       Following the issuance of the findings of fact and conclusions of law, the DeGroots filed a
+motion for reconsideration. Contrary to the position they took at trial, the DeGroots argued that,
+given the district court’s finding that the parties intended the Real Estate Agreement and Personalty
+Agreement to constitute a single transaction, the DeGroots’ promise to purchase the personal
+property merged with the warranty deed at the time of closing and extinguished their obligation to
+pay the $100,000 contemplated in the Personalty Agreement. The district court denied the
+DeGroots’ motion.
+       The Armitages filed a motion for attorney fees pursuant to Idaho Code section 12-120(3).
+The district court initially denied the request for attorney fees, but granted it upon reconsideration.
+The Armitages argued that because the Personalty Agreement was titled “Idaho General Bill of
+Sale,” it constituted a “bill” under Idaho Code section 12-120(3). Drawing on a Black’s Law
+Dictionary definition of “bill of sale,” the district court concluded the Personalty Agreement was
+
+
+
+                                                  4
+a “bill” as that term is used in the statute and granted the Armitages attorney fees. The DeGroots
+timely appealed.
+                                  II.    STANDARDS OF REVIEW
+        When deciding a motion for reconsideration, the district court employs the same standard
+of review that it used when deciding the original motion that is being reconsidered. Fragnella v.
+Petrovich, </pre><span class="citation" data-id="880186"><a href="/opinion/880186/tiffany-ann-marie-fragnella-v-robert-b-petrovich-jr/#276" aria-description="Citation for case: Tiffany Ann Marie Fragnella v. Robert B. Petrovich, Jr.">153 Idaho 266, 276</a></span><pre class="inline">, </pre><span class="citation" data-id="880186"><a href="/opinion/880186/tiffany-ann-marie-fragnella-v-robert-b-petrovich-jr/#113" aria-description="Citation for case: Tiffany Ann Marie Fragnella v. Robert B. Petrovich, Jr.">281 P.3d 103, 113</a></span><pre class="inline"> (2012). This Court reviews a trial court’s decision
+to grant or deny a motion for reconsideration using the same standard employed by the trial court.
+</pre><span class="citation" data-id="880186"><a href="/opinion/880186/tiffany-ann-marie-fragnella-v-robert-b-petrovich-jr/" aria-description="Citation for case: Tiffany Ann Marie Fragnella v. Robert B. Petrovich, Jr.">Id.</a></span><pre class="inline">
+        Since this Court is reviewing the district court’s decision on the DeGroot’s motion for
+reconsideration of the findings of fact and conclusions of law, this Court “is limited to determining
+whether the evidence supports the findings of fact and whether the findings of fact support the
+conclusions of law.” Burns Concrete, Inc. v. Teton County, </pre><span class="citation no-link">168 Idaho 442</span><pre class="inline">, 451, </pre><span class="citation no-link">483 P.3d 985</span><pre class="inline">, 994
+(2020) (citing Caldwell Land &amp; Cattle, LLC v. Johnson Thermal Sys., Inc., </pre><span class="citation no-link">165 Idaho 787</span><pre class="inline">, 795,
+</pre><span class="citation no-link">452 P.3d 809</span><pre class="inline">, 817 (2019)). This Court employs free review over the district court’s conclusions of
+law and may determine whether the trial court correctly stated the applicable law and whether the
+facts sustain its legal conclusions. </pre><span class="citation no-link">Id.</span><pre class="inline"> (citing Kunz v. Nield, Inc., </pre><span class="citation" data-id="4185254"><a href="/opinion/4408001/bret-and-marti-kunz-v-nield-inc/#438" aria-description="Citation for case: Bret and Marti Kunz v. Nield, Inc.">162 Idaho 432, 438</a></span><pre class="inline">, </pre><span class="citation" data-id="4185254"><a href="/opinion/4408001/bret-and-marti-kunz-v-nield-inc/#171" aria-description="Citation for case: Bret and Marti Kunz v. Nield, Inc.">398 P.3d 165,
+171</a></span><pre class="inline"> (2017)). Upon review of mixed questions of law and fact, “this [C]ourt will differentiate
+among the fact-finding, law-stating, and law-applying functions of the trial courts.” Haight v.
+Dales Used Cars, Inc., </pre><span class="citation" data-id="2583934"><a href="/opinion/2583934/haight-v-dales-used-cars-inc/" aria-description="Citation for case: Haight v. Dales Used Cars, Inc.">139 Idaho 853</a></span><pre class="inline">, (Ct. App. 2003) (citing Staggie v. Idaho Falls Consol.
+Hosps., Inc., </pre><span class="citation" data-id="1387791"><a href="/opinion/1387791/staggie-v-idaho-falls-consolidated-hospitals-inc/#351" aria-description="Citation for case: Staggie v. Idaho Falls Consolidated Hospitals, Inc.">110 Idaho 349, 351</a></span><pre class="inline">, </pre><span class="citation" data-id="1387791"><a href="/opinion/1387791/staggie-v-idaho-falls-consolidated-hospitals-inc/#1021" aria-description="Citation for case: Staggie v. Idaho Falls Consolidated Hospitals, Inc.">715 P.2d 1019, 1021</a></span><pre class="inline"> (Ct. App. 1986)).
+        When reviewing a motion for reconsideration of an award of attorney fees, this Court
+reviews the decision under the abuse of discretion standard. Med. Recovery Servs., LLC v. Lopez,
+</pre><span class="citation no-link">163 Idaho 281</span><pre class="inline">, 282–83, </pre><span class="citation" data-id="4245018"><a href="/opinion/4467765/med-recovery-servs-llc-v-lopez/" aria-description="Citation for case: Med. Recovery Servs., LLC v. Lopez">411 P.3d 1182</a></span><pre class="inline">, 1183–84 (2018) (quoting Simono v. House, </pre><span class="citation" data-id="4032577"><a href="/opinion/4255316/turner-house-v-treasure-valley-area-of-narcotics-anonymous/#791" aria-description="Citation for case: Turner House v. Treasure Valley Area of Narcotics Anonymous">160 Idaho 788,
+791</a></span><pre class="inline">, </pre><span class="citation" data-id="4032577"><a href="/opinion/4255316/turner-house-v-treasure-valley-area-of-narcotics-anonymous/#1061" aria-description="Citation for case: Turner House v. Treasure Valley Area of Narcotics Anonymous">379 P.3d 1058, 1061</a></span><pre class="inline"> (2016)). If the dispute over the award of attorney fees depends upon the
+interpretation of a statute, then this Court exercises free review over that legal question. </pre><span class="citation" data-id="4032577"><a href="/opinion/4255316/turner-house-v-treasure-valley-area-of-narcotics-anonymous/" aria-description="Citation for case: Turner House v. Treasure Valley Area of Narcotics Anonymous">Id.</a></span><pre class="inline"> (citation
+omitted).
+                                         III.    ANALYSIS
+A. The district court did not err by concluding that the promise contemplated by the
+   Personalty Agreement did not merge with the warranty deed.
+        The DeGroots challenge the district court’s denial of their amended motion for
+reconsideration. After the district court issued its findings of fact and conclusions of law, the
+DeGroots argued that the merger doctrine barred the Armitages’ claim. They argue that, since the
+
+
+                                                    5
+district court found that the parties intended a single $450,000 transaction for the purchase of the
+real property and the personal property, their promise to pay the $100,000 for the personal property
+merged with the warranty deed at closing. The district court rejected that argument, pointing out
+that the Armitages took the position prior to trial that the merger doctrine did not apply. The district
+court went on to analyze the merger defense and concluded that merger did not apply because the
+Personalty Agreement was not antecedent to the warranty deed and the promise of payment
+envisioned by the Personalty Agreement was collateral to the deed.
+       On appeal, the DeGroots do not contest that the Personalty Agreement contemplates a
+$100,000 promise to pay the Armitages after closing. Rather, the DeGroots argue that the merger
+doctrine should apply for two reasons: (1) the unified contract—the Personalty Agreement and the
+Real Estate Agreement—was antecedent to closing and (2) the collateral promise exception does
+not apply. On this basis, the DeGroots ask that this Court reverse the district court’s order.
+       The DeGroots are correct that the Personalty Agreement was “antecedent” to the warranty
+deed but are incorrect on the application of the collateral promise exception. The district court’s
+determination that the Real Estate Agreement and Personalty Agreement constituted a single
+contract is consistent with the legal conclusion that the one contract may contemplate two
+transactions—more accurately, two promises of payment—one of which the parties intended to
+survive closing. Therefore, we affirm the district court’s decision on the basis of the collateral
+promise exception.
+       The merger doctrine is a fundamental principle of real property law. See Jolley v. Idaho
+Sec., Inc., </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#382" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">90 Idaho 373, 382</a></span><pre class="inline">, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#884" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">414 P.2d 879, 884</a></span><pre class="inline"> (1966). It is a sister doctrine of the parol evidence
+rule. Both the merger doctrine and the parol evidence rule, when applied, prevent prior or separate
+agreements from altering the terms of a final written agreement. The merger doctrine creates a
+“prima facie presumption of law” that acceptance of a deed is “execution of the whole contract.”
+A. G. Shepard, Annotation, Deed as superseding, or merging, provisions of antecedent contract
+imposing obligations upon the vendor, </pre><span class="citation no-link">84 A.L.R. 1008</span><pre class="inline"> (1933). This Court explained more than
+sixty years ago that once a deed is accepted, it generally replaces any earlier contract, and any
+resulting claim must be based on the covenants or promises within the deed itself, not the prior
+contract:
+       [A]cceptance of a deed to premises generally is considered as a merger of the
+       agreements of an antecedent contract into the terms of the deed, and any claim for
+
+
+
+                                                   6
+        relief must be based on the covenants or agreements contained in the deed, not the
+        covenants or agreements as contained in the prior agreement.
+Jolley, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#382" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">90 Idaho at 382</a></span><pre class="inline">, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#884" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">414 P.2d at 884</a></span><pre class="inline">; see also Bear Crest Ltd., LLC v. State ex rel. Idaho Transp.
+Dep’t, </pre><span class="citation no-link">176 Idaho 262</span><pre class="inline">, ___, </pre><span class="citation no-link">575 P.3d 846</span><pre class="inline">, 856 (2025) (“Put differently, the four corners of the deed
+govern the conveyance. The deed generally subsumes and extinguishes any covenants or promises
+in the contract of sale.”).
+        The district court concluded that the merger doctrine did not apply to the Personalty
+Agreement since it and the Real Estate Agreement “were made simultaneously.” The DeGroots
+assert that this is a misapplication of the merger doctrine. They argue that because the district court
+found that the Personalty Agreement and the Real Estate Agreement constitute one contract, the
+Personalty Agreement must be considered antecedent to the deed, which is the focus of the merger
+doctrine. The DeGroots are correct; antecedence is measured relative to the deed, not relative to
+the companion contract. While the district court’s analysis on this point was erroneous, its ultimate
+decision to reject the application of the merger doctrine was still correct.
+        The district court correctly rejected the application of the merger doctrine because the
+promise within the Personalty Agreement fits within the collateral promise exception to the merger
+doctrine. The district court concluded that “the rights with respect to the personal property were
+conferred to the DeGroots collaterally and independently from the deed because the DeGroots
+opted to draft two separate contracts.” The district court supported this by stating: “the DeGroots
+opted to not write one contract” but “instead . . . created two transactions to [e]ffect the sale of real
+estate and personal property.” In other words, the district court concluded that there was one
+contract, and that by supplying two documents to effectuate the sale, the DeGroots intended that
+there be two promises of payment: one promise of payment of $350,000 for real estate, as set forth
+in the Real Estate Agreement, and a second promise of $100,000 for the personal property to be
+paid later, as set forth in the Personalty Agreement.
+        This Court has recognized two exceptions to the merger doctrine. The first exception is that
+the merger doctrine will not apply where a court finds fraud or mutual mistake. See West v. Bowen,
+</pre><span class="citation" data-id="5174278"><a href="/opinion/5341688/west-v-bowen/#130" aria-description="Citation for case: West v. Bowen">127 Idaho 128, 130</a></span><pre class="inline">, </pre><span class="citation" data-id="5174278"><a href="/opinion/5341688/west-v-bowen/#61" aria-description="Citation for case: West v. Bowen">898 P.2d 59, 61</a></span><pre class="inline"> (1995). The second exception is the collateral promise
+exception. Generally, this exception provides that “the merger doctrine does not apply when there
+are collateral or independent agreements that the parties intended to survive the delivery of the
+deed.” 9 Thompson on Real Property § 82.13(d) (David A. Thomas 4th ed., 2025). This exception
+
+
+
+                                                   7
+allows a promise within a real estate contract to survive merger with the deed at closing. Fuller v.
+Callister, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#853" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho 848, 853</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1271" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d 1266, 1271</a></span><pre class="inline"> (2011).
+        We have addressed the collateral promise exception in a number of cases over the years,
+but we have not clearly articulated an analytical framework to be applied. See Jolley, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#383" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">90 Idaho at
+383</a></span><pre class="inline">, 414 P.2d at 884–85 (“[T]he question to be determined is whether the parties have intentionally
+surrendered or waived [delivery and acceptance-related] stipulations.”); Sells v. Robinson, </pre><span class="citation" data-id="2595556"><a href="/opinion/2595556/sells-v-robinson/#772" aria-description="Citation for case: Sells v. Robinson">141
+Idaho 767, 772</a></span><pre class="inline">, </pre><span class="citation" data-id="2595556"><a href="/opinion/2595556/sells-v-robinson/#104" aria-description="Citation for case: Sells v. Robinson">118 P.3d 99, 104</a></span><pre class="inline"> (2005) (“Where the right claimed under the contract . . . inheres
+in the very subject-matter with which the deed deals, a prior contract covering the same subject-
+matter cannot be shown as against the provisions of the deed.” (citation modified)). See also Fuller,
+</pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#853" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 853</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1271" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1271</a></span><pre class="inline"> (“[W]here not all of the prior contract’s provisions were
+complied with, where those contractual provisions are collateral stipulations there is no
+presumption that any party intended to give up the benefit of such covenants, and this is a question
+of intent.”). Distilling these holdings, today we make clear that the collateral promise exception
+applies if (1) the promise at issue is “collateral” and (2) the parties intended that promise to survive
+merger with the deed.
+        A promise within a purchase and sale agreement is considered to be “collateral” if it does
+not relate to title, possession, parcel size, or agricultural crops. McOmber v. Thompson, </pre><span class="citation no-link">175 Idaho
+970</span><pre class="inline">, 987, </pre><span class="citation no-link">572 P.3d 736</span><pre class="inline">, 753 (2025) (citing Jolley, 90 Idaho at 383–84, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#885" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">414 P.2d at 885</a></span><pre class="inline">). For
+instance, in Fuller, the Fullers agreed to sell 12.73 acres of land but executed an addendum to the
+contract reserving to themselves the proceeds from the anticipated condemnation of a right-of-way
+over the land by the Ada County Highway District (“ACHD”). </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#850" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 850</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1268" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1268</a></span><pre class="inline">.
+The addendum provided:
+        3. Seller to receive any and all funds paid for road right of way including land,
+        landscaping, fencing, sprinklers and temporary easements.
+        Escrow instructions by the title company will cover the receipt and disbursement
+        of the right of way funds. It is understood that buyer will be deeding the right of
+        way to ACHD and that the seller, Dave and Shirley Fuller will receive all of said
+        funds paid by ACHD. Said amount has not yet been determined and Dave and
+        Shirley Fuller retain the right to negotiate the amount with ACHD.
+</pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#852" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id. at 852</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1270" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1270</a></span><pre class="inline">. This reservation did not appear in the subsequent warranty deed issued
+at closing. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id.</a></span><pre class="inline">
+        The district court in Fuller applied the doctrine of merger and granted summary judgment
+in favor of the purchasers. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id.</a></span><pre class="inline"> at 850–51, 252 P.3d at 1268–69. This Court reversed the district
+
+
+                                                   8
+court’s decision, holding the addendum was enforceable. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#854" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id. at 854, 856</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1272" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1272, 1274</a></span><pre class="inline">.
+This Court concluded the addendum was collateral because it dealt only with money. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#852" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id. at 852</a></span><pre class="inline">,
+</pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1270" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1270</a></span><pre class="inline">. It held that, since the “reservation of the potential condemnation proceeds was
+part of the consideration for the property,” the “reservation” did not merge with the deed. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#854" aria-description="Citation for case: Fuller v. DAVE CALLISTER">Id. at
+854</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1272</a></span><pre class="inline"> (citing with approval McGovern Builders, Inc. v. Davis, </pre><span class="citation" data-id="3729973"><a href="/opinion/3978255/mcgovern-builders-inc-v-davis/#92" aria-description="Citation for case: McGovern Builders, Inc. v. Davis">468 N.E.2d 90, 92</a></span><pre class="inline">
+(Ohio Ct. App. 1983)) for the proposition that terms pertaining to the consideration to be paid for
+a real estate transaction are not merged into a subsequently executed deed).
+       With respect to the second element of the collateral promise exception, whether the parties’
+intended the term to survive the merger of the agreement with the deed, we explained that, “[b]y
+the very nature of the obligation established in Addendum # 1 [sic], it is clear that the parties
+expected that provision to continue in effect after the execution of the warranty deed.” </pre><span class="citation" data-id="3729973"><a href="/opinion/3978255/mcgovern-builders-inc-v-davis/" aria-description="Citation for case: McGovern Builders, Inc. v. Davis">Id.</a></span><pre class="inline">
+Addendum #1 required that the buyer deed over a right-of-way to ACHD. </pre><span class="citation" data-id="3729973"><a href="/opinion/3978255/mcgovern-builders-inc-v-davis/" aria-description="Citation for case: McGovern Builders, Inc. v. Davis">Id.</a></span><pre class="inline"> “If the transfer of
+the right-of-way was expected to occur prior to the buyer’s acquisition of the property[,] the buyer
+would not need to be involved in the transfer of deed for that right-of-way.” </pre><span class="citation" data-id="3729973"><a href="/opinion/3978255/mcgovern-builders-inc-v-davis/" aria-description="Citation for case: McGovern Builders, Inc. v. Davis">Id.</a></span><pre class="inline">
+       The DeGroots spend much of their opening brief arguing against the district court’s
+decision to reject the merger doctrine. They argue that the district court’s assertion that the
+Personalty Agreement contained a promise collateral to the real estate conveyance “blatantly
+contradicts” its “foundational” conclusion that the parties mutually intended that the two
+agreements constitute a single contract. The DeGroots essentially argue that the agreements cannot
+simultaneously be treated as part of the same contract and as separate contracts for purposes of
+determining whether the promise within the Personalty Agreement is collateral. They argue that,
+in order for a promise to be collateral, the promise must be in a separate contract unrelated to the
+real estate purchase. However, the DeGroots misunderstand the collateral promise exception. Even
+if there is only a single contract in a single document, a promise within the contract itself may still
+be collateral to the deed and survive closing. See Fuller, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#853" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 853</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1271" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1271</a></span><pre class="inline">
+(“Noting that an abstract of title does not relate to the title, possession, quantity or emblements of
+the land, the Jolley Court concluded that the agreement to furnish an abstract was a collateral
+stipulation that was not merged through acceptance of the warranty deed.”) (citing Jolley, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#385" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">90 Idaho
+at 385</a></span><pre class="inline">, </pre><span class="citation" data-id="9844610"><a href="/opinion/1189836/jolley-v-idaho-securities-inc/#886" aria-description="Citation for case: Jolley v. Idaho Securities, Inc.">414 P.2d at 886</a></span><pre class="inline">).
+       Turning to the substance of the DeGroots’ merger argument, the promise within the
+Personalty Agreement is collateral to the deed because it does not relate to the title, possession,
+
+
+
+                                                  9
+parcel size, or agricultural crops. McOmber, 175 Idaho at 987, 572 P.3d at 753 (citing Fuller, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#853" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150
+Idaho at 853</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1271" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1271</a></span><pre class="inline">). It is a term concerning money, which is the consideration for the
+sale of the personal property left by the Armitages. Consideration does not impact the validity or
+invalidity of title within the deed, nor does consideration set forth terms as to who can possess the
+property; it does not describe the parcel’s size or bounds, and it has nothing to do with crops.
+       Moving to the second element, the parties’ intent that the term survive merger with the
+deed, we need to begin with the deed itself. If intent is “plainly expressed in the very terms of the
+deed, it will be decisive.” Fuller, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#854" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 854</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1272" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1272</a></span><pre class="inline"> (2011) (quoting A. G. Shepard,
+Annotation, Deed as superseding, or merging, provisions of antecedent contract imposing
+obligations upon the vendor, </pre><span class="citation no-link">84 A.L.R. 1008</span><pre class="inline"> (1933)). Since examining for “plainly expressed”
+language in a deed involves principles of contractual interpretation, this is a question of law. Bear
+Crest Ltd. LLC, 176 Idaho at ___, 575 P.3d at 858 (“If the terms of the contract are unambiguous,
+intent can be ascertained as a matter of law by looking within the four corners of the document.”).
+       Here, however, the deed is not in the record on appeal. Nor does it appear to have been
+presented to the district court in connection with the DeGroots’ amended motion for
+reconsideration. “It is the responsibility of the appellant to provide a sufficient record to
+substantiate his or her claims on appeal.” Turcott v. Est. of Bates, </pre><span class="citation" data-id="6536314"><a href="/opinion/6658882/turcott-v-estate-of-bates/#188" aria-description="Citation for case: Turcott v. Estate of Bates">165 Idaho 183, 188</a></span><pre class="inline">, </pre><span class="citation" data-id="6536314"><a href="/opinion/6658882/turcott-v-estate-of-bates/#202" aria-description="Citation for case: Turcott v. Estate of Bates">443 P.3d
+197, 202</a></span><pre class="inline"> (2019) (quoting Greenfield v. Smith, </pre><span class="citation" data-id="4174666"><a href="/opinion/4397413/christina-j-greenfield-v-ian-d-smith/#253" aria-description="Citation for case: Christina J. Greenfield v. Ian D. Smith">162 Idaho 246, 253</a></span><pre class="inline">, </pre><span class="citation" data-id="4174666"><a href="/opinion/4397413/christina-j-greenfield-v-ian-d-smith/#1986" aria-description="Citation for case: Christina J. Greenfield v. Ian D. Smith">395 P.3d 1279, 1986</a></span><pre class="inline"> (2017),
+abrogated on other grounds by, Rich v. Hepworth Holzer, LLP, </pre><span class="citation no-link">172 Idaho 696</span><pre class="inline">, </pre><span class="citation no-link">535 P.3d 1069</span><pre class="inline">
+(2023)). “[T]he missing portions of that record are presumed to support the action of the trial
+court.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Rutter v. McLaughlin, </pre><span class="citation" data-id="1270446"><a href="/opinion/1270446/rutter-v-mclaughlin/#293" aria-description="Citation for case: Rutter v. McLaughlin">101 Idaho 292, 293</a></span><pre class="inline">, </pre><span class="citation" data-id="1270446"><a href="/opinion/1270446/rutter-v-mclaughlin/#136" aria-description="Citation for case: Rutter v. McLaughlin">612 P.2d 135, 136</a></span><pre class="inline"> (1980); and then
+citing Talbot v. Desert View Care Ctr., </pre><span class="citation" data-id="9799996"><a href="/opinion/2679746/talbot-v-desert-view-care-center/#520" aria-description="Citation for case: Talbot v. Desert View Care Center">156 Idaho 517, 520</a></span><pre class="inline">, </pre><span class="citation" data-id="9799996"><a href="/opinion/2679746/talbot-v-desert-view-care-center/#500" aria-description="Citation for case: Talbot v. Desert View Care Center">328 P.3d 497, 500</a></span><pre class="inline"> (2014)). Since the
+district court ruled that the collateral promise exception applied in this case, we could simply
+presume the deed supports the district court’s decision and affirm solely on that basis.
+       Setting aside the record problem, we agree with the district court’s analysis of the parties’
+intent. If intent is not plainly expressed within the deed, “the question is open to other evidence.”
+Fuller, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#854" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 854</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1272" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1272</a></span><pre class="inline"> (citation omitted). Bereft of the deed, the district court
+inferred intent from the evidence that the DeGroots drafted two contract documents to effectuate
+the sale. The district court echoed the findings within its previous findings of fact, and reasoned
+that the actions of the DeGroots show that the parties intended the payment term of the Personalty
+Agreement to survive merger:
+
+
+
+                                                 10
+               The DeGroots argue in the Amended Motion to Reconsider that the
+       Personalty Contract was not a collateral agreement because the Personalty Contract
+       was part of a unified economic transaction; however, the DeGroots opted to not
+       write one contract for the agreed upon price of $450,000.00, instead they created
+       two transactions to affect the sale of real estate and personal property. Had the
+       DeGroots intended for the Personalty Contract to merge with the [Real Estate
+       Agreement], then logically, the [Real Estate Agreement] would have required the
+       sale for $450,000.00.
+The Personalty Agreement stated: “Purchase Conditioned upon Completed Purchase of [Physical
+Address], by: DEGROOTS, FROM: ARMITAGE.” Like the situation in Fuller, the $100,000 of
+additional consideration to be paid under the Personalty Agreement could only occur after closing,
+and the district court did not err when it concluded that the parties intended this collateral promise
+to survive closing. </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#850" aria-description="Citation for case: Fuller v. DAVE CALLISTER">150 Idaho at 850</a></span><pre class="inline">, </pre><span class="citation" data-id="874142"><a href="/opinion/874142/fuller-v-dave-callister/#1268" aria-description="Citation for case: Fuller v. DAVE CALLISTER">252 P.3d at 1268</a></span><pre class="inline">. Because this $100,000 promise of payment
+was collateral and was intended to survive merger with the deed, the collateral promise exception
+applies. We therefore affirm the district court’s denial of the DeGroots’ amended motion for
+reconsideration.
+B. The district court did not err when it concluded that the term “commercial transaction”
+   does not apply to all causes of action identified in Idaho Code section 12-120(3).
+       Section 12-120(3) authorizes an award of attorney fees in eight different types of civil
+cases, including actions to recover on an “open account,” “bill,” “contract relating to the purchase
+or sale of goods,” and “any commercial transaction”:
+       In any civil action to recover on an open account, account stated, note, bill,
+       negotiable instrument, guaranty, or contract relating to the purchase or sale of
+       goods, wares, merchandise, or services and in any commercial transaction unless
+       otherwise provided by law, the prevailing party shall be allowed a reasonable
+       attorney’s fee to be set by the court, to be taxed and collected as costs.
+I.C. § 12-120(3). The district court awarded attorney fees to the Armitages under this provision,
+concluding that the Personalty Agreement was a “bill of sale” as that term is defined in Black’s
+Law Dictionary. Bill of Sale, Black’s Law Dictionary (12th ed. 2024) (“An instrument for
+conveying title to personal property, absolutely or by way of security.”). The DeGroots do not
+challenge this conclusion. They do argue, however, that this case does not involve a “commercial
+transaction” and that fees should not have been awarded. The district court rejected that argument,
+concluding that the phrase: “and in any commercial transactions” within Idaho code section 12-
+120(3) is not limiting language burdening the remainder of the subsection, but rather is an
+independent authorization for attorney fees for cases involving “commercial transactions.” As
+
+
+
+                                                 11
+explained below, for forty years, we have applied the “commercial transaction” language in
+subsection 12-120(3) as an independent authorization of attorney fees, not as limiting language
+that applies to all the other the causes of action enumerated in that provision. Therefore, we affirm
+the district court’s award of attorney fees on reconsideration.
+       Because this appeal involves a challenge to the award of attorney fees based upon the
+interpretation of Idaho Code section 12-120(3), this Court exercises free review over the
+interpretation of that statute. Med. Recovery Servs., LLC v. Lopez, </pre><span class="citation no-link">163 Idaho 281</span><pre class="inline">, 282–83, </pre><span class="citation" data-id="4245018"><a href="/opinion/4467765/med-recovery-servs-llc-v-lopez/" aria-description="Citation for case: Med. Recovery Servs., LLC v. Lopez">411
+P.3d 1182</a></span><pre class="inline">, 1183–84 (2018). The DeGroots contend that the term “commercial transaction” as used
+in subsection 12-120(3) applies to all award authorizations governed by the statute. The district
+court rejected this argument, quoting the Court of Appeals’ decision in Eriksen v. Blue Cross of
+Idaho Health Services, Inc., </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">116 Idaho 693</a></span><pre class="inline">, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">778 P.2d 815</a></span><pre class="inline"> (Ct. App. 1989). The DeGroots contend
+that Eriksen was wrongly decided and that it was subsequently overruled by our decision in Brower
+v. E.I. DuPont De Nemours and Co., </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">117 Idaho 780</a></span><pre class="inline">, </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">792 P.2d 345</a></span><pre class="inline"> (1990). We disagree.
+       In Eriksen, Blue Cross of Idaho contracted with Albert and Patricia Eriksen to provide
+coverage for medical and hospital expenses. </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#694" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">116 Idaho at 694</a></span><pre class="inline">, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#816" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">778 P.2d at 816</a></span><pre class="inline">. After Mrs. Eriksen
+underwent surgery, Blue Cross initially paid some of her bills but later refused further payments,
+claiming she failed to disclose a prior health issue on her application, leading to unilateral
+rescission of the contract. </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">Id.</a></span><pre class="inline"> The Eriksens sued for breach of contract, and Blue Cross
+counterclaimed to recover payments made before the rescission. </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">Id.</a></span><pre class="inline"> The magistrate court ruled in
+favor of the Eriksens and awarded attorney fees pursuant to Idaho Code section 12-120(3). </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">Id.</a></span><pre class="inline"> The
+district court affirmed the attorney fee award, and Blue Cross appealed. </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">Id.</a></span><pre class="inline">
+       When the Idaho Legislature first enacted what is now codified as subsection (3), Idaho
+Code section 12-120 read, in pertinent part:
+       In any civil action to recover on an open account, account stated, note, bill,
+       negotiable instrument, or contract relating to the purchase or sale of goods, wares,
+       or merchandise, unless otherwise provided by law, the prevailing party shall be
+       allowed a reasonable attorney fee to be set by the court, to be taxed and collected
+       as costs.
+Act of Mar. 18, 1975, ch. 65, </pre><span class="citation no-link">1975 Idaho Sess. Laws 131</span><pre class="inline"> (originally codified at I.C. § 12-120(2)).
+       In 1986, three years before Eriksen was decided, the legislature amended this provision in
+several respects. Pertinent to this appeal, the amendment added language to the statute permitting
+an award of attorney fees to the prevailing party in civil actions to recover on a contract for
+“services and in any commercial transaction”:
+
+
+                                                 12
+       In any civil action to recover on an open account, account stated, note, bill,
+       negotiable instrument, guaranty, or contract relating to the purchase or sale of
+       goods, wares, or merchandise, or services and in any commercial transaction unless
+       otherwise provided by law, the prevailing party shall be allowed a reasonable
+       attorney fee to be set by the court, to be taxed and collected as costs.
+Act of Apr. 3, 1986, ch. 205, </pre><span class="citation no-link">1986 Idaho Sess. Laws 511</span><pre class="inline">, 511–12 (codified at I.C. § 12-120(3))
+(underlining in original). The first paragraph of subsection (3) has remained unchanged since.
+       Turning back to Eriksen, Blue Cross argued, among other things, that the statute did not
+authorize the award of attorney fees because the insurance contract at issue did not constitute a
+commercial transaction. 116 Idaho at 694–95, 778 P.2d at 816–17 (Ct. App. 1989). The Idaho Court
+of Appeals rejected the argument that the addition of “commercial transaction” created a limitation
+upon the other enumerated causes of action set forth in the statute:
+               The linchpin of Blue Cross’s argument is the supposed limitation of the term
+       “services” by the words “commercial transaction.” We have held that other terms
+       preceding the words “commercial transaction,” such as “open account, account
+       stated, note, bill or negotiable instrument,” are not limited by the ensuing reference
+       to purchase or sale of “goods, wares, [or] merchandise.” See Cheney v. Smith, </pre><span class="citation" data-id="1128180"><a href="/opinion/1128180/cheney-v-smith/" aria-description="Citation for case: Cheney v. Smith">108
+       Idaho 209</a></span><pre class="inline">, </pre><span class="citation" data-id="1128180"><a href="/opinion/1128180/cheney-v-smith/" aria-description="Citation for case: Cheney v. Smith">697 P.2d 1223</a></span><pre class="inline"> (Ct. App. 1985); Camp v. Jiminez, </pre><span class="citation" data-id="1173047"><a href="/opinion/1173047/camp-v-jiminez/" aria-description="Citation for case: Camp v. Jiminez">107 Idaho 878</a></span><pre class="inline">, </pre><span class="citation" data-id="1173047"><a href="/opinion/1173047/camp-v-jiminez/" aria-description="Citation for case: Camp v. Jiminez">693
+       P.2d 1080</a></span><pre class="inline"> (Ct. App. 1984); Boise Truck &amp; Equipment, Inc. v. Hafer Logging, Inc.,
+       </pre><span class="citation" data-id="1173055"><a href="/opinion/1173055/boise-truck-equipment-inc-v-hafer-logging-inc/" aria-description="Citation for case: Boise Truck &amp; Equipment, Inc. v. Hafer Logging, Inc.">107 Idaho 824</a></span><pre class="inline">, </pre><span class="citation" data-id="1173055"><a href="/opinion/1173055/boise-truck-equipment-inc-v-hafer-logging-inc/" aria-description="Citation for case: Boise Truck &amp; Equipment, Inc. v. Hafer Logging, Inc.">693 P.2d 470</a></span><pre class="inline"> (Ct. App. 1984). By parity of construction, we believe
+       that “services” and the other enumerated elements of [Idaho Code section] 12-
+       120(3) are not limited by the words “commercial transaction.” Moreover, it is well
+       settled that statutes should not be read to create surplusage. Hartley v. Miller-
+       Stephan, </pre><span class="citation" data-id="9547528"><a href="/opinion/1173192/hartley-v-miller-stephan/" aria-description="Citation for case: Hartley v. Miller-Stephan">107 Idaho 688</a></span><pre class="inline">, </pre><span class="citation" data-id="9547528"><a href="/opinion/1173192/hartley-v-miller-stephan/" aria-description="Citation for case: Hartley v. Miller-Stephan">692 P.2d 332</a></span><pre class="inline"> (1984). If the words preceding “commercial
+       transaction” were treated merely as examples of the types of commercial
+       transactions to which the statute could apply, they would be no more than
+       surplusage.
+                We deem it clear that the [l]egislature put the term “commercial transaction”
+       in this statute, not to narrow its scope, but to extend its coverage to litigation arising
+       from commercial disputes as well as from certain non-commercial disputes. This
+       intent is evinced by the [l]egislature’s use of the conjunctive phrase “and in any
+       commercial transaction” (emphasis added). Consequently, we need not decide
+       whether the Eriksen contract, which is a contract for the sale of services, also
+       involves a commercial transaction other than for personal or household purposes.
+       Because all service contracts are encompassed by [Idaho Code section] 12-120(3),
+       the statute was correctly applied to this case.
+Eriksen, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#695" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">116 Idaho at 695</a></span><pre class="inline">, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#817" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">778 P.2d at 817</a></span><pre class="inline"> (first alteration in original). We agree with the Court of
+Appeals’ analysis of the statute. Accordingly, we hold that the phrase “and in any commercial
+transaction” in Idaho Code section 12-120(3) operates as an additional, independent basis for a fee
+award and does not limit the statute’s other enumerated causes of action.
+
+
+                                                  13
+       The DeGroots argue that Brower, an opinion by this Court a year after Eriksen, abrogated
+Eriksen and created a narrower interpretation of the statute. Brower, </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">117 Idaho 780</a></span><pre class="inline">, </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">792 P.2d 345</a></span><pre class="inline">.
+To support this argument, the DeGroots assert that Brower’s holding was that the only way Idaho
+Code section 12-120(3) applies is if a case involves a commercial transaction. We disagree.
+       In Brower, a farmer sued DuPont after applying DuPont’s herbicide “Glean” to his farm,
+alleging the product contaminated his soil and caused crop-related losses. 117 Idaho at 780–81,
+792 P.2d at 345–46. On appeal, this Court held Brower’s claims were time-barred and, separately,
+reversed the district court’s award of attorney fees to DuPont under Idaho Code section 12-120(3).
+</pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">Id.</a></span><pre class="inline"> at 781–84, 792 P.2d at 346–49. This Court’s attorney fee analysis focused on the “commercial
+transaction” language because that was the only plausible basis for fees on the facts presented: a
+products-liability/misrepresentation suit only tangentially connected to Brower’s purchase of the
+herbicide. </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/#781" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">Id. at 781</a></span><pre class="inline">, </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/#346" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">792 P.2d at 346</a></span><pre class="inline">. Brower articulated the “commercial transaction” gravamen
+test, but nothing in Brower purports to hold that “commercial transactions” are the exclusive
+pathway to fees under section 12-120(3).
+       To further support their position, the DeGroots selectively point to this Court’s statement
+in Brower that, unless a commercial transaction is integral to the claim, it would convert an
+“exceptional [statutory] remedy . . . to a matter of right in virtually every lawsuit filed.” See </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/#784" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">id. at
+784</a></span><pre class="inline">, </pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/#349" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">792 P.2d at 349</a></span><pre class="inline">. When the full context of the paragraph, including that statement, is
+considered, it is clear that the statement at issue addresses the breadth of the “commercial
+transaction” basis, not the subsection as a whole:
+               These cases lead to the conclusion that the award of attorney’s fees is not
+       warranted every time a commercial transaction is remotely connected with the case.
+       Rather, the test is whether the commercial transaction comprises the gravamen of
+       the lawsuit. Attorney’s fees are not appropriate under [Idaho Code section] 12-
+       120(3) unless the commercial transaction is integral to the claim, and constitutes
+       the basis upon which the party is attempting to recover. To hold otherwise would
+       be to convert the award of attorney’s fees from an exceptional remedy justified only
+       by statutory authority to a matter of right in virtually every lawsuit filed.
+</pre><span class="citation" data-id="1427743"><a href="/opinion/1427743/brower-v-ei-dupont-de-nemours-and-co/" aria-description="Citation for case: Brower v. EI DuPont De Nemours and Co.">Id.</a></span><pre class="inline">
+       The DeGroots next point to a line of cases in support of their contention that a party
+bringing “claims arising from commercial transactions” must show the “commercial transaction
+constituted the gravamen of the action”: SilverWing at Sandpoint, LLC v. Bonner County, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">164
+Idaho 786</a></span><pre class="inline">, 799–800, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">435 P.3d 1106</a></span><pre class="inline">, 1119–20 (2019); Great Plains Equipment, Inc. v. Northwest
+Pipeline Corp., </pre><span class="citation" data-id="9795287"><a href="/opinion/2621741/great-plains-equipment-inc-v-northwest-pipeline-corp/#471" aria-description="Citation for case: Great Plains Equipment, Inc. v. Northwest Pipeline Corp.">136 Idaho 466, 471</a></span><pre class="inline">, </pre><span class="citation" data-id="9795287"><a href="/opinion/2621741/great-plains-equipment-inc-v-northwest-pipeline-corp/#223" aria-description="Citation for case: Great Plains Equipment, Inc. v. Northwest Pipeline Corp.">36 P.3d 218, 223</a></span><pre class="inline"> (2001) (noting that the Court had previously
+
+
+                                                  14
+“outlined two stages of analysis to determine whether a prevailing party could avail itself of [Idaho
+Code section] 12-120(3): (1) ‘there must be a commercial transaction that is integral to the claim’;
+and (2) ‘the commercial transaction must be the basis upon which recovery is sought’”); Sims v.
+Jacobson, </pre><span class="citation" data-id="3133262"><a href="/opinion/3133262/keith-a-sims-v-dan-s-jacobson/#985" aria-description="Citation for case: Keith A. Sims v. Dan S. Jacobson">157 Idaho 980, 985</a></span><pre class="inline">, </pre><span class="citation" data-id="3133262"><a href="/opinion/3133262/keith-a-sims-v-dan-s-jacobson/#912" aria-description="Citation for case: Keith A. Sims v. Dan S. Jacobson">342 P.3d 907, 912</a></span><pre class="inline"> (2015) (“[W]hether a party can recover attorney
+fees under Idaho Code section 12-120(3) depends on whether the gravamen of a claim is a
+commercial transaction.”); Stevens v. Eyer, </pre><span class="citation" data-id="9836044"><a href="/opinion/4256004/kenneth-eyer-v-idaho-forest-group/#410" aria-description="Citation for case: Kenneth Eyer v. Idaho Forest Group">161 Idaho 407, 410</a></span><pre class="inline">, </pre><span class="citation" data-id="9836044"><a href="/opinion/4256004/kenneth-eyer-v-idaho-forest-group/#78" aria-description="Citation for case: Kenneth Eyer v. Idaho Forest Group">387 P.3d 75, 78</a></span><pre class="inline"> (2016) (“Whether
+a party can recover attorney fees under Idaho Code section 12-120(3) depends on whether the
+gravamen of a claim is a commercial transaction.” (citation modified)). They argue that this
+language establishes a long-standing rule that the only avenue for attorney fees under Idaho Code
+12-120(3) is if the case involves a “commercial transaction.” Again, the DeGroots have taken
+statements out of context.
+       Take SilverWing, for example. There, the developer of a residential hangar project had a
+dispute with Bonner County over the placement of a taxiway adjacent to the Sandpoint Airport.
+164 Idaho at 789–90, 435 P.3d at 1109–10. During the development of the project, the county
+provided the developer with an airport layout plan that reflected the existing location of the
+airport’s runway. Id. at 789, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#1109" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">435 P.3d at 1109</a></span><pre class="inline">. The county also promised that there were no plans
+to change the runway’s location that would be incompatible with the developer’s project. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline"> The
+county then required SilverWing to move the taxiway as originally planned onto county-owned
+property. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline"> at 789–90, 435 P.3d at 1109–10. After constructing the taxiway and other parts of the
+development, SilverWing learned that the taxiway was not approved by the FAA and incurred
+substantial additional construction costs when both the taxiway and the runway had to be moved.
+</pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#790" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id. at 790</a></span><pre class="inline">, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#1110" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">435 P.3d at 1110</a></span><pre class="inline">.
+       At trial, a jury returned a verdict in favor of SilverWing. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline"> The district court then awarded
+attorney fees to SilverWing under Idaho Code section 12-120(3). </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#794" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id. at 794</a></span><pre class="inline">, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#1114" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">435 P.3d at 1114</a></span><pre class="inline">. The
+district court denied the county’s motion for judgment notwithstanding the verdict. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline"> The county
+appealed. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline">
+       We reversed the district court’s decision on the county’s motion for judgment
+notwithstanding the verdict. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.</a></span><pre class="inline"> at 797–98, 435 P.3d at 1117–18. While that decision necessarily
+required the reversal of the district court’s award of attorney fees, the Court still had to address the
+issue of whether attorney fees were warranted on appeal. </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#798" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id. at 798</a></span><pre class="inline">, </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#1118" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">435 P.3d at 1118</a></span><pre class="inline">. In addressing
+that award, the Court did state that “[w]hether a party can recover attorney fees under Idaho Code
+
+
+
+                                                  15
+section 12-120(3) depends on whether the gravamen of a claim is a commercial transaction.” </pre><span class="citation" data-id="6535701"><a href="/opinion/6658324/silverwing-at-sandpoint-llc-v-bonner-cnty/#799" aria-description="Citation for case: Silverwing At Sandpoint, LLC v. Bonner Cnty.">Id.
+at 799</a></span><pre class="inline">, 435 P.3d at 1119–20 (quoting Stevens, </pre><span class="citation" data-id="9836044"><a href="/opinion/4256004/kenneth-eyer-v-idaho-forest-group/#410" aria-description="Citation for case: Kenneth Eyer v. Idaho Forest Group">161 Idaho at 410</a></span><pre class="inline">, </pre><span class="citation" data-id="9836044"><a href="/opinion/4256004/kenneth-eyer-v-idaho-forest-group/#78" aria-description="Citation for case: Kenneth Eyer v. Idaho Forest Group">387 P.3d at 78</a></span><pre class="inline">). However, that
+sentence is immediately preceded by the sentence: “[t]o resolve this issue, we must again review
+the statutory meaning of a ‘commercial transaction.’” </pre><span class="citation" data-id="9836044"><a href="/opinion/4256004/kenneth-eyer-v-idaho-forest-group/" aria-description="Citation for case: Kenneth Eyer v. Idaho Forest Group">Id.</a></span><pre class="inline">
+       In context, the language the DeGroots point to is not a statement establishing a blanket rule
+that all causes of action enumerated in section 12-120(3) must involve a commercial transaction
+but instead reflects the meaning of “commercial transaction” when it is applied to a case that does
+not fit within the other causes of action enumerated in subsection (3). Because we agree with the
+Court of Appeals’ analysis in Eriksen, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#695" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">116 Idaho at 695</a></span><pre class="inline">, </pre><span class="citation" data-id="1298211"><a href="/opinion/1298211/eriksen-v-blue-cross-of-idaho-health-services-inc/#817" aria-description="Citation for case: Eriksen v. Blue Cross of Idaho Health Services, Inc.">778 P.2d at 817</a></span><pre class="inline">, and the DeGroots have
+not made any other challenge to the district court’s award of attorney fees, we affirm the district
+court’s decision on reconsideration.
+C. The Armitages are awarded reasonable attorney fees and costs on appeal.
+       Both the Armitages and the DeGroots request attorney fees on appeal should they prevail.
+The Armitages are the prevailing party. They request fees under Idaho Code sections 12-120(3)
+and 12-121. The DeGroots have made no arguments against the Armitages’ attorney fee request.
+       Since we have affirmed the district court’s award of attorney fees pursuant to Idaho Code
+section 12-120(3) and the DeGroots do not otherwise challenge the availability of attorney fees
+under the statute, we award reasonable attorney fees on appeal. There is no need for this Court to
+address the Armitages’ fee request under section 12-121. The Armitages are entitled to costs
+pursuant to Idaho Appellate Rule 40.
+                                       IV.   CONCLUSION
+       We affirm the district court’s decision on reconsideration to reject the DeGroots’ merger
+defense, and we affirm the district court’s decision on reconsideration to award the Armitages
+attorney fees. We award the Armitages reasonable attorney fees on appeal pursuant to Idaho Code
+section 12-120(3) and costs pursuant to Idaho Appellate Rule 40.
+       Justices BEVAN, MOELLER, ZAHN and MEYER CONCUR.
+
+
+
+
+                                                16
+</pre>

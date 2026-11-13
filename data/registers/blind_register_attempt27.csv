@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch,sample
+27,State v. Olivero,CT-Appellate,intermediate,criminal,trial,fact,CLEAN_AFFIRM,unbiased
+27,Foster v. Commissioner,CT-Appellate,intermediate,habeas,trial,fact,CLEAN_AFFIRM,unbiased
+27,Ross v. Commissioner,CT-Appellate,intermediate,habeas,trial,fact,CLEAN_AFFIRM,unbiased
+27,State v. Griffin,CT-Appellate,intermediate,criminal,trial,legal_overlay,CLEAN_AFFIRM,unbiased
+27,Circulent v. Hatch & Bailey,CT-Appellate,intermediate,civil,trial,fact,REVERSED,unbiased
+27,In re A'vion A.,CT-Appellate,intermediate,child,trial,fact,CLEAN_AFFIRM,unbiased
+27,Lastrina v. Bettauer,CT-Appellate,intermediate,civil,summary_judgment,pure_law,CLEAN_AFFIRM,BIASED
+27,Johnson v. Vita Built,CT-Appellate,intermediate,civil,discretionary,fact,REVERSED,BIASED
+27,Downing v. Dragone,CT-Appellate,intermediate,civil,trial,fact,CLEAN_AFFIRM,BIASED

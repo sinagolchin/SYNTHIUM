@@ -1,0 +1,347 @@
+<pre class="inline">Nebraska Supreme Court Online Library
+www.nebraska.gov/apps-courts-epub/
+11/06/2026 08:11 AM CST
+
+
+
+
+                                                        - 789 -
+                               Nebraska Supreme Court Advance Sheets
+                                        322 Nebraska Reports
+                                            KOCH v. CITY OF SARGENT
+                                               Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+
+
+
+                                  Mark A. Koch, appellant, v. City of
+                                    Sargent, Nebraska, appellee.
+                                                   ___ N.W.3d ___
+
+                                        Filed November 6, 2026.   No. S-26-325.
+
+                 1. Jurisdiction: Appeal and Error. The question of appellate jurisdiction
+                    is a question of law.
+                 2. Appeal and Error: Words and Phrases. Plain error is error plainly
+                    evident from the record which prejudicially affects a substantial right of
+                    a litigant and is of such a nature that to leave it uncorrected would cause
+                    a miscarriage of justice or result in damage to the integrity, reputation,
+                    or fairness of the judicial process.
+                 3. Appeal and Error. When reviewing proceedings for plain error, appel-
+                    late courts are neither constrained by the specific arguments raised in
+                    the briefs nor required to consider every error that may have occurred
+                    in the lower court.
+                 4. Jurisdiction: Judgments: Final Orders: Appeal and Error. To deter-
+                    mine whether it has jurisdiction, an appellate court looks to </pre><span class="citation no-link">Neb. Rev.
+                    Stat. §§ 25-1911</span><pre class="inline"> (Reissue 2016) and 25-1912 (Cum. Supp. 2024).
+                    Together, these statutes generally prescribe that for an appellate court
+                    to acquire jurisdiction of an appeal, the party must be appealing from a
+                    judgment or decree rendered or from a final order.
+                 5. Judgments: Final Orders: Words and Phrases. A “judgment ren-
+                    dered,” as required by </pre><span class="citation no-link">Neb. Rev. Stat. § 25-1911</span><pre class="inline"> (Reissue 2016), is a
+                    final determination of the rights of the parties in an action, which is set
+                    forth by the court in a single, signed written document stating all of the
+                    relief granted or denied in an action.
+
+                  Petition for further review from the Court of Appeals, on
+               appeal thereto from the District Court for Custer County,
+               Karin L. Noakes, Judge. Judgment of Court of Appeals
+               reversed and remanded for further proceedings.
+                                  - 790 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                       KOCH v. CITY OF SARGENT
+                          Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+    Mark A. Koch, pro se.
+
+    Heather L. Sikyta, of Sikyta Law Office, for appellee.
+
+  Funke, C.J., Cassel, Stacy,                 Papik,    Freudenberg,
+Bergevin, and Vaughn, JJ.
+
+    Cassel, J.
+                        INTRODUCTION
+   Mark A. Koch appealed from a document designated as
+a judgment. The Nebraska Court of Appeals summarily dis-
+missed the appeal for lack of jurisdiction, stating that judgment
+had not been rendered. Upon further review, we conclude that
+the district court rendered judgment by entering a single written
+document that explicitly denied “[a]ll the relief requested” and
+stated “[j]udgment is entered . . . as to each cause of action.”
+Accordingly, we reverse the Court of Appeals’ dismissal, and
+remand the cause to that court for further proceedings.
+
+                       BACKGROUND
+                 District Court Proceedings
+   Koch filed a complaint against the City of Sargent, Nebraska
+(the City), asserting numerous causes of action. He asked
+the court to void all actions taken at a particular city coun-
+cil meeting due to purported violations of Nebraska’s Open
+Meetings Act 1 and other procedural deficiencies. The City
+moved to dismiss for failure to state a claim upon which relief
+could be granted.
+   Following a hearing in December 2025, the court entered
+an “Order Dismissing Certain Causes of Action.” It dismissed
+most of the causes of action and set forth the allegations
+in the five causes of action that survived the City’s motion
+to dismiss.
+1
+    </pre><span class="citation no-link">Neb. Rev. Stat. §§ 84-1407</span><pre class="inline"> to 84-1414 (Reissue 2024 &amp; Supp. 2025).
+                                    - 791 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                         KOCH v. CITY OF SARGENT
+                            Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+   In April 2026, the court entered a document that it desig-
+nated as a “Judgment.” It stated that Koch withdrew two of
+his causes of action and that the court conducted a trial on the
+three remaining causes of action. The court determined that it
+did not have jurisdiction to consider some of the claims and
+that Koch failed to meet his burden of proof. The document
+then stated: “All the relief requested by [Koch] is denied.
+Judgment is entered against [Koch] and for the [City] as to
+each cause of action.”
+   Koch appealed.
+
+               Court of Appeals’ Disposition
+   Two weeks later, the Court of Appeals summarily dismissed
+the appeal for lack of jurisdiction. Its minute entry stated,
+in part:
+     The district court has not signed a “single written docu-
+     ment,” as required in </pre><span class="citation no-link">Neb. Rev. Stat. § 25-1301</span><pre class="inline">(2) (Cum.
+     Supp. 2024), constituting the final determination of the
+     rights of the parties and stating all the relief granted or
+     denied in the action. It therefore has not yet rendered
+     judgment. See D&amp;M Roofing &amp; Siding v. Distribution,
+     Inc., </pre><span class="citation" data-id="10465949"><a href="/opinion/9999348/dm-roofing-siding-v-distribution-inc/" aria-description="Citation for case: D&amp;M Roofing &amp; Siding v. Distribution, Inc.">316 Neb. 952</a></span><pre class="inline">, </pre><span class="citation no-link">7 N.W.3d 868</span><pre class="inline"> (2024).
+   Koch timely filed a petition for further review, which we
+granted. 2
+
+                 ASSIGNMENTS OF ERROR
+   Koch’s “Statement of Errors” alleged nine errors committed
+by the district court. We disregard those because a “petition
+for further review and supporting memorandum brief shall
+set forth a separate, concise statement of each error alleged to
+have been made by the Court of Appeals.” 3
+   Koch set forth two errors allegedly committed by the Court
+of Appeals. One stated that the Court of Appeals erred in
+2
+    Neb. Ct. R. App. P. § 2-102(F) (rev. 2022).
+3
+    § 2-102(F)(3) (emphasis supplied).
+                               - 792 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    KOCH v. CITY OF SARGENT
+                       Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+dismissing the appeal prior to completion of the bill of excep-
+tions. The other alleged that the Court of Appeals erred in
+dismissing the case “with the final judgment in place on . . .
+April 7, 2026.”
+
+                 STANDARD OF REVIEW
+   [1] The question of appellate jurisdiction is a question of
+law. 4
+
+                           ANALYSIS
+                   Scope of Further Review
+   Further review by this court is a matter of judicial discre-
+tion. 5 In exercising our discretion, we may limit the issues
+to one or more of those raised by the parties and may notice
+plain error. 6 Koch assigned error to the Court of Appeals’
+dismissal of his appeal, but his brief contains no discussion
+of the alleged error as required by § 2-102(F)(3). We elect to
+review the dismissal for plain error.
+   [2,3] Plain error is error plainly evident from the record
+which prejudicially affects a substantial right of a litigant and
+is of such a nature that to leave it uncorrected would cause
+a miscarriage of justice or result in damage to the integrity,
+reputation, or fairness of the judicial process. 7 When review-
+ing proceedings for plain error, appellate courts are neither
+constrained by the specific arguments raised in the briefs nor
+required to consider every error that may have occurred in
+the lower court. 8 Here, we consider only whether the Court of
+Appeals erred in determining that it lacked jurisdiction because
+the district court had not rendered judgment.
+4
+  WRK v. Wiegert, </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/" aria-description="Citation for case: WRK v. Wiegert">320 Neb. 822</a></span><pre class="inline">, </pre><span class="citation no-link">30 N.W.3d 832</span><pre class="inline"> (2026).
+5
+  § 2-102(G).
+6
+  Id.
+7
+  Fischer v. Southeast Community College, </pre><span class="citation" data-id="11348298"><a href="/opinion/10880778/fischer-v-southeast-community-college/" aria-description="Citation for case: Fischer v. Southeast Community College">321 Neb. 638</a></span><pre class="inline">, </pre><span class="citation no-link">36 N.W.3d 479</span><pre class="inline">
+  (2026).
+8
+  </pre><span class="citation no-link">Id.</span><pre class="inline">
+                                  - 793 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       KOCH v. CITY OF SARGENT
+                          Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+                     Appellate Jurisdiction
+   [4] To determine whether it has jurisdiction, an appellate
+court looks to </pre><span class="citation no-link">Neb. Rev. Stat. §§ 25-1911</span><pre class="inline"> (Reissue 2016) and
+25-1912 (Cum. Supp. 2024). Together, these statutes gener-
+ally prescribe that for an appellate court to acquire jurisdic-
+tion of an appeal, the party must be appealing from a judg-
+ment or decree rendered or from a final order. 9 There is no
+contention that the appeal was from a final order as defined
+by </pre><span class="citation no-link">Neb. Rev. Stat. § 25-1902</span><pre class="inline"> (Cum. Supp. 2024); instead, the
+jurisdictional question is whether the district court rendered a
+final judgment.
+   [5] We are guided by the definitions in </pre><span class="citation no-link">Neb. Rev. Stat.
+§ 25-1301</span><pre class="inline"> (Cum. Supp. 2024). The statute defines a “judg-
+ment” as “the final determination of the rights of the parties
+in an action.” 10 And it provides that “[r]endition of a judgment
+is the act of the court, or a judge thereof, in signing a single
+written document stating all of the relief granted or denied in
+an action.” 11 Based on these definitions, we have stated that
+“a ‘judgment rendered,’ as required by § 25-1911, is a final
+determination of the rights of the parties in an action, which
+is set forth by the court in a single, signed written document
+stating all of the relief granted or denied in an action.” 12
+   We have spoken regarding the “single written document”
+requirement of § 25-1301(2) on multiple occasions since its
+addition to the statute in 2020. 13 In the background section
+of one case, in the course of reminding trial courts of the
+ 9
+   WRK v. </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/#4" aria-description="Citation for case: WRK v. Wiegert">Wiegert, supra note 4</a></span><pre class="inline">.
+10
+   § 25-1301(1).
+11
+   § 25-1301(2).
+12
+   D&amp;M Roofing &amp; Siding v. Distribution, Inc., </pre><span class="citation" data-id="10465949"><a href="/opinion/9999348/dm-roofing-siding-v-distribution-inc/#968" aria-description="Citation for case: D&amp;M Roofing &amp; Siding v. Distribution, Inc.">316 Neb. 952, 968</a></span><pre class="inline">, </pre><span class="citation no-link">7 N.W.3d
+   868</span><pre class="inline">, 881 (2024).
+13
+   See, WRK v. </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/#4" aria-description="Citation for case: WRK v. Wiegert">Wiegert, supra note 4</a></span><pre class="inline">; Continental Indem. Co. v. Starr Indem.
+   &amp; Liab. Co., </pre><span class="citation" data-id="11228172"><a href="/opinion/10761587/continental-indem-co-v-starr-indem-liab-co/" aria-description="Citation for case: Continental Indem. Co. v. Starr Indem. &amp; Liab. Co.">320 Neb. 574</a></span><pre class="inline">, </pre><span class="citation no-link">28 N.W.3d 843</span><pre class="inline"> (2025); Elbert v. Keating,
+   O’Gara, </pre><span class="citation" data-id="11093997"><a href="/opinion/10627410/elbert-v-keating-ogara/" aria-description="Citation for case: Elbert v. Keating, O&#x27;Gara">319 Neb. 390</a></span><pre class="inline">, </pre><span class="citation no-link">22 N.W.3d 671</span><pre class="inline"> (2025); D&amp;M Roofing &amp; Siding v.
+   Distribution, </pre><span class="citation" data-id="10465949"><a href="/opinion/9999348/dm-roofing-siding-v-distribution-inc/#12" aria-description="Citation for case: D&amp;M Roofing &amp; Siding v. Distribution, Inc.">Inc., supra note 12</a></span><pre class="inline">; Choice Homes v. Donner, </pre><span class="citation" data-id="8206943"><a href="/opinion/8241680/choice-homes-v-donner/" aria-description="Citation for case: Choice Homes v. Donner">311 Neb. 835</a></span><pre class="inline">,
+   </pre><span class="citation" data-id="8206943"><a href="/opinion/8241680/choice-homes-v-donner/" aria-description="Citation for case: Choice Homes v. Donner">976 N.W.2d 187</a></span><pre class="inline"> (2022).
+                                 - 794 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                      KOCH v. CITY OF SARGENT
+                         Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+recent statutory change, we stated that “where a judgment
+results from a series of documents, as here, the last one should
+include all relief granted or denied in the action, including
+relief previously set forth in interlocutory orders.” 14 Last year,
+in Elbert v. Keating, O’Gara, 15 we explained that “a series of
+orders is not a substitute for rendering a judgment that states
+all the relief granted or denied in an action.” In Elbert, the
+trial court had entered an order ruling on a motion to dismiss
+the operative complaint and later entered an order granting
+the defendant’s motion to voluntarily dismiss its counterclaim
+without prejudice; however, the court had not signed a single
+written document stating all of the relief granted or denied in
+the action. Five months after our Elbert decision, we affirmed
+the Court of Appeals’ summary dismissal of an appeal for
+lack of jurisdiction. 16 There, the trial court entered an order
+dismissing one defendant for lack of personal jurisdiction and
+later entered an order sustaining a motion to dismiss the other
+defendant without prejudice. Because the latter order said
+nothing about any other relief granted or denied—such as the
+earlier dismissal of the other defendant—we determined that
+the trial court had not certified a final judgment nor rendered
+a judgment.
+   We devote more attention to D&amp;M Roofing &amp; Siding v.
+Distribution, Inc., 17 the case cited in the Court of Appeals’ min-
+ute entry. There, we used language emphasizing the absence
+of a dismissal of the case. We stated that “a final, appealable
+judgment is one that disposes of the case by dismissing it
+either before hearing is had upon the merits or after trial by
+14
+   Choice Homes v. </pre><span class="citation" data-id="8206943"><a href="/opinion/8241680/choice-homes-v-donner/#13" aria-description="Citation for case: Choice Homes v. Donner">Donner, supra note 13</a></span><pre class="inline">, </pre><span class="citation" data-id="8206943"><a href="/opinion/8241680/choice-homes-v-donner/#847" aria-description="Citation for case: Choice Homes v. Donner">311 Neb. at 847</a></span><pre class="inline">, </pre><span class="citation" data-id="8206943"><a href="/opinion/8241680/choice-homes-v-donner/#198" aria-description="Citation for case: Choice Homes v. Donner">976 N.W.2d at
+   198</a></span><pre class="inline">.
+15
+   Elbert v. Keating, O’</pre><span class="citation" data-id="11093997"><a href="/opinion/10627410/elbert-v-keating-ogara/#13" aria-description="Citation for case: Elbert v. Keating, O&#x27;Gara">Gara, supra note 13</a></span><pre class="inline">, </pre><span class="citation" data-id="11093997"><a href="/opinion/10627410/elbert-v-keating-ogara/#398" aria-description="Citation for case: Elbert v. Keating, O&#x27;Gara">319 Neb. at 398</a></span><pre class="inline">, 22 N.W.3d at
+   677.
+16
+   Continental Indem. Co. v. Starr Indem. &amp; Liab. Co., supra note 13.
+17
+   D&amp;M Roofing &amp; Siding v. Distribution, </pre><span class="citation" data-id="10465949"><a href="/opinion/9999348/dm-roofing-siding-v-distribution-inc/#12" aria-description="Citation for case: D&amp;M Roofing &amp; Siding v. Distribution, Inc.">Inc., supra note 12</a></span><pre class="inline">.
+                                   - 795 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        KOCH v. CITY OF SARGENT
+                           Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+rendition of judgment for the plaintiff or defendant.” 18 We
+declared that “[i]t is only when the court enters an order of
+dismissal that the proceedings brought before the court by one
+party against another and filed under a particular case num-
+ber come to an end.” 19 But we coupled that declaration with
+the following: “Only by plainly granting or denying all of
+the relief sought in the action does the order conclude all the
+rights of the parties so that further proceedings cannot affect
+them.” 20 Our analysis demonstrated that the jurisdictional
+problem in D&amp;M Roofing &amp; Siding was the district court’s
+failure to expressly grant or deny relief regarding a breach of
+contract claim.
+   Here, we are not presented with any unresolved claims.
+Koch’s multiple causes of action were addressed by the court
+in two documents. The first document dismissed the bulk of
+them. The second document resolved the remaining causes
+of action. In the latter document, the district court plainly
+stated that all relief sought by Koch was denied and that it
+entered judgment in favor of the City as to each cause of
+action. It did not specifically enter an order of dismissal. While
+doing so may have clearly signaled the end to the action, a
+judgment can exist without the court explicitly stating that the
+case is dismissed.
+   We recall that a “judgment rendered,” as required by
+§ 25-1911, is a final determination of the parties’ rights in
+an action, which is set forth by the court in a single written
+document signed by the court stating all of the relief granted
+or denied in an action. 21 The April 2026 document stated
+both that “[a]ll the relief requested . . . is denied” and that
+“[j]udgment is entered against [Koch] and for the [City] as
+18
+   Id. at 971, 7 N.W.3d at 883 (emphasis in original).
+19
+   Id. at 971-72, 7 N.W.3d at 883.
+20
+   Id. at 972, 7 N.W.3d at 883.
+21
+   See WRK v. </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/#4" aria-description="Citation for case: WRK v. Wiegert">Wiegert, supra note 4</a></span><pre class="inline">.
+                              - 796 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                    KOCH v. CITY OF SARGENT
+                       Cite as </pre><span class="citation no-link">322 Neb. 789</span><pre class="inline">
+
+to each cause of action.” This combination—contained in a
+single document signed by the court—constituted rendition
+of judgment. Because Koch timely filed an appeal from the
+judgment, the Court of Appeals had appellate jurisdiction.
+Accordingly, we reverse its contrary decision.
+                            CONCLUSION
+   As set forth above, we conclude the following:
+• A “judgment rendered,” as required by § 25-1911, is a final
+  determination of the parties’ rights in an action, which is set
+  forth by the court in a single written document signed by the
+  court stating all of the relief granted or denied in an action.
+• The district court’s December 2025 order, which sustained the
+  City’s motion to dismiss as to most of Koch’s causes of action
+  and set forth the allegations in the causes of action that sur-
+  vived dismissal, was an interlocutory order.
+• The district court rendered judgment in April 2026 when it
+  signed a single written document stating both that “[a]ll the
+  relief requested . . . is denied” and that “[j]udgment is entered
+  against [Koch] and for the [City] as to each cause of action.”
+• Because Koch appealed from the April 2026 judgment within
+  30 days, the Court of Appeals had appellate jurisdiction.
+   We therefore reverse the Court of Appeals’ summary dis-
+missal for lack of jurisdiction and remand the cause to that
+court for further proceedings.
+                                  Reversed and remanded for
+                                  further proceedings.
+</pre>

@@ -1,0 +1,484 @@
+<pre class="inline">                   IN THE SUPREME COURT, STATE OF WYOMING
+
+                                              </pre><span class="citation no-link">2026 WY 118</span><pre class="inline">
+
+                                                                    OCTOBER TERM, A.D. 2026
+
+                                                                            November 3, 2026
+
+
+    AMYNTAS HINCKLEY,
+
+    Appellant
+    (Plaintiff),
+
+    v.                                                       S-26-0018
+
+    UNIVERSITY OF WYOMING,
+
+    Appellee
+    (Defendant).
+
+                          Appeal from the District Court of Albany County
+                           The Honorable Dawnessa A. Snyder, Judge 1
+
+Representing Appellant:
+      Amyntas Hinckley, pro se.
+
+Representing Appellee:
+      Erin E. Berry and Jacob L. Vogt, Hirst Applegate, LLP, Cheyenne, Wyoming.
+
+
+Before BOOMGAARDEN, C.J., and GRAY, FENN, and HILL, JJ., and STITH, DJ.
+
+NOTICE: This opinion is subject to formal revision before publication in Pacific Reporter Third.
+Readers are requested to notify the Clerk of the Supreme Court, Supreme Court Building, Cheyenne,
+Wyoming 82002, of any typographical or other formal errors so that correction may be made before
+final publication in the permanent volume.
+
+
+
+
+1
+    The original district judge, Misha Westby, assigned the case to Judge Snyder.
+
+
+                                                       1
+STITH, District Judge.
+
+
+[¶1] Amyntas Hinckley (“Hinckley”) was employed by the University of Wyoming
+(“University”) as a marketing and communications specialist. According to her amended
+complaint, she was subjected to discrimination based on sex, was paid a lower salary than
+a male counterpart for equivalent work, and endured a hostile environment, retaliation,
+fraud, and intentional infliction of emotional distress. The University filed a motion to
+dismiss her complaint, claiming immunity from tort liability under the Wyoming
+Governmental Claims Act, failure to exhaust administrative remedies, and failure to state
+a claim upon which relief could be granted. The district court granted the University’s
+motion to dismiss and Hinckley appealed. We affirm.
+
+                                        ISSUES
+
+[¶2] Appellant Hinckley raises five issues and Appellee University raises six issues in
+response, which this court rephrases as follows:
+
+      1) Whether the technical deficiencies in Appellant’s brief warrant summary
+         affirmance of the district court;
+
+      2) Whether the Wyoming Governmental Claims Act bars Hinckley’s claims; and
+
+      3) Whether the Wyoming Fair Employment Practices Act limits the district court’s
+         jurisdiction to reviewing the outcome of an administrative fair hearing under
+         </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(k) and the Wyoming Administrative Procedure Act;
+
+                                        FACTS
+
+[¶3] According to her amended complaint, Hinckley was employed by the University as
+a marketing and communications specialist. She alleged that she was subject to
+discriminatory treatment during her employment, a male peer was paid a higher salary for
+equivalent work and given preferential treatment, and her supervisor otherwise fostered an
+environment of unequal treatment. After she raised concerns concerning unequal
+treatment, the amended complaint alleges that the University retaliated against her by
+issuing a warning letter falsely claiming performance deficiencies and denied her the
+opportunity to disprove the claims. The University terminated Hinckley’s employment.
+Post-termination, the amended complaint alleges that the University provided false
+information to the Wyoming Department of Workforce Services, falsely claiming that she
+had left work early on one day, which delayed her receipt of unemployment compensation
+benefits.
+
+
+
+
+                                            2
+[¶4] On December 11, 2024, Hinckley filed a complaint pro se in district court alleging
+causes of action for (1) retaliation; (2) sex based discrimination; (3) hostile work
+environment; (4) fraud; and (5) intentional infliction of emotional distress. She sought
+monetary damages and injunctive relief for reinstatement and to compel the University to
+implement workplace changes. The University filed a motion to dismiss and a notice of
+removal to U.S. District Court under </pre><span class="citation no-link">28 U.S.C. § 1331</span><pre class="inline">, 1441 and 1446 on the basis that
+Hinckley raised federal questions under the Equal Pay Act of 1963 and Title VII of the
+Civil Rights Act of 1964.
+
+[¶5] Hinckley filed an amended complaint in U.S. district court. The amended complaint
+alleged only state law causes of action for (1) wrongful termination in violation of
+Wyoming’s public policy; (2) discrimination under Wyoming law; (3) hostile work
+environment; (4) fraud; and (5) intentional infliction of emotional distress. On January 30,
+2025, the U.S. District Court remanded the case to district court on the basis that no federal
+questions were presented in the amended complaint. The University then filed a motion to
+dismiss Hinckley’s amended complaint. Hinckley’s amended complaint requested
+monetary damages, reinstatement and an injunction compelling the University to
+implement certain workplace changes. Hinckley filed a “Motion for Emergency Hearing,
+Emergency Relief, Injunctive Relief and Preservation of Evidence.” The district court,
+Misha Westby presiding, set a hearing for March 24, 2025 on the University’s motion to
+dismiss and Hinckley’s motion regarding presentation of evidence.
+
+[¶6] There is no transcript of the March 24, 2025 hearing before Judge Westby. On
+March 27, 2025, Hinckley filed a “Motion to Recuse Presiding Judge For Cause” and a
+“Motion for Reconsideration and Emergency Injunctive Relief.” Following the motion to
+recuse, on April 25, 2025, Judge Westby assigned the case to Judge Snyder.
+
+[¶7] On October 15, 2025, the University filed a “Notice of Resubmission of Proposed
+Order Dismissing Case Without Prejudice,” and attached a proposed order. The notice
+claimed that the proposed order had been previously submitted to the court on April 2,
+2025, but that filing was stricken by Judge Westby on April 21, 2025, and no longer appears
+in the court record. On October 16, 2025, Judge Snyder granted the University’s proposed
+“Order Dismissing Case Without Prejudice.” The district court found that the Wyoming
+Governmental Claims Act barred Hinckley’s tort claims and, with respect to the claims for
+discrimination and hostile environment, the Wyoming Fair Employment Practices Act
+required Hinckley to exhaust her administrative remedies prior to filing suit in district
+court. The district court also noted that Plaintiff failed to allege facts that could satisfy the
+elements of fraud or intentional infliction of emotional distress. The district court granted
+the University’s motion to dismiss the amended complaint without prejudice because
+Hinckley, who had not exhausted administrative remedies, could still seek a fair hearing
+and any subsequent judicial review of that proceeding.
+
+
+
+
+                                               3
+[¶8] The same day, October 16, 2025, Hinckley filed a “Plaintiff’s Objection and Motion
+to Strike Defendant’s ‘Notice of Resubmission of Order Dismissing Case Without
+Prejudice’ For Misrepresentation and Bad-Faith Attempt to Mislead The Court, Pursuant
+to W.R.C.P. 11(b)” (“Motion to Strike”). On October 20, 2025, the district court denied
+Hinckley’s Motion to Strike. On October 24, 2025, Hinckley filed a “Plaintiff’s Rule 59(e)
+Motion to Vacate and Reconsider Order of Dismissal and Denial of Motion To Strike.” On
+November 25, 2025, the district court denied Hinckley’s Rule 59(e) motion by order styled
+“Order Following Reconsideration Hearing.”
+
+[¶9] On December 5, 2025, Hinckley filed a notice of appeal. In her notice of appeal,
+Hinckley listed the orders being appealed as the November 25, 2025, Order Following
+Reconsideration Hearing, the October 16, 2025, Order Dismissing Case Without Prejudice,
+“all prior adverse interlocutory orders,” and “the court’s failure to issue findings and
+rulings.”
+
+[¶10] While her state court complaint was proceeding, Hinckley filed a separate Title VII
+employment discrimination complaint against the University in U.S. District Court,
+Hinckley v. University of Wyoming, et al., case No. 25-CV-0043 (U.S. Dist., Wyo. 2025)
+arising out of the same set of transactions and occurrences as alleged in this case. On
+November 4, 2025, the U.S. District Court denied the University’s motion to dismiss
+Hinckley’s Title VII federal employment discrimination claims.
+
+                               STANDARD OF REVIEW
+
+[¶11] This Court reviews a motion to dismiss under W.R.C.P. 12(b)(6) de novo.
+Gunwerks, LLC v. Forward Cody Wyo., Inc., </pre><span class="citation" data-id="11249419"><a href="/opinion/10782783/gunwerks-llc-a-wyoming-limited-liability-company-v-forward-cody-wyoming/#23" aria-description="Citation for case: Gunwerks, Llc, a Wyoming Limited Liability Company v....">2026 WY 16, ¶ 23</a></span><pre class="inline">, </pre><span class="citation no-link">583 P.3d 405</span><pre class="inline">, 411 (Wyo.
+2026) (citing Sheesley as Tr. Of DCS Tr. Dated May 17, 2005 v. AristaTek, Inc., </pre><span class="citation multiple-matches"><a href="/c/WY/2025/89/">2025 WY
+89</a></span><pre class="inline">, ¶ 34, </pre><span class="citation no-link">573 P.3d 535</span><pre class="inline">, 547 (Wyo. 2025)). “Dismissal is appropriate only if it is certain
+from the face of the complaint the plaintiff cannot assert any facts entitling him to relief.”
+</pre><span class="citation no-link">Id.</span><pre class="inline"> (citing Sheesley, ¶ 34, 573 P.3d at 547). When reviewing a motion to dismiss, we
+examine the same materials and apply the same standards as the district court. Sheesley,
+¶ 34, 573 P.3d at 547 (quoting Moose Hollow Holdings, LLC v. Teton Cnty. Bd. of Cnty.
+Comm&#x27;rs, </pre><span class="citation" data-id="4179517"><a href="/opinion/4402264/moose-hollow-holdings-llc-fka-moose-hollow-llc-and-blue-skies-west/#20" aria-description="Citation for case: Moose Hollow Holdings, Llc, F/K/A Moose Hollow, Llc and...">2017 WY 74, ¶ 20</a></span><pre class="inline">, </pre><span class="citation" data-id="4179517"><a href="/opinion/4402264/moose-hollow-holdings-llc-fka-moose-hollow-llc-and-blue-skies-west/#1033" aria-description="Citation for case: Moose Hollow Holdings, Llc, F/K/A Moose Hollow, Llc and...">396 P.3d 1027, 1033</a></span><pre class="inline"> (Wyo. 2017)). “[W]e accept the facts
+alleged in the complaint or petition as true and view them in the light most favorable to the
+non-moving party.” </pre><span class="citation" data-id="4179517"><a href="/opinion/4402264/moose-hollow-holdings-llc-fka-moose-hollow-llc-and-blue-skies-west/" aria-description="Citation for case: Moose Hollow Holdings, Llc, F/K/A Moose Hollow, Llc and...">Id.</a></span><pre class="inline"> (quoting Moose Hollow Holdings, LLC, ¶ 20, </pre><span class="citation" data-id="4179517"><a href="/opinion/4402264/moose-hollow-holdings-llc-fka-moose-hollow-llc-and-blue-skies-west/#1033" aria-description="Citation for case: Moose Hollow Holdings, Llc, F/K/A Moose Hollow, Llc and...">396 P.3d at 1033</a></span><pre class="inline">);
+City of Laramie v. Univ. of Wyoming, </pre><span class="citation" data-id="9928349"><a href="/opinion/9470511/city-of-laramie-wyoming-v-university-of-wyoming-and-university-of-wyoming/#16" aria-description="Citation for case: City of Laramie, Wyoming v. University of Wyoming and...">2024 WY 13, ¶ 16</a></span><pre class="inline">, </pre><span class="citation no-link">542 P.3d 607</span><pre class="inline">, 614 (Wyo. 2024).
+“Dismissal is a drastic remedy which should be used cautiously; however, a motion to
+dismiss ‘is the proper method for testing the legal sufficiency of the allegations and will be
+sustained when the complaint shows on its face that the plaintiff is not entitled to relief.’”
+Peterson v. Laramie City Council, </pre><span class="citation" data-id="9945811"><a href="/opinion/9479198/jerry-peterson-v-laramie-city-council/#9" aria-description="Citation for case: Jerry Peterson v. Laramie City Council">2024 WY 23, ¶ 9</a></span><pre class="inline">, </pre><span class="citation" data-id="9945811"><a href="/opinion/9479198/jerry-peterson-v-laramie-city-council/#926" aria-description="Citation for case: Jerry Peterson v. Laramie City Council">543 P.3d 922, 926</a></span><pre class="inline"> (Wyo. 2024)
+(quoting Matter of Est. of Britain, </pre><span class="citation no-link">2018 WY 101</span><pre class="inline">, ¶ 11, </pre><span class="citation" data-id="6534505"><a href="/opinion/6657176/britain-v-britain-in-re-estate-of-britain/#981" aria-description="Citation for case: Britain v. Britain (In re Estate of Britain)">425 P.3d 978, 981</a></span><pre class="inline"> (Wyo.
+2018)). With respect to Hinckley’s Motion for reconsideration under W.R.C.P. 59(e), “Rule
+
+
+
+                                              4
+59(e) orders are final appealable orders that we review for an abuse of discretion.” Am.
+Collection Sys., Inc. v. Judkins, </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/#15" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">2024 WY 66, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/#556" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">550 P.3d 549, 556</a></span><pre class="inline"> (Wyo. 2024).
+
+                                       DISCUSSION
+
+   I.     The Technical Deficiencies of Appellant’s Notice of Appeal and Brief.
+
+[¶12] Appellee University points to several technical deficiencies in Hinckley’s notice of
+appeal and brief. They include: (1) the notice of appeal identifies two specific orders being
+appealed but also generically lists “all interlocutory orders;” (2) Hinckley has failed to
+designate a record on appeal; (3) Hinckley fails to support her brief with cogent argument
+and relevant authority; (4) Hinckley’s brief fails to comply with W.R.A.P. 7.01 in multiple
+ways, including failure to have a statement of jurisdiction and an appendix.
+
+[¶13] “A pro se litigant is entitled to some leniency from the stringent standards applied
+to formal pleadings drafted by attorneys. However, there must be a reasonable adherence
+to the procedural rules and requirements of the court.” Byrnes v. Harper, </pre><span class="citation no-link">2019 WY 20</span><pre class="inline">, ¶ 3,
+</pre><span class="citation" data-id="6535639"><a href="/opinion/6658269/byrnes-v-harper/#366" aria-description="Citation for case: Byrnes v. Harper">435 P.3d 364, 366</a></span><pre class="inline"> (Wyo. 2019) (quoting Hodgins v. State, </pre><span class="citation" data-id="2552516"><a href="/opinion/2552516/hodgins-v-state/#1262" aria-description="Citation for case: Hodgins v. State">1 P.3d 1259, 1262</a></span><pre class="inline"> (Wyo. 2000)).
+“This Court will impose sanctions including, but not limited to, summary affirmance,
+pursuant to W.R.A.P. 1.03 on pro se litigants who fail to comply with these rules.” </pre><span class="citation" data-id="2552516"><a href="/opinion/2552516/hodgins-v-state/" aria-description="Citation for case: Hodgins v. State">Id.</a></span><pre class="inline"> In
+addition, “It is well established that the appellant bears the responsibility of bringing forth
+a sufficient record for the Court’s review.” O’Donoghue v. Jim Vito Constr., Inc., </pre><span class="citation" data-id="11325638"><a href="/opinion/10858237/victorine-odonoghue-v-jim-vito-construction-inc-and-jim-vito/#12" aria-description="Citation for case: Victorine O&#x27;Donoghue v. Jim Vito Construction, Inc., and...">2026 WY
+53, ¶ 12</a></span><pre class="inline">, </pre><span class="citation no-link">589 P.3d 342</span><pre class="inline">, 346 (Wyo. 2026) (citation omitted).
+
+[¶14] Rule 1.03(a) of the Wyoming Rules of Appellate Procedure (W.R.A.P.) explicitly
+provides “[t]he timely filing of a notice of appeal, which complies with Rule 2.07(a), is
+jurisdictional.” Am. Collection Sys., Inc., ¶ 7, </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/#554" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">550 P.3d at 554</a></span><pre class="inline">. To comply with W.R.A.P
+2.07(a)(2), a party’s notice of appeal must “identify the judgment or appealable order being
+appealed.” </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">Id.</a></span><pre class="inline"> (citation omitted). “A notice of appeal ‘only perfects an appeal of the
+order(s) identified in the notice.’” </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">Id.</a></span><pre class="inline"> (quoting EOG Res. Inc., v. JJLM Land, LLC, </pre><span class="citation" data-id="9350791"><a href="/opinion/9355319/eog-resources-inc-a-delaware-corporation-v-jjlm-land-llc-a-wyoming/#41" aria-description="Citation for case: Eog Resources, Inc., a Delaware Corporation v. Jjlm Land,...">2022
+WY 162, ¶ 41</a></span><pre class="inline">, </pre><span class="citation" data-id="9350791"><a href="/opinion/9355319/eog-resources-inc-a-delaware-corporation-v-jjlm-land-llc-a-wyoming/#616" aria-description="Citation for case: Eog Resources, Inc., a Delaware Corporation v. Jjlm Land,...">522 P.3d 605, 616</a></span><pre class="inline"> (Wyo. 2022)). If an order is not properly identified in
+the notice of appeal, this Court is “without jurisdiction” to review it. </pre><span class="citation" data-id="9350791"><a href="/opinion/9355319/eog-resources-inc-a-delaware-corporation-v-jjlm-land-llc-a-wyoming/" aria-description="Citation for case: Eog Resources, Inc., a Delaware Corporation v. Jjlm Land,...">Id.</a></span><pre class="inline">
+
+[¶15] Hinckley did identify two specific orders in her Notice of Appeal, the “October 16,
+2025 Order of Dismissal Without Prejudice” and the “November 25, 2025 Order Following
+Reconsideration Hearing.” Hinckley’s Notice of Appeal adequately identifies those two
+orders. This Court does not have jurisdiction over any other orders in this appeal, which
+are identified only generically, and we will not consider them.
+
+[¶16] Hinckley’s failure to designate a record on appeal would be a sufficient reason for
+summary affirmance, but the University did designate a record and the materials necessary
+to review the dismissal order are adequately before the Court. With respect to lack of
+
+
+
+                                              5
+citation to authority or cogent argument, Hinckley’s brief is not a model of clarity, but the
+issues she identifies and the gravamen of her argument are ascertainable.
+
+[¶17] In summary, although the technical deficiencies of Hinckley’s notice and brief
+would permit summary affirmance, the Court will not impose sanctions on Hinckley and
+exercises its discretion to consider her appeal on the merits.
+
+   II.    The Wyoming Governmental Claims Act Bars Hinckley’s Tort Claims for
+          Money Damages But Does Not Bar Her Claims for Injunctive Relief.
+
+[¶18] The University argues that the Wyoming Governmental Claims Act (“WGCA”) bars
+all of Hinckley’s tort claims, which are Hinckley’s causes of action for wrongful
+termination in violation of Wyoming public policy, fraud and intentional infliction of
+emotional distress. As discussed below, the WGCA bars Hinckley’s tort claims for money
+damages, but does not bar Hinckley’s claim for wrongful termination to the extent that
+Hinckley seeks injunctive relief.
+
+[¶19] The University was created by the Wyoming Constitution and is a governmental
+entity within the meaning of the Wyoming Governmental Claim Act. </pre><span class="citation no-link">Wyo. Stat. Ann. § 1</span><pre class="inline">-
+39-101 et seq.; Wyo. Const. art. 7, § 15; City of Laramie, ¶ 28, 542 P.3d at 617. </pre><span class="citation no-link">Wyo. Stat.
+Ann. § 1-39-104</span><pre class="inline">(a) provides: “[a] governmental entity and its public employees while
+acting within the scope of duties are granted immunity from liability for any tort except as
+provided by W.S. 1-39-105 through 1-39-112.” “When it adopted the WGCA, the
+Wyoming Legislature balanced the equities between the ‘inherently unfair and inequitable
+results which occur in the strict application of the doctrine of governmental immunity’ and
+the need to provide governmental services while protecting the public coffers.” Whitham
+v. Feller, </pre><span class="citation no-link">2018 WY 43</span><pre class="inline">, ¶ 24, </pre><span class="citation" data-id="6533645"><a href="/opinion/6656373/whitham-v-feller/#1269" aria-description="Citation for case: Whitham v. Feller">415 P.3d 1264, 1269</a></span><pre class="inline"> (Wyo. 2018) (quoting </pre><span class="citation no-link">Wyo. Stat. Ann.
+§ 1-39-102</span><pre class="inline">(a)).
+
+ [¶20] Fraud and intentional infliction of emotional distress are not exceptions to immunity
+listed in the WGCA. </pre><span class="citation no-link">Wyo. Stat. Ann. §§ 1-39-105</span><pre class="inline"> to 1-39-112. Hinckley seeks monetary
+damages only for those claims and the WGCA grants the University immunity barring
+Hinckley from pursuing those claims. Hinckley’s amended complaint also includes a claim
+for wrongful termination in violation of Wyoming’s public policy, which would be a tort
+and for which there is no enumerated exception under the WGCA. To the extent that
+Hinckley seeks monetary damages for wrongful termination, the WGCA also bars that
+claim.
+
+[¶21] The WGCA does not, however, prevent suits for injunction against a governmental
+entity. </pre><span class="citation no-link">Wyo. Stat. Ann. § 1-39-116</span><pre class="inline"> (“Nothing in this section prohibits any proceedings for
+mandamus, prohibition, habeas corpus, injunction or quo warranto”). With respect to her
+claim for wrongful termination, Hinckley seeks not just financial compensation, but also
+
+
+
+                                             6
+to be reinstated to her position and to compel the University to implement certain
+workplace changes, which are forms of injunctive relief.
+
+[¶22] Injunctions are governed by </pre><span class="citation no-link">Wyo. Stat. Ann. § 1-28-101</span><pre class="inline"> et seq. </pre><span class="citation no-link">Wyo. Stat. Ann.
+§ 1-28-102</span><pre class="inline"> provides:
+
+       When it appears by the petition that the plaintiff is entitled to relief consisting of
+       restraining the commission or continuance of some act the commission or
+       continuance of which during the litigation would produce great or irreparable injury
+       to the plaintiff, or when during the litigation it appears that the defendant is doing,
+       threatens to do, or is procuring to be done some act in violation of the plaintiff&#x27;s
+       rights respecting the subject of the action and tending to render the judgment
+       ineffectual, a temporary order may be granted restraining the act. The order may
+       also be granted in any case where it is specially authorized by statute and by
+       municipal ordinance adopted pursuant to W.S. 15-1-103(a)(xlvi).
+
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 1-28-102</span><pre class="inline">; Degenfelder v. Wyoming Educ. Ass’n, </pre><span class="citation" data-id="11328076"><a href="/opinion/10860669/nicolette-and-travis-leck-and-victoria-haight-v-wyoming-education/#19" aria-description="Citation for case: Nicolette and Travis Leck and Victoria Haight v. Wyoming...">2026 WY 54, ¶ 19</a></span><pre class="inline">, </pre><span class="citation no-link">589
+P.3d 346</span><pre class="inline">, 353 (Wyo. 2026) (“An injunction, whether preliminary or permanent, is
+authorized by statute”). The WGCA does not bar Hinckley’s claim for wrongful
+termination to the extent that she seeks injunctive relief. As discussed below, however,
+Hinckley’s request for injunctive relief as a remedy for her claim for wrongful termination
+in violation of Wyoming public policy is barred for different reasons.
+
+   III.   Hinckley’s Cause of Action for Wrongful Termination in Violation of Public
+          Policy Is Not a Cognizable Tort Because There Is an Adequate Statutory
+          Remedy for the Wrong Alleged.
+
+[¶23] Hinckley’s claim for wrongful termination in violation of public policy fails because
+there is an adequate statutory remedy for the wrong alleged. Hinckley’s amended
+complaint alleges that Hinckley “was subjected to discriminatory treatment during her
+employment in violation of Wyoming’s anti-discrimination statutes.” The factual
+allegations focus on discrimination based on sex, including that a male counterpart was
+paid a higher salary, that she was reprimanded for highlighting a controversial female
+speaker in social media posts, that her supervisor expressed reluctance to promote women
+in business, that she was questioned about why the Women in Business Club was featured
+in a video, that she was instructed not to promote events organized around Women In
+Business, and that her employer fostered an environment of unequal treatment and
+retaliated against her for raising concerns about unequal treatment. Hinckley’s claim for
+wrongful termination in violation of public policy states: “Defendant’s termination of
+Plaintiff violated Wyoming public policy, including protections against retaliation for
+raising workplace grievances.”
+
+
+
+
+                                              7
+[¶24] “In order to prevail on a claim of wrongful termination against public policy, a
+plaintiff must satisfy two requirements: 1) the termination violated a well-established
+public policy; and 2) no other remedy is available to protect the interests of the terminated
+employee or of society.” McLean v. Hyland Enters., Inc., </pre><span class="citation" data-id="2631891"><a href="/opinion/2631891/mclean-v-hyland-enterprises-inc/#24" aria-description="Citation for case: McLean v. Hyland Enterprises, Inc.">2001 WY 111, ¶ 24</a></span><pre class="inline">, </pre><span class="citation" data-id="2631891"><a href="/opinion/2631891/mclean-v-hyland-enterprises-inc/#1268" aria-description="Citation for case: McLean v. Hyland Enterprises, Inc.">34 P.3d
+1262, 1268</a></span><pre class="inline"> (Wyo. 2001); McGarvey v. Key Prop. Mgmt. LLC, </pre><span class="citation" data-id="2562004"><a href="/opinion/2562004/mcgarvey-v-key-property-management-llc/#13" aria-description="Citation for case: McGarvey v. KEY PROPERTY MANAGEMENT LLC">2009 WY 84, ¶ 13</a></span><pre class="inline">, </pre><span class="citation" data-id="2562004"><a href="/opinion/2562004/mcgarvey-v-key-property-management-llc/#507" aria-description="Citation for case: McGarvey v. KEY PROPERTY MANAGEMENT LLC">211 P.3d
+503, 507</a></span><pre class="inline"> (Wyo. 2009) (same). In the present case, Hinckley cannot satisfy the second
+element, namely, the lack of other remedy. Allen v. Safeway Stores Inc., </pre><span class="citation" data-id="1174712"><a href="/opinion/1174712/allen-v-safeway-stores-inc/#284" aria-description="Citation for case: Allen v. Safeway Stores, Inc.">699 P.2d 277, 284</a></span><pre class="inline">
+(Wyo.1985) (both Wyoming Fair Employment Practices Act and 42 U.S.C. § 2000e et
+seq. provide remedies for termination based on sex discrimination).
+
+[¶25] The Wyoming Fair Employment Practices Act (“WFEPA”) prohibits the same
+conduct for which Hinckley seeks a remedy in her amended complaint. </pre><span class="citation no-link">Wyo. Stat. Ann.
+§ 27-9-105</span><pre class="inline">(a) provides:
+
+       It is a discriminatory or unfair employment practice:
+
+              (i)    For an employer to refuse to hire, to discharge, to promote or demote,
+                     or to discriminate in matters of compensation or the terms, conditions
+                     or privileges of employment against, a qualified disabled person or
+                     any person otherwise qualified, because of age, sex, race, creed, color,
+                     national origin, ancestry or pregnancy.
+
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-105</span><pre class="inline">(a).
+
+[¶26] The central claim of Hinckley’s complaint is discrimination in compensation, terms
+and conditions of her employment based on sex and falls squarely within the scope of </pre><span class="citation no-link">Wyo.
+Stat. Ann. § 27-9-105</span><pre class="inline">(a).
+
+[¶27] </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline"> provides a statutory remedy for a violation of </pre><span class="citation no-link">Wyo. Stat.
+Ann. § 27-9-105</span><pre class="inline">(a) and also provides a process that a complainant must follow to pursue
+that remedy. The available relief under </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(n) includes
+reinstatement and requiring the employer to cease and desist from the discriminatory or
+unfair practice, similar to the injunctive remedy that Hinckley seeks in her amended
+complaint. McLean, ¶ 38, </pre><span class="citation" data-id="2631891"><a href="/opinion/2631891/mclean-v-hyland-enterprises-inc/#1271" aria-description="Citation for case: McLean v. Hyland Enterprises, Inc.">34 P.3d at 1271</a></span><pre class="inline"> (“nothing requires the administrative remedy to
+be equivalent to a common law claim”).
+
+[¶28] The administrative process is set out in </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(a). Subsection
+(a) states that “any person claiming to be aggrieved by a discriminatory or unfair
+employment practice may, personally or through his attorney, make, sign and file with the
+department [of workforce services] within six (6) months of the alleged violation a verified,
+written complaint . . .” </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(a). Upon the filing of a complaint,
+“[t]he department [of workforce services] shall investigate to determine the validity of the
+charges and issue a determination thereupon.” </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(a). If the
+
+
+                                             8
+employee or employer “is aggrieved by the department’s determination, the aggrieved
+party may request a fair hearing.” </pre><span class="citation no-link">Wyo. Stat. Ann. § 27-9-106</span><pre class="inline">(k).
+
+[¶29] The Wyoming Department of Workforce Services, acting through its Labor
+Standards Division, has promulgated rules governing such a fair hearing. See Labor
+Standards, ch. 3, Fair Employment Rules (hereinafter “Rules”). Under the Rules, “[i]f
+Labor Standards determines that probable cause does exist to conclude that discrimination
+has occurred, Labor Standards shall endeavor to make whole the complainant through its
+conciliation process.” Rules, § 4(h). If no settlement is reached within forty-five days after
+both parties receive the probable cause determination, Labor Standards shall make a
+determination that the conciliation process has failed and, upon request of either party, refer
+the complaint to an independent hearing officer for a fair hearing. Id. Fair hearings are
+conducted by an independent hearing officer. Rules, § 5(a).
+
+[¶30] Judicial review of a hearing officer’s decision is provided by the Rules as follows:
+“Pursuant to W.S. § 16-3-114, any complainant or respondent aggrieved or adversely
+affected by the hearing officer’s decision may file a petition for judicial review. Petitions
+for judicial review of the hearing officer’s decision shall be made pursuant to Rule 12 of
+the Wyoming Rules of Appellate Procedure.” Rules, § 6(a).
+
+[¶31] W.R.A.P. 12.01 provides:
+
+       To the extent judicial review of administrative action by a district court is available,
+       any person aggrieved or adversely affected in fact by a final decision of an agency
+       in a contested case, or who is aggrieved or adversely affected in fact by any other
+       agency action or inaction . . . may obtain such review as provided in this rule.
+
+W.R.A.P. 12.01.
+
+[¶32] W.R.A.P. 12.03 provides:
+
+       The proceedings for judicial review under Rule 12 shall be instituted by filing a
+       petition for review in the district court[.]
+
+W.R.A.P. 12.03
+
+[¶33] The public-policy exception exists to vindicate important social policies that would
+otherwise go unremedied when an employee is discharged. Where a statutory or other
+remedy already addresses the policy violation that led to the discharge, a separate common-
+law tort claim is unnecessary. Allen, </pre><span class="citation" data-id="1174712"><a href="/opinion/1174712/allen-v-safeway-stores-inc/#284" aria-description="Citation for case: Allen v. Safeway Stores, Inc.">699 P.2d at 284</a></span><pre class="inline">. Hinckley has failed to show that
+there is no other remedy and her claim for wrongful termination in violation of public
+policy fails.
+
+
+
+                                              9
+    IV.     Hinckley’s Causes of Action for “Discrimination under Wyoming Law” and
+            “Hostile Work Environment” Fail Because They Were Not Filed As a
+            Petition for Review of Any Agency Action.
+
+[¶34] To the extent that Hinckley’s causes of action for “Discrimination under Wyoming
+Law” and “Hostile Work Environment” are based upon WFEPA, those claims also fail.
+The amended complaint does not disclose whether Hinckley filed a complaint with the
+department of workforce services, whether an investigation was conducted or whether a
+fair hearing was requested or held. What is clear from the record, however, is that the
+amended complaint is not a “petition for judicial review” of agency action.
+
+[¶35] “Generally, where an agency prescribes an administrative process for resolving
+disputes, the parties must exhaust those administrative remedies before seeking court
+intervention.” Sorensen v. Halling, </pre><span class="citation multiple-matches"><a href="/c/WY/2025/8/">2025 WY 8</a></span><pre class="inline">, ¶ 10, </pre><span class="citation" data-id="10779980"><a href="/opinion/10313392/l-michael-sorensen-and-sheri-m-sorensen-individually-and-as-trustees-of/#1245" aria-description="Citation for case: L. Michael Sorensen and Sheri M. Sorensen, Individually...">561 P.3d 1241, 1245</a></span><pre class="inline"> (Wyo. 2025).
+“A district court is vested with the discretion to decline jurisdiction over a matter because
+a party failed to exhaust its administrative remedies.” Thomas Gilcrease Found. for
+Gilcrease Hoback One Charitable Tr. v. Cavallaro, </pre><span class="citation" data-id="4175205"><a href="/opinion/4397952/thomas-gilcrease-foundation-as-trustee-for-the-gilcrease-hoback-one/#10" aria-description="Citation for case: Thomas Gilcrease Foundation, as Trustee for the Gilcrease...">2017 WY 67, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="4175205"><a href="/opinion/4397952/thomas-gilcrease-foundation-as-trustee-for-the-gilcrease-hoback-one/#169" aria-description="Citation for case: Thomas Gilcrease Foundation, as Trustee for the Gilcrease...">397 P.3d 166, 169</a></span><pre class="inline">
+(Wyo. 2017). Under WFEPA, judicial review of a fair-hearing decision is obtained by
+filing a petition for review in the district court pursuant to W.R.A.P. 12.03 and the Wyoming
+Administrative Procedure Act. See </pre><span class="citation no-link">Wyo. Stat. Ann. § 16-3-114</span><pre class="inline">; W.R.A.P. 12.01, 12.03.
+Hinckley did not file a petition for review. She commenced the action by filing a complaint
+under W.R.C.P. 3, which is the ordinary pleading used to initiate an original civil action.
+Because the amended complaint was not a petition for review of any agency action, the
+district court properly exercised its discretion to decline jurisdiction over the WFEPA
+claims. 2
+
+    V.      The District Court Did Not Abuse Its Discretion in Denying Hinckley’s Rule
+            59(e) Motion.
+
+[¶36] The district court did not abuse its discretion in denying Hinckley’s motion for
+reconsideration under W.R.C.P. 59(e). A motion to alter or amend a judgment under Rule
+59(e) may be granted only on limited grounds an intervening change in controlling law,
+newly available evidence, or the need to correct a clear error of law or prevent manifest
+injustice. Am. Collection Sys., Inc., ¶ 17, </pre><span class="citation" data-id="10034377"><a href="/opinion/9567764/american-collection-systems-inc-a-wyoming-corporation-v-lacy-d-judkins/" aria-description="Citation for case: American Collection Systems, Inc., a Wyoming Corporation...">550 P.3d at 556</a></span><pre class="inline"> (quoting Brown v. Jerding, 2020
+
+2
+ Hinckley’s second cause of action stated that “Defendant discriminated against Plaintiff based on her sex,
+resulting in unequal pay . . .” In district court, the University treated this as a claim under Wyoming’s equal
+pay statute, W.S. §§ 27-4-301 et seq. and moved to dismiss it. On appeal, Hinckley did not address the
+dismissal of her equal pay claim under W.S. §§ 27-4-301 et seq. A “litigant&#x27;s failure to raise an issue on
+appeal . . . gives rise to the preclusive effect of the lower court&#x27;s ruling[.]” Mantle v. N. Star Energy &amp;
+Constr., LLC, </pre><span class="citation" data-id="10478697"><a href="/opinion/10012096/alexander-reed-mantle-and-marjorie-m-mantle-v-north-star-energy/#19" aria-description="Citation for case: Alexander Reed Mantle and Marjorie M. Mantle v. North...">2020 WY 125, ¶ 19</a></span><pre class="inline">, </pre><span class="citation" data-id="10478697"><a href="/opinion/10012096/alexander-reed-mantle-and-marjorie-m-mantle-v-north-star-energy/#284" aria-description="Citation for case: Alexander Reed Mantle and Marjorie M. Mantle v. North...">473 P.3d 279, 284</a></span><pre class="inline"> (Wyo. 2020) (quoting Triton Coal Co. v. Husman,
+Inc., </pre><span class="citation" data-id="9604184"><a href="/opinion/1367589/triton-coal-co-v-husman-inc/#667" aria-description="Citation for case: Triton Coal Co. v. Husman, Inc.">846 P.2d 664, 667</a></span><pre class="inline"> (Wyo. 1993)). As a result, the Court will not address the district court’s dismissal
+of Hinckley’s unequal pay claim under state law.
+
+
+
+                                                     10
+WY 123, ¶ 12, </pre><span class="citation" data-id="10478699"><a href="/opinion/10012098/terrance-w-brown-v-siobhan-e-jerding/#1042" aria-description="Citation for case: Terrance W. Brown v. Siobhan E. Jerding">472 P.3d 1038, 1042</a></span><pre class="inline"> (Wyo. 2020)). Hinckley’s motion did not address or
+satisfy any of those grounds and she makes no cogent argument on appeal.
+
+                                    CONCLUSION
+
+[¶37] The WGCA bars Hinckley’s tort claims for fraud and intentional infliction of
+emotional distress, for which she seeks only monetary damages. The WGCA also bars her
+claim for wrongful termination in violation of Wyoming public policy to the extent that she
+seeks monetary damages. Hinckley’s claim for wrongful termination, to the extent that it
+seeks injunctive relief, and her claims for discrimination under Wyoming law and hostile
+environment, fail because they are all based on alleged sex discrimination for which there
+is an adequate statutory remedy under WFEPA that requires any district court action to be
+brought as a petition for review under W.R.A.P. 12.03 rather than as a complaint under
+W.R.C.P. 3.
+
+[¶38] Affirmed.
+
+
+
+
+                                            11
+</pre>

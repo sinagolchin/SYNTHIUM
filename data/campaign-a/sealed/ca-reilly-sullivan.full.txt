@@ -1,0 +1,594 @@
+<pre class="inline">                IN THE SUPREME COURT, STATE OF WYOMING
+
+                                            </pre><span class="citation no-link">2026 WY 114</span><pre class="inline">
+
+                                                                 OCTOBER TERM, A.D. 2026
+
+                                                                           October 22, 2026
+
+
+  MELISSA REILLY,
+
+  Appellant
+  (Respondent),
+
+  v.                                                                 S-26-0055
+
+  KEVIN SULLIVAN,
+
+  Appellee
+  (Petitioner).
+
+
+                       Appeal from the District Court of Natrona County
+                          The Honorable Kerri M. Johnson, Judge
+
+Representing Appellant:
+      Shawn Alan Johnson, Keller Law Firm, P.C., Thermopolis, Wyoming.
+
+Representing Appellee:
+      Jordan M. Haack and Anna Reeves Olson, Long Reimer Winegar, LLP, Casper,
+      Wyoming.
+
+Before BOOMGAARDEN, C.J., and GRAY, FENN, JAROSH, and HILL, JJ.
+
+
+
+
+NOTICE: This opinion is subject to formal revision before publication in Pacific Reporter Third. Readers are
+requested to notify the Clerk of the Supreme Court, Supreme Court Building, Cheyenne, Wyoming 82002, of
+any typographical or other formal errors so that correction may be made before final publication in the
+permanent volume.
+GRAY, Justice.
+
+[¶1] Melissa Reilly (Mother) appeals from the district court’s order awarding Kevin
+Sullivan (Father) primary physical custody of their daughter, RAS. We affirm.
+
+                                                ISSUES
+
+[¶2]    Mother raises four issues, which we restate as three: 1
+
+                1. Did the district court abuse its discretion by assigning little
+                   weight to Mother’s status as RAS’s primary caregiver?
+
+                2. Did the district court abuse its discretion by improperly
+                   minimizing the importance of preserving RAS’s
+                   relationship with her half brother and by failing to articulate
+                   a reasoned explanation for separating them?
+
+                3. Did the district court clearly err when it failed to evenly
+                   weigh the parties’ credibility?
+
+                                                 FACTS
+
+[¶3] Father resides in Big Sky, Montana, where he works as an emergency room
+physician. Mother lives in Casper, Wyoming, and works as a radiological technician in
+Douglas, Wyoming, 45 miles from Casper. In 2019, Mother and Father began a long-
+distance relationship. At that time, Mother had just started school to become a radiological
+technician. Father supported Mother financially and gave Mother $2,500 to expunge a
+prior assault conviction from her record so she could get a job.
+
+[¶4] The parties’ daughter, RAS, was born in September 2020. After RAS’s birth, Father
+took a leave of absence from work and came to Casper for six weeks to help care for her.
+When RAS was three months old, Mother brought RAS to Big Sky to see Father. At all
+other times, Father traveled from Big Sky to Casper to spend time with RAS. Father visited
+RAS at least once per month and usually stayed one week. Father initially stayed in a hotel
+but later rented an Airbnb so the visits could take place in a more home-like setting. Each
+visit cost him approximately $2,000. Sometime after January 2021, Father asked Mother
+if RAS could come to Big Sky for RAS’s birthday, but Mother refused. In August 2022,
+Father asked Mother if RAS could come to Big Sky and she again refused. In late 2022 or
+
+1
+  Mother also argues the district court abused its discretion by relying on speculative safety concerns when
+discounting her primary caregiver status and when weighing sibling separation. Because Mother addresses
+this argument within her arguments concerning the district court’s treatment of her primary caregiver status
+and sibling separation, we do the same.
+
+
+                                                     1
+early 2023, the parties ended their relationship. Father continued to support RAS and
+Mother financially and to travel to Casper each month to spend time with RAS.
+
+[¶5] Sometime in 2023, RAS had dental surgery that required anesthesia. Mother did
+not talk with Father before deciding on the surgery. Father was angry with Mother that she
+had not consulted him and left her three heated voicemails. Mother claimed his speech
+was slurred, indicating that he had been drinking when he made these calls.
+
+[¶6] In July 2024, Mother again refused a request by Father for RAS to come to Big Sky.
+That same month, Father filed a petition to establish custody, visitation, and child support,
+and Mother counterclaimed. Both sought primary physical and legal custody of RAS,
+subject to the other’s reasonable visitation.
+
+[¶7] In September 2024, Mother enrolled RAS in a Casper preschool without consulting
+Father. She did not list him as RAS’s father or as an emergency contact. In November
+2024, with the help of his attorney, Father arranged for RAS to spend Thanksgiving with
+him in Big Sky. It was RAS’s first trip to Big Sky since she was three months old.
+
+[¶8] In March 2025, the parties entered into a Stipulated Temporary Custody Order.
+They agreed to joint legal custody with Mother having primary physical custody. Father
+received one week of visitation per month in Casper during the school year and four one-
+week blocks of visitation in Big Sky during the summer. He agreed to pay Mother $2,000
+a month in child support.
+
+[¶9] In November 2025, the district court held a one-day bench trial. Father testified that
+he was currently working six shifts followed by a week off and then seven shifts followed
+by a week off. Because of his seniority, Father’s work schedule was flexible. Two of
+Father’s witnesses who live in Big Sky testified it is a close-knit, safe community with
+good schools. They also testified that they had seen Father with RAS and that he was a
+doting and attentive parent. One of the witnesses said she had known Father for almost
+eight years and had never seen him drink alcohol or appear to be intoxicated.
+
+[¶10] Mother testified she was currently working as a radiological technician in Douglas,
+one week on, one week off on the night shift from 5:30 p.m. to 6:00 a.m. When she is
+working, Virgil Bayard Clark, III, her live-in boyfriend since November 2023, cares for
+RAS, including taking her to and from school. Mr. Clark has also helped transport RAS to
+visitation with Father. Mr. Clark is 54 years old and works as an HVAC technician but
+was unemployed at the time of trial and did not hold a Wyoming driver’s license. Mother
+admitted Mr. Clark had five convictions for driving under the influence of alcohol or drugs
+(DUI). The fifth conviction was in 2018 when Mr. Clark—with a blood alcohol content of
+.280 and while on probation for his fourth DUI conviction—drove off the road and rolled
+down an embankment. He was sentenced to 30–54 months in prison for that offense.
+Mother testified that she knew Mr. Clark served prison time for DUIs and that he still
+
+
+                                             2
+drinks alcohol occasionally. During discovery, Father asked Mother for Mr. Clark’s
+driver’s license. Mother produced it but admitted that she redacted Mr. Clark’s first name
+and address before providing it. She said the redaction was “to protect” Mr. Clark’s
+information, not to hide anything.
+
+[¶11] Mother testified she has another minor child, an 11-year-old son, KF, from a
+previous relationship with Jeffrey Fuller. She described RAS’s relationship with KF (her
+half brother) as “fantastic [and that] [t]hey have a great relationship. They love each other
+tremendously.” Mother admitted that Mr. Fuller is a registered sex offender and has a
+significant criminal background, including convictions for first-degree sexual assault with
+intrusion and felony property destruction. The victim of the sexual assault was an adult.
+Mother stated Mr. Fuller has met and spent time with RAS on numerous occasions, but
+RAS has never been left alone with him.
+
+[¶12] On cross-examination, Father denied he had been on alcohol monitoring while in
+his anesthesiology residency. Mother later testified Father told her he was monitored after
+a suicide attempt and had to blow into a machine. On rebuttal, Father said the question he
+had denied was whether his medical license carried a stipulation, and he admitted he was
+monitored for depression during his residency, which included drug and alcohol testing.
+
+[¶13] Prior to trial, the district court granted Father’s motion to sequester the witnesses,
+including Mr. Clark. Mother admitted during cross-examination that she violated that
+order by speaking with Mr. Clark about the trial proceedings during the lunch break. Father
+argued this violation should weigh heavily against Mother’s credibility. Mother did not
+plan to call Mr. Clark as a witness and conceded the court could bar him from testifying.
+The district court excluded Mr. Clark from testifying and told the parties it would consider
+Mother’s violation of the sequestration order in assessing credibility.
+
+[¶14] After considering the factors in </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a), discussed more fully
+below, as well as Mother’s primary caregiver status and the effect of separating RAS from
+KF, the district court concluded it was in RAS’s best interests for the parties to share joint
+legal custody of RAS, with Father having primary physical custody and Mother having
+reasonable visitation. Mother timely appealed.
+
+                                STANDARD OF REVIEW
+
+[¶15] “We review a district court’s custody decision . . . for an abuse of discretion.” Bailey
+v. Bailey, </pre><span class="citation" data-id="10033706"><a href="/opinion/9567093/randall-thomas-bailey-v-sara-elizabeth-bailey/#6" aria-description="Citation for case: Randall Thomas Bailey v. Sara Elizabeth Bailey">2024 WY 65, ¶ 6</a></span><pre class="inline">, </pre><span class="citation" data-id="10033706"><a href="/opinion/9567093/randall-thomas-bailey-v-sara-elizabeth-bailey/#542" aria-description="Citation for case: Randall Thomas Bailey v. Sara Elizabeth Bailey">550 P.3d 537, 542</a></span><pre class="inline"> (Wyo. 2024) (quoting Mecartney v.
+Mecartney, </pre><span class="citation" data-id="10465330"><a href="/opinion/9998729/david-laurence-mecartney-v-kelly-cornell-mecartney/#15" aria-description="Citation for case: David Laurence Mecartney v. Kelly Cornell Mecartney">2021 WY 141, ¶ 15</a></span><pre class="inline">, </pre><span class="citation no-link">501 P.3d 197</span><pre class="inline">, 202 (Wyo. 2021) (quoting Bruegman v.
+Bruegman, </pre><span class="citation no-link">2018 WY 49</span><pre class="inline">, ¶ 11, </pre><span class="citation" data-id="6533699"><a href="/opinion/6656422/bruegman-v-bruegman/#161" aria-description="Citation for case: Bruegman v. Bruegman">417 P.3d 157, 161</a></span><pre class="inline"> (Wyo. 2018))). “A court abuses its
+discretion if it acts in a manner that exceeds the bounds of reason under the circumstances,
+violates some legal principle, or ignores a material factor deserving significant weight.”
+</pre><span class="citation" data-id="6533699"><a href="/opinion/6656422/bruegman-v-bruegman/" aria-description="Citation for case: Bruegman v. Bruegman">Id.</a></span><pre class="inline"> (citing Hyatt v. Hyatt, </pre><span class="citation" data-id="9914097"><a href="/opinion/9456272/james-l-hyatt-v-tara-m-hyatt/#48" aria-description="Citation for case: James L. Hyatt v. Tara M. Hyatt">2023 WY 129, ¶ 48</a></span><pre class="inline">, </pre><span class="citation" data-id="9914097"><a href="/opinion/9456272/james-l-hyatt-v-tara-m-hyatt/#888" aria-description="Citation for case: James L. Hyatt v. Tara M. Hyatt">540 P.3d 873, 888</a></span><pre class="inline"> (Wyo. 2023)). “Judicial
+
+
+                                              3
+discretion is not absolute[.] ‘Abuse occurs when a material factor deserving significant
+weight is ignored, when an improper factor is relied upon, or when all proper and no
+improper factors are assessed, but the court makes a serious mistake in weighing them.’”
+Smith v. Smith, </pre><span class="citation" data-id="11213207"><a href="/opinion/10746622/peter-augustus-smith-v-justine-delores-smith/#13" aria-description="Citation for case: Peter Augustus Smith v. Justine Delores Smith">2025 WY 128, ¶ 13</a></span><pre class="inline">, </pre><span class="citation no-link">580 P.3d 507</span><pre class="inline">, 511 (Wyo. 2025) (quoting Domenico v.
+Daniel, </pre><span class="citation" data-id="9916783"><a href="/opinion/9458958/todd-andrew-domenico-v-josie-daniel-fka-josie-daniel-domenico/#29" aria-description="Citation for case: Todd Andrew Domenico v. Josie Daniel f/k/a Josie Daniel...">2024 WY 2, ¶ 29</a></span><pre class="inline">, </pre><span class="citation" data-id="9916783"><a href="/opinion/9458958/todd-andrew-domenico-v-josie-daniel-fka-josie-daniel-domenico/" aria-description="Citation for case: Todd Andrew Domenico v. Josie Daniel f/k/a Josie Daniel...">541 P.3d 420</a></span><pre class="inline">, 429–30 (Wyo. 2024) (quoting Ianelli v. Camino,
+</pre><span class="citation no-link">2019 WY 67</span><pre class="inline">, ¶ 21, </pre><span class="citation" data-id="6536408"><a href="/opinion/6658972/ianelli-v-camino/#66" aria-description="Citation for case: Ianelli v. Camino">444 P.3d 61, 66</a></span><pre class="inline"> (Wyo. 2019))).
+
+[¶16] When determining whether the district court abused its discretion, “[w]e consider
+the evidence presented in the light most favorable to the district court’s decision, affording
+every favorable inference to the prevailing party and omitting from our consideration the
+conflicting evidence.” Callaway v. Callaway, </pre><span class="citation" data-id="11309890"><a href="/opinion/10842535/ralph-walton-callaway-jr-v-megan-moynihan-callaway/#28" aria-description="Citation for case: Ralph Walton Callaway, Jr. v. Megan Moynihan Callaway">2026 WY 41, ¶ 28</a></span><pre class="inline">, </pre><span class="citation no-link">587 P.3d 501</span><pre class="inline">, 511 (Wyo.
+2026) (quoting Smith, ¶ 13, 580 P.3d at 511). We accord considerable deference to the
+district court’s credibility determinations because it “is in the best position to assess the
+credibility of witnesses and weigh their testimony.” Drake v. McCulloh, </pre><span class="citation" data-id="2624876"><a href="/opinion/2624876/drake-v-mcculloh/#18" aria-description="Citation for case: Drake v. McCulloh">2002 WY 50,
+¶ 18</a></span><pre class="inline">, </pre><span class="citation" data-id="2624876"><a href="/opinion/2624876/drake-v-mcculloh/#584" aria-description="Citation for case: Drake v. McCulloh">43 P.3d 578, 584</a></span><pre class="inline"> (Wyo. 2002) (citing Clark v. Clark, </pre><span class="citation" data-id="1428066"><a href="/opinion/1428066/clark-v-clark/#823" aria-description="Citation for case: Clark v. Clark">980 P.2d 821, 823</a></span><pre class="inline"> (Wyo. 1999)).
+“Where a court makes an explicit finding of credibility on the record that is challenged on
+appeal, we will review that finding for clear error.” Matter of Est. of Soames, </pre><span class="citation" data-id="6496564"><a href="/opinion/6620206/in-the-matter-of-the-estate-of-charles-george-soames-deceased-cynthia-e/#16" aria-description="Citation for case: In the Matter of the Estate of Charles George Soames,...">2022 WY
+79, ¶ 16</a></span><pre class="inline">, </pre><span class="citation no-link">512 P.3d 629</span><pre class="inline">, 632 (Wyo. 2022). “Clear error occurs when, after reviewing the
+entire evidence, we are ‘left with the definite and firm conviction that a mistake has been
+committed.’” </pre><span class="citation no-link">Id.</span><pre class="inline"> (quoting Fuger v. Wagoner, </pre><span class="citation" data-id="10478668"><a href="/opinion/10012067/larry-wagoner-and-charilla-wagoner-aka-shorilla-wagoner-v-donald-fuger/#8" aria-description="Citation for case: Larry Wagoner and Charilla Wagoner, a/k/a Shorilla...">2020 WY 154, ¶ 8</a></span><pre class="inline">, </pre><span class="citation no-link">478 P.3d 176</span><pre class="inline">, 181 (Wyo.
+2020)).
+
+                                         DISCUSSION
+
+[¶17] “[C]rafting custody and visitation arrangements ‘encompasses one of the most
+difficult and demanding tasks assigned to a trial judge.’” Martin v. Hart, </pre><span class="citation no-link">2018 WY 123</span><pre class="inline">,
+¶ 27, </pre><span class="citation" data-id="6534835"><a href="/opinion/6657491/martin-v-hart/#65" aria-description="Citation for case: Martin v. Hart">429 P.3d 56, 65</a></span><pre class="inline"> (Wyo. 2018) (quoting Bruegman, ¶ 11, </pre><span class="citation" data-id="6533699"><a href="/opinion/6656422/bruegman-v-bruegman/#161" aria-description="Citation for case: Bruegman v. Bruegman">417 P.3d at 161</a></span><pre class="inline">). “An initial
+custody determination is particularly difficult when the parties reside a significant
+geographic distance apart because, although geographic distance does not diminish either
+parent’s ability to fulfill parental responsibilities, it necessarily affects each parent’s ability
+to maintain a meaningful relationship with the child.” Swindler v. Bright, </pre><span class="citation" data-id="11412396"><a href="/opinion/10944811/brian-swindler-v-leah-bright/#13" aria-description="Citation for case: Brian Swindler v. Leah Bright">2026 WY 90,
+¶ 13</a></span><pre class="inline">, </pre><span class="citation no-link">594 P.3d 756</span><pre class="inline">, 759–60 (Wyo. 2026) (citing Pahl v. Pahl, </pre><span class="citation" data-id="2583919"><a href="/opinion/2583919/pahl-v-pahl/#24" aria-description="Citation for case: Pahl v. Pahl">2004 WY 40, ¶ 24</a></span><pre class="inline">, </pre><span class="citation" data-id="2583919"><a href="/opinion/2583919/pahl-v-pahl/#1257" aria-description="Citation for case: Pahl v. Pahl">87 P.3d
+1250, 1257</a></span><pre class="inline"> (Wyo. 2004)). “In making an initial custody determination, the child’s best
+interests are paramount, and ‘the trial court has a large measure of discretion’ in
+determining the custodial arrangement that best serves those interests.” Id. ¶ 13, 594 P.3d
+at 760 (quoting Johnson v. Johnson, </pre><span class="citation" data-id="10478804"><a href="/opinion/10012203/andrew-p-johnson-v-katie-l-johnson/#12" aria-description="Citation for case: Andrew P. Johnson v. Katie L. Johnson">2020 WY 18, ¶ 12</a></span><pre class="inline">, </pre><span class="citation" data-id="10478804"><a href="/opinion/10012203/andrew-p-johnson-v-katie-l-johnson/#32" aria-description="Citation for case: Andrew P. Johnson v. Katie L. Johnson">458 P.3d 27, 32</a></span><pre class="inline"> (Wyo. 2020)
+(quoting Arnott v. Arnott, </pre><span class="citation" data-id="822669"><a href="/opinion/822669/jeffrey-r-arnott-v-paula-aka-polly-a-arnott/#31" aria-description="Citation for case: Jeffrey R. Arnott v. Paula a/k/a Polly A. Arnott">2012 WY 167, ¶ 31</a></span><pre class="inline">, </pre><span class="citation" data-id="822669"><a href="/opinion/822669/jeffrey-r-arnott-v-paula-aka-polly-a-arnott/#455" aria-description="Citation for case: Jeffrey R. Arnott v. Paula a/k/a Polly A. Arnott">293 P.3d 440, 455</a></span><pre class="inline"> (Wyo. 2012))).
+
+A.     Statutory Factors
+
+[¶18] </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a) sets forth a nonexclusive list of factors the district
+court must consider when determining what custody arrangement is in the best interests of
+the child:
+
+
+                                                4
+                 (i)     The quality of the relationship each child has with each
+                 parent;
+
+                 (ii)   The ability of each parent to provide adequate care for
+                 each child throughout each period of responsibility, including
+                 arranging for each child’s care by others as needed;
+
+                 (iii)   The relative competency and fitness of each parent;
+
+                 (iv) Each parent’s willingness to accept all responsibilities
+                 of parenting, including a willingness to accept care for each
+                 child at specified times and to relinquish care to the other
+                 parent at specified times;
+
+                 (v)    How the parents and each child can best maintain and
+                 strengthen a relationship with each other;
+
+                 (vi) How the parents and each child interact and
+                 communicate with each other and how such interaction and
+                 communication may be improved;
+
+                 (vii) The ability and willingness of each parent to allow the
+                 other to provide care without intrusion, respect the other
+                 parent’s rights and responsibilities, including the right to
+                 privacy;
+
+                 (viii) Geographic distance between the parents’ residences;
+
+                 (ix) The current physical and mental ability of each parent
+                 to care for each child;
+
+                 (x)    Any other factors the court deems necessary and
+                 relevant.
+
+</pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a) (LexisNexis 2023). 2 A court must also consider the
+nonstatutory factors of primary caregiver status and sibling separation. Gutierrez v.
+Bradley, </pre><span class="citation" data-id="10465332"><a href="/opinion/9998731/austin-gutierrez-fka-austin-bradley-v-jeffrey-g-bradley/#23" aria-description="Citation for case: Austin Gutierrez f/k/a Austin Bradley v. Jeffrey G. Bradley">2021 WY 139, ¶ 23</a></span><pre class="inline">, </pre><span class="citation no-link">500 P.3d 984</span><pre class="inline">, 990 (Wyo. 2021). See also Gardels v. Bowling,
+2
+ In March 2025, after the initiation of these proceedings, the legislature amended </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2</span><pre class="inline">-
+201(a) to add an additional factor: “Whether either parent has a conviction for which the parent must register
+as a sex offender under W.S. 7-19-301 through 7-19-310[.]” </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a)(x) (LexisNexis
+2025). The district court did not consider this factor, neither party raised it, and the record shows it is not
+applicable to either Mother or Father.
+
+
+                                                      5
+</pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/#25" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">2023 WY 3, ¶ 25</a></span><pre class="inline">, </pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/#1056" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d 1047, 1056</a></span><pre class="inline"> (Wyo. 2023) (“Although our precedent shows
+primary caregiver status may be analyzed as a separate non-statutory best interests factor,
+it is implicitly included in § 20-2-201(a)(i)’s consideration of the relationship each parent
+has with the child.”). “No single factor is determinative, and depending on the case,
+different factors will present a greater need for emphasis. The one constant is that the
+resolution must be in the [child’s] best interests[.]” Hyatt, ¶ 49, </pre><span class="citation" data-id="9914097"><a href="/opinion/9456272/james-l-hyatt-v-tara-m-hyatt/#888" aria-description="Citation for case: James L. Hyatt v. Tara M. Hyatt">540 P.3d at 888</a></span><pre class="inline"> (internal
+quotation marks omitted) (quoting Johnson, ¶ 12, </pre><span class="citation" data-id="10478804"><a href="/opinion/10012203/andrew-p-johnson-v-katie-l-johnson/#33" aria-description="Citation for case: Andrew P. Johnson v. Katie L. Johnson">458 P.3d at 33</a></span><pre class="inline">).
+
+[¶19] The district court conducted a detailed analysis of the statutory best-interests factors,
+as well as primary caregiver status and sibling separation, and concluded it was in RAS’s
+best interests for Father to have primary physical custody. It found the first, fourth, fifth,
+sixth, and eighth factors were neutral. The remaining factors and the court’s findings on
+them are as follows:
+
+   • The ability of each parent to provide adequate care for RAS throughout each
+     period of responsibility, including arranging for her care by others as needed.
+     </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a)(ii). The district court found that both parents were
+     capable of providing care for RAS during their time with her. The court was
+     concerned that Mr. Clark cared for RAS while Mother was at work. Given Mr.
+     Clark’s DUI history and continued drinking, the court found that RAS was
+     potentially at risk if an emergency arose while Mother was working. The district
+     court contrasted Father’s situation—an established career, flexible work hours
+     allowing him to care for RAS, a suitable home, and access to excellent schools and
+     childcare assistance if needed. This factor weighed in favor of Father.
+
+   • The relative competency and fitness of each parent. </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2</span><pre class="inline">-
+     201(a)(iii). The court found both parents are competent and fit, but there were
+     “serious concerns” with Mr. Clark and Mr. Fuller’s criminal records, as well as
+     Mother’s assault conviction. While there was no evidence that RAS “was in
+     immediate danger, and a felony record does not automatically render a person unfit
+     to care for [RAS], the court [found] the combined weight of these circumstances
+     creates a significant concern for [RAS’s] safety.” It weighed this factor in favor of
+     Father.
+
+   • The ability and willingness of each parent to allow the other to provide care
+     without intrusion, respect the other parent’s rights and responsibilities,
+     including the right to privacy. </pre><span class="citation no-link">Wyo. Stat. Ann. § 20-2-201</span><pre class="inline">(a)(vii). The district
+     court found Mother did not respect Father’s role as a co-parent. The court based its
+     finding on Mother’s preschool enrollment omissions, unilateral dental surgery
+     decision, and redaction of Mr. Clark’s license. This factor weighed in favor of
+     Father.
+
+
+
+
+                                              6
+     • The current physical and mental ability of each parent to care for RAS. </pre><span class="citation no-link">Wyo.
+       Stat. Ann. § 20-2-201</span><pre class="inline">(a)(ix). The court found both parties were physically and
+       mentally able to care for RAS but was “great[ly] concern[ed]” with Mother’s
+       decisions regarding RAS’s safety. As detailed above, Mother had allowed Mr.
+       Fuller, a registered sex offender, around RAS. She not only let Mr. Clark transport
+       RAS knowing his DUI history, but she also protected him by redacting his driver’s
+       license and violating the sequestration order. It weighed this factor in favor of
+       Father.
+
+B.      Primary Caregiver Status, Separation of Siblings, and Credibility
+
+[¶20] Mother’s arguments concern the weight given her primary caregiver status, the
+separation of RAS and KF, and the court’s credibility findings. We take those in turn.
+
+I.      Did the district court abuse its discretion by assigning little weight to Mother’s
+        status as RAS’s primary caregiver?
+
+[¶21] In awarding custody to Father, the court recognized a change in RAS’s primary
+caregiver is a “weighty matter,” but found a change would not result in instability or
+insecurity for RAS. It gave Mother’s status as RAS’s primary caregiver “little weight”
+because she “manufactured” that status by actively preventing Father from fulfilling that
+same role.
+
+[¶22] Mother argues the district court abused its discretion by giving “little weight” to her
+role as RAS’s primary caregiver after finding she “manufactured” that status by refusing
+to allow Father to visit RAS anywhere but Casper. She claims the evidence showed she
+never refused him visitation. Instead, she asserts, Father sought visitation only when it was
+convenient for him, and she accommodated his requests to the best of her ability given the
+geographical distance and RAS’s age. She also contends she had legitimate safety
+concerns with RAS traveling to Big Sky, especially in the winter, given RAS’s age and the
+seven-hour, one-way drive. Mother further argues that the court relied on her leaving
+Father off RAS’s school records but claims she left him off only as an emergency contact
+because he lived seven hours away. She points out that she never stopped Father from
+contacting the school or getting information and that she fixed the issue before trial by
+adding him as an emergency contact. Mother maintains the district court’s finding that she
+prevented Father from fulfilling a primary caregiver role ignores that Father failed to
+exercise his parental rights or to take affirmative steps to establish custody or visitation for
+nearly five years.
+
+[¶23] Mother also argues that in discounting her primary caregiver role, the district court
+improperly relied on speculative safety concerns related to Mr. Clark’s DUI convictions.
+Mother contends his most recent DUI conviction was more than seven years ago and there
+was no evidence that he ever drove RAS while he was intoxicated or that his driving
+
+
+                                               7
+privileges were suspended or inhibited in any way. Because the district court criticized her
+for relying on Mr. Clark to assist with RAS’s care while she was working and noted
+Father’s “established career,” Mother insists the district court penalized her for being a
+“single working mother managing childcare responsibilities while [Father] remained
+absent seven hours away.” She contends rather than penalizing her for maintaining
+employment, the court should have evaluated whether RAS’s needs were being met and
+focused on RAS’s established routines, attachments, and day-to-day stability. Properly
+evaluated, Mother argues there was no evidence that RAS’s care, safety, or well-being have
+been compromised.
+
+[¶24] “A child’s primary caregiver is ‘the parent who is primarily responsible for the
+hands-on, day-to-day care of the child.’” Gardels, ¶ 26, </pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d at 1057</a></span><pre class="inline"> (quoting Williams
+v. Williams, </pre><span class="citation" data-id="3178505"><a href="/opinion/3178523/kelli-sue-williams-v-charles-leslie-williams/#21" aria-description="Citation for case: Kelli Sue Williams v. Charles Leslie Williams">2016 WY 21, ¶ 21</a></span><pre class="inline">, </pre><span class="citation" data-id="3178505"><a href="/opinion/3178523/kelli-sue-williams-v-charles-leslie-williams/#546" aria-description="Citation for case: Kelli Sue Williams v. Charles Leslie Williams">368 P.3d 539, 546</a></span><pre class="inline"> (Wyo. 2016), overruled on other
+grounds by Bruegman, </pre><span class="citation" data-id="6533699"><a href="/opinion/6656422/bruegman-v-bruegman/" aria-description="Citation for case: Bruegman v. Bruegman">417 P.3d 157</a></span><pre class="inline">).                 “[A] change of a child’s primary
+custodian/caregiver is a ‘weighty matter’ that ‘raises a significant concern about
+relationship stability and security for the child.’” Id. ¶ 25, </pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d at 1056</a></span><pre class="inline"> (quoting
+Johnson v. Clifford, </pre><span class="citation no-link">2018 WY 59</span><pre class="inline">, ¶ 12, </pre><span class="citation" data-id="6533873"><a href="/opinion/6656582/johnson-v-clifford/#823" aria-description="Citation for case: Johnson v. Clifford">418 P.3d 819, 823</a></span><pre class="inline"> (Wyo. 2018); citing Martin,
+¶ 22, </pre><span class="citation" data-id="6534835"><a href="/opinion/6657491/martin-v-hart/#64" aria-description="Citation for case: Martin v. Hart">429 P.3d at 64</a></span><pre class="inline">). “While we have recognized that a child is almost always harmed
+when [she] is taken from the parent who had been the primary nurturer[,]” we have also
+confirmed that “primary caregiver status is not determinative; it is one of many factors
+considered in determining the child’s best interests.” Kelly v. Kelly, </pre><span class="citation" data-id="9397117"><a href="/opinion/9401641/andrea-m-kelly-v-mitchell-c-kelly/#15" aria-description="Citation for case: Andrea M. Kelly v. Mitchell C. Kelly">2023 WY 48, ¶ 15</a></span><pre class="inline">,
+</pre><span class="citation" data-id="9397117"><a href="/opinion/9401641/andrea-m-kelly-v-mitchell-c-kelly/#499" aria-description="Citation for case: Andrea M. Kelly v. Mitchell C. Kelly">529 P.3d 494, 499</a></span><pre class="inline"> (Wyo. 2023) (internal quotation marks omitted). “Under the unique
+facts of a case, other factors may outweigh a party’s primary caregiver status.” </pre><span class="citation" data-id="9397117"><a href="/opinion/9401641/andrea-m-kelly-v-mitchell-c-kelly/" aria-description="Citation for case: Andrea M. Kelly v. Mitchell C. Kelly">Id.</a></span><pre class="inline"> (quoting
+Gardels, ¶ 25, </pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/#1056" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d at 1056</a></span><pre class="inline">).
+
+[¶25] Several of Mother’s arguments misstate the record. Others rest on her own version
+of events, which is contrary to our standard of review. See Callaway, ¶ 28, 587 P.3d at 511
+(“We consider the evidence presented in the light most favorable to the district court’s
+decision, affording every favorable inference to the prevailing party and omitting from our
+consideration the conflicting evidence.” (quoting Smith, ¶ 13, 580 P.3d at 511)). Mother
+did not refuse Father visitation altogether but did deny him visitation in Big Sky until his
+attorney became involved. Father did not seek visitation only when it was convenient for
+him. He has spent one week a month with RAS since she was six weeks old. Mother did
+more than leave Father off the preschool emergency contact list. She admitted at trial she
+also did not list him as RAS’s father. She may not have barred him from calling the school
+or getting records, but by omitting him as RAS’s father, she made it far harder. Father did
+not wait five years to seek custody. He filed his petition in July 2024, when RAS was three
+years old. The district court did not penalize Mother for being a single working parent. It
+considered her work schedule and Father’s job under the second best-interests factor—
+“[t]he ability of each parent to provide adequate care for each child throughout each period
+of responsibility, including arranging for each child’s care by others as needed.” </pre><span class="citation no-link">Wyo.
+Stat. Ann. § 20-2-201</span><pre class="inline">(a)(ii). It found Mother’s work schedule and the location of her job
+left RAS in Mr. Clark’s care for two weeks of the month. Given his criminal history,
+
+
+                                             8
+unemployment, and continued drinking, the court had concrete safety concerns if an
+emergency occurred while Mother was working. Mother also faults the court for not
+considering RAS’s established routines and attachments, but the record is silent on both.
+
+[¶26] On the evidence as it actually stands, viewed in the light most favorable to the
+district court’s decision, there is little difficulty concluding the district court did not abuse
+its discretion when it gave “little weight” to Mother’s status as RAS’s primary caregiver.
+The evidence supports the finding that Mother provided RAS’s day-to-day care but kept
+Father from filling that same role. The district court recognized that we have said a change
+in a child’s primary caregiver almost always harms the child. Kelly, ¶ 15, </pre><span class="citation" data-id="9397117"><a href="/opinion/9401641/andrea-m-kelly-v-mitchell-c-kelly/#499" aria-description="Citation for case: Andrea M. Kelly v. Mitchell C. Kelly">529 P.3d at 499</a></span><pre class="inline">.
+But, given the circumstances of the case, it found that a change in RAS’s primary caregiver
+from Mother to Father would not result in instability or insecurity for RAS. This finding
+is supported by the record. The evidence showed that RAS had a strong bond with both
+parents, but there was no evidence that RAS was more attached to Mother than Father.
+While RAS had primarily lived with Mother, she spent the first six weeks of her life with
+Father and visited with him at least one week per month thereafter. We find no abuse of
+discretion.
+
+II.    Did the district court abuse its discretion by improperly minimizing the
+       importance of preserving RAS’s relationship with her half brother and by failing
+       to articulate a reasoned explanation for separating them?
+
+[¶27] On the separation of siblings factor, the court found the bond between RAS and KF
+was significant. Even so, that bond had to “be balanced against the father-child relationship
+[and] the need to ensure [RAS’s] safety and well-being regarding the individuals [Mother]
+introduces into [RAS’s] environment at this young age.” The court found the balance
+tipped in favor of Father.
+
+[¶28] Mother argues the district court abused its discretion by minimizing the importance
+of preserving RAS’s relationship with KF. She contends that rather than meaningfully
+addressing the undisputed testimony that RAS has lived with KF all her life and that the
+two share a close bond, the district court dismissed these facts because they are half
+siblings, they will attend different schools, and custody and visitation decisions “may
+inevitably” interfere to some extent with sibling relationships. Mother also faults the
+district court for relying on speculative safety concerns related to Mr. Fuller. Mother
+acknowledges that Mr. Fuller was convicted of first-degree sexual assault and is a
+registered sex offender. She argues Mr. Fuller’s offense involved an adult, that the
+conviction predates his relationship with Mother, and that he has not reoffended. She says
+that RAS has encountered Mr. Fuller only in passing because of his court-ordered visitation
+with KF, and RAS has never spent time alone with him. The district court stated Mr.
+Fuller’s presence in RAS’s life understandably concerned Father. Mother responds that
+Father was aware of who Mr. Fuller was and his status before she became pregnant with
+RAS yet did nothing about it for nearly five years. She argues this timing suggests Father
+
+
+                                               9
+raised the issue for litigation, not out of any real, contemporaneous concern for RAS’s
+welfare.
+
+[¶29]         “[W]e have consistently acknowledged a strong public policy
+              in favor of preserving sibling relationships and ‘[k]eeping
+              siblings together in the same household[.]’” [Ianelli,] ¶ 30, </pre><span class="citation" data-id="6536408"><a href="/opinion/6658972/ianelli-v-camino/" aria-description="Citation for case: Ianelli v. Camino">444
+              P.3d at 69</a></span><pre class="inline"> (quoting Paden v. Paden, </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/#19" aria-description="Citation for case: Paden v. Paden">2017 WY 118, ¶ 19</a></span><pre class="inline">, </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/#141" aria-description="Citation for case: Paden v. Paden">403
+              P.3d 135, 141</a></span><pre class="inline"> (Wyo. 2017)). This policy is “equally applicable
+              whether the children are full sibling, half sibling, or
+              stepsiblings.” </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/" aria-description="Citation for case: Paden v. Paden">Id.</a></span><pre class="inline"> (quoting Aragon v. Aragon, </pre><span class="citation" data-id="2640048"><a href="/opinion/2640048/aragon-v-aragon/#26" aria-description="Citation for case: Aragon v. Aragon">2005 WY 5,
+              ¶ 26</a></span><pre class="inline">, </pre><span class="citation" data-id="2640048"><a href="/opinion/2640048/aragon-v-aragon/#764" aria-description="Citation for case: Aragon v. Aragon">104 P.3d 756, 764</a></span><pre class="inline"> (Wyo. 2005)). We have instructed
+              district courts to “articulate the reasons supporting any
+              decision to separate siblings to assure that a ‘comprehensive
+              evaluation of all relevant factors occurred’ prior to the custody
+              determination.” </pre><span class="citation" data-id="2640048"><a href="/opinion/2640048/aragon-v-aragon/" aria-description="Citation for case: Aragon v. Aragon">Id.</a></span><pre class="inline"> (citation omitted).
+
+Gutierrez, ¶ 24, 500 P.3d at 990. That said, separation of siblings “is just one of several
+factors the district court considers in the best interests analysis, and no single factor is
+determinative of the custody question.” Gardels, ¶ 23, </pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d at 1056</a></span><pre class="inline"> (citing Paden v.
+Paden, </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/#19" aria-description="Citation for case: Paden v. Paden">2017 WY 118, ¶ 19</a></span><pre class="inline">, </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/#141" aria-description="Citation for case: Paden v. Paden">403 P.3d 135, 141</a></span><pre class="inline"> (Wyo. 2017)). When, as here, half siblings
+with different parents exist, “it is inevitable that custody or visitation arrangements will
+interfere, to some extent, with time the child subject to the order can spend with those
+siblings. This fact alone, does not necessarily [override] the interests of the subject child
+in having a relationship with both of her parents.” </pre><span class="citation" data-id="5178529"><a href="/opinion/5345632/paden-v-paden/" aria-description="Citation for case: Paden v. Paden">Id.</a></span><pre class="inline">
+
+[¶30] Mother misstates the record. The district court did not minimize RAS’s relationship
+with KF because they are half siblings or because they will soon attend separate schools.
+It simply noted those facts, along with their respective ages. Relying on this court’s
+precedent, it treated sibling separation as one factor in the best interests analysis—one that
+must be balanced against the father-child relationship and RAS’s safety. See Gardels, ¶ 23,
+</pre><span class="citation" data-id="9364444"><a href="/opinion/9368968/laura-christine-gardels-nka-laura-christine-birt-v-phillip-joseph/#1056" aria-description="Citation for case: Laura Christine Gardels N/K/A Laura Christine Birt v....">522 P.3d at 1056</a></span><pre class="inline">. It found the balance favored Father.
+
+[¶31] Father did not know about Mr. Fuller’s felony conviction and status as a registered
+sex offender before Mother became pregnant. The evidence showed Father did not learn
+about Mr. Fuller’s criminal record until at least May 2023. There is no evidence that
+Father’s concern was manufactured for this case. The court’s concern that Mother brought
+Mr. Clark and Mr. Fuller into RAS’s life when she was very young is supported by the
+record and is not speculative.
+
+[¶32] Mother also contends the district court failed to articulate a reasoned explanation to
+support separating RAS from KF, as required by Ianelli, ¶ 30, </pre><span class="citation" data-id="6536408"><a href="/opinion/6658972/ianelli-v-camino/#69" aria-description="Citation for case: Ianelli v. Camino">444 P.3d at 69</a></span><pre class="inline">. In Ianelli,
+the district court failed to address sibling separation, even though the parties explicitly
+raised the issue. Id. ¶ 31, </pre><span class="citation" data-id="6536408"><a href="/opinion/6658972/ianelli-v-camino/#69" aria-description="Citation for case: Ianelli v. Camino">444 P.3d at 69</a></span><pre class="inline">. Unlike Ianelli, the court analyzed the sibling
+
+
+                                             10
+relationship and explained its reasoning: it found the sibling bond did not outweigh the
+father-child relationship and the safety findings discussed above.
+
+[¶33] The district court did not abuse its discretion. It addressed sibling separation in
+balancing the statutory factors, recognized the bond between RAS and KF, and explained
+why that bond did not control.
+
+III.      Did the district court clearly err when it failed to evenly weigh the parties’
+          credibility?
+
+[¶34] On credibility, the court weighed Mother’s violation of the sequestration order, and
+her redaction of Mr. Clark’s driver’s license, against her. It considered Father’s testimony
+about alcohol monitoring and found no credible evidence he continues to use alcohol.
+
+[¶35] Mother acknowledges credibility determinations are committed to the district
+court’s discretion and asserts she is not asking us to reweigh credibility, make new factual
+findings, or substitute our judgment regarding witness credibility. She contends the district
+court weighed the parties’ credibility unevenly. According to her, that imbalance skewed
+the court’s best-interest balance; led the court to discount her primary caregiver status,
+elevate the safety concerns, and excuse Father’s lack of involvement; and undermined the
+court’s ultimate custody determination. In her view, the court weighed credibility against
+her based on her violation of the sequestration order and questioned her judgment and
+parenting based on the criminal histories of Mr. Clark and Mr. Fuller but never addressed
+Father’s credibility with respect to his alcohol use. She maintains that on cross-
+examination, Father denied he had been subject to alcohol monitoring during his
+anesthesiology residency but then admitted it on rebuttal. She also points out that she
+admitted to violating the sequestration order, while Father tried to cover up his inconsistent
+testimony by claiming he misheard the question. Mother points to the angry voicemails
+Father left her and claims he was likely intoxicated when they were made. Even so, she
+says the district court minimized his alcohol use by stating “the Court understands that at
+one point early in his career [Father] may have struggled with alcohol use.”
+
+[¶36] We see no clear error in the district court’s credibility findings. Mother admitted
+she violated the court’s sequestration order by discussing the trial proceedings with Mr.
+Clark, a potential witness. The court explicitly informed Mother that this violation would
+weigh into its assessment of credibility. Mother also admitted that she redacted Mr. Clark’s
+driver’s license before providing it to Father in discovery in order to protect Mr. Clark.
+The district court was reasonably suspect of these actions as Mr. Clark had lived in
+Wyoming for years yet did not have a Wyoming driver’s license. Given his DUI
+convictions, the court found it highly likely he would have a restricted license and, by
+statute, would be required to have an interlock device on his vehicle. Because his driver’s
+license was issued by Colorado, it is unclear what conditions Wyoming would place on
+him if he were to apply for a Wyoming license. The district court reasonably weighed
+
+
+                                             11
+Mother’s redaction of Mr. Clark’s license and her violation of the sequestration order
+against her in assessing credibility.
+
+[¶37] On the question of Father’s alcohol use, Father was cross-examined about his
+decision not to pursue anesthesiology. Mother’s attorney then asked him, “You were not
+on monitoring?” He answered, “No.” Her attorney then asked, “For alcohol?” and he
+again responded, “No.” Later, Mother testified Father told her that he was subject to
+monitoring because he “tried to kill himself, and he had to blow into a machine to make
+sure that he wasn’t drinking.” During rebuttal, Father attested that the cross-examination
+question was not whether he was subject to monitoring but was instead whether there were
+any stipulations on his medical license. He then admitted he was subject to monitoring
+during his anesthesiology residency because he was depressed and standard monitoring
+included drug and alcohol testing. Mother claims Father was trying to cover up his false
+testimony. The district court considered Father’s rebuttal testimony and referred to it in
+analyzing RAS’s best interests. The court found Father had been subject to monitoring and
+“at one point early in his career . . . may have struggled with alcohol use.” It determined,
+however, that there was no credible evidence he continues to use alcohol. That finding is
+supported by the testimony. One of Father’s witnesses testified that in the almost eight
+years she has known him, she has never seen him drink alcohol or appear intoxicated.
+Father also testified he does not drink alcohol. While Mother claimed Father was likely
+drunk when he left her the angry voicemails following RAS’s dental surgery because he
+slurred his words, Father testified he was not drunk but upset. The district court listened
+to those voicemails and apparently did not adopt Mother’s conclusion. We are not at liberty
+to second-guess that credibility determination in the absence of any evidence that a mistake
+was made. See Soames, ¶ 16, 512 P.3d at 632 (credibility findings are reviewed for clear
+error, which “occurs when, after reviewing the entire evidence, we are ‘left with the definite
+and firm conviction that a mistake has been committed’” (quoting Fuger, ¶ 8, 478 P.3d at
+181)).
+
+[¶38] Mother’s claim that the district court “unevenly” weighed the parties’ credibility
+starts from the wrong premise. The district court is entitled to weigh credibility and, if
+appropriate, to credit one parent over the other. Credibility determinations are reviewed
+for clear error. We find no clear error.
+
+                                      CONCLUSION
+
+[¶39] The district court did not abuse its discretion by giving little weight to Mother’s
+primary caregiver status, or in weighing and explaining the separation of RAS and KF. Its
+credibility findings are supported by the record and are not clearly erroneous. We affirm
+the award of primary physical custody of RAS to Father.
+
+
+
+
+                                             12
+</pre>

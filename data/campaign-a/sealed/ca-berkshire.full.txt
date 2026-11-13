@@ -1,0 +1,2102 @@
+<pre class="inline">Nebraska Supreme Court Online Library
+www.nebraska.gov/apps-courts-epub/
+10/09/2026 08:22 AM CDT
+
+
+
+
+                                                       - 477 -
+                               Nebraska Supreme Court Advance Sheets
+                                        322 Nebraska Reports
+                                            BERKSHIRE v. BERKSHIRE
+                                               Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+
+
+
+                      Leslie J. Berkshire et al., on behalf of themselves
+                           and on behalf of Berkshire Partnership,
+                            LP, appellees, v. Richard N. Berkshire,
+                             appellant, and Andrew R. Berkshire
+                              et al., interested parties, appellees.
+                                                   ___ N.W.3d ___
+
+                                        Filed October 9, 2026.   No. S-24-633.
+
+                 1. Jurisdiction: Appeal and Error. A jurisdictional question which does
+                    not involve a factual dispute is determined by an appellate court as a
+                    matter of law.
+                 2. Motions to Dismiss: Appeal and Error. A district court’s denial of a
+                    motion to dismiss is reviewed de novo.
+                 3. Evidence: Appeal and Error. A trial court has the discretion to deter-
+                    mine the relevancy and admissibility of evidence, and such determina-
+                    tions will not be disturbed on appeal unless they constitute an abuse of
+                    that discretion.
+                 4. Judges: Words and Phrases. A judicial abuse of discretion exists
+                    only when the reasons or rulings of a trial judge are clearly untenable,
+                    unfairly depriving a litigant of a substantial right and denying just
+                    results in matters submitted for disposition.
+                 5. Torts: Equity. A breach of fiduciary duty is a tort claim that lies in
+                    equity.
+                 6. Equity: Appeal and Error. On appeal from an equity action, an appel-
+                    late court decides factual questions de novo on the record and, as to
+                    questions of both fact and law, is obligated to reach a conclusion inde-
+                    pendent of the trial court’s determination.
+                 7. Equity: Evidence: Appeal and Error. In an appeal of an equity action,
+                    where credible evidence is in conflict on a material question of fact, an
+                    appellate court considers and may give weight to the fact that the trial
+                    court heard and observed the witnesses and their manner of testifying
+                    and accepted one version of the facts rather than another.
+                                    - 478 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+ 8. Attorney Fees: Appeal and Error. On appeal, a trial court’s decision
+    awarding or denying attorney fees will be upheld absent an abuse of
+    discretion.
+ 9. Jurisdiction: Appeal and Error. Before reaching the legal issues
+    presented for review, it is the duty of an appellate court to determine
+    whether it has jurisdiction over the matter before it.
+10. Jurisdiction: Judgments: Final Orders: Appeal and Error. To deter-
+    mine whether it has jurisdiction, an appellate court looks to </pre><span class="citation no-link">Neb. Rev.
+    Stat. §§ 25-1911</span><pre class="inline"> (Reissue 2016) and 25-1912 (Cum. Supp. 2024).
+    Together, these statutes generally prescribe that for an appellate court
+    to acquire jurisdiction of an appeal, the party must be appealing from a
+    judgment or decree rendered or from a final order.
+11. Judgments: Final Orders: Words and Phrases. A “judgment rend­
+    ered,” as required by Neb. Rev. Stat § 25-1911 (Reissue 2016), is a final
+    determination of the rights of the parties in an action, which is set forth
+    by the court in a single, signed written document stating all of the relief
+    granted or denied in an action.
+12. Rules of the Supreme Court: Pleadings: Jurisdiction. A party may
+    challenge the court’s subject matter jurisdiction under Neb. Ct. R. Pldg.
+    § 6-1112(b)(1) (rev. 2025) by presenting either a facial challenge or a
+    factual challenge.
+13. ____: ____: ____. In a facial challenge under Neb. Ct. R. Pldg.
+    § 6-1112(b)(1) (rev. 2025), the party asserts the allegations of the com-
+    plaint are insufficient to establish the court’s jurisdiction over the sub-
+    ject matter of the case. When a facial challenge is presented, the court
+    will look only to the complaint to determine whether the plaintiff has
+    sufficiently alleged a basis of subject matter jurisdiction.
+14. ____: ____: ____. In a factual challenge under Neb. Ct. R. Pldg.
+    § 6-1112(b)(1) (rev. 2025), the party asserts there is no jurisdiction
+    over the subject matter of the case notwithstanding the allegations of
+    the complaint. When a factual challenge is presented, the court may
+    consider and weigh evidence outside of the pleadings to answer the
+    jurisdictional question.
+15. Trial: Evidence: Appeal and Error. To preserve a claimed error in
+    admission of evidence, a litigant must make a timely objection which
+    specifies the ground of the objection to the offered evidence.
+16. Trial: Evidence. An objection to the admission of evidence is generally
+    not timely unless it is made at the earliest opportunity after the ground
+    for the objection becomes apparent.
+17. Limitations of Actions: Pleadings: Waiver. The statute of limitations is
+    an affirmative defense that is waived if the defendant fails to plead it.
+                                   - 479 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+18. Partnerships: Records: Accounting. A managing partner having exclu-
+    sive control of a partnership business not only controls production,
+    sales, and distribution of products but is responsible for keeping all
+    records and books of account, and he or she is required to account to the
+    partnership for any benefit or profit derived from any transaction con-
+    nected with the formation, operation, or liquidation of the partnership or
+    from any use by him or her of its property.
+19. Corporations: Accounting: Proof. Although the burden is ordinarily
+    upon the party seeking an accounting to produce evidence to sustain the
+    accounting, when another person is in control of the books and has man-
+    aged the business, that other person is in the position of a trustee and
+    must make a proper accounting.
+20. Attorney Fees. Attorney fees and expenses may be recovered in a civil
+    action only where provided for by statute or when a recognized and
+    accepted uniform course of procedure has been to allow recovery of
+    attorney fees.
+
+  Appeal from the District Court for Douglas County: J
+Russell Derr, Judge. Affirmed.
+   Bradley A. Boyum, of Boyum Law Firm, for appellant.
+  Brian S. Koerwitz and Eric W. Knutson, of Peetz Koerwitz
+&amp; Lafleur, P.C., L.L.O., for appellees Leslie J. Berkshire et al.
+  Funke, C.J., Cassel, Stacy,                   Papik,     Freudenberg,
+Bergevin, and Vaughn, JJ.
+   Funke, C.J.
+                     I. INTRODUCTION
+   This appeal raises a number of questions regarding juris-
+diction, ownership interests in a partnership, damages for
+breach of fiduciary duty, and related matters. For the reasons
+set forth below, we conclude that we have jurisdiction over
+the appeal and all matters raised in it. We also conclude
+that the district court did not err in ruling that Richard N.
+Berkshire (Rick) no longer has an ownership interest in
+Berkshire Partnership, LP, in requiring Rick to pay damages
+for his breach of fiduciary duties while he was the managing
+                             - 480 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+partner of Berkshire Partnership, or in other regards. As such,
+we affirm the order of the district court.
+                       II. BACKGROUND
+              1. Parties and Properties Involved
+   Rick, Leslie J. Berkshire, and Laurie B. Meyers are all chil-
+dren of Joanne Berkshire and Robert H. Berkshire (Bob). Paul
+Meyers is Laurie’s husband. The other named parties are the
+grandchildren of Joanne and Bob.
+   Berkshire Partnership was formed in 1988 and converted
+into a limited partnership in 2005. Its original general part-
+ners were Bob, Rick, Leslie, and Laurie. At least some of the
+partnership interests of Bob and Laurie were later transferred,
+and limited partners were added. However, this appeal centers
+primarily on Rick, Leslie, and Laurie.
+   Rick was the managing partner of Berkshire Partnership
+from its inception, although Bob remained involved in the
+partnership’s operations until his death in February 2011.
+Before Bob died, the family would meet each year around
+Christmas to review financial matters. However, those meet-
+ings ceased after Bob’s death, and Leslie and Laurie would
+subsequently testify that they did not receive any “annual
+updates” or “year-end summaries” for the years between 2010
+and 2015. They eventually received information covering the
+2010 through 2015 period in 2016, and they received infor-
+mation about 2016 and 2017 in 2018. The information they
+ultimately received was, in their opinion, “disorganized” and
+incomplete. This factor, coupled with certain withdrawals that
+Rick made from Joanne’s accounts, over which he then had
+power of attorney, contributed to his removal as the managing
+partner in 2019. Rick was replaced by Paul, who was added
+as a general partner through an assignment and transfer of
+membership interest from Laurie, although Rick disputed the
+validity of the assignment and his replacement.
+   Berkshire Partnership owned between 85 and 100 per-
+cent of Berkshire Family Building, LLC. Angela Burmeister
+                             - 481 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+also owned an interest in Berkshire Family Building dur-
+ing the relevant time period. An operating agreement, dated
+December 31, 2009, stated that “[t]he initial [m]anager and
+[p]resident” of Berkshire Family Building “shall be [Rick]
+(who is [m]anaging [p]artner of . . . Berkshire Partnership).”
+Rick retained his role as the “the managing member” or the
+“represent[ive of] the managing member” of Berkshire Family
+Building until Paul replaced him in February 2019. However,
+subsequently, at the trial in the present matter, Rick would
+describe himself, Burmeister, and Laurie as “the management
+company” of Berkshire Family Building.
+   As relevant here, Berkshire Family Building owned a com-
+mercial building and two residential buildings located in
+Omaha, Nebraska. The law firm of Berkshire &amp; Burmeister,
+P.C., was a tenant of the commercial building. Bob, Rick, and
+Laurie were all partners in Berkshire &amp; Burmeister at vari-
+ous times.
+   Rick was also personally involved in other business ventures
+that invested in real estate. Those ventures included RBS, LLC;
+RBS Management, LLC; and RBS 3, LLC. Bill Rafael was
+Rick’s friend and partner in several ventures. Rafael owned and
+operated Great Deal, LLC.
+   In addition, Rick was the trustee of the Robert H. Berkshire
+Trust (RHB Trust). As discussed below, on September 27,
+2019, Joanne, Leslie, and Laurie filed a complaint against Rick
+in the county court for Douglas County, Nebraska, alleging
+that he had breached his fiduciary duties as the trustee of the
+RHB Trust.
+        2. Initial Complaint and Motion to Dismiss
+   Several months later, on January 13, 2020, Leslie, Laurie,
+Paul, Joanne, Lauren K. Meyers, and Jacob Meyers (collec-
+tively the appellees) filed suit against Rick and four interested
+parties in the district court for Douglas County on behalf
+of themselves and Berkshire Partnership, alleging that Rick
+had breached his fiduciary duties as managing partner of the
+                             - 482 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+partnership. Among other things, the appellees alleged that
+Rick had failed to keep and maintain complete records for
+the partnership, reduced his interest in the partnership by his
+undisclosed redemption of partnership shares for distributions
+that he made to himself, commingled partnership funds with
+his own funds or the funds of third parties, used partnership
+assets for his own pecuniary interests to the partnership’s
+detriment, and refused to provide an accounting or finan-
+cial records for the partnership and its assets. The appellees
+sought an accounting, monetary damages, and attorney fees,
+as well as a declaration that Paul is the duly elected manager
+of Berkshire Partnership.
+   On May 15, 2020, Rick filed a motion to dismiss the
+present case due to the complaint that Joanne, Leslie, and
+Laurie had previously filed in county court regarding the RHB
+Trust. Rick claimed that as a result of the earlier filing, the
+county court had jurisdiction over the present matter because
+Berkshire Partnership was “part of the trust estate during the
+time frame” of the accountings requested in the complaint
+regarding the trust.
+   On June 26, 2020, the district court issued an order over-
+ruling Rick’s motion to dismiss on the ground that the county
+court does not have jurisdiction “over all of the property poten-
+tially involved here.” The district court reasoned that “while
+some of the [RHB] Trust Estate may be involved in this case,
+there is likely other property involved that is not in the [RHB]
+Trust Estate.”
+   As discussed below, Rick would later file other motions to
+dismiss on this basis, and he would renew his motion to dis-
+miss at the trial.
+         3. Amended Complaint, Rick’s “Response,”
+                and His Subsequent “Answer”
+   On July 27, 2020, with the leave of the court, the appellees
+filed an amended complaint adding Rick, in his capacity as
+trustee of the RHB Trust, as an interested party. Otherwise, the
+                             - 483 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+amended complaint raised the same allegations and requested
+the same relief as the original complaint.
+   Shortly thereafter, on September 1, 2020, Rick filed a
+“Response to Complaint,” in which he admitted or denied the
+allegations of “the [c]omplaint,” by which he apparently meant
+the original complaint. (The total number of paragraphs in the
+response corresponds to that in the original complaint, and not
+that in the amended complaint.) The response did not raise any
+affirmative defenses.
+   The appellees then moved for partial summary judgment in
+their favor and against Rick on their claim that Paul was the
+duly elected managing partner of Berkshire Partnership. The
+district court ruled in the appellees’ favor, and Rick does not
+assign any error to that ruling on appeal.
+   Subsequently, on September 30, 2022, apparently without
+seeking or obtaining leave from the district court or the con-
+sent of the appellees, Rick filed an “[a]nswer to Amended
+Complaint and Counterclaim.” In that “[a]nswer,” Rick admit-
+ted or denied the allegations in the appellees’ amended com-
+plaint but did not allege any affirmative defenses. In his
+counterclaim, Rick asked that Laurie’s power of attorney over
+Joanne’s affairs be revoked and that Laurie be surcharged for
+the “amount of extra [f]ederal [e]state [t]ax” to be paid due
+to her “careless actions.” Rick also sought an accounting for
+Laurie’s actions while she had power of attorney over Joanne’s
+estate, as well as an accounting for Berkshire Partnership since
+Paul took over as manager.
+                        4. Discovery
+  As relevant here, the appellees were ordered to “designate
+expert witnesses, if any, including curriculum vitae, and the
+subject matter about which each such expert [was] expected
+to testify” by December 7, 2022, unless otherwise agreed
+upon by the parties. All discovery on such experts, including
+depositions, was ordered to be completed by February 7, 2023.
+However, subsequently, on February 21, the court granted the
+                             - 484 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+parties’ joint motion to continue deadlines and gave them 100
+days from the date of the court’s order to “complete the dis-
+covery of expert witnesses, the identification of exhibits and
+witnesses, and filing of dispositive pre-trial motions.”
+   The appellees disclosed their expert, Justin Korth, the tax
+director at Lutz and Company, by December 7, 2022. The dis-
+closure specifically stated:
+      Korth will provide testimony concerning the financial
+      records and record keeping of the Berkshire Partnership.
+      He will provide testimony concerning his investigation
+      of the accounting records, bank statements, distribu-
+      tions, income, expenses, assets, liabilities, and debts for
+      Berkshire Partnership and how those relate to the respec-
+      tive interests or liabilities of partners of the Berkshire
+      Partnership. He is expected to provide testimony con-
+      cerning distributions or expenditures or other financial
+      activity that are unrelated to Berkshire Partnership or for
+      which no adequate explanation is available.
+One week later, on December 14, Rick moved to have the
+case dismissed in part due to the appellees’ alleged failure to
+comply with the Nebraska Court Rules of Discovery in Civil
+Cases. However, that motion did not reference any concerns
+about discovery as to Korth specifically, and the record on
+appeal reflects no hearing or order on the motion. The appel-
+lees would subsequently claim in their brief on appeal that
+Rick withdrew the motion. But that withdrawal is also lacking
+from the record before us.
+   Korth did not “issue[]” the written report about which he
+would subsequently testify at the trial until August 30, 2023.
+Korth’s report was shared with Rick’s counsel on the next day.
+However, as noted below, that was less than 1 month before
+the trial.
+             5. Evidence and Events at Trial
+  A bench trial was held from September 26 to 29, 2023.
+The resulting record is extensive. Insofar as Rick does not
+                                  - 485 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+challenge the district court’s conclusion that he breached his
+fiduciary duties, our discussion centers upon the evidence of
+Rick’s ownership interest in Berkshire Partnership and the
+damages for his breach of his fiduciary duties—both mat-
+ters that Rick does contest. We also highlight events at the
+trial relevant to the issues raised in this appeal. Additional
+information will be discussed later in the opinion as it relates
+to our analysis of the parties’ arguments. Our discussion of
+the evidence is informed by the parties’ briefs and by our
+own de novo review of the record on appeal. Insofar as there
+may be additional evidence in the record that supports Rick’s
+arguments, but that was not cited by him in his briefs, we
+would note that an appellate court ordinarily does not scour
+the record in search of facts that might support an appel-
+lant’s claim. 1
+          (a) Berkshire Partnership’s Capital Accounts
+   The evidence showed that the partners in Berkshire
+Partnership had “capital accounts” that reflected “how many
+units of interest [they] had.” Under the heading “Capital: . . .
+Units of Partnership Interest,” the partnership agreement stated
+that “[o]n any given date, the value of a [u]nit of [p]artner-
+ship interest shall be determined by dividing the total net asset
+value of the [p]artnership by the number of all [g]eneral and
+[l]imited [p]artnership [u]nits of [i]nterest outstanding.”
+   There was also evidence regarding Rick’s capital account,
+in particular, some of which was expressed in dollars and
+not units. Partnership tax returns prepared by a certified
+professional accountant showed that Rick’s “[e]nding capi-
+tal account” was between -$414,939 and -$758,178 in each
+year from 2011 to 2017, and there was evidence that in
+September 2017, the accountant told Rick that “distributions
+over the years from credit card charges reflected as draws . . .
+have created [a] significant negative capital balance.” Korth’s
+report similarly showed that Rick had “fully liquidated his
+1
+    State v. Wood, </pre><span class="citation" data-id="6220982"><a href="/opinion/6352276/state-v-wood/" aria-description="Citation for case: State v. Wood">310 Neb. 391</a></span><pre class="inline">, </pre><span class="citation" data-id="6220982"><a href="/opinion/6352276/state-v-wood/" aria-description="Citation for case: State v. Wood">966 N.W.2d 825</a></span><pre class="inline"> (2021).
+                            - 486 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                   BERKSHIRE v. BERKSHIRE
+                      Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+share of the partnership assets due to distributions leading
+up to and including 2005” and that his capital account was
+-$798,659 as of December 31, 2019. As such, Korth said that
+Rick was not entitled to any share in the partnership’s equity
+growth between 2005 and 2019, even though he had contin-
+ued to take distributions from the partnership. Korth also said
+that Rick had no ownership left in the partnership and owed
+it $798,659.
+   Rick, in contrast, testified that the tax returns from 2011
+to 2017 had all been mistaken and that he corrected the error
+when he prepared the partnership’s 2018 tax return. The 2018
+partnership tax return showed that Rick had a “[b]eginning
+capital account” of $130,147 and an “[e]nding capital account”
+of $224,548. Rick testified similarly that Korth was mistaken
+in concluding that Rick “[went] negative in 2005,” as well as
+in other aspects of Korth’s analysis of the capital accounts.
+Instead, Rick pointed to “balance sheets” he had maintained
+that showed that as of 2019, he had 76 units of interest in
+Berkshire Partnership with a net value of $224,548. Rick also
+disputed the accountants’ treating his credit card charges and
+other money borrowed from the partnership’s margin account
+as distributions. Instead, Rick maintained that no distribution
+occurred until the shares of stock that were one of the primary
+assets of the partnership were sold to pay off the amounts owed
+on the margin account.
+              (b) Rent and Other Debt Owed by
+                   Berkshire &amp; Burmeister
+   There was evidence of money owed to Berkshire Family
+Building by Berkshire &amp; Burmeister that had not been
+paid. Korth’s report noted $334,869 in unpaid rent between
+the 2014 lease year and the 2018 lease year, based on a
+lease that Korth said showed that Berkshire &amp; Burmeister
+owed Berkshire Family Building $10,000 per month in rent.
+However, Korth conceded that there were several versions of
+the lease agreement among the documents he reviewed. Korth
+                             - 487 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+also noted a loan of $36,000 from Berkshire Family Building
+to Berkshire &amp; Burmeister that he concluded had been for-
+given without authorization, because it was removed from
+the relevant tax returns without any documentation that it had
+been forgiven or paid.
+   Paul testified similarly that based upon his review of the
+general ledger for Berkshire Family Building, Berkshire &amp;
+Burmeister paid no rent between June 14, 2016, and February
+27, 2018. Paul also noted that there were two versions of the
+2015 lease. Both versions were signed by Rick as “[m]anager”
+of Berkshire Family Building and “[m]anaging [p]artner” of
+Berkshire &amp; Burmeister and called for the law firm to pay
+Berkshire Family Building $10,000 per month in rent. However,
+one version of the lease gave Berkshire &amp; Burmeister a credit
+of $2,000 per month for managing Berkshire Family Building’s
+commercial building, while the other version did not. The par-
+ties stipulated that Rick presented the version of the lease that
+did not include the $2,000 monthly credit to a bank when he
+took out a loan of $975,000 on behalf of Berkshire Family
+Building in 2015.
+   Rick again disputed the accuracy of Korth’s report. As
+to the 2015 lease, Rick said that in practice, regardless of
+what the written documents specified, Berkshire &amp; Burmeister
+paid $8,000 a month in rent and managed Berkshire Family
+Building’s commercial building. Rick also said that the unpaid
+rent in and after 2016 was due to Laurie’s decision to wind
+down her law practice. Rick maintained that as of result of
+that decision, the firm was “short . . . the amount that Laurie
+wasn’t bringing in” and “just didn’t pay the rent.” According
+to Rick, he discussed the matter with Burmeister and Laurie
+and concluded that it did not make sense to take money out
+of Berkshire Partnership to pay Berkshire &amp; Burmeister on
+Laurie’s behalf so that the law firm could then pay the rent to
+Berkshire Family Building, because it was “just a big circle
+of money.”
+                            - 488 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                   BERKSHIRE v. BERKSHIRE
+                      Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+             (c) Cash and ATM Withdrawals From
+                  Berkshire Family Building
+   The general ledger for Berkshire Family Building showed
+$199,793.26 in cash and ATM withdrawals during a 2½-year
+period between 2011 and 2014. Paul testified that he had
+talked to Rick about these withdrawals and learned that the
+withdrawals had been made by an individual whom Rick had
+hired to work on the buildings owned by Berkshire Family
+Building. According to Paul, Rick said that he gave one of
+Berkshire Family Building’s ATM cards to this individual and
+that “some” of the ATM withdrawals during that period were
+for “gambling at the casinos and things of that nature.”
+   Rick did not dispute the amount of withdrawals or that
+those withdrawals had been made by an individual using an
+ATM card that Rick had given to him. However, Rick disputed
+that he “did not monitor [that individual’s] actions.” Rick
+said that he monitored those actions, but that his monitor-
+ing was not “enough to prevent this fraud.” Rick also main-
+tained that the individual had performed work on Berkshire
+Family Building’s properties. According to Rick, the indi-
+vidual “screwed [him],” but “[n]ot a dime of it ever came back
+to [him].”
+                (d) Unreported Transfers From
+                  Berkshire Family Building
+   Korth’s report identified $1,291,326.97 in “questionable
+transfers” from Berkshire Family Building between 2013
+and 2017, many of which involved Rick’s “friends and busi-
+ness partners.” Leslie and Paul also testified about sev-
+eral such transfers. Leslie described a $975,000 loan taken
+out on behalf of Berkshire Family Building by Rick that
+“coincide[d] with” money transferred out to Rafael, Great
+Deal, and RBS “in large amounts.” Paul testified similarly
+about multiple transfers, ranging from $15,000 to $95,000
+in amount, from Berkshire Family Building to Rafael, Great
+Deal, RBS Management, or unrecorded payees. Paul said
+                             - 489 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+there were no documents showing the payees had performed
+work or received a loan from Berkshire Family Building,
+and the amounts involved exceeded that reasonably owed for
+work on the corporation’s commercial and residential proper-
+ties. Paul also noted that the items did not “show[] up” in the
+corporation’s general ledger, where one would expect to find
+the “costs and expenses of a business.” However, Paul con-
+ceded that several transfers noted in Korth’s report appeared
+to have been valid and were not being questioned by the
+appellees. Paul also conceded that it was “possible” the pay-
+ees had worked on the properties.
+   On the other hand, Rick and a person who had assisted
+him in managing the properties owned by Berkshire Family
+Building said that some transfers reflected work that Rafael
+and others performed for which there had been no invoices.
+Rick also said that other transfers reflected loans that he made
+to Rafael or others which had been repaid, but for which
+there was no documentation. Rick and the person who had
+assisted him in managing the properties both stated that such
+documentation was not necessarily to be expected, and Rick,
+in particular, complained that the appellees kept asking ever
+more questions, including questions about transactions prior
+to Bob’s death.
+           (e) Withdrawals From Berkshire Partnership
+   Korth’s report also identified $270,932.95 in “unreported
+transfers” from Berkshire Partnership to other persons or
+entities, including Rafael and Berkshire &amp; Burmeister. Laurie
+testified similarly regarding two such transactions, one of
+which involved Rafael, although the appellees stipulated that
+two other transactions totaling $8,643.67 were legitimate
+expenses. Korth testified that he used the term “unreported”
+to mean that there was no “‘explanation for these transfers,
+and they do not appear to be for amounts owed by Berkshire
+Partnership for business purposes.’” Korth also testified that
+he had relied on written documentation in preparing his
+                             - 490 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+report and that he did not ask Rick or the appellees about
+specific transactions.
+   Rick prepared an “[a]nalysis” of Korth’s report. In that
+analysis, Rick claimed that “many of the transfers” Korth
+noted here were “clearly . . . allocated as reductions to part-
+ners.” Rick also testified that the transfer to Berkshire &amp;
+Burmeister could “possibly . . . have been paid back or offset
+back against something,” because “[he], Laurie, and [Bob]
+weren’t bringing in income in the amount that was probably
+necessary for [them], as partners of the firm.” Rick testified
+similarly regarding another transfer related to a timeshare
+that Joanne had extended, which he had “taken off the bal-
+ance sheet because it literally had no value.” However, Rick
+conceded that there was not a single transaction listed in this
+portion of Korth’s report that Rick could not have found on
+his own in the records of the financial institution at which
+Berkshire Partnership had accounts.
+
+                (f) Other Relevant Events at Trial
+   At the close of the appellees’ case in chief, Rick orally
+renewed his motion to dismiss for lack of subject matter
+jurisdiction. Rick argued, summarized, that the RHB Trust
+was intertwined with the present matter due to the nature of
+the appellees’ claims, the evidence presented, and the similar-
+ity in the relief sought. Rick also asserted that the matter did
+not have to be specifically tied to the RHB Trust insofar as it
+was tied to Bob’s estate and that “[t]he intent is to manage the
+[RHB] Trust according to the [e]state, according to [Bob’s]
+wishes.” Rick claimed that the appellees were straying from
+Bob’s wishes “with all of this.” In addition, Rick argued
+that the RHB Trust was involved because he had “even[ed]
+everything out in different ways, sometimes with the [t]rust.”
+The appellees countered that the claims and evidence in this
+case were limited to Berkshire Partnership. Rick’s motion
+was overruled.
+                             - 491 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+                     6. Closing Arguments
+   After the close of evidence, the parties submitted briefs
+to the district court setting forth their closing arguments.
+As relevant here, Rick again asserted that the district court
+lacked subject matter jurisdiction because of the complaint
+that Joanne, Leslie, and Laurie had previously filed in the
+county court regarding the RHB Trust. Rick also raised issues
+with the specificity of the appellees’ pleadings, the statute
+of limitations for an action in equity for an accounting, the
+district court’s jurisdiction over “matters relating to [f]ederal
+[t]ax issues,” and the fact that Berkshire Family Building and
+Berkshire &amp; Burmeister were not parties to the lawsuit, among
+other things.
+   Joanne died after briefs were filed and while the matter was
+under advisement.
+
+                7. January 18, 2024, Order and
+                  Parties’ Subsequent Filings
+   On January 18, 2024, the district court issued an order that
+generally ruled in favor of the appellees and against Rick. The
+court began by rejecting Rick’s statute of limitations defense
+because the appellees’ complaint “is not barred by the statute
+of limitations on its face” and Rick did not “attempt to plead
+the statute of limitations as a defense.”
+   The court then found that Rick had “repeatedly breached his
+fiduciary duties” and was liable to Berkshire Partnership for
+the following amounts:
+• $214,869 in uncollected rent from Berkshire &amp; Burmeister;
+• $199,793.26 in improper cash and ATM withdrawals from
+  Berkshire Family Building;
+• $1,014,960.18 in “unreported transfers” from Berkshire Family
+  Building; and
+• $253,645.61 in direct withdrawals from Berkshire Partnership.
+   The court also found that Rick had a capital account balance
+of -$798,659, which he must repay to Berkshire Partnership.
+                             - 492 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+Further, the court found that “[b]y having a negative capi-
+tal account, Rick no longer own[ed] any interest” in the
+partnership.
+   However, the court declined the appellees’ request for guid-
+ance on “whether and in what amount” alleged gifts that
+Joanne made while Rick had power of attorney over her
+accounts should be reported to the Internal Revenue Service
+(IRS). The court said that any guidance it might provide on that
+matter would amount to an advisory opinion because the court
+does not have jurisdiction over the matter.
+   In concluding, the court expressly stated that its order was
+“not a final [o]rder for purposes of appeal” and that it retained
+jurisdiction of the case to determine whether the appellees
+were entitled to attorney fees.
+   Subsequently, on January 29, 2024, the appellees filed a
+motion seeking $189,973.24 in attorney fees and costs. In the
+motion, the appellees alleged that </pre><span class="citation no-link">Neb. Rev. Stat. § 67-425</span><pre class="inline">(1)
+(Reissue 2018) allows a partnership to maintain an action
+against a partner for breach of a partnership agreement or
+for violating a duty to the partnership. The appellees further
+alleged that claims under § 67-425(1) have been “deemed to
+be derivative in nature, giving rise to fees under” </pre><span class="citation no-link">Neb. Rev.
+Stat. § 67-291</span><pre class="inline"> (Reissue 2018).
+   Rick disputed that this was a derivative suit. Rick also
+argued that the appellees’ request for attorney fees failed to
+distinguish between work on successful claims and work on
+unsuccessful claims, as he maintained was required under a
+prior opinion of this court.
+   Later still, on May 14, 2024, Rick requested specific find-
+ings of fact on 90 separate matters related to the January
+18 order.
+           8. Orders of June 4 and July 26, 2024,
+                      and Rick’s Appeal
+   The district court filed an order on June 4, 2024, in which
+it rejected Rick’s arguments and awarded the appellees the
+                              - 493 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+full amount of attorney fees and costs they had sought. The
+June 4 order summarized the findings of the January 18 order
+but did not expressly purport to be a final order.
+   Then, after a hearing, the district court filed an order on
+July 26, 2024, overruling Rick’s request for specific findings
+of fact. In so doing, the court stated that its January 18 order
+“had sufficient and specific findings of fact relevant to the
+entry of judgment.” The court also stated that to the extent
+Rick’s request for specific findings of fact is “construed as
+a motion to alter or amend, that is likewise overruled.” The
+court concluded: “Counsel for both parties have confirmed
+that there are no other matters for the [c]ourt to decide. This
+[o]rder, in addition to the [c]ourt’s [o]rder issued January 18,
+2024, and the [c]ourt’s [o]rder on [the appellees’] Motion for
+Attorney Fees issued June 4, 2024, are hereby final, appeal-
+able orders.”
+   Rick filed a notice of appeal on August 23, 2024, challeng-
+ing the district court’s orders of January 18, June 4, and July
+26. While the appeal was pending, Rick filed a motion asking
+us to take judicial notice of an order that the county court filed
+first on April 24, 2025, and then again on October 24, 2025,
+in the proceedings regarding the RHB Trust. Rick claimed the
+order showed that “[t]he two cases [are] clear[ly] intertwined
+and should have been litigated together.” We deferred our
+decision on Rick’s motion for judicial notice until plenary sub-
+mission of the appeal.
+                III. ASSIGNMENTS OF ERROR
+   Rick assigns, summarized and reordered, that the district
+court erred in overruling his motion to dismiss for lack of sub-
+ject matter jurisdiction; admitting certain evidence; finding that
+he waived the statute of limitations; concluding that he had a
+negative capital account balance of $798,659, which he must
+repay to Berkshire Partnership; concluding that he has no fur-
+ther interest in the partnership; finding him liable to the part-
+nership for a total of $1,683,268.05 in damages for his breach
+                                - 494 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                      BERKSHIRE v. BERKSHIRE
+                         Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+of his fiduciary duties; awarding attorney fees to the appellees;
+and overruling his motion for specific findings of fact.
+
+                  IV. STANDARD OF REVIEW
+   [1] A jurisdictional question which does not involve a factual
+dispute is determined by an appellate court as a matter of law. 2
+   [2] A district court’s denial of a motion to dismiss is
+reviewed de novo. 3
+   [3,4] A trial court has the discretion to determine the rel-
+evancy and admissibility of evidence, and such determinations
+will not be disturbed on appeal unless they constitute an abuse
+of that discretion. 4 A judicial abuse of discretion exists only
+when the reasons or rulings of a trial judge are clearly unten-
+able, unfairly depriving a litigant of a substantial right and
+denying just results in matters submitted for disposition. 5
+   [5-7] We have previously opined that a breach of fiduciary
+duty is a tort claim that lies in equity. 6 On appeal from an
+equity action, an appellate court decides factual questions de
+novo on the record and, as to questions of both fact and law, is
+obligated to reach a conclusion independent of the trial court’s
+determination. 7 However, in an appeal of an equity action,
+where credible evidence is in conflict on a material question of
+fact, an appellate court considers and may give weight to the
+fact that the trial court heard and observed the witnesses and
+their manner of testifying and accepted one version of the facts
+rather than another. 8
+2
+  Nebraska Firearms Owners Assn. v. City of Lincoln, </pre><span class="citation" data-id="11129684"><a href="/opinion/10663097/nebraska-firearms-owners-assn-v-city-of-lincoln/" aria-description="Citation for case: Nebraska Firearms Owners Assn. v. City of Lincoln">319 Neb. 723</a></span><pre class="inline">, </pre><span class="citation no-link">24
+  N.W.3d 891</span><pre class="inline"> (2025).
+3
+  Denali Real Estate v. Denali Custom Builders, </pre><span class="citation" data-id="4393720"><a href="/opinion/4616467/denali-real-estate-v-denali-custom-builders/" aria-description="Citation for case: Denali Real Estate v. Denali Custom Builders">302 Neb. 984</a></span><pre class="inline">, </pre><span class="citation" data-id="4390695"><a href="/opinion/4613442/denali-real-estate-llc-v-denali-custom-builders-inc/" aria-description="Citation for case: Denali Real Estate, LLC v. Denali Custom Builders, Inc.">926 N.W.2d
+  610</a></span><pre class="inline"> (2019).
+4
+  State v. Price, </pre><span class="citation" data-id="11155025"><a href="/opinion/10688438/state-v-price/" aria-description="Citation for case: State v. Price">320 Neb. 1</a></span><pre class="inline">, </pre><span class="citation no-link">26 N.W.3d 70</span><pre class="inline"> (2025).
+5
+  </pre><span class="citation no-link">Id.</span><pre class="inline">
+6
+  Noel v. Pathology Med. Servs., </pre><span class="citation" data-id="11166847"><a href="/opinion/10700260/noel-v-pathology-med-servs/" aria-description="Citation for case: Noel v. Pathology Med. Servs.">320 Neb. 92</a></span><pre class="inline">, </pre><span class="citation no-link">26 N.W.3d 196</span><pre class="inline"> (2025).
+7
+  Goldie v. McNeil &amp; Co. Builders, </pre><span class="citation" data-id="11291373"><a href="/opinion/10824601/goldie-v-mcneil-co-builders/" aria-description="Citation for case: Goldie v. McNeil &amp; Co. Builders">321 Neb. 84</a></span><pre class="inline">, </pre><span class="citation no-link">32 N.W.3d 626</span><pre class="inline"> (2026).
+8
+  </pre><span class="citation no-link">Id.</span><pre class="inline">
+                                 - 495 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+   [8] On appeal, a trial court’s decision awarding or denying
+attorney fees will be upheld absent an abuse of discretion. 9
+
+                          V. ANALYSIS
+                         1. Jurisdiction
+   [9] Before reaching the legal issues presented for review,
+it is the duty of an appellate court to determine whether it
+has jurisdiction over the matter before it. 10 In this case, the
+parties have raised several jurisdictional issues that we must
+address before we reach the merits of the appeal. Two of those
+issues pertain to Rick’s counterclaims and the timeliness of his
+appeal. Two other issues pertain to the district court’s exercise
+of subject matter jurisdiction over the case or specific matters
+within the case. Where the lower court lacks subject matter
+jurisdiction to adjudicate the merits of a claim, issue, or ques-
+tion, we, too, would lack the power to determine the merits
+of the claim, issue, or question presented to the lower court. 11
+Rick also raises several other jurisdictional issues as second-
+ary arguments supporting specific assignments of error, which
+we discuss later in the opinion. Ultimately, for the reasons set
+forth below, we conclude that we have jurisdiction over this
+appeal and all the issues raised in it.
+
+        (a) Absence of Ruling on Rick’s Counterclaims
+   After Rick filed his notice of appeal, an order to show cause
+was issued asking the parties to address the fact that the dis-
+trict court’s orders of January 18, June 4, and July 26, 2024,
+did not dispose of all claims as to all the parties or expressly
+direct the entry of a final judgment as to one or more but
+fewer than all of the claims or parties under </pre><span class="citation no-link">Neb. Rev. Stat.
+§ 25-1315</span><pre class="inline">(1) (Reissue 2016). In response to that order, Rick
+ 9
+   SID No. 596 v. THG Development, </pre><span class="citation" data-id="9941273"><a href="/opinion/9475742/sid-no-596-v-thg-development/" aria-description="Citation for case: SID No. 596 v. THG Development">315 Neb. 926</a></span><pre class="inline">, </pre><span class="citation no-link">2 N.W.3d 602</span><pre class="inline"> (2024).
+10
+   Martens v. BB’s Childcare, </pre><span class="citation" data-id="11323585"><a href="/opinion/10856188/martens-v-bbs-childcare/" aria-description="Citation for case: Martens v. BB&#x27;s Childcare">321 Neb. 335</a></span><pre class="inline">, </pre><span class="citation no-link">34 N.W.3d 393</span><pre class="inline"> (2026).
+11
+   See, e.g., Hauxwell v. Middle Republican NRD, </pre><span class="citation" data-id="11057312"><a href="/opinion/10590724/hauxwell-v-middle-republican-nrd/" aria-description="Citation for case: Hauxwell v. Middle Republican NRD">319 Neb. 1</a></span><pre class="inline">, </pre><span class="citation no-link">21 N.W.3d 34</span><pre class="inline">
+   (2025).
+                                 - 496 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+argued that we lacked jurisdiction over the appeal because
+the district court never disposed of his counterclaims. The
+appellees argued, among other things, that Rick abandoned
+his counterclaims because he failed to raise them at the trial
+and did not object at the hearing on July 25, when the district
+court stated that there was “nothing further pending before
+the [c]ourt.”
+   [10,11] To determine whether it has jurisdiction, an appel-
+late court looks to </pre><span class="citation no-link">Neb. Rev. Stat. §§ 25-1911</span><pre class="inline"> (Reissue 2016)
+and 25-1912 (Cum. Supp. 2024). 12 Together, these statutes
+generally prescribe that for an appellate court to acquire juris-
+diction of an appeal, the party must be appealing from a judg-
+ment or decree rendered or from a final order. 13 A “judgment
+rendered,” as required by § 25-1911, is a final determination
+of the rights of the parties in an action, which is set forth by
+the court in a single, signed written document stating all of the
+relief granted or denied in an action. 14 Final orders are defined
+in </pre><span class="citation no-link">Neb. Rev. Stat. § 25-1902</span><pre class="inline"> (Cum. Supp. 2024), which cur-
+rently recognizes four categories of final orders. 15 In addition,
+as noted above, § 25-1315(1) permits a trial court to certify an
+otherwise interlocutory order as a final, appealable judgment
+under specified circumstances. 16
+   Rick’s claim that we lack jurisdiction because the district
+court did not rule on his counterclaims would appear to be
+premised on the view that (1) the district court’s June 4, 2024,
+order was not a final order and (2) the July 26 order did not
+render a judgment because it did not dispose of his counter-
+claims or certify a final judgment pursuant to § 25-1315 as
+to any claim. We agree with the first of those premises for
+12
+   WRK v. Wiegert, </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/" aria-description="Citation for case: WRK v. Wiegert">320 Neb. 822</a></span><pre class="inline">, </pre><span class="citation no-link">30 N.W.3d 832</span><pre class="inline"> (2026).
+13
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+14
+   Elbert v. Keating, O’Gara, </pre><span class="citation" data-id="11093997"><a href="/opinion/10627410/elbert-v-keating-ogara/" aria-description="Citation for case: Elbert v. Keating, O&#x27;Gara">319 Neb. 390</a></span><pre class="inline">, </pre><span class="citation no-link">22 N.W.3d 671</span><pre class="inline"> (2025).
+15
+   </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/#12" aria-description="Citation for case: WRK v. Wiegert">WRK, supra note 12</a></span><pre class="inline">.
+16
+   See </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/" aria-description="Citation for case: WRK v. Wiegert">id.</a></span><pre class="inline">
+                                    - 497 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+the reasons set forth in the following section of this opinion.
+However, we disagree with the second premise.
+   Rick filed his “Response to Complaint” on September 1,
+2020. Although not expressly denominated as such, this fil-
+ing was an answer. A court looks to the substance of a plead-
+ing, and not its caption, to determine its nature, 17 and Rick’s
+response was an answer because it admitted or denied the
+allegations of the appellees’ original complaint. Then, 2 years
+later, Rick essentially filed an amended answer. However,
+nothing in the record before us suggests that Rick sought or
+obtained leave of the court or the appellees’ consent before
+doing so, as required under Neb. Ct. R. Pldg. § 6-1115(a) (rev.
+2025) when a pleading is amended outside a 30-day window,
+which is not applicable here. In such circumstances, courts in
+other jurisdictions have concluded that the amended pleading
+is a nullity and without legal effect. 18 We agree with those
+courts. As such, we conclude that the failure to resolve Rick’s
+counterclaims does not preclude the July 26, 2024, order from
+rendering a judgment for the reasons set forth below.
+                (b) Timeliness of Rick’s Appeal
+  The appellees, in turn, claim that we lack jurisdiction
+because Rick did not timely appeal the June 4, 2024, order.
+The appellees argue that the June 4 order was a final order
+because it “dispose[d] of the whole merits of the case and [left]
+nothing for further consideration of the court.” 19 Relatedly,
+17
+   See, e.g., Johnson v. Knox Cty. Partnership, </pre><span class="citation" data-id="1583148"><a href="/opinion/1583148/johnson-v-knox-county-partnership/" aria-description="Citation for case: Johnson v. Knox County Partnership">273 Neb. 123</a></span><pre class="inline">, </pre><span class="citation" data-id="1583148"><a href="/opinion/1583148/johnson-v-knox-county-partnership/" aria-description="Citation for case: Johnson v. Knox County Partnership">728 N.W.2d
+   101</a></span><pre class="inline"> (2007).
+18
+   See, e.g., U.S. ex rel. Mathews v. HealthSouth Corp., </pre><span class="citation" data-id="31285"><a href="/opinion/31285/united-states-v-healthsouth-corp/" aria-description="Citation for case: United States v. HealthSouth Corp.">332 F.3d 293</a></span><pre class="inline"> (5th
+   Cir. 2003); Hoover v. Blue Cross and Blue Shield of Alabama, </pre><span class="citation" data-id="511012"><a href="/opinion/511012/james-w-hoover-v-blue-cross-and-blue-shield-of-alabama-an-alabama/" aria-description="Citation for case: James W. Hoover v. Blue Cross and Blue Shield of Alabama,...">855 F.2d
+   1538</a></span><pre class="inline"> (11th Cir. 1988). See, also, 6 Charles Alan Wright et al., Federal
+   Practice and Procedure § 1484 at 685 (3d ed. 2010) (“[i]n general, if an
+   amendment that cannot be made as of right is served without obtaining the
+   court’s leave or the opposing party’s consent, it is without legal effect and
+   any new matter it contains will not be considered unless the amendment is
+   resubmitted for the court’s approval”).
+19
+   Brief for appellees at 5.
+                                    - 498 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+the appellees argue that Rick’s request for specific findings
+of fact, which was still pending when the June 4 order was
+issued, cannot be seen to have tolled the time for filing an
+appeal, because that request was not timely filed and because
+in the request, Rick did not seek to alter or amend the January
+18 order.
+   While we agree with the appellees that Rick’s motion for
+specific findings of fact was untimely, as we explain below, we
+do not agree that the June 4, 2024, order was a final order. 20
+The appellees assert that the June 4 order was a final order
+because it resolved the question of attorney fees, which they
+claim was all that was left unresolved in the January 18 order.
+However, at the hearing on the appellees’ motion for attorney
+fees, the parties agreed to set Rick’s motion for specific find-
+ings of fact for a hearing at a later date. As such, they clearly
+contemplated that there was something further for the court
+to consider. 21
+   Instead, the July 26, 2024, order rendered a judgment for
+purposes of Neb. Rev. Stat § 25-1301(2) (Cum. Supp. 2024). 22
+Section 25-1301(2) provides that “[r]endition of a judgment
+is the act of the court, or a judge thereof, in signing a single
+written document stating all of the relief granted or denied in
+an action.” Here, the district court rendered a judgment in the
+July 26 order by signing a single written document stating that
+(1) the appellees’ claims had been decided, (2) Rick’s request
+for specific findings of fact was overruled, and (3) there were
+no pending posttrial motions or other matters to be decided.
+As such, Rick’s appeal was timely because it was filed within
+30 days of the date when the judgment was rendered. 23
+20
+   See, e.g., </pre><span class="citation" data-id="11259774"><a href="/opinion/10793132/wrk-v-wiegert/#12" aria-description="Citation for case: WRK v. Wiegert">WRK, supra note 12</a></span><pre class="inline">.
+21
+   See, e.g., In re Estate of Scaletta, </pre><span class="citation" data-id="9338769"><a href="/opinion/9343404/in-re-estate-of-scaletta/" aria-description="Citation for case: In re Estate of Scaletta">312 Neb. 953</a></span><pre class="inline">, </pre><span class="citation" data-id="9338769"><a href="/opinion/9343404/in-re-estate-of-scaletta/" aria-description="Citation for case: In re Estate of Scaletta">981 N.W.2d 568</a></span><pre class="inline"> (2022)
+   (to be final, order must dispose of whole merits of case; when no further
+   action of court is required to dispose of pending cause, order is final).
+22
+   See, e.g., </pre><span class="citation" data-id="11093997"><a href="/opinion/10627410/elbert-v-keating-ogara/#14" aria-description="Citation for case: Elbert v. Keating, O&#x27;Gara">Elbert, supra note 14</a></span><pre class="inline">.
+23
+   See § 25-1912(1) (party in civil matter must file notice of appeal within 30
+   days of entry of judgment, decree, or final order being challenged).
+                                 - 499 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+   We need not address the merits of Rick’s claim that his
+request for specific findings of fact amounted to a motion for
+a new trial and tolled the time for him to appeal. An appel-
+late court is not obligated to engage in an analysis that is not
+needed to adjudicate the controversy before it. 24
+           (c) District Court’s Jurisdiction Over Case
+   In his first assignment of error, Rick also raises a jurisdic-
+tional issue in that he claims that the district court erred in
+overruling his motion to dismiss for lack of subject matter
+jurisdiction. As noted above, if that claim were correct, we,
+too, would lack jurisdiction to reach the merits of this appeal.
+   Rick argues, summarized, that under the precedents of
+this court regarding the jurisdiction of the county courts and
+the district courts over estates and trusts cited by him, 25 the
+county court had jurisdiction over this matter. Rick asserts
+that the county court “first acquired subject matter jurisdic-
+tion over all the entities/assets involved in this matter” when
+a petition was filed in 2012 to determine the inheritance tax
+on Bob’s estate. 26 Rick then asserts that the county court “re-
+acquired” subject matter jurisdiction in 2019 when Joanne,
+Leslie, and Laurie filed their complaint seeking an accounting
+of the RHB Trust. 27 The appellees disagree, claiming that the
+district court properly exercised jurisdiction because this case
+concerned Berkshire Partnership, and not the RHB Trust or
+Bob’s estate.
+   [12-14] As we have previously explained, a party may chal-
+lenge the court’s subject matter jurisdiction under Neb. Ct. R.
+24
+   See, e.g., Schmuecker v. Lancaster County, </pre><span class="citation" data-id="11344377"><a href="/opinion/10876876/schmuecker-v-lancaster-county/" aria-description="Citation for case: Schmuecker v. Lancaster County">321 Neb. 623</a></span><pre class="inline">, </pre><span class="citation no-link">36 N.W.3d 185</span><pre class="inline">
+   (2026).
+25
+   See, Washington v. Conley, </pre><span class="citation" data-id="1740650"><a href="/opinion/1740650/washington-v-conley/" aria-description="Citation for case: Washington v. Conley">273 Neb. 908</a></span><pre class="inline">, </pre><span class="citation" data-id="1740650"><a href="/opinion/1740650/washington-v-conley/" aria-description="Citation for case: Washington v. Conley">734 N.W.2d 306</a></span><pre class="inline"> (2007);
+   Cummins Mgmt. v. Gilroy, </pre><span class="citation" data-id="2222182"><a href="/opinion/2222182/cummins-management-lp-v-gilroy/" aria-description="Citation for case: Cummins Management, L.P. v. Gilroy">266 Neb. 635</a></span><pre class="inline">, </pre><span class="citation" data-id="2222182"><a href="/opinion/2222182/cummins-management-lp-v-gilroy/" aria-description="Citation for case: Cummins Management, L.P. v. Gilroy">667 N.W.2d 538</a></span><pre class="inline"> (2003); In re
+   Estate of Chaney, </pre><span class="citation" data-id="1864100"><a href="/opinion/1864100/in-re-estate-of-chaney/" aria-description="Citation for case: In Re Estate of Chaney">232 Neb. 121</a></span><pre class="inline">, </pre><span class="citation" data-id="1864100"><a href="/opinion/1864100/in-re-estate-of-chaney/" aria-description="Citation for case: In Re Estate of Chaney">439 N.W.2d 764</a></span><pre class="inline"> (1989); In re Estate of
+   Kentopp. Kentopp v. Kentopp, </pre><span class="citation" data-id="9731897"><a href="/opinion/2179005/kentopp-v-kentopp/" aria-description="Citation for case: Kentopp v. Kentopp">206 Neb. 776</a></span><pre class="inline">, </pre><span class="citation" data-id="9731897"><a href="/opinion/2179005/kentopp-v-kentopp/" aria-description="Citation for case: Kentopp v. Kentopp">295 N.W.2d 275</a></span><pre class="inline"> (1980).
+26
+   Brief for appellant at 16.
+27
+   </pre><span class="citation" data-id="9731897"><a href="/opinion/2179005/kentopp-v-kentopp/" aria-description="Citation for case: Kentopp v. Kentopp">Id.</a></span><pre class="inline">
+                                  - 500 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+Pldg. § 6-1112(b)(1) (rev. 2025) by presenting either a facial
+challenge or a factual challenge. 28 In a facial challenge, the
+party asserts the allegations of the complaint are insufficient to
+establish the court’s jurisdiction over the subject matter of the
+case. 29 When a facial challenge is presented, the court will look
+only to the complaint to determine whether the plaintiff has
+sufficiently alleged a basis of subject matter jurisdiction. 30 In a
+factual challenge, the party asserts there is no jurisdiction over
+the subject matter of the case notwithstanding the allegations
+of the complaint. 31 When a factual challenge is presented, the
+court may consider and weigh evidence outside of the plead-
+ings to answer the jurisdictional question. 32
+   In this case, the record before us on appeal makes it dif-
+ficult to determine whether Rick’s challenge was a facial or
+factual one. Rick references one specific ruling by the dis-
+trict court when arguing this assignment of error in his brief
+on appeal. However, the record reflects several other written
+or oral motions to dismiss based, at least in part, on subject
+matter jurisdiction. The record does not reflect any hearings
+that might have been held in connection with several of the
+motions and, thus, does not show whether Rick offered any
+evidence in connection with those motions. As the appellant, it
+was incumbent upon Rick to supply a record that supports his
+appeal, 33 but even assuming we were to consider all of Rick’s
+motions to dismiss in the manner most favorable to him, as
+factual challenges, we see no error by the district court.
+   Rick is correct that the appellees amended their complaint
+to name him in his capacity as trustee of the RHB Trust as
+an interested party. However, the amended complaint makes
+28
+   Bleich v. Bleich, </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">312 Neb. 962</a></span><pre class="inline">, </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">981 N.W.2d 801</a></span><pre class="inline"> (2022).
+29
+   </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">Id.</a></span><pre class="inline">
+30
+   </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">Id.</a></span><pre class="inline">
+31
+   </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">Id.</a></span><pre class="inline">
+32
+   </pre><span class="citation" data-id="9338768"><a href="/opinion/9343403/bleich-v-bleich/" aria-description="Citation for case: Bleich v. Bleich">Id.</a></span><pre class="inline">
+33
+   See, e.g., State v. Mielak, </pre><span class="citation" data-id="11341627"><a href="/opinion/10874154/state-v-mielak/" aria-description="Citation for case: State v. Mielak">321 Neb. 542</a></span><pre class="inline">, </pre><span class="citation no-link">35 N.W.3d 798</span><pre class="inline"> (2026).
+                                     - 501 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+clear that this was done to address the possibility that the RHB
+Trust “holds an interest in the [p]artnership.”
+   The remainder of the evidence to which Rick points in his
+brief on appeal similarly fails to support his assertion that this
+case “primarily concerns trust administration.” 34 The “trust
+account bank statements” 35 purportedly in exhibit 80 were
+not offered or admitted into evidence by the parties (at least
+not under that exhibit number). The “Robert H. Berkshire
+Trust” agreement in exhibit 136 was offered into evidence by
+Rick and admitted over the appellees’ objections in connection
+with Rick’s testimony that he acted in accordance with Bob’s
+wishes to “minimize[] the total income and estate tax burden”
+on his family. And the portion of the transcript cited by Rick
+(“T75”) contains nothing to show that the “entities involved in
+this matter were formed and were part of [Bob’s] estate plan”
+and that those “entities and assets were listed” on the inventory
+of Bob’s estate, 36 as Rick claims.
+   Rick’s reply brief also points to the order that the county
+court filed first on April 24, 2025, and then on October 24,
+in the proceedings regarding the RHB Trust, as evidence
+that the county court had jurisdiction. Rick claims this order
+“demonstrate[es] the intrinsic link” between this matter and
+“trust administration” 37 and effectively changed his capital
+account. In its order, the county court said that one-third of
+a $1,950,191.16 payment that Rick, as the trustee, made to
+pay off a loan that Berkshire Family Building owed to a third
+party was made without authority and “should be assessed”
+against Rick. Rick takes this to mean he was “credit[ed]”
+with $650,000 toward his capital account.
+   We decline Rick’s request to take judicial notice of this
+order. As a general matter, we agree with courts in other
+34
+   Brief for appellant at 20.
+35
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+36
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+37
+   Reply brief for appellant at 6.
+                                    - 502 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+jurisdictions that have expressed concerns about taking judi-
+cial notice on appeal of events that occurred after the judg-
+ment was rendered below. 38 It is difficult to maintain that
+the trial court erred in reaching a decision based on evidence
+that was never presented to it. 39 We also do not understand
+the order in question to show that this matter involves the
+RHB Trust or Bob’s estate. Nor would the order have any
+relevant effect upon Rick’s capital account balance insofar as
+the loan and payment apparently occurred after 2005, and for
+the reasons set forth below, we agree with the district court’s
+conclusion that by 2005, Rick no longer owned an interest in
+Berkshire Partnership. 40
+   Finally, as to Rick’s argument that the district court erred
+when it exercised jurisdiction without determining whether it
+had jurisdiction over specific assets and properties, any error
+here is immaterial insofar as we review de novo the denial
+of a motion to dismiss. The same is true of Rick’s argument
+that there was no legal or factual support for the district
+court’s claim that the county court may lack jurisdiction over
+some assets.
+       (d) District Court’s Jurisdiction to Rule on Timing
+            of Distributions From Capital Accounts
+   In arguing another of his assignments of error, Rick claims
+that the district court “lacked jurisdiction to specify the tim-
+ing of the partnership distribution secured by the partnership
+margin account for accounting and tax purposes.” 41 Rick’s
+38
+   See, e.g., State v. Vetter, </pre><span class="citation no-link">934 N.W.2d 543</span><pre class="inline"> (N.D. 2019); State v. Rivas, </pre><span class="citation" data-id="11086498"><a href="/opinion/10619910/state-v-rivas/" aria-description="Citation for case: State v. Rivas">233
+   Conn. App. 506</a></span><pre class="inline">, </pre><span class="citation no-link">340 A.3d 1118</span><pre class="inline"> (2025); TEPOA v. McGovern, </pre><span class="citation" data-id="3170150"><a href="/opinion/3170150/tucson-estates-property-owners-association-inc-v-mcgovern-sines/" aria-description="Citation for case: Tucson Estates Property Owners Association, Inc. v....">239 Ariz.
+   52</a></span><pre class="inline">, </pre><span class="citation" data-id="3170150"><a href="/opinion/3170150/tucson-estates-property-owners-association-inc-v-mcgovern-sines/" aria-description="Citation for case: Tucson Estates Property Owners Association, Inc. v....">366 P.3d 111</a></span><pre class="inline"> (Ariz. App. 2016).
+39
+   See, e.g., 29 Am. Jur. 2d Evidence § 45 (2019) (recognizing that taking
+   judicial notice on appeal may undermine trial court’s factfinding authority).
+40
+   See, e.g., State ex rel. Douglas Cty. Sch. Dist. No. 66 v. Ewing, </pre><span class="citation" data-id="11125216"><a href="/opinion/10658629/state-ex-rel-douglas-cty-sch-dist-no-66-v-ewing/" aria-description="Citation for case: State ex rel. Douglas Cty. Sch. Dist. No. 66 v. Ewing">319 Neb.
+   663</a></span><pre class="inline">, </pre><span class="citation no-link">24 N.W.3d 861</span><pre class="inline"> (2025) (declining to take judicial notice on appeal
+   where case can be resolved without doing so).
+41
+   Brief for appellant at 34.
+                                  - 503 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+argument here is not a model of clarity. As we understand
+it, his argument appears to be that in determining his capital
+account balance, the district court made determinations about
+when distributions occurred that, insofar as they implicate
+“federal tax liabilities” or “accounting treatments under federal
+tax law,” are within the exclusive jurisdiction of the IRS and
+the federal courts. 42 The appellees argue that the district court
+has the power to determine the “ownership interests of general
+partners in a partnership,” 43 as it did here.
+    We agree with the appellees that Rick’s argument, to the
+extent that we understand it, is without merit. In arguing oth-
+erwise, Rick relies on the opinion of the Nebraska Court of
+Appeals in In re Estate of Tizzard. 44 In In re Estate of Tizzard,
+the Court of Appeals found that the trial court had erred, in
+relevant part, in ordering the personal representative of the
+estate to file an amended federal tax form containing specific
+information. 45 The Court of Appeals reasoned that because the
+pronouncements of a state court on the nature of a payment
+are not binding on the IRS’ treatment of money under federal
+law, the trial court’s order was merely advisory and did not
+resolve the issue that concerned the appellee. 46 As such, the
+Court of Appeals concluded that the trial court should not
+have attempted to exercise its judicial power because there
+was no justiciable issue. 47
+    We do not view the order here as being like that in In re
+Estate of Tizzard because the order here does not direct that
+specific information be entered on a federal tax form. The
+order here does not purport to directly “determine [the] fed-
+eral taxability” of anything, unlike the order in In re Estate
+42
+   Id. at 35.
+43
+   Brief for appellees at 28.
+44
+   In re Estate of Tizzard, </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/" aria-description="Citation for case: In Re Estate of Tizzard">14 Neb. App. 326</a></span><pre class="inline">, </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/" aria-description="Citation for case: In Re Estate of Tizzard">708 N.W.2d 277</a></span><pre class="inline"> (2005).
+45
+   </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/" aria-description="Citation for case: In Re Estate of Tizzard">Id.</a></span><pre class="inline">
+46
+   </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/" aria-description="Citation for case: In Re Estate of Tizzard">Id.</a></span><pre class="inline">
+47
+   </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/" aria-description="Citation for case: In Re Estate of Tizzard">Id.</a></span><pre class="inline">
+                                    - 504 -
+            Nebraska Supreme Court Advance Sheets
+                     322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+of Tizzard. 48 The order here may have tax implications, but
+those implications are the result of decisions about Rick’s
+“legal interests” in the partnership that In Re Estate of Tizzard
+and the cases cited therein expressly recognize as matters of
+state law. 49
+   We take a similar view of Rick’s apparent argument that
+the district court did not have jurisdiction to “treat margin
+borrowing as distributions in contravention of the IRS [r]ules
+and [r]egulations because this is a federal tax issue.” 50 This
+argument appears to be related to Rick’s claim that fed-
+eral law preempts the district court from “[d]ictating [t]ax
+[c]onsequences.” 51 However, even assuming that federal law
+did control here, federal preemption is not inherently jurisdic-
+tional. 52 There have been cases where substantive issues gov-
+erned by federal law were litigated in Nebraska courts. 53
+   Rick’s remaining arguments about this assignment of error
+are not jurisdictional but instead raise alleged issues with the
+evidence and the district court’s reasoning. Specifically, Rick
+argues that Korth failed to address alternative tax treatments,
+among other things; that the appellees did not present the
+48
+   See id. at 333, </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/#284" aria-description="Citation for case: In Re Estate of Tizzard">708 N.W.2d at 284</a></span><pre class="inline">.
+49
+   See </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/#334" aria-description="Citation for case: In Re Estate of Tizzard">id. at 334</a></span><pre class="inline">, </pre><span class="citation" data-id="1345875"><a href="/opinion/1345875/in-re-estate-of-tizzard/#284" aria-description="Citation for case: In Re Estate of Tizzard">708 N.W.2d at 284</a></span><pre class="inline"> (“United States v. Mitchell, </pre><span class="citation" data-id="108366"><a href="/opinion/108366/united-states-v-mitchell/" aria-description="Citation for case: United States v. Mitchell">403 U.S.
+   190</a></span><pre class="inline">, </pre><span class="citation" data-id="108366"><a href="/opinion/108366/united-states-v-mitchell/" aria-description="Citation for case: United States v. Mitchell">91 S. Ct. 1763</a></span><pre class="inline">, </pre><span class="citation" data-id="108366"><a href="/opinion/108366/united-states-v-mitchell/" aria-description="Citation for case: United States v. Mitchell">29 L. Ed. 2d 406</a></span><pre class="inline"> (1971) (state law creates legal
+   interests, but federal statute determines when and how they shall be taxed);
+   . . . Pahl v. C.I.R., </pre><span class="citation" data-id="756565"><a href="/opinion/756565/stephen-d-pahl-louise-a-pahl-v-commissioner-of-internal-revenue/" aria-description="Citation for case: Stephen D. Pahl Louise A. Pahl v. Commissioner of...">150 F.3d 1124</a></span><pre class="inline"> (9th Cir. 1998) (holding that courts look
+   to federal law to determine what interest creates tax liability, but look to
+   state law to determine whether taxpayer has requisite interest)”).
+50
+   Brief for appellant at 11.
+51
+   Id. at 37.
+52
+   See, e.g., Southwest Airlines Pilots v. Boeing Co., </pre><span class="citation no-link">704 S.W.3d 832</span><pre class="inline"> (Tex.
+   App. 2022).
+53
+   See, e.g., McNeel v. Union Pacific RR. Co., </pre><span class="citation" data-id="1731270"><a href="/opinion/1731270/mcneel-v-union-pacific-r-co/" aria-description="Citation for case: McNeel v. Union Pacific R. Co.">276 Neb. 143</a></span><pre class="inline">, </pre><span class="citation" data-id="1731270"><a href="/opinion/1731270/mcneel-v-union-pacific-r-co/" aria-description="Citation for case: McNeel v. Union Pacific R. Co.">753 N.W.2d
+   321</a></span><pre class="inline"> (2008) (federal law governs substantive issues in Federal Employers’
+   Liability Act claims litigated in state courts pursuant to concurrent
+   jurisdiction); In re Estate of Myers, </pre><span class="citation" data-id="2114370"><a href="/opinion/2114370/in-re-estate-of-myers/" aria-description="Citation for case: In Re Estate of Myers">256 Neb. 817</a></span><pre class="inline">, </pre><span class="citation" data-id="2114370"><a href="/opinion/2114370/in-re-estate-of-myers/" aria-description="Citation for case: In Re Estate of Myers">594 N.W.2d 563</a></span><pre class="inline"> (1999)
+   (fair market value is present value as determined under Internal Revenue
+   Code and its applicable regulations).
+                                 - 505 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+evidence necessary to accurately calculate his capital account;
+and that his purported repayment of the margin loans after the
+distribution must be considered. Those arguments are without
+merit for the reasons set forth below.
+                  2. Korth’s Report Vis-a-Vis
+                      Appellees’ Pleadings
+   Rick claims that the district court “erred in allowing [the
+appellees] to enter evidence supporting issues that were not
+specifically pled.” 54 Rick’s argument here concerns Korth’s
+report, which Rick claims raised issues, particularly regarding
+his capital accounts and pre-2011 transactions, that were not
+“specifically pled” 55 and that he did not become aware of until
+shortly before trial. As such, Rick argues that he was deprived
+of the opportunity to defend himself. Rick also complains that
+Korth’s report “contained little to no reference to statutes,
+case law, tax regulations or any other principle” upon which
+Korth relied and that there was no “supporting documentation”
+that would have allowed him to attempt to reproduce Korth’s
+results. 56 The appellees argue that Rick’s sole objection to
+Korth’s report at that trial was on hearsay grounds and that
+Rick waived the objection by cross-examining Korth about
+the report. The appellees also claim that Rick was aware of
+the relevant issues before receiving Korth’s report due to their
+complaint and their discovery requests.
+   [15,16] Rick’s assignment of error here concerns the admis-
+sion of evidence, specifically Korth’s report. However, to
+preserve a claimed error in admission of evidence, a litigant
+must make a timely objection which specifies the ground of
+the objection to the offered evidence. 57 An objection to the
+admission of evidence is generally not timely unless it is made
+54
+   Brief for appellant at 23.
+55
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+56
+   Id. at 24.
+57
+   Richardson v. Children’s Hosp., </pre><span class="citation no-link">280 Neb. 396</span><pre class="inline">, </pre><span class="citation no-link">787 N.W.2d 235</span><pre class="inline"> (2010).
+                                 - 506 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+at the earliest opportunity after the ground for the objection
+becomes apparent. 58 In this case, Rick did not timely object to
+Korth’s report on any ground related to the specificity of the
+appellees’ complaint. Instead, counsel for Rick said only: “I
+guess right now the main objection is hearsay.” As such, Rick
+failed to preserve this claimed error.
+   However, because the issue recurs in connection with
+Rick’s other assignments of error, we note that in arguing that
+his capital accounts, pre-2011 transactions, and other matters
+were not “specifically pled” by the appellees, 59 Rick relies
+on a statute that was repealed in 2002 60 and two opinions
+concerned with the pre-2002 statutes. 61 Rick also argues that
+Neb. Ct. R. Pldg. § 6-1108 (rev. 2025) “stresses the necessity
+for specificity.” 62 Rick is correct that § 6-1108 does require
+a pleading that states a claim for relief to contain specific
+information as to special damages and interest. Otherwise,
+§ 6-1108(a) requires only that a claim for relief contain, in
+relevant part, “a short and plain statement of the claim show-
+ing that the pleader is entitled to relief” and a demand for the
+relief sought.
+   Under that standard, the appellees’ amended complaint gave
+Rick fair notice of the claims asserted against him, including
+the period covered. 63 Although the complaint did not specifi-
+cally use the phrase “capital account,” it alleged that Rick had
+reduced his interest in Berkshire Partnership “due to his prior,
+58
+   In re Interest of Ashley W., </pre><span class="citation no-link">284 Neb. 424</span><pre class="inline">, </pre><span class="citation" data-id="824488"><a href="/opinion/824488/people-v-nunley/" aria-description="Citation for case: People v. Nunley">821 N.W.2d 706</a></span><pre class="inline"> (2012).
+59
+   Brief for appellant at 23.
+60
+   See 2002 Neb. Laws, L.B. 876, § 92 (repealing </pre><span class="citation no-link">Neb. Rev. Stat. § 25-804</span><pre class="inline">
+   (Reissue 1995)).
+61
+   See, Kubik v. Kubik, </pre><span class="citation" data-id="1232235"><a href="/opinion/1232235/kubik-v-kubik/" aria-description="Citation for case: Kubik v. Kubik">268 Neb. 337</a></span><pre class="inline">, </pre><span class="citation" data-id="1232235"><a href="/opinion/1232235/kubik-v-kubik/" aria-description="Citation for case: Kubik v. Kubik">683 N.W.2d 330</a></span><pre class="inline"> (2004); Christianson
+   v. Educational Serv. Unit No. 16, </pre><span class="citation" data-id="9572335"><a href="/opinion/1309187/christianson-v-educational-service-unit-no-16/" aria-description="Citation for case: Christianson v. Educational Service Unit No. 16">243 Neb. 553</a></span><pre class="inline">, </pre><span class="citation" data-id="9572335"><a href="/opinion/1309187/christianson-v-educational-service-unit-no-16/" aria-description="Citation for case: Christianson v. Educational Service Unit No. 16">501 N.W.2d 281</a></span><pre class="inline"> (1993).
+62
+   Brief for appellant at 23.
+63
+   See, e.g., Ramaekers v. Creighton University, </pre><span class="citation" data-id="11221075"><a href="/opinion/10754490/ramaekers-v-creighton-university/" aria-description="Citation for case: Ramaekers v. Creighton University">320 Neb. 478</a></span><pre class="inline">, </pre><span class="citation no-link">28 N.W.3d
+   57</span><pre class="inline"> (2025); Evans v. Freedom Healthcare, </pre><span class="citation" data-id="6497245"><a href="/opinion/6620887/evans-v-freedom-healthcare/" aria-description="Citation for case: Evans v. Freedom Healthcare">311 Neb. 336</a></span><pre class="inline">, </pre><span class="citation" data-id="6497245"><a href="/opinion/6620887/evans-v-freedom-healthcare/" aria-description="Citation for case: Evans v. Freedom Healthcare">972 N.W.2d 75</a></span><pre class="inline">
+   (2022); Schmid v. Simmons, </pre><span class="citation" data-id="6332035"><a href="/opinion/6459924/schmid-v-simmons/" aria-description="Citation for case: Schmid v. Simmons">311 Neb. 48</a></span><pre class="inline">, </pre><span class="citation no-link">970 N.W.2d 735</span><pre class="inline"> (2022).
+                                - 507 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                      BERKSHIRE v. BERKSHIRE
+                         Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+undisclosed redemption of partnership shares for distribu-
+tions that he made to himself.” The complaint also raised a
+claim regarding a purported $1 million loan that Berkshire
+Partnership made to Berkshire Family Building during the
+construction of the commercial building, which occurred prior
+to 2011. The complaint’s allegations regarding Rick’s commin-
+gling of funds, use of partnership assets for his own pecuniary
+interests, self-dealing, and failure to account to the partnership
+for certain profits, as well as the request for an accounting,
+similarly sufficed to make him aware of his potential liability
+for uncollected rent and financial misappropriation.
+   Rick’s remaining arguments about the admission of Korth’s
+report, had they been preserved for appeal, would go primar-
+ily to the weight of the evidence and not its admissibility, as
+discussed below.
+             3. Waiver of Statute of Limitations
+   Rick claims that the district court erred in concluding that
+he waived the statute of limitations by failing to raise it in his
+answer. Rick argues that insofar as the appellees’ complaint
+did not adequately notify him of the issues with the pre-2016
+transactions raised in Korth’s report, he properly and timely
+raised the statute of limitations “on August 31, 2023.” 64 Rick
+also argues that even if the statute of limitations were waived,
+“claims arising from transactions before 2016 should have
+been dismissed as time-barred.” 65 The appellees counter that
+the district court properly concluded that Rick waived the
+statute of limitations because he did not raise it in his answer,
+among other things.
+   [17] The statute of limitations is an affirmative defense
+that is waived if the defendant fails to plead it. 66 Generally,
+this means that the statute of limitations is waived if it is not
+64
+   Brief for appellant at 27.
+65
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+66
+   Schuemann v. Timperley, </pre><span class="citation" data-id="9396056"><a href="/opinion/9400580/schuemann-v-timperley/" aria-description="Citation for case: Schuemann v. Timperley">314 Neb. 298</a></span><pre class="inline">, </pre><span class="citation" data-id="9396056"><a href="/opinion/9400580/schuemann-v-timperley/" aria-description="Citation for case: Schuemann v. Timperley">989 N.W.2d 921</a></span><pre class="inline"> (2023).
+                                   - 508 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+pled in a preanswer motion or in the answer. 67 However, there
+are certain exceptions to this general rule. For example, an
+answer could be amended under § 6-1115(a)(2) to raise the
+statute of limitations, 68 or the statute of limitations could be
+tried with the express or implied consent of the parties. 69
+   Given the record before us, we see no error in the district
+court’s conclusion that Rick waived the statute of limitations.
+As both the district court and the appellees note, Rick did
+not raise the statute of limitations in either his “Response
+to Complaint” or his “Answer to Amended Complaint and
+Counterclaim” (which is, in any event, a nullity for the rea-
+sons set forth above). There is nothing in the record before
+us to show that he sought leave of the court or the appellees’
+consent to amend his answer under § 6-1115(a)(2). In fact, the
+record before us contains no indication of the filing or hearing
+on August 31, 2023, in which Rick claims he raised the statute
+of limitations.
+   There was a motion to continue filed on September 6,
+2023, in which Rick sought an opportunity to depose Korth.
+However, that motion did not mention the statute of limita-
+tions, and if there was a hearing on the motion, it is not part
+of the record on appeal. Moreover, at the trial, when coun-
+sel for the appellees stated that the transactions in question
+occurred between 2011 and 2019, counsel for Rick said that
+it was “fine” “if you want to keep them within that range.”
+Counsel for Rick did then complain about Korth’s report’s
+including transactions prior to 2011. However, both before
+67
+   See, e.g., John P. Lenich, Nebraska Civil Procedure § 12:13 (2026)
+   (collecting cases).
+68
+   See id.
+69
+   See, e.g., Khaitov v. Greater Omaha Packing Co., </pre><span class="citation" data-id="11140895"><a href="/opinion/10674308/khaitov-v-greater-omaha-packing-co/" aria-description="Citation for case: Khaitov v. Greater Omaha Packing Co.">319 Neb. 932</a></span><pre class="inline">, </pre><span class="citation no-link">25
+   N.W.3d 739</span><pre class="inline"> (2025) (recognizing affirmative defense may be tried by
+   express or implied consent of parties). See, also, § 6-1115(b)(2) (“[w]hen
+   an issue not raised by the pleadings is tried by the parties’ express or
+   implied consent, it must be treated in all respects as if raised in the
+   pleadings”).
+                                 - 509 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                      BERKSHIRE v. BERKSHIRE
+                         Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+and after voicing that complaint, counsel for Rick adduced
+evidence, including from Rick himself, regarding transactions
+that occurred more than 4 years before the complaint was filed
+and even prior to Bob’s death in 2011. As such, we view Rick
+to have waived the statute of limitations. 70
+   In arguing otherwise, Rick attempts to rely upon an opin-
+ion of this court wherein we recognized that a plaintiff could
+estop a defendant from claiming the statute of limitations by
+asserting the defendant had fraudulently concealed pertinent
+information. 71 Rick seems to suggest that, by analogy, he
+should be seen to have timely asserted the statute of limita-
+tions because the appellees “took affirmative steps to conceal
+the true nature of [the] lawsuit until they delivered” Korth’s
+report. 72 However, that argument ignores the fact that fraud
+must be specifically pled and that in the case upon which Rick
+relies, the plaintiff’s complaint alleged that the defendants had
+fraudulently concealed material facts. 73 There was nothing
+similar in the pleadings here.
+   Rick also argues (1) that he was prevented from raising
+the statute of limitations due to the appellees’ failure to spe-
+cifically plead their claims, (2) that the appellees failed to
+conduct discovery fairly to the extent that they did not make
+Korth’s report available to Rick until shortly before the trial,
+and (3) that even if the statute of limitations was waived,
+any claims regarding transactions prior to 2016 were time
+barred. The first of those arguments is without merit for the
+reasons set forth above, while the second would not require
+the exclusion of Korth’s report or testimony for the reasons
+stated below. As to the third argument regarding the purported
+time bar, Korth cites no authority to support the view that the
+court could find certain of the appellees’ claims time barred
+70
+   Cf. </pre><span class="citation" data-id="11140895"><a href="/opinion/10674308/khaitov-v-greater-omaha-packing-co/#69" aria-description="Citation for case: Khaitov v. Greater Omaha Packing Co.">Khaitov, supra note 69</a></span><pre class="inline">.
+71
+   Andres v. McNeil Co., </pre><span class="citation" data-id="1859188"><a href="/opinion/1859188/andres-v-mcneil-co-inc/" aria-description="Citation for case: Andres v. McNeil Co., Inc.">270 Neb. 733</a></span><pre class="inline">, </pre><span class="citation" data-id="1859188"><a href="/opinion/1859188/andres-v-mcneil-co-inc/" aria-description="Citation for case: Andres v. McNeil Co., Inc.">707 N.W.2d 777</a></span><pre class="inline"> (2005).
+72
+   Brief for appellant at 27.
+73
+   </pre><span class="citation" data-id="1859188"><a href="/opinion/1859188/andres-v-mcneil-co-inc/#71" aria-description="Citation for case: Andres v. McNeil Co., Inc.">Andres, supra note 71</a></span><pre class="inline">.
+                                 - 510 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+even if Rick waived the statute of limitations. Rick’s argu-
+ment here may be tied to his view that the statute of limita-
+tions is jurisdictional. However, the failure to comply with
+a statute of limitations is generally not an issue of subject
+matter jurisdiction, 74 and with the exception of res judicata or
+claim preclusion, “a court cannot raise an unpled affirmative
+defense sua sponte.” 75
+                4. Other Issues With Korth’s
+                    Report and Testimony
+   Rick claims that the district court erred in admitting tes-
+timony and evidence that was not timely submitted by the
+appellees and that “did not relate to the specific claims of the
+complaint.” 76 This argument again concerns Korth’s report,
+as well as Korth’s testimony at the trial, both of which Rick
+claims should not have been admitted for these and other rea-
+sons. The appellees argue that Korth’s report and his testimony
+were properly admitted.
+   To the extent that Rick’s argument here concerns the
+admission of evidence, he failed to preserve the argument for
+the reasons set forth above. As noted, Rick’s sole objection
+to the admission of Korth’s report was on hearsay grounds.
+Rick also objected to Korth’s testimony several times, but
+none of those objections were based on the grounds that Rick
+raises in his brief on appeal. To be sure, during his cross-
+examination of Korth and, later, during Rick’s case in chief,
+both counsel for Rick and Rick himself did complain about
+when they received Korth’s report and its inclusion of trans-
+actions that occurred more than 4 years before the complaint
+was filed or before Bob’s death. However, such complaints
+are no substitute for counsel’s objecting or moving to strike
+specific testimony.
+74
+   Benjamin M. v. Jeri S., </pre><span class="citation" data-id="4655851"><a href="/opinion/4852072/benjamin-m-v-jeri-s/" aria-description="Citation for case: Benjamin M. v. Jeri S.">307 Neb. 733</a></span><pre class="inline">, </pre><span class="citation" data-id="4655851"><a href="/opinion/4852072/benjamin-m-v-jeri-s/" aria-description="Citation for case: Benjamin M. v. Jeri S.">950 N.W.2d 381</a></span><pre class="inline"> (2020).
+75
+   Lenich, supra note 67, § 12:13 at 679.
+76
+   Brief for appellant at 28.
+                                    - 511 -
+             Nebraska Supreme Court Advance Sheets
+                      322 Nebraska Reports
+                         BERKSHIRE v. BERKSHIRE
+                            Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+   The outcome would be the same even if Rick’s claims had
+been properly preserved. We have already explained the issues
+with Rick’s argument that the appellees did not specifically
+plead the capital accounts and other matters covered in Korth’s
+report and testimony. We take a similar view of Rick’s claim
+that the matters addressed in Korth’s reports and testimony
+were not “[p]roperly . . . [a]ddressed in [d]iscovery.” 77 As the
+appellees note, there were multiple discovery requests con-
+cerning the general partners’ capital accounts, the credit card
+charges incurred against the margin account over the past 10
+years, rent paid by Berkshire &amp; Burmeister, specific transac-
+tions dating back to at least 2011, and other matters.
+   Rick’s argument that Korth’s report and testimony were
+inadmissible because of various issues with them is equally
+unavailing. Rick is correct that in other cases, where the
+parties have properly raised the issue, evidence has been
+excluded because it was not timely disclosed or for other rea-
+sons. 78 However, Rick points to nothing in the record to show
+that any of the purported issues with Korth’s report and tes-
+timony were properly raised with the district court except the
+joint motion to continue, which is discussed below. Both Rick
+and his counsel complained of the late disclosure of Korth’s
+report and the inclusion of matters purportedly outside the
+statute of limitations at the trial, but such complaints are no
+substitute for a motion in limine, a motion to strike, a motion
+to sanction, or another similar motion. As such, the various
+issues that Rick raises with Korth’s report and testimony go
+to their credibility. The district court expressly found Korth
+77
+     Brief for appellant at 32.
+78
+     See, e.g., Eddy v. Builders Supply Co., </pre><span class="citation" data-id="4486871"><a href="/opinion/4707440/eddy-v-builders-supply-co/" aria-description="Citation for case: Eddy v. Builders Supply Co.">304 Neb. 804</a></span><pre class="inline">, </pre><span class="citation no-link">937 N.W.2d
+     198</span><pre class="inline"> (2020); McNeel v. Union Pacific RR. Co., supra note 53; Smith v.
+     Colorado Organ Recovery Sys., </pre><span class="citation" data-id="2071399"><a href="/opinion/2071399/smith-v-colorado-organ-recovery-system-inc/" aria-description="Citation for case: Smith v. Colorado Organ Recovery System, Inc.">269 Neb. 578</a></span><pre class="inline">, </pre><span class="citation" data-id="2071399"><a href="/opinion/2071399/smith-v-colorado-organ-recovery-system-inc/" aria-description="Citation for case: Smith v. Colorado Organ Recovery System, Inc.">694 N.W.2d 610</a></span><pre class="inline"> (2005);
+     Kinney v. H.P. Smith Ford, </pre><span class="citation" data-id="8041887"><a href="/opinion/8082548/kinney-v-hp-smith-ford-llc/" aria-description="Citation for case: Kinney v. H.P. Smith Ford, L.L.C.">266 Neb. 591</a></span><pre class="inline">, </pre><span class="citation" data-id="8041887"><a href="/opinion/8082548/kinney-v-hp-smith-ford-llc/" aria-description="Citation for case: Kinney v. H.P. Smith Ford, L.L.C.">667 N.W.2d 529</a></span><pre class="inline"> (2003); Paulk
+     v. Central Lab. Assocs., </pre><span class="citation" data-id="2022820"><a href="/opinion/2022820/paulk-v-central-laboratory-associates-pc/" aria-description="Citation for case: Paulk v. Central Laboratory Associates, P.C.">262 Neb. 838</a></span><pre class="inline">, </pre><span class="citation" data-id="2022820"><a href="/opinion/2022820/paulk-v-central-laboratory-associates-pc/" aria-description="Citation for case: Paulk v. Central Laboratory Associates, P.C.">636 N.W.2d 170</a></span><pre class="inline"> (2001); Norquay
+     v. Union Pacific Railroad, </pre><span class="citation" data-id="1236075"><a href="/opinion/1236075/norquay-v-union-pacific-railroad/" aria-description="Citation for case: Norquay v. Union Pacific Railroad">225 Neb. 527</a></span><pre class="inline">, </pre><span class="citation" data-id="1236075"><a href="/opinion/1236075/norquay-v-union-pacific-railroad/" aria-description="Citation for case: Norquay v. Union Pacific Railroad">407 N.W.2d 146</a></span><pre class="inline"> (1987). But see
+     Putnam v. Scherbring, </pre><span class="citation" data-id="4223347"><a href="/opinion/4446094/putnam-v-scherbring/" aria-description="Citation for case: Putnam v. Scherbring">297 Neb. 868</a></span><pre class="inline">, </pre><span class="citation" data-id="4223347"><a href="/opinion/4446094/putnam-v-scherbring/" aria-description="Citation for case: Putnam v. Scherbring">902 N.W.2d 140</a></span><pre class="inline"> (2017).
+                                  - 512 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+to be credible and Rick to be “largely not credible.” Under
+the standard of review noted above, we give deference to
+that determination.
+   The parties did file a joint motion to continue after receiv-
+ing Korth’s report, in which it was noted that Korth’s report
+had just been issued and that Rick wished to depose Korth.
+However, insofar as the district court overruled that motion
+without a hearing, we cannot say it abused its discretion in so
+doing. Rick does not point to any request for a hearing on this
+motion that he made. The motion was filed 20 days before
+trial. Korth and the subject of his testimony had already
+been disclosed to Rick. And there is nothing in the record on
+appeal to suggest that Rick sought to depose Korth prior to
+the issuance of his report. 79
+   Rick also asserts several times in his brief on appeal that
+the late disclosure of Korth’s report violated his due process
+rights. However, beyond a couple of citations to cases that
+generally mention fairness, 80 Rick leaves us to “speculate
+about the reasoning” behind this claim. 81 We decline to do so.
+As we have previously explained, an appellant must provide
+both “argument and authority in support of an advocated posi-
+tion,” or else “speculation is unavoidable.” 82
+   Finally, as to Rick’s argument that Korth had a conflict of
+interest because Korth worked with Paul at Lutz &amp; Company,
+Rick cites no case law to show that this was a conflict, and
+there is nothing in the record before us to suggest that he
+filed a motion to disqualify Korth. Evidence that Paul and
+Korth worked at the same firm was adduced at the trial,
+79
+   See, e.g., </pre><span class="citation" data-id="4486871"><a href="/opinion/4707440/eddy-v-builders-supply-co/#78" aria-description="Citation for case: Eddy v. Builders Supply Co.">Eddy, supra note 78</a></span><pre class="inline"> (although continuance is ordinarily one
+   of proper methods for dealing with claim that there has been failure to
+   disclose in timely manner, plaintiff did not show good cause to continue
+   trial, given defendant’s answer and discovery requests).
+80
+   See, e.g., </pre><span class="citation" data-id="4486871"><a href="/opinion/4707440/eddy-v-builders-supply-co/#78" aria-description="Citation for case: Eddy v. Builders Supply Co.">Eddy, supra note 78</a></span><pre class="inline">; </pre><span class="citation" data-id="2022820"><a href="/opinion/2022820/paulk-v-central-laboratory-associates-pc/#78" aria-description="Citation for case: Paulk v. Central Laboratory Associates, P.C.">Paulk, supra note 78</a></span><pre class="inline">.
+81
+   Bohaty v. Briard, </pre><span class="citation" data-id="1893570"><a href="/opinion/1893570/bohaty-v-briard/#46" aria-description="Citation for case: Bohaty v. Briard">219 Neb. 42, 46</a></span><pre class="inline">, </pre><span class="citation" data-id="1893570"><a href="/opinion/1893570/bohaty-v-briard/#505" aria-description="Citation for case: Bohaty v. Briard">361 N.W.2d 502, 505</a></span><pre class="inline"> (1985).
+82
+   </pre><span class="citation" data-id="1893570"><a href="/opinion/1893570/bohaty-v-briard/" aria-description="Citation for case: Bohaty v. Briard">Id.</a></span><pre class="inline">
+                                   - 513 -
+              Nebraska Supreme Court Advance Sheets
+                       322 Nebraska Reports
+                           BERKSHIRE v. BERKSHIRE
+                              Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+with the apparent implication that this was cause for con-
+cern. However, such evidence is no substitute for a motion
+to disqualify.
+               5. Specific Rulings Regarding
+                    Rick’s Capital Account
+   Rick claims that the district court erred in ruling that the
+value of his capital account was -$798,659, that he must
+repay that amount to Berkshire Partnership, and that by hav-
+ing a negative capital account, he no longer had an ownership
+interest in Berkshire Partnership. Rick primarily argues, sum-
+marized, that the district court should have relied on the evi-
+dence he presented, which showed that he had “positive units
+of interest” until 2019, 83 and not Korth’s report, which Rick
+claims had multiple defects. The appellees argue that there
+was no error here and that the district court simply found
+Korth’s analysis of Berkshire Partnership’s capital accounts
+to be “more accurate and more credible” than the evidence
+presented by Rick. 84
+   As noted earlier in the opinion, there was conflicting evi-
+dence at the trial regarding Rick’s capital account. The appel-
+lees presented documents prepared by two different certified
+professional accountants that showed Rick had long had a neg-
+ative capital account balance. They also presented evidence
+about the effect that having a negative capital balance had on
+a general partner’s ownership interests under the partnership
+agreement. Rick, in turn, presented evidence showing that as
+of 2019, he had 76 units of interest in Berkshire Partnership,
+with a net value of $224,548. Rick also presented evidence
+that his borrowing against the margin account was not a dis-
+tribution. When the evidence is in conflict, as was the case
+here, we give deference to the district court’s determinations
+regarding the credibility of the witnesses. The district court
+83
+     Brief for appellant at 40.
+84
+     Brief for appellees at 33.
+                                   - 514 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+found Korth’s analysis to be “the most accurate description”
+it had of the general partners’ capital accounts and, as such,
+credible. Rick, in contrast, was found not to be credible. We
+also note that even one of Rick’s own exhibits showed that he
+had negative units of ownership at various dates.
+   Rick also argues that the court’s ruling is “contrary to the
+[p]artnership [a]greement.” 85 However, outside of a brief ref-
+erence to the provisions of the partnership agreement regard-
+ing units of ownership, he does not explain his reasoning
+here. While we review the record de novo, such review does
+not extend to speculating about arguments that a party fails
+to make. 86
+   Rick’s remaining arguments primarily concern the statute
+of limitations, the late disclosure of Korth’s report, and other
+issues with Korth’s report. Those arguments are without merit
+for the reasons set forth above.
+   Rick also asserts that the appellees failed to provide the
+“evidence necessary to make accurate calculations of [c]apital
+[a]ccounts.” 87 That argument is based on a mistaken view of
+who had the burden of proof as to that issue, as discussed below.
+
+                6. Uncollected Rent From
+                  Berkshire &amp; Burmeister
+   Rick claims that the district court erred in ruling that he
+was liable to Berkshire Partnership for $214,869 in unpaid
+rent owed to Berkshire Family Building by Berkshire &amp;
+Burmeister. Rick admits that “rent was not paid.” 88 However,
+he argues that he should not have been required to pay dam-
+ages in an amount equivalent to the unpaid rent, primarily
+because Laurie’s “actions and decisions” were the reason the
+85
+   Brief for appellant at 39.
+86
+   See, e.g., </pre><span class="citation" data-id="1893570"><a href="/opinion/1893570/bohaty-v-briard/#81" aria-description="Citation for case: Bohaty v. Briard">Bohaty, supra note 81</a></span><pre class="inline">.
+87
+   Brief for appellant at 17.
+88
+   </pre><span class="citation" data-id="1893570"><a href="/opinion/1893570/bohaty-v-briard/#42" aria-description="Citation for case: Bohaty v. Briard">Id. at 42</a></span><pre class="inline">.
+                                  - 515 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+rent was not paid, 89 and that her “unclean hands” should pre-
+clude her recovering damages here. 90 Rick also argues that he
+was not the sole manager of either Berkshire Family Building
+or Berkshire &amp; Burmeister and that neither of those entities is
+a party to this lawsuit. The appellees argue that the evidence
+supported awarding Berkshire Partnership $214,869 in dam-
+ages for the unpaid rent.
+   We see no error here. Under Nebraska law, a partner owes
+the partnership and the other partners duties of loyalty and care
+and must discharge his or her duties to the partnership and the
+other partners under the Uniform Partnership Act of 1998 and
+the partnership agreement consistently with the obligation of
+good faith and fair dealing. 91 The “fiduciary duties incident to
+the partnership relation” are “even more acute” for managing
+partners, 92 as the district court noted. As relevant here, failure
+to collect rent has been recognized by this and other courts
+to constitute a breach of fiduciary duty, particularly where a
+partner exercises control over a property without providing any
+relevant information about it. 93
+   That was essentially the situation here. Rick admits he
+failed to collect rent, and he provided Leslie and Laurie
+with only late and incomplete information about Berkshire
+Partnership and Berkshire Family Building, as noted above and
+explained below. Rick does argue, in essence, that he did not
+have sole control of Berkshire Family Building or Berkshire
+&amp; Burmeister. Rick testified to that effect at the trial, stating
+89
+   </pre><span class="citation no-link">Id.</span><pre class="inline">
+90
+   Id. at 44.
+91
+   </pre><span class="citation no-link">Neb. Rev. Stat. § 67-424</span><pre class="inline">(4) (Reissue 2018).
+92
+   59A Am. Jur. 2d Partnership § 278 at 395 (2015).
+93
+   See, e.g., In re Estate of Forgey, </pre><span class="citation" data-id="4272671"><a href="/opinion/4495418/in-re-estate-of-forgey/" aria-description="Citation for case: In re Estate of Forgey">298 Neb. 865</a></span><pre class="inline">, </pre><span class="citation no-link">906 N.W.2d 618</span><pre class="inline"> (2018);
+   Patten v. Torosian, No. F087603, </pre><span class="citation no-link">2025 WL 1273514</span><pre class="inline"> (Cal. App. May 1,
+   2025) (unpublished opinion); Matter of Estate of Robinson, No. 80110-4-I,
+   </pre><span class="citation no-link">2020 WL 4284707</span><pre class="inline"> (Wash. App. July 27, 2020) (unpublished opinion listed
+   at </pre><span class="citation no-link">13 Wash. App. 2d 1138</span><pre class="inline"> (2025)).
+                                - 516 -
+          Nebraska Supreme Court Advance Sheets
+                   322 Nebraska Reports
+                      BERKSHIRE v. BERKSHIRE
+                         Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+that he, Laurie, and Burmeister were “the management com-
+pany of Berkshire Family Building” and that Burmeister was
+also a managing partner of Berkshire &amp; Burmeister. However,
+there was evidence to the contrary, particularly as to Berkshire
+Family Building. Its operating agreement named Rick as
+“[t]he initial [m]anager and [p]resident,” and Rick alone signed
+the relevant lease agreements as “[m]anager” of Berkshire
+Family Building and “[m]anaging [p]artner” of Berkshire &amp;
+Burmeister. There was also conflicting evidence about the
+costs that Laurie’s winding down of her law practice may have
+imposed on Berkshire &amp; Burmeister.
+    The fact that Berkshire Family Building and Berkshire &amp;
+Burmeister were not named as parties is immaterial. In his
+brief on appeal, Rick cites a case in which we found that
+jurisdiction was lacking due to the absence of an indispensable
+party to the controversy, 94 with the apparent implication that
+such was the case here. However, that case involved a quiet
+title action. 95 It was not an action for breach of fiduciary duty,
+as was the case here, and we are aware of no authority that
+holds that all parties with whom a partner engaged in alleg-
+edly improper transactions must be a party to a lawsuit for the
+partner to be held liable for breach of fiduciary duty. Further,
+we note that the district court did not enter a judgment against
+Berkshire &amp; Burmeister for unpaid rent. Had it done so, our
+analysis may have differed.
+
+         7. Improper Cash and ATM Withdrawals
+              From Berkshire Family Building
+   Rick claims that the district court erred in ordering him
+to pay $199,793.26 in damages to Berkshire Partnership for
+improper cash and ATM withdrawals from Berkshire Family
+Building. Rick raises various arguments in support of this
+94
+   See Midwest Renewable Energy v. American Engr. Testing, </pre><span class="citation" data-id="4178010"><a href="/opinion/4400757/midwest-renewable-energy-v-american-engr-testing/" aria-description="Citation for case: Midwest Renewable Energy v. American Engr. Testing">296 Neb. 73</a></span><pre class="inline">,
+   </pre><span class="citation" data-id="4178010"><a href="/opinion/4400757/midwest-renewable-energy-v-american-engr-testing/" aria-description="Citation for case: Midwest Renewable Energy v. American Engr. Testing">894 N.W.2d 221</a></span><pre class="inline"> (2017).
+95
+   See </pre><span class="citation" data-id="4178010"><a href="/opinion/4400757/midwest-renewable-energy-v-american-engr-testing/" aria-description="Citation for case: Midwest Renewable Energy v. American Engr. Testing">id.</a></span><pre class="inline">
+                                  - 517 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+claim, including the argument that the damages were unwar-
+ranted because (1) “there was no evidence that [he] personally
+had anything to do with the withdrawal[s]”; (2) the appel-
+lees “provided no evidence regarding [the withdrawals], other
+than [Korth’s] categorizing them as ‘improper’”; and (3) the
+“expenditures” could have been for the construction or reno-
+vation of one of the residential properties owned by Berkshire
+Family Building. 96 The appellees disagree.
+   [18,19] We again see no error. Rick’s arguments to the
+contrary seem to be premised, in part, on a misunderstanding
+of his fiduciary duties as a managing partner and of who has
+the burden of proof in a case such as this. As we have previ-
+ously explained, a managing partner having exclusive control
+of a partnership business not only controls production, sales,
+and distribution of products but is responsible for keeping all
+records and books of account, and he or she is required to
+account to the partnership for any benefit or profit derived
+from any transaction connected with the formation, operation,
+or liquidation of the partnership or from any use by him or
+her of its property. 97 Relatedly, albeit in a somewhat differ-
+ent context, we have explained that although the burden is
+ordinarily upon the party seeking an accounting to produce
+evidence to sustain the accounting, when another person is
+in control of the books and has managed the business, that
+other person is in the position of a trustee and must make a
+proper accounting. 98
+   In other words, it was Rick, and not the appellees, who had
+the burden to account for the withdrawals here, and to the
+extent that there was no evidence of the purpose of those with-
+drawals, that defect is chargeable to Rick and not the appel-
+lees. However, we also note the evidence here showed that a
+96
+   Brief for appellant at 45.
+97
+   Essay v. Essay, </pre><span class="citation" data-id="1824695"><a href="/opinion/1824695/essay-v-essay/" aria-description="Citation for case: Essay v. Essay">175 Neb. 689</a></span><pre class="inline">, </pre><span class="citation" data-id="1824695"><a href="/opinion/1824695/essay-v-essay/" aria-description="Citation for case: Essay v. Essay">123 N.W.2d 20</a></span><pre class="inline"> (1966).
+98
+   Trieweiler v. Sears, </pre><span class="citation" data-id="2099674"><a href="/opinion/2099674/trieweiler-ex-rel-varsity-investments-inc-v-sears/" aria-description="Citation for case: Trieweiler Ex Rel. Varsity Investments, Inc. v. Sears">268 Neb. 952</a></span><pre class="inline">, </pre><span class="citation" data-id="2099674"><a href="/opinion/2099674/trieweiler-ex-rel-varsity-investments-inc-v-sears/" aria-description="Citation for case: Trieweiler Ex Rel. Varsity Investments, Inc. v. Sears">689 N.W.2d 807</a></span><pre class="inline"> (2004).
+                                   - 518 -
+              Nebraska Supreme Court Advance Sheets
+                       322 Nebraska Reports
+                           BERKSHIRE v. BERKSHIRE
+                              Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+person to whom Rick had given a Berkshire Family Building
+ATM card ran up $199,793 in charges over a 2½-year period
+and that those expenses were not clearly shown to have been
+for business purposes. Rick testified that he did not person-
+ally benefit from these withdrawals, but he conceded that he
+did not monitor the individual closely “enough to prevent this
+fraud.” Rick also admitted in his deposition that he never tried
+to recover the funds.
+   A similar mistake underlies Rick’s arguments that the award
+of damages was improper, because insofar as Laurie was
+awarded damages “only for the reason that she was a manager”
+of Berkshire Family Building, (1) Burmeister was also owed
+damages, but is not a party to the case, and (2) none of the other
+appellees should recover any damages, because they were not
+managers of or partners in Berkshire Family Building. 99 The
+damages in question were awarded to Berkshire Partnership
+for Rick’s breach of his fiduciary duty to the partnership, and
+not to Laurie as a purported manager or partner of Berkshire
+Family Building.
+   As to Rick’s remaining arguments, we have previously
+found there to be no merit to the arguments that (1) Berkshire
+Family Building is not a party to this suit, (2) Laurie and
+Burmeister were also managers of Berkshire Family Building,
+and (3) the transactions in question occurred outside the statu-
+tory limitation period.
+               8. Unreported Transfers From
+                 Berkshire Family Building
+   Rick claims that the district court erred in awarding
+Berkshire Partnership $1,014,960.18 in damages for “unre-
+ported transfers” from Berkshire Family Building. Rick argues
+that the damages were unwarranted because, among other
+things: (1) the transfers were actually reported insofar as
+Korth was able to identify them; (2) the complaint claims that
+99
+     Brief for appellant at 45.
+                             - 519 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                    BERKSHIRE v. BERKSHIRE
+                       Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+Rick failed to account to Berkshire Partnership for income
+received from Berkshire Family Building, but the appellees
+failed to prove there was any such income; and (3) Laurie,
+as a manager of Berkshire Family Building, was responsible
+for any failure here and had ample opportunities to discover
+why no income was being paid to Berkshire Partnership. The
+appellees argue primarily that the evidence supported the dis-
+trict court’s ruling.
+   We agree with the appellees that the evidence supported
+the conclusion that Rick was liable to Berkshire Partnership
+for $1,014,960.18 in damages due to “unreported transfers.”
+Starting at trial and continuing through his brief on appeal,
+Rick has raised issues with the word “unreported” that miss
+the mark. Ultimately, whatever label is applied to these trans-
+actions, the evidence showed that there was no documentation
+of the sort that one would expect with payments or loans that,
+combined, totaled over $1 million, especially when many of
+those payments or loans involved businesses in which Rick or
+his friends had interests. Rick and his witness did testify that
+work was performed that was not invoiced and that loans were
+made without promissory notes. But Rick, as the managing
+partner, had the burden of accounting for these transfers and
+failed to do so in any meaningful fashion.
+   We take a similar view of Rick’s claim that, in essence,
+Laurie is equally responsible. There was conflicting evidence
+as to whether Rick was the sole manager of Berkshire Family
+Building, as noted above. There was also conflicting evidence
+as to Laurie’s access to Berkshire Partnership’s financial
+records. In a nutshell, while certain documents may have
+been available to Laurie on a shared computer drive at the
+law firm, there was no evidence the other general partners
+had access to that drive. Also, the evidence showed that cer-
+tain documents were not available to Leslie and Laurie. For
+that reason, among others, Rick’s reliance on the proposition
+that “[a] defrauded party must be diligent and prudent in his
+                                 - 520 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+effort to detect the fraud and means of knowledge thereof are
+equivalent to knowledge” is inapplicable here. 100
+   Rick’s remaining argument, that Berkshire Family Building
+is not a party to this action, is without merit for the reasons set
+forth above.
+                9. Direct Withdrawals From
+                   Berkshire Partnership
+   Rick claims that the district court erred in awarding
+Berkshire Partnership $253,645.61 in damages for direct with-
+drawals from the partnership. Rick argues that the award was
+unwarranted because the withdrawals were “reflected in the
+accountings which [Korth] had available to him” and in Rick’s
+own accountings. 101 As such, Rick seems to suggest that there
+was no issue with the withdrawals. Rick also raises issues
+with Korth’s report, among other things. The appellees argue
+that the evidence supported the award of $253,645.61 in dam-
+ages for direct withdrawals from the partnership.
+   Once more, we see no error here. As Korth’s testimony
+made clear, the issue with these withdrawals was not that the
+amounts and dates of the withdrawals could not be identified.
+Instead, Korth testified that there was “‘no explanation’” for
+the transfers and that “‘they do not appear to be for amounts
+owed by Berkshire Partnership for business purposes.’” In
+his brief on appeal, Rick identifies the purpose of all these
+withdrawals except for the two withdrawals that the appel-
+lees stipulated were legitimate expenses. Rick asserts that
+insofar as Korth “claimed he could not figure out what the
+expenditures were for,” the appellees failed to meet their bur-
+den of proof, “especially given the fact that [Korth] included
+2 expenditures that he readily admitted were incorrect.” 102
+However, as explained above, it was Rick, and not the
+100
+    </pre><span class="citation no-link">Id.</span><pre class="inline"> at 10 (citing Abels v. Bennet, </pre><span class="citation" data-id="2129579"><a href="/opinion/2129579/abels-v-bennett/" aria-description="Citation for case: Abels v. Bennett">158 Neb. 699</a></span><pre class="inline">, </pre><span class="citation" data-id="2129579"><a href="/opinion/2129579/abels-v-bennett/" aria-description="Citation for case: Abels v. Bennett">64 N.W.2d 481</a></span><pre class="inline"> (1954)
+    (dispute over deed)).
+101
+    Brief for appellant at 47.
+102
+    Id. at 48.
+                                 - 521 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+appellees, who had the burden to account for these withdraw-
+als and show that they were for business purposes.
+   Rick also argues that he did not get Korth’s report until
+shortly before trial and that the report “contained hundreds of
+line-item transactions out of thousands which occurred over the
+previous 14 years.” 103 The first of these arguments is without
+merit for the reasons set forth above. As to the second, had
+Rick performed his duties as managing partner over the years,
+it would have been much easier for him to explain the nature
+of particular transactions.
+   That leaves only Rick’s claim that because Berkshire
+Partnership had limited cash assets, the only way he could
+have withdrawn over $200,000 from the partnership was by
+borrowing against the margin account. As such, he claims
+that the district court’s ruling here effectively requires him
+to “pay twice” for the same withdrawals that counted against
+him in the court’s ruling on his capital accounts. 104 However,
+Rick cites nothing in the record before us on appeal to show
+that the amounts in question were actually counted against
+him twice.
+
+                      10. Attorney Fees
+   Rick claims that the district court erred in awarding attorney
+fees to the appellees. Relying on a statute 105 that addresses
+the award of attorney fees in judicial proceedings “involving
+the administration of a trust” and an opinion 106 of this court
+construing that statute, Rick argues that the appellees should
+not have been awarded attorney fees because he gave them
+“access to all accounting information” before they filed suit. 107
+103
+    Id. at 47.
+104
+    Id. at 49.
+105
+    See, </pre><span class="citation no-link">Neb. Rev. Stat. § 30-3893</span><pre class="inline"> (Reissue 2016).
+106
+    In re Rolf H. Brennemann Testamentary Trust, </pre><span class="citation" data-id="2680766"><a href="/opinion/2680766/in-re-rolf-h-brennemann-testamentary-trust/" aria-description="Citation for case: In re Rolf H. Brennemann Testamentary Trust">288 Neb. 389</a></span><pre class="inline">, </pre><span class="citation no-link">849 N.W.2d
+    458</span><pre class="inline"> (2014).
+107
+    Brief for appellant at 38.
+                                 - 522 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                       BERKSHIRE v. BERKSHIRE
+                          Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+The appellees argue that the district court did not err in award-
+ing them attorney fees, because they generally prevailed on
+their claims, which were “derivative in nature.” 108 As such, the
+appellees claim that they were entitled to attorney fees under
+§ 67-291 and our opinions construing that statute. 109
+   [20] As a general rule, attorney fees and expenses may be
+recovered in a civil action only where provided for by statute or
+when a recognized and accepted uniform course of procedure
+has been to allow recovery of attorney fees. 110 Customarily,
+attorney fees are awarded only to prevailing parties or assessed
+against those who file frivolous suits. 111
+   We agree with the district court that the appellees generally
+prevailed here, even if they did not succeed on every claim,
+as Rick argues. The question is whether a statute provides for
+attorney fees. Insofar as Rick relies on § 30-3893 in argu-
+ing that the district court erred in awarding attorney fees, we
+disagree. Rick’s argument is premised on the view that this
+proceeding was a proceeding “involving the administration
+of a trust.” 112 However, that view is incorrect for the reasons
+set forth above. As such, Rick’s sole argument as to why the
+district court erred in awarding attorney fees is inapposite.
+   Before the district court, Rick did argue that the appellees
+were not entitled to attorney fees under § 67-291 because
+this was not a derivative action and because the appellees
+did not distinguish between the fees associated with success-
+ful claims and those associated with unsuccessful claims, as
+Rick argues is required under a prior opinion of this court. 113
+Rick does not renew that argument on appeal. As such, we
+108
+    Brief for appellees at 30.
+109
+    See, e.g., Fitzgerald v. Community Redevelopment Corp., </pre><span class="citation no-link">283 Neb. 428</span><pre class="inline">,
+    </pre><span class="citation no-link">811 N.W.2d 178</span><pre class="inline"> (2012).
+110
+    Beatty v. Poitier, </pre><span class="citation" data-id="11062144"><a href="/opinion/10595556/beatty-v-poitier/" aria-description="Citation for case: Beatty v. Poitier">319 Neb. 56</a></span><pre class="inline">, </pre><span class="citation no-link">21 N.W.3d 295</span><pre class="inline"> (2025).
+111
+    Mann v. Mann, </pre><span class="citation" data-id="10465952"><a href="/opinion/9999351/mann-v-mann/" aria-description="Citation for case: Mann v. Mann">316 Neb. 910</a></span><pre class="inline">, </pre><span class="citation no-link">7 N.W.3d 845</span><pre class="inline"> (2024).
+112
+    See § 30-3893.
+113
+    See Fitzgerald, supra note 109.
+                                   - 523 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+decline to review it. 114 An alleged error must be both spe-
+cifically assigned and specifically argued in the brief of
+the party asserting the error, 115 and Rick failed to argue any
+error related to the district court’s conclusion that this was a
+derivative action.
+
+          11. Request for Specific Findings of Fact
+   Rick claims that the district court erred in overruling his
+request for specific findings of fact. Rick argues that this
+appeal “could have been avoided” if that request had been
+granted and the district court had made the factual findings he
+sought. 116 The appellees argued that the district court did not
+err in overruling Rick’s request for specific findings of fact
+because the request was untimely.
+   We agree with the appellees that there was no error here
+because Rick’s request was untimely. We have long opined that
+in a case tried to the court without a jury, such as this one, a
+motion for specific findings of fact pursuant to Nebraska stat-
+ute 117 must be made before the final submission of the case to
+the court. 118 “[F]inal submission” is a legal term of art, denot-
+ing that the matter has been submitted for a verdict. 119 The final
+114
+    See, e.g., State v. Lowman, </pre><span class="citation" data-id="4688942"><a href="/opinion/4885163/state-v-lowman/" aria-description="Citation for case: State v. Lowman">308 Neb. 482</a></span><pre class="inline">, </pre><span class="citation" data-id="4688942"><a href="/opinion/4885163/state-v-lowman/" aria-description="Citation for case: State v. Lowman">954 N.W.2d 905</a></span><pre class="inline"> (2021)
+    (court limiting its analysis of claim that evidence was insufficient to
+    support verdict to argument concerning machete’s being concealed weapon
+    because that was only argument raised in brief on appeal); Adair Holdings
+    v. Johnson, </pre><span class="citation" data-id="4520150"><a href="/opinion/4739803/adair-holdings-v-johnson/" aria-description="Citation for case: Adair Holdings v. Johnson">304 Neb. 720</a></span><pre class="inline">, </pre><span class="citation" data-id="4520150"><a href="/opinion/4739803/adair-holdings-v-johnson/" aria-description="Citation for case: Adair Holdings v. Johnson">936 N.W.2d 517</a></span><pre class="inline"> (2020) (similar); In re Claims
+    Against Pierce Elevator, </pre><span class="citation" data-id="2924336"><a href="/opinion/2924336/in-re-claims-against-pierce-elevator/" aria-description="Citation for case: In re Claims Against Pierce Elevator">291 Neb. 798</a></span><pre class="inline">, </pre><span class="citation no-link">868 N.W.2d 781</span><pre class="inline"> (2015) (similar).
+115
+    State v. Lopez, </pre><span class="citation" data-id="11299758"><a href="/opinion/10832420/state-v-lopez/" aria-description="Citation for case: State v. Lopez">321 Neb. 118</a></span><pre class="inline">, </pre><span class="citation no-link">32 N.W.3d 868</span><pre class="inline"> (2026).
+116
+    Brief for appellant at 50.
+117
+    See </pre><span class="citation no-link">Neb. Rev. Stat. § 25-1127</span><pre class="inline"> (Reissue 2016).
+118
+    See, e.g., Cullinane v. Beverly Enters. - Neb., </pre><span class="citation" data-id="4311539"><a href="/opinion/4534286/cullinane-v-beverly-enters-neb/" aria-description="Citation for case: Cullinane v. Beverly Enters. - Neb.">300 Neb. 210</a></span><pre class="inline">, </pre><span class="citation" data-id="4284725"><a href="/opinion/4507472/cullinane-v-beverly-enters-neb-inc/" aria-description="Citation for case: Cullinane v. Beverly Enters.-Neb., Inc.">912 N.W.2d
+    774</a></span><pre class="inline"> (2018); Stuczynski v. Stuczynski, </pre><span class="citation" data-id="2042002"><a href="/opinion/2042002/stuczynski-v-stuczynski/" aria-description="Citation for case: Stuczynski v. Stuczynski">238 Neb. 368</a></span><pre class="inline">, </pre><span class="citation" data-id="2042002"><a href="/opinion/2042002/stuczynski-v-stuczynski/" aria-description="Citation for case: Stuczynski v. Stuczynski">471 N.W.2d 122</a></span><pre class="inline">
+    (1991); In re Estate of Wiley, </pre><span class="citation" data-id="8039283"><a href="/opinion/8080154/shearer-v-brumbaugh/" aria-description="Citation for case: Shearer v. Brumbaugh">150 Neb. 898</a></span><pre class="inline">, </pre><span class="citation" data-id="8039283"><a href="/opinion/8080154/shearer-v-brumbaugh/" aria-description="Citation for case: Shearer v. Brumbaugh">36 N.W.2d 483</a></span><pre class="inline"> (1949); State,
+    ex rel. Sorensen, v. Mitchell Irrigation District, </pre><span class="citation" data-id="8036315"><a href="/opinion/8077419/state-ex-rel-sorensen-v-mitchell-irrigation-district/" aria-description="Citation for case: State ex rel. Sorensen v. Mitchell Irrigation District">129 Neb. 586</a></span><pre class="inline">, </pre><span class="citation" data-id="8036315"><a href="/opinion/8077419/state-ex-rel-sorensen-v-mitchell-irrigation-district/" aria-description="Citation for case: State ex rel. Sorensen v. Mitchell Irrigation District">262 N.W.
+    543</a></span><pre class="inline"> (1935); Ross v. Barker, </pre><span class="citation" data-id="6652871"><a href="/opinion/6770025/ross-v-barker/" aria-description="Citation for case: Ross v. Barker">58 Neb. 402</a></span><pre class="inline">, </pre><span class="citation" data-id="6652871"><a href="/opinion/6770025/ross-v-barker/" aria-description="Citation for case: Ross v. Barker">78 N.W. 730</a></span><pre class="inline"> (1899).
+119
+    See Black’s Law Dictionary 747 (10th ed. 2014).
+                                  - 524 -
+           Nebraska Supreme Court Advance Sheets
+                    322 Nebraska Reports
+                        BERKSHIRE v. BERKSHIRE
+                           Cite as </pre><span class="citation no-link">322 Neb. 477</span><pre class="inline">
+
+submission of this case occurred no later than December 8,
+2023, when Rick’s posttrial brief containing his closing argu-
+ments was filed with the district court. However, Rick did not
+make his request for specific findings of fact until May 14,
+2024, over 5 months after the filing of his posttrial brief.
+   Also, even if Rick’s motion had been timely, its overrul-
+ing “could not be error in an equity case that would require a
+reversal and retrial.” 120 While the findings of fact and conclu-
+sions of law Rick sought could have been helpful to us, their
+absence, even when requested, cannot be prejudicial because
+we review claims of breach of fiduciary duty de novo. 121 In
+addition, for the sake of completeness, we note that we have
+previously ruled that the relevant statute does not obligate the
+trial court to “answer specific interrogatories propounded to it
+by a litigant,” like those Rick presented to the district court. 122
+Instead, it obligates the trial court to “make such specific
+findings of fact as the trial court concludes are appropriate
+and necessary to resolve the action.” 123
+                      VI. CONCLUSION
+  We conclude that we have jurisdiction over this appeal,
+and all matters raised in it, and that Rick’s claims are without
+merit. As such, we affirm the order of the district court.
+                                                    Affirmed.
+120
+    See In re Estate of Wiley, supra note 118, </pre><span class="citation" data-id="8039283"><a href="/opinion/8080154/shearer-v-brumbaugh/#914" aria-description="Citation for case: Shearer v. Brumbaugh">150 Neb. at 914</a></span><pre class="inline">, </pre><span class="citation" data-id="8039283"><a href="/opinion/8080154/shearer-v-brumbaugh/#493" aria-description="Citation for case: Shearer v. Brumbaugh">36 N.W.2d
+    at 493</a></span><pre class="inline">. See, also, Fee v. Fee, </pre><span class="citation" data-id="1254312"><a href="/opinion/1254312/fee-v-fee/" aria-description="Citation for case: Fee v. Fee">223 Neb. 128</a></span><pre class="inline">, </pre><span class="citation" data-id="1254312"><a href="/opinion/1254312/fee-v-fee/" aria-description="Citation for case: Fee v. Fee">388 N.W.2d 122</a></span><pre class="inline"> (1986)
+    (conclusions of fact and law are mandatory when requested in law action,
+    but are merely helpful in equity actions because appellate court reviews
+    record de novo and reaches conclusions independent of trial court).
+121
+    See In re Estate of Wiley, supra note 118.
+122
+    Lindgren v. City of Gering, </pre><span class="citation" data-id="2222462"><a href="/opinion/2222462/lindgren-v-city-of-gering/#371" aria-description="Citation for case: Lindgren v. City of Gering">206 Neb. 360, 371</a></span><pre class="inline">, </pre><span class="citation" data-id="2222462"><a href="/opinion/2222462/lindgren-v-city-of-gering/#927" aria-description="Citation for case: Lindgren v. City of Gering">292 N.W.2d 921, 927</a></span><pre class="inline">
+    (1980).
+123
+    </pre><span class="citation" data-id="2222462"><a href="/opinion/2222462/lindgren-v-city-of-gering/" aria-description="Citation for case: Lindgren v. City of Gering">Id.</a></span><pre class="inline">
+</pre>

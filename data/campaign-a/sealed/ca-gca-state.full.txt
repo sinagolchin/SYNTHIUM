@@ -1,0 +1,633 @@
+<pre class="inline">                                                                                     10/13/2026
+
+
+                                        DA 25-0808
+                                                                                 Case Number: DA 25-0808
+
+
+             IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                        </pre><span class="citation no-link">2026 MT 243</span><pre class="inline">
+
+
+
+GATEWAY CONSERVATION ALLIANCE,
+
+             Plaintiff and Appellant,
+
+     v.
+
+STATE OF MONTANA, and MONTANA
+DEPARTMENT OF ENVIRONMENTAL
+QUALITY,
+
+             Defendant and Appellee,
+
+TMC, Inc.,
+
+             Intervenor and Appellee.
+
+
+
+APPEAL FROM:         District Court of the Eighteenth Judicial District,
+                     In and For the County of Gallatin, Cause No. DV-2024-838A
+                     Honorable Peter B. Ohman, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+              For Appellant:
+
+                     Robert Farris-Olsen, David K. W. Wilson, Jr., Morrison Sherwood
+                     Wilson Deola, PLLP, Helena, Montana
+
+                     Graham Coppes, Emily Wilmott, Anders K. Newbury, Ferguson and
+                     Coppes, PLLC, Missoula, Montana
+
+              For Appellee Montana Department of Environmental Quality:
+
+                     Samuel King, Jeremiah Langston, Kaitlin Whitfield, Department of
+                     Environmental Quality, Helena, Montana
+         For Appellee TMC, Inc.:
+
+               Mark L. Stermitz, Crowley Fleck PLLP, Missoula, Montana
+
+         For Amicus Curiae Montana Contractors Association:
+
+               Brian P. Thompson, Hallee C. Frandsen, Browning, Kaleczyc, Berry
+               &amp; Hoven, P.C., Helena, Montana
+
+
+                                         Submitted on Briefs: August 5, 2026
+
+                                                   Decided: October 13, 2026
+
+
+Filed:
+
+               __________________________________________
+                                Clerk
+
+
+
+
+                                     2
+Justice Beth Baker delivered the Opinion of the Court.
+
+¶1     Appellant Gateway Conservation Alliance (Gateway) appeals the Eighteenth
+
+Judicial District Court’s dismissal of its complaint for failure to exhaust administrative
+
+remedies. We conclude that Gateway may challenge the constitutionality of the statute
+
+authorizing the DEQ permit at issue only after completing its administrative appeal before
+
+the Board of Environmental Review. We therefore affirm.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶2     In March 2024, the Montana Department of Environmental Quality (“DEQ”)
+
+approved Opencut Permit #3462 (“Permit 3462”). TMC, Inc., which applied for the permit
+
+in May 2023, plans to mine clay, gravel, and sand at the “Black Site” in Gallatin County,
+
+Montana, for twenty years.
+
+¶3     Opencut mines must conform to The Opencut Mining Act (“the Act”), codified at
+
+Title 82, chapter 4, part 4, MCA. The Act is intended to “provide adequate remedies for
+
+the protection of the environment[] . . . from degradation and . . . to prevent . . . [the]
+
+degradation of natural resources.” Section 82-4-402(1), MCA. DEQ is responsible under
+
+the Act for determining whether to grant or deny opencut mining permits.
+
+Section 82-4-422(1)(a), MCA.       During the 2021 Montana Legislative Session, the
+
+Legislature passed House Bill 599 revising opencut mining laws to “provid[e] less stringent
+
+applications for certain opencut operations[.]”
+
+¶4     The contested case provisions of the Montana Administrative Procedure Act
+
+(“MAPA”) apply to permits issued under the Act. Section 82-4-427(4), MCA. A person
+
+seeking to appeal approval of a permit application must submit a written request to the
+
+                                             3
+Board of Environmental Review (“Board”) within 30 days of DEQ’s decision.
+
+Section 82-4-427(1)(a), MCA. Gateway filed a notice of appeal with the Board in
+
+March 2024. Gateway claimed that Permit 3462 violates the Act’s intentions, ground
+
+water requirements, plan of operation requirements, and the requirement that DEQ verify
+
+information submitted by the applicant. Gateway requested that the Board find that DEQ
+
+violated statutory requirements and set aside the approval of Permit 3462.
+
+¶5     Four months after filing its administrative appeal, Gateway filed a complaint against
+
+DEQ in Gallatin County District Court, while the appeal was pending before the Board.1
+
+Gateway asserted that the HB 599 amendments to the Act violated the right to a clean and
+
+healthful environment under Article II, Section 3 of the Montana Constitution. Gateway
+
+sought a declaration that HB 599 is unconstitutional, a permanent injunction against its
+
+enforcement, and vacatur of Permit 3462. TMC intervened with leave of court.
+
+¶6     DEQ moved to dismiss Gateway’s constitutional challenge to HB 599 because
+
+Gateway did not exhaust its administrative remedies in accordance with MAPA. The
+
+District Court agreed and granted the DEQ’s motion to dismiss. Gateway now appeals.
+
+This Court granted the Montana Contractors Association leave to file an amicus curiae
+
+brief supporting DEQ’s position.
+
+
+
+
+1
+  Gateway also filed a separate action challenging DEQ’s Environmental Assessment in the
+District Court simultaneously with its challenge to the Board. That action is not involved in this
+appeal.
+                                                4
+                              STANDARDS OF REVIEW
+
+¶7     “We review de novo a district court’s ruling on a M. R. Civ. P. 12(b)(6) motion to
+
+dismiss.” Roaring Lion Ranch, LLC v. YC Properties, </pre><span class="citation" data-id="11281166"><a href="/opinion/10814412/roaring-lion-v-yc-properties/#10" aria-description="Citation for case: Roaring Lion v. YC Properties">2026 MT 60, ¶ 10</a></span><pre class="inline">, </pre><span class="citation no-link">427 Mont. 201</span><pre class="inline">,
+
+</pre><span class="citation no-link">586 P.3d 278</span><pre class="inline">. We review a district “court’s decision that a party failed to exhaust
+
+administrative remedies” for correctness as a conclusion of law. Flowers v. Bd. of Pers.
+
+Appeals, Mont. Dep’t of Fish, Wildlife, &amp; Parks, </pre><span class="citation" data-id="4540221"><a href="/opinion/4759874/flowers-v-board-of-personnel-appeals/#6" aria-description="Citation for case: Flowers v. Board of Personnel Appeals">2020 MT 150, ¶ 6</a></span><pre class="inline">, </pre><span class="citation" data-id="4540221"><a href="/opinion/4759874/flowers-v-board-of-personnel-appeals/" aria-description="Citation for case: Flowers v. Board of Personnel Appeals">400 Mont. 238</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="4540221"><a href="/opinion/4759874/flowers-v-board-of-personnel-appeals/" aria-description="Citation for case: Flowers v. Board of Personnel Appeals">465 P.3d 210</a></span><pre class="inline">.
+
+                                     DISCUSSION
+
+¶8     Section 2-4-702(1)(a), MCA, allows judicial review in a contested agency case after
+
+the exhaustion of all available administrative remedies. A party generally may not raise
+
+any question not raised in front of the agency without a showing of good cause.
+
+Section 2-4-702(1)(b), MCA. The statute provides, however, that “[a] party who proceeds
+
+before an agency under the terms of a particular statute may not be precluded from
+
+questioning the validity of that statute on judicial review[.]” Section 2-4-702(1)(b), MCA.
+
+And an agency action “is immediately reviewable if review of the final agency decision
+
+would not provide an adequate remedy.” Section 2-4-701, MCA.
+
+¶9     The District Court looked to City of Great Falls v. Int’l Ass’n of Fire Fighters,
+
+</pre><span class="citation" data-id="10757937"><a href="/opinion/10291349/great-falls-v-assoc-of-firefighters/" aria-description="Citation for case: Great Falls v. Assoc. of Firefighters">2024 MT 302</a></span><pre class="inline">, </pre><span class="citation no-link">419 Mont. 262</span><pre class="inline">, </pre><span class="citation no-link">560 P.3d 621</span><pre class="inline"> (City of Great Falls), for guidance in
+
+considering DEQ’s motion to dismiss. The District Court explained that although City of
+
+Great Falls recognized a facial constitutional challenge to the administrative scheme as an
+
+exception to exhaustion requirements, the exception was not present in Gateway’s case.
+
+
+
+                                            5
+¶10    In City of Great Falls, the City imposed a new drug and alcohol policy on all
+
+employees, including union members subject to a collective bargaining agreement. City of
+
+Great Falls, ¶ 3. The City failed to obtain the consent of the unions and denied demands
+
+for collective bargaining regarding the new policy. City of Great Falls, ¶ 3. The unions
+
+began filing individual labor practice complaints with the Montana Board of Personnel
+
+Appeals (“MBPA”). City of Great Falls, ¶ 4. The MBPA consolidated the complaints for
+
+a contested case administrative hearing and adjudication. City of Great Falls, ¶ 5. The
+
+agency hearing examiner issued a decision in favor of the unions. City of Great Falls, ¶ 6.
+
+Rather than file exceptions to the proposed decision and order for final MBPA review, the
+
+City petitioned the district court for judicial review under § 2-4-701, MCA. City of Great
+
+Falls, ¶ 7. In district court, the City argued that assertions of error for pure questions of
+
+law are exempt from administrative remedy as required by § 2-4-702(1)(a), MCA. City of
+
+Great Falls, ¶ 7. The City also argued that waiting for review of a final agency decision
+
+by a “non-judicial board” would not remedy the asserted errors of law and would “not be
+
+in the interests of judicial economy.” City of Great Falls, ¶ 7. The unions responded that
+
+the City could not circumvent the exhaustion requirement and distinguished the case from
+
+prior cases that allowed exception from administrative exhaustion. City of Great Falls,
+
+¶ 7. The district court dismissed the City’s petition for failure to exhaust administrative
+
+remedies in accordance with the remedy provided under the requirements of the Unfair
+
+Labor Practices Act. City of Great Falls, ¶ 7.
+
+¶11    On appeal, this Court reasoned that “a sweeping jurisprudential pure question of
+
+law, or narrower pure question of constitutional law, exception to § 2-4-702(1)(a), MCA,
+
+                                             6
+would irreconcilably conflict with the authorized scope of the final agency review remedy
+
+expressly provided by [MAPA] . . . .” City of Great Falls, ¶ 28. A facial constitutional
+
+challenge must contest the administrative procedure to escape the exhaustion requirement.
+
+City of Great Falls, ¶¶ 28, 30. We clarified that a constitutional issue accompanied by
+
+assertions of error regarding correctness of an agency decision does not qualify for the
+
+exception to the exhaustion doctrine.         City of Great Falls, ¶ 23; see generally
+
+Shoemaker v. Denke, </pre><span class="citation" data-id="887045"><a href="/opinion/887045/shoemaker-v-denke/" aria-description="Citation for case: Shoemaker v. Denke">2004 MT 11</a></span><pre class="inline">, </pre><span class="citation" data-id="887045"><a href="/opinion/887045/shoemaker-v-denke/" aria-description="Citation for case: Shoemaker v. Denke">319 Mont. 238</a></span><pre class="inline">, </pre><span class="citation no-link">89 P.3d 4</span><pre class="inline"> (exception applies only to
+
+pure constitutional law questions not dependent on fact-based determinations in the
+
+jurisdiction of the agency to decide) (abrogated in part by City of Great Falls).
+
+¶12    Under § 82-4-427(1), MCA, “a person whose interests are or may be adversely
+
+affected by a final decision of the department to approve or disapprove a permit
+
+application . . . is entitled to a hearing before the board[.]” Gateway acknowledges that it
+
+was required to proceed under this statute but asserts that because its District Court
+
+complaint presents a “facial constitutional challenge,” it permissibly brought that claim
+
+independently. Gateway argues that exhaustion is not required because the District Court
+
+and the Board are considering different legal and factual questions and because exhaustion
+
+would be futile, as the Board has no authority to resolve a facial constitutional challenge.
+
+¶13    DEQ responds that Gateway’s complaint does not raise a pure question of
+
+constitutional law that challenged the administrative scheme. It instead challenges the
+
+statutory basis for the permit. DEQ argues that, in accordance with MAPA, Gateway
+
+cannot evade its contested case proceeding before the Board by filing a separate action in
+
+District Court because the request for declaratory relief is not independent of an agency
+
+                                             7
+action. TMC and the Montana Contractors Association likewise urge this Court to follow
+
+the rationale of City of Great Falls and affirm the District Court’s grant of DEQ’s motion
+
+to dismiss.
+
+¶14    Gateway’s appeal to the Board advanced various alleged violations of the Act
+
+specific to TMC’s permit application and the Black Site. Gateway requested that the Board
+
+set aside approval of Permit 3462 as unlawful and void.                 Gateway’s District Court
+
+complaint similarly recounts the alleged errors specific to TMC’s application and the Black
+
+Site in support of its request to declare HB 599 unconstitutional and vacate Permit 3462.2
+
+Gateway pleaded that its “constitutional rights to a clean and healthful environment and
+
+adequate remedies to prevent unreasonable environmental harms was infringed by []
+
+DEQ’s permitting of the Black [Site] . . . .” Both in its appeal to the Board and in its
+
+complaint before the District Court, Gateway requested vacatur of Permit 3462 because of
+
+its alleged unconstitutional or otherwise unlawful issuance.
+
+¶15    The District Court reasoned that “to have an adequate picture of the constitutional
+
+implications of the challenged statute, the [c]ourt needs facts that pertain to that question[]”
+
+presented to the agency.        As discussed in City of Great Falls, constitutional issues
+
+accompanied by assertions of error by an agency do not qualify for the exception to the
+
+exhaustion doctrine as a pure question of law. City of Great Falls, ¶ 23. Gateway’s
+
+
+
+
+2
+  Section 82-1-401, MCA, provides that “the plaintiff shall first establish the unconstitutionality
+of the underlying statute” prior to “invoking the [district] court’s original jurisdiction to challenge
+the constitutionality” of a permitting decision under Title 82. The parties do not cite this statute,
+but it does not in any event displace the administrative exhaustion requirement or the ability to
+petition properly for judicial review, at which time Gateway may bring its constitutional challenge.
+                                                  8
+constitutional challenge is not an independent claim for declaratory relief untethered to an
+
+agency action. The present case fits squarely within the scope of what we explained in
+
+City of Great Falls. Gateway’s constitutional claim is not a facial constitutional challenge
+
+to the administrative scheme but instead implicates the agency’s action specific to the
+
+challenged permit. Because of this, Gateway’s complaint does not fall within this Court’s
+
+recognized exception to administrative remedy exhaustion. City of Great Falls, ¶ 28.
+
+¶16    Gateway points out that the Board does not have the authority to decide
+
+constitutional issues in a declaratory judgment action. Gateway argues that, due to the
+
+jurisdiction conferred to the District Court and the doctrine of separation of powers,
+
+proceeding with its constitutional question in front of the Board is improper. DEQ counters
+
+that Gateway conflates the District Court’s jurisdiction to hear the constitutional question
+
+with the timing of when it may exercise that jurisdiction. DEQ argues that the Uniform
+
+Declaratory Judgment Act (“UDJA”) cannot be invoked to escape MAPA requirements.
+
+¶17    Immediate review of an agency action is available “if review of the final agency
+
+decision would not provide an adequate remedy.” Section 2-4-701, MCA. As stated
+
+above, parties who have “exhausted all administrative remedies available within the
+
+agency” and are “aggrieved by a final written decision in a contested case [are] entitled to
+
+judicial review[.]” Section 2-4-702(1)(a), MCA. The administrative remedy exhaustion
+
+requirement   “prevents    courts   from   ‘premature . . . entangl[ement] . . . in   abstract
+
+disagreements over [regulatory] policies’ . . . .” N. Star Dev., LLC v. Mont. Pub. Serv.
+
+Comm’n, </pre><span class="citation" data-id="6345603"><a href="/opinion/6473492/north-star-v-psc/#20" aria-description="Citation for case: North Star v. PSC">2022 MT 103, ¶ 20</a></span><pre class="inline">, </pre><span class="citation no-link">408 Mont. 498</span><pre class="inline">, </pre><span class="citation no-link">510 P.3d 1232</span><pre class="inline"> (alterations in original)
+
+(abrogated on other grounds by City of Great Falls). As noted, § 2-4-702(1)(b), MCA,
+
+                                             9
+allows the constitutional claim to be coupled with a petition for judicial review of the
+
+Board’s decision. We agree with Gateway that it did not waive its right to go to the district
+
+court by appealing DEQ’s permitting decision to the Board. But because Gateway filed its
+
+complaint without a final Board decision, administrative remedies have not been
+
+exhausted.
+
+¶18    Gateway attempts to liken its situation to Held v. State, </pre><span class="citation multiple-matches"><a href="/c/MT/2024/312/">2024 MT 312</a></span><pre class="inline">, </pre><span class="citation no-link">419 Mont.
+
+403</span><pre class="inline">, </pre><span class="citation" data-id="10763081"><a href="/opinion/10296493/r-held-v-state/" aria-description="Citation for case: R. Held v. State">560 P.3d 1235</a></span><pre class="inline">. It concedes, however, that “no underlying permit was at issue” in that
+
+case. Gateway also cites Mont. Env’t Info. Ctr. v. Dep’t of Env’t Quality, </pre><span class="citation" data-id="9510339"><a href="/opinion/884923/montana-environmental-information-center-v-department-of-environmental/" aria-description="Citation for case: Montana Environmental Information Center v. Department of...">1999 MT 248</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="9510339"><a href="/opinion/884923/montana-environmental-information-center-v-department-of-environmental/" aria-description="Citation for case: Montana Environmental Information Center v. Department of...">296 Mont. 207</a></span><pre class="inline">, </pre><span class="citation" data-id="9510339"><a href="/opinion/884923/montana-environmental-information-center-v-department-of-environmental/" aria-description="Citation for case: Montana Environmental Information Center v. Department of...">988 P.2d 1236</a></span><pre class="inline"> (MEIC), to support its contention that this Court has allowed
+
+facial challenges to proceed in the absence of an administrative proceeding. DEQ responds
+
+that Held is distinct from the current case because it involved a constitutional challenge
+
+that was independent from agency action.
+
+¶19    Gateway’s reliance on Held and MEIC is misplaced. Held did not involve a
+
+challenge to a specific permit. Held, ¶ 53. It instead involved a challenge to the Montana
+
+Environmental Policy Act, untethered to an ongoing agency action. Held, ¶ 5. MEIC also
+
+did not involve a pending administrative review; the plaintiffs there challenged an
+
+amendment to the Water Quality Act that excluded “certain activities from review pursuant
+
+to the act’s nondegradation policy[.]” MEIC, ¶ 37. Both of these cases thus presented a
+
+procedural posture distinct from the current case. MEIC, ¶ 17. In MEIC, we did not disturb
+
+the premise that parties are entitled to bring a direct action to enforce fundamental rights,
+
+and we need not do so here. MEIC, ¶¶ 28, 45. In this case, both actions seek invalidation
+
+
+
+                                             10
+of the same permit. Gateway’s pending administrative case requires it to comply with
+
+MAPA requirements before filing in the District Court.
+
+¶20    Section 2-4-702(1)(b), MCA, creates an exception to the exhaustion requirement for
+
+a party to question the validity of a particular statute. But the statute makes clear the
+
+required procedure and process. A party challenging an agency decision subject to MAPA
+
+first must bring its claims to the agency and obtain a final ruling. Once that final agency
+
+decision is issued, the aggrieved party may seek judicial review of (1) all questions raised
+
+before the agency, (2) the validity of the statute underlying the agency’s actions, and
+
+(3) upon a showing of “good cause,” “any other” question it did not first raise in the
+
+contested case proceeding. Section 2-4-702(1)(b), MCA. Therefore, though Gateway is
+
+correct that it does not have to litigate its constitutional claim to the Board, it does first
+
+have to exhaust its contested case proceeding on the permit. If the Board rules adversely,
+
+Gateway may petition for judicial review, at which time it may present the constitutional
+
+claim.3
+
+¶21    As City of Great Falls explained, this honors both the judiciary’s exclusive authority
+
+“to determine, interpret, or apply applicable statutory or constitutional law” and the
+
+Legislature’s express constitutional authority to “provide for direct review by the
+
+district court of decisions of administrative agencies.”            City of Great Falls, ¶ 28;
+
+Mont. Const. art. VII, § 4(2). “As an express procedural prerequisite for judicial review of
+
+
+3
+  Counsel for Gateway filed a notice of supplemental authority in this appeal on October 8, 2026,
+referencing two recent Montana district court decisions. Both decisions support our conclusion
+here that a facial constitutional challenge to a statute may be coupled with a petition for judicial
+review of the Board’s decision following a final decision by the Board.
+                                                11
+contested case agency decisions under §§ 2-4-702 through -704, MCA, the exhaustion of
+
+administrative remedies requirement of § 2-4-702(1)(a), MCA, is a threshold procedural
+
+justiciability requirement for exercise of that district court subject matter jurisdiction.” City
+
+of Great Falls, ¶ 18 (internal quotation marks and citations omitted).
+
+¶22    As we further clarified, an exception to MAPA’s exhaustion requirement may be
+
+found “only when the matter at issue involves a pure question of constitutional law, not
+
+accompanied by an issue regarding a fact-based determination within the pertinent
+
+jurisdiction of the agency to decide.” City of Great Falls, ¶ 23. In this action, Gateway
+
+challenges the Permit—its constitutional arguments are “accompanied by” issues regarding
+
+determinations within the Board’s jurisdiction. Section 2-4-702(1)(b), MCA, expressly
+
+preserves Gateway’s ability to raise its constitutional challenge on judicial review of any
+
+adverse Board decision.
+
+¶23    This Court long has recognized that “courts should avoid constitutional issues
+
+whenever possible.” In re License Revocation of Gildersleeve, </pre><span class="citation" data-id="884282"><a href="/opinion/884282/in-re-the-license-revocation-of-gildersleeve/#485" aria-description="Citation for case: In Re the License Revocation of Gildersleeve">283 Mont. 479, 485</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="884282"><a href="/opinion/884282/in-re-the-license-revocation-of-gildersleeve/#709" aria-description="Citation for case: In Re the License Revocation of Gildersleeve">942 P.2d 705, 709</a></span><pre class="inline"> (1997) (citation omitted). The District Court reasoned that if it issued
+
+“a ruling that agreed with [Gateway] that the statutory scheme is facially an environmental
+
+violation of constitutional proportions” and then the Board found no evidence of damage,
+
+“it would operate as a reversal of the facial challenge.” We agree with the District Court.
+
+Tethered as it is to Permit 3462 at issue, Gateway’s constitutional challenge may be mooted
+
+if the Board invalidates Permit 3462 on other grounds. This process thus harmonizes with
+
+our oft-invoked principle that the courts will not reach constitutional issues except as a last
+
+resort. The exhaustion of administrative remedies “allows an agency to make a factual
+
+                                               12
+record and correct its own errors within its specific expertise.” City of Great Falls, ¶ 17
+
+(internal quotations omitted; citation omitted).       If the Board agrees with Gateway’s
+
+arguments in the administrative appeal, consideration of the constitutional claims would
+
+be unnecessary to grant Gateway the relief it seeks.
+
+¶24    Contrary to Gateway’s claim of futility (citing Schuster v. NorthWestern Energy
+
+Co., </pre><span class="citation" data-id="2644784"><a href="/opinion/2644784/schuster-v-northwestern-energy-co/" aria-description="Citation for case: Schuster v. Northwestern Energy Co.">2013 MT 364</a></span><pre class="inline">, </pre><span class="citation" data-id="2644784"><a href="/opinion/2644784/schuster-v-northwestern-energy-co/" aria-description="Citation for case: Schuster v. Northwestern Energy Co.">373 Mont. 54</a></span><pre class="inline">, </pre><span class="citation" data-id="2644784"><a href="/opinion/2644784/schuster-v-northwestern-energy-co/" aria-description="Citation for case: Schuster v. Northwestern Energy Co.">314 P.3d 650</a></span><pre class="inline">), the relief of vacatur of Permit 3462 is
+
+available both by action in front of the Board and on judicial review in the District Court.
+
+Section 2-4-702(1)(b), MCA, expressly permits Gateway to challenge the statute on
+
+judicial review of a final Board decision should it be unfavorable.4 Therefore, Gateway’s
+
+argument that proceeding in front of the Board would be futile is incorrect.
+
+¶25    Gateway also argues that developing a record about how the agency formerly
+
+proceeded prior to the challenged statutory amendments would be irrelevant to the Board’s
+
+review of the underlying permit, and it should be entitled to develop that record before the
+
+District Court.   DEQ responds that exhaustion is not futile just because of the possibility
+
+that evidence will not be admitted by the Board or that it will not rule in Gateway’s favor.
+
+We agree that Gateway has not demonstrated futility when it “has neither attempted to
+
+exhaust its administrative remedies, nor [] alleged facts that if proven would show the
+
+futility of the available administrative remedies.” Mountain Water Co. v. Mont. Dep’t of
+
+Pub. Serv. Regul., </pre><span class="citation" data-id="887331"><a href="/opinion/887331/mountain-water-company-v-montana-department-of-public-service-regulation/#15" aria-description="Citation for case: Mountain Water Company v. Montana Department of Public...">2005 MT 84, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="887331"><a href="/opinion/887331/mountain-water-company-v-montana-department-of-public-service-regulation/" aria-description="Citation for case: Mountain Water Company v. Montana Department of Public...">326 Mont. 416</a></span><pre class="inline">, </pre><span class="citation" data-id="887331"><a href="/opinion/887331/mountain-water-company-v-montana-department-of-public-service-regulation/" aria-description="Citation for case: Mountain Water Company v. Montana Department of Public...">110 P.3d 20</a></span><pre class="inline">. What is more, MAPA
+
+
+4
+  We ruled in Schuster that the plaintiff was not required to exhaust an administrative remedy
+before filing an action in district court because the administrative agency could not grant the
+requested remedy he sought—monetary damages for the defendant’s negligence. Schuster,
+¶¶ 11-13.
+                                              13
+provides a process for receipt of additional evidence on judicial review if certain criteria
+
+are shown “to the satisfaction of the court[.]” Section 2-4-703, MCA. Administrative
+
+review is not futile; it is a required part of the process.
+
+¶26    The District Court additionally addressed its concern with piecemeal litigation.
+
+Gateway argues that first requiring a permit at the administrative level gives the agency a
+
+gatekeeping veto over statutory interpretation for whether statutes satisfy constitutional
+
+protections. DEQ responds that the fundamental purpose of exhaustion would be defeated
+
+if Gateway proceeds on its constitutional claim in the District Court. Montana Contractors
+
+Association argues that Gateway’s appeal demonstrates an attempt at piecemeal litigation.
+
+¶27    “The statutory bar until a final action is issued aims to avoid piecemeal
+
+litigation and micromanagement by the court in the environmental review process.”
+
+Jefferson Cnty. v. Dep’t of Env’t Quality, </pre><span class="citation" data-id="889652"><a href="/opinion/889652/jefferson-county-v-department-of-environmental-quality/#32" aria-description="Citation for case: Jefferson County v. Department of Environmental Quality">2011 MT 265, ¶ 32</a></span><pre class="inline">, </pre><span class="citation" data-id="889652"><a href="/opinion/889652/jefferson-county-v-department-of-environmental-quality/" aria-description="Citation for case: Jefferson County v. Department of Environmental Quality">362 Mont. 311</a></span><pre class="inline">, </pre><span class="citation" data-id="889652"><a href="/opinion/889652/jefferson-county-v-department-of-environmental-quality/" aria-description="Citation for case: Jefferson County v. Department of Environmental Quality">264 P.3d
+
+715</a></span><pre class="inline">. Exhausting administrative remedies “furthers both the interests of ‘judicial economy,’
+
+by relieving congestion and stress on the overburdened judicial system, and the interest of
+
+agency ‘efficiency’ in the attendant performance of legislatively-assigned legal duties and
+
+functions.” City of Great Falls, ¶ 18 (citation omitted). We decline to abandon the
+
+rationale of our prior cases. Gateway currently is pursuing three separate cases—one in
+
+front of the Board and two in the District Court—to challenge a single permit. Here,
+
+requiring administrative exhaustion avoids piecemeal litigation, furthers judicial economy,
+
+and facilitates efficiency in the ongoing administrative action.
+
+
+
+
+                                               14
+                                    CONCLUSION
+
+¶28   The District Court did not err in dismissing Gateway’s complaint for failure to
+
+exhaust administrative remedies. The order of dismissal is affirmed.
+
+
+                                                /S/ BETH BAKER
+
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ JAMES JEREMIAH SHEA
+/S/ LAURIE McKINNON
+/S/ JIM RICE
+
+
+
+
+                                           15
+</pre>

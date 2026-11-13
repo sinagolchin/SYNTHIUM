@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,challenge_type,actual_notch,fact_finding_disturbed
+28,Menard v. State,CT-Supreme,apex,civil,trial,fact,deferential_fact,MODIFIED,no
+28,State v. Michael R.,CT-Supreme,apex,criminal,trial,pure_law,sufficiency,CLEAN_AFFIRM,no
+28,Reserve Realty v. Windemere,CT-Supreme,apex,civil,trial,fact,deferential_fact,CLEAN_AFFIRM,no
+28,State v. Curet,CT-Supreme,apex,criminal,discretionary,legal_overlay,legal,REVERSED,no
+28,State v. Whitaker,OH-Supreme,apex,criminal,trial,pure_law,sufficiency,MODIFIED,no
+28,State v. Garrett,OH-Supreme,apex,criminal,trial,fact,deferential_fact,CLEAN_AFFIRM,no
+28,State v. Weaver,OH-Supreme,apex,criminal,discretionary,procedural_integrity,biased_factfinder,REVERSED,no
+28,Brandt v. Pompa,OH-Supreme,apex,civil,trial,pure_law,constitutional,REVERSED,no
+28,State ex rel. Friendship Supported Living,OH-Supreme,apex,admin,discretionary,legal_overlay,legal,REVERSED,no

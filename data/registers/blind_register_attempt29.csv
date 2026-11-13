@@ -1,0 +1,8 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,challenge_type,actual_notch,fact_finding_disturbed
+29,State v. Lueders,CT-Appellate,intermediate,criminal,trial,pure_law,sufficiency,CLEAN_AFFIRM,no
+29,Cockerham v. Westphalen,CT-Appellate,intermediate,civil,trial,fact,deferential_fact,CLEAN_AFFIRM,no
+29,Hilton v. Commissioner,CT-Appellate,intermediate,habeas,trial,fact,deferential_fact,CLEAN_AFFIRM,no
+29,In re Application of Steinberg,OH-Supreme,apex,admin,discretionary,fact,deferential_fact,CLEAN_AFFIRM,no
+29,Gabbard v. Madison Local School Dist.,OH-Supreme,apex,admin,trial,pure_law,legal,CLEAN_AFFIRM,no
+29,State v. Taylor (2020),OH-Supreme,apex,criminal,trial,pure_law,legal,MODIFIED,no
+29,Binder v. Cuyahoga Cty.,OH-Supreme,apex,admin,dismissal,pure_law,legal,REVERSED,no

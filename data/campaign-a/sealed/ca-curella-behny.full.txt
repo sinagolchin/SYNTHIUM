@@ -1,0 +1,627 @@
+<pre class="inline"> Pursuant to Indiana Appellate Rule 65(E), the trial court and parties shall not take any
+                action in reliance upon this Opinion until it is certified.
+
+
+
+
+                                            IN THE
+
+            Court of Appeals of Indiana                                                  FILED
+                                                                                    Oct 29 2026, 9:00 am
+                                         Terry W. Curella,                               CLERK
+                                                                                     Indiana Supreme Court
+                                         Appellant-Petitioner                           Court of Appeals
+                                                                                          and Tax Court
+
+
+
+
+                                                    v.
+
+                                          Gina A. Behny,
+                                         Appellee-Respondent
+
+
+                                           October 29, 2026
+                                     Court of Appeals Case No.
+                                           25A-PL-1700
+                            Appeal from the Howard Superior Court
+                               The Honorable Hans J. Pate, Judge
+                                        Trial Court Cause No.
+                                         34D04-2204-PL-940
+
+
+                                  Opinion by Judge May
+                            Judge Altice and Judge Foley concur.
+
+
+
+
+Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026           Page 1 of 14
+      May, Judge.
+
+
+[1]   Terry Curella (“Terry”) acquired an undivided one-half interest in a Kokomo
+
+      home (the “House”) from his brother (“Gregg”) in 2021 and petitioned to
+
+      partition the House by sale fifteen months later. Gregg lived in the House from
+
+      2001 to 2004, but he had not made any mortgage payments. Gina Behny
+
+      (“Gina”) – whom Gregg had been dating during his three years in the House –
+
+      still lived in the House when Terry petitioned for sale, had lived in the House
+
+      since 1999, and had made all the mortgage payments and necessary
+
+      improvements on the House. Gina opposed a sale. After a bench trial, the trial
+
+      court awarded the entire property to Gina, ordered Terry to convey his interest
+
+      to her, and entered a $4,307.95 judgment against Terry.
+
+
+[2]   Terry appeals to challenge the trial court’s denial of his motion to add the
+
+      parties’ proposed findings to the Clerk’s Record, its equitable adjustment of the
+
+      values of their cotenant shares, and its inclusion of a lost homestead deduction
+
+      and an expired judgment lien in the money judgment. Although the trial court
+
+      erred by not making the proposed findings and conclusions part of the official
+
+      record, any error therein was harmless under the specific facts of this case.
+
+      Terry has not demonstrated error in the trial court’s determination that equity
+
+      required him to sign over his interest in the House to Gina, he waived his
+
+      argument regarding the homestead deduction, and the trial court’s order that
+
+      Terry pay Gina for the money judgment was not error. We accordingly affirm
+
+      the trial court’s judgment.
+
+
+
+      Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026     Page 2 of 14
+      Facts and Procedural History
+[3]   In 1999, Gina purchased the House in Kokomo. She borrowed $10,000 from
+
+      her grandparents for the downpayment and financed the remaining $42,000
+
+      with a mortgage. Her boyfriend at the time, Gregg Curella (“Gregg”), moved
+
+      into the home with her.
+
+
+[4]   About two years later, Gina needed money to pay an attorney in a child-
+
+      custody matter and to make repairs to the House. For Gina to obtain the
+
+      necessary funds by refinancing her mortgage, Gregg agreed to co-sign for the
+
+      mortgage, which increased from approximately $42,000 to $57,580. Gina
+
+      executed a quitclaim deed conveying the property to herself and Gregg as “joint
+
+      tenants with right of survivorship[.]” (Ex. Vol. at 8) (emphasis removed).
+
+      Gregg moved out in the fall of 2004, but his name was never removed from the
+
+      title.
+
+
+[5]   Gina has lived in the House since 1999 and was joined there around 2010 by
+
+      her husband, Peter, and later his disabled adult son. Gina made all mortgage
+
+      payments on the Kokomo house, even when Gregg lived there. Real estate
+
+      taxes and homeowner’s insurance were escrowed and paid as part of the
+
+      monthly mortgage payment. Gina also paid the utilities and paid for repairs
+
+      and maintenance, including a new roof, furnace, and water-heater, along with
+
+      bathroom repairs and a $1,000 insurance deductible for water damage. Her
+
+      total contribution toward the House over the years has been $275,462.25. (Ex.
+
+      Vol. at 45.)
+
+
+      Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026   Page 3 of 14
+[6]   On January 22, 2021, Gregg executed a quitclaim deed transferring his interest
+
+      to his brother, Terry. When the deed to Terry was recorded on January 29,
+
+      2021, Gina lost her homestead deduction, and her monthly mortgage payment
+
+      increased by roughly $100 for two years. After the transfer, Terry made one
+
+      mortgage payment of $657.19 and one real-estate-tax payment of $456.64,
+
+      which duplicated a payment already made through Gina’s escrow. Terry made
+
+      no other payments, invested no money in the property, and has never lived in
+
+      the House.
+
+
+[7]   Terry petitioned to partition the House by sale on April 27, 2022. As an exhibit
+
+      to his petition, Terry filed a title report showing that a personal judgment
+
+      entered against him on January 6, 2015, in an unrelated case – for $2,396.33
+
+      plus interest and costs – had become a lien on the property. Terry also filed an
+
+      appraisal of the House, which indicated its value was $98,000. (App. Vol. II at
+
+      29.)
+
+
+[8]   The day before trial, Gina moved for special findings of fact and conclusions of
+
+      law under Trial Rule 52. At the start of trial, Terry’s counsel stated that he did
+
+      not object and indicated he was prepared to file his own request as well. The
+
+      trial court granted both motions. At the close of the evidence, the court asked
+
+      whether the parties wished to present oral argument or rely on the legal
+
+      arguments from their summary judgment motions. Both parties declined the
+
+      opportunity to make oral arguments and elected instead to submit proposed
+
+      findings of fact and conclusions of law. The trial court ordered the parties to
+
+      file their submissions within five weeks.
+
+      Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026      Page 4 of 14
+[9]    The parties filed their proposed orders to the trial court through the E-Filing
+
+       System, which served the documents on the opposing party. (App. Vol. II at
+
+       120-21 &amp; 141-42.) The “Filing Details” of each notification indicates the
+
+       “Filing Type” is a “Proposed Order Filed” (id. at 120 &amp; 141); the “Filing
+
+       Description” is “Findings of Fact and Conclusions or Law” (id. at 120) or
+
+       “Proposed Order of Judgment” (id. at 141); and whom the proposed order was
+
+       “Filed By[.]” (Id. at 120 &amp; 141.) The trial court clerk forwarded the documents
+
+       to the trial court judge but did not place the filings on the Chronological Case
+
+       Summary or in the Clerk’s Record.
+
+
+[10]   On April 7, 2025, the trial court entered judgment, adopting Gina’s proposed
+
+       order verbatim. The order granted Terry’s petition for partition but awarded
+
+       the entire property to Gina, ordered Terry to transfer his interest to her within
+
+       thirty days, and entered a money judgment against Terry for $4,307.95. The
+
+       court calculated the money judgment as the $2,396.33 judgment lien, along
+
+       with $511.45 in interest at eight percent from January 6, 2015, and $154.00 in
+
+       court costs on the judgment; plus $2,400.00 for Gina’s loss of the homestead
+
+       deduction; minus $1,153.83 for Terry’s two payments.
+
+
+[11]   Terry filed a motion to correct error in which he pointed out that the judgment
+
+       lien had expired between trial and the trial court’s entry of judgment. The court
+
+       denied the motion. (App. Vol. II at 19.) Terry also moved the trial court to
+
+       order the clerk to file the parties’ proposed orders on the Clerk’s Record and
+
+       chronological case summary (“CCS”), and the trial court denied this motion as
+
+       well.
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026      Page 5 of 14
+       Discussion and Decision
+       1. Motion to Add Proposed Orders to the Record
+[12]   Terry first argues the trial court erred when it denied his motion to add the
+
+       parties’ proposed orders to the Clerk’s Record. He contends the proposed
+
+       orders are necessary for his appeal so that we may see that the trial court
+
+       adopted Gina’s proposal verbatim – which, as Terry notes, impacts our scrutiny
+
+       of a case on appeal. (See Br. of Appellant at 11-12) (quoting Dallas v. Cessna,
+
+       </pre><span class="citation" data-id="2730253"><a href="/opinion/2730253/cody-dallas-v-brandon-cessna/" aria-description="Citation for case: Cody Dallas v. Brandon Cessna">968 N.E.2d 291</a></span><pre class="inline"> (Ind. Ct. App. 2012)). In Dallas, our court explained:
+
+
+               We note that in this case, the trial court adopted Cessna’s
+               proposed findings and conclusions verbatim. Although
+               wholesale adoption is not prohibited, we do not encourage trial
+               courts to engage in this practice. We have recognized that “this
+               practice weakens our confidence as an appellate court that the
+               findings are the result of considered judgment by the trial court.”
+               Although we do not apply an altered standard of review when a
+               trial court adopts a party’s findings verbatim, “near verbatim
+               reproductions may appropriately justify cautious appellate
+               scrutiny.”
+
+
+       </pre><span class="citation" data-id="2730253"><a href="/opinion/2730253/cody-dallas-v-brandon-cessna/#296" aria-description="Citation for case: Cody Dallas v. Brandon Cessna">968 N.E.2d at 296</a></span><pre class="inline"> (internal citations omitted).
+
+
+[13]   The trial court twice denied Terry’s motion – presumably for the reasons
+
+       asserted by Gina in her responses to Terry’s motions. Gina asserted the
+
+       proposed orders could not properly be made part of the Record on Appeal 1
+
+
+
+
+       1
+        “The Record on Appeal shall consist of the Clerk’s Record and all proceedings before the trial court or
+       Administrative Agency, whether or not transcribed or transmitted to the Court on Appeal.” App. R. 2(L).
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026                           Page 6 of 14
+       because they were not part of the Clerk’s Record, which consists of “the
+
+       Chronological Case Summary (CCS) and all papers, pleadings, documents,
+
+       orders, judgments, and other materials filed in the trial court . . . or listed in the
+
+       CCS.” Ind. Appellate Rule 2(E) (emphasis added). A document that a party
+
+       does not file with the trial court does not become part of the trial court’s record,
+
+       and thus a party may not supplement the record on appeal with matters not
+
+       filed below. Thomas v. N. Cent. Roofing, Inc., </pre><span class="citation" data-id="2017903"><a href="/opinion/2017903/thomas-v-north-central-roofing/#1071" aria-description="Citation for case: Thomas v. North Central Roofing">795 N.E.2d 1068, 1071</a></span><pre class="inline"> (Ind. Ct.
+
+       App. 2003) (“We cannot allow North Central to file with us what it apparently
+
+       failed to file with the trial court.”). Gina is correct that the chronological case
+
+       summary does not indicate the proposed orders were filed in the trial court,
+
+       which suggests they could not be made part of the Record on Appeal. See </pre><span class="citation" data-id="2017903"><a href="/opinion/2017903/thomas-v-north-central-roofing/#1072" aria-description="Citation for case: Thomas v. North Central Roofing">id. at
+
+       1072</a></span><pre class="inline"> (“there is nothing in the CCS to indicate that the designated materials
+
+       were actually filed”).
+
+
+[14]   We nevertheless hold the trial court erred by denying Terry’s motion. The
+
+       parties’ proposed orders were submitted to the trial court through the E-Filing
+
+       System and served on the opposing party. (App. Vol. II at 120-21 &amp; 141-42.)2
+
+       The “Filing Details” of each notification indicates the “Filing Type” is a
+
+       “Proposed Order Filed” (id. at 120 &amp; 141); the “Filing Description” is
+
+       “Findings of Fact and Conclusions or Law” (id. at 120) or “Proposed Order of
+
+       Judgment” (id. at 141); and whom the proposed order was “Filed By[.]” (Id. at
+
+
+
+       2
+         Terry attached the parties’ proposed orders as exhibits to his motion asking the trial court to order the clerk
+       to add the documents to the CCS, such that we in fact have access to the proposed orders in the Record on
+       Appeal.
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026                                 Page 7 of 14
+       120 &amp; 141.) Despite being “filed” by the parties and forwarded to the trial court
+
+       judge, the trial court clerk did not place the filings on the Chronological Case
+
+       Summary or in the Clerk’s Record. Because the trial court’s verbatim adoption
+
+       of one party’s proposed order impacts the scrutiny that we give to a trial court’s
+
+       final order, proposed findings of fact filed by parties must be available in the
+
+       Record on Appeal as a matter of course. The trial court should have ordered
+
+       the clerk to correct the error when Terry filed his request, and the trial court’s
+
+       failure to do so was error.
+
+
+[15]   Nevertheless, the trial court’s denial of Terry’s motion has not prejudiced Terry
+
+       during this appeal. Terry sought their inclusion to demonstrate that the trial
+
+       court adopted Gina’s proposed findings verbatim, and Gina does not dispute
+
+       that the trial court did so. Moreover, Terry’s attachment of the proposal orders
+
+       to his motion to add the filings to the Clerk’s Record placed the documents in
+
+       the Record on Appeal. Accordingly, with our confidence “that the findings
+
+       reflect the considered judgment of the trial court” eroded, Prowell v. State, </pre><span class="citation" data-id="853470"><a href="/opinion/853470/prowell-v-state/#709" aria-description="Citation for case: Prowell v. State">741
+
+       N.E.2d 704, 709</a></span><pre class="inline"> (Ind. 2001) (noting adoption of one party’s proposed findings
+
+       erodes appellate court confidence in the judgment’s validity), we turn to Terry’s
+
+       arguments on the merits.
+
+
+       2. Award of House to Gina
+[16]   Terry next challenges the trial court’s equitable adjustment of the parties’
+
+       interests in the House, which resulted in the award of the House to Gina.
+
+       When a court enters findings and conclusions at a party’s request, we apply a
+
+       two-tiered standard of review: we first determine whether the evidence supports
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026       Page 8 of 14
+       the findings, and then whether the findings support the judgment. Koonce v.
+
+       Finney, </pre><span class="citation" data-id="4115614"><a href="/opinion/4338353/samuel-w-koonce-v-kim-m-finney/#1089" aria-description="Citation for case: Samuel W. Koonce v. Kim M. Finney">68 N.E.3d 1086, 1089-90</a></span><pre class="inline"> (Ind. Ct. App. 2017). We review findings of
+
+       fact for clear error and conclusions of law de novo, and we will disturb the
+
+       judgment only if it is clearly erroneous. </pre><span class="citation" data-id="4115614"><a href="/opinion/4338353/samuel-w-koonce-v-kim-m-finney/#1090" aria-description="Citation for case: Samuel W. Koonce v. Kim M. Finney">Id. at 1090</a></span><pre class="inline">.
+
+
+[17]   The trial court’s order indicated:
+
+
+               5. In this case, the court finds that Terry’s petition for partition
+               should be granted, but the court finds that the equities require
+               that Gina be permitted to maintain ownership of the home and
+               the property. Gina has made all of the contributions to the home
+               for more than 25 years, while there was no evidence that Terry
+               (or Gregg, for that matter) made any equitable contributions. In
+               fact, the judgment lien on the property against Terry exceeds the
+               two small, superfluous payments Terry made for a tax payment
+               and a mortgage payment. Gina has lived in the home for over 25
+               years and continues to live there with her husband and disabled
+               child. She has made all payments on the mortgage, paid all
+               property taxes, paid for the insurance on the home, and paid all
+               utilities and repairs on the house. Gina has contributed
+               $275,462.25 toward maintaining the equity in the property.
+               There was no evidence that either Gregg or Terry paid anything
+               for over 25 years other than the two small payments made by
+               Terry, which the court finds to be superfluous since the payments
+               simply duplicated payments already made by Gina.
+
+
+               6. The court finds it would be grossly unfair to require a sale of
+               the property under these circumstances. For these reasons, and
+               utilizing the court’s great flexibility in fashioning relief in such
+               cases, to effect the partition requested by Terry, Terry is hereby
+               ordered to sign a quitclaim deed transferring his interest in the
+               property to Gina within thirty (30) days of this Order.
+
+
+       (Appellant’s App. Vol. II at 16.)
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026           Page 9 of 14
+[18]   According to Terry, the trial court erred3 by “giving full credit” to Gina for all
+
+       $275,462.25 of the contributions she claimed in her Defendant’s Exhibit A –
+
+       without offsetting a rental payment against the mortgage payment, without
+
+       deleting the cost of the utilities that did not benefit the House,4 without
+
+       deducting half the cost of the insurance and taxes that Gina needed to pay for
+
+       her half of the House, and by crediting Gina for the cost of her improvements
+
+       rather than for the increased value in the property produced by those
+
+       improvements.5 Terry has not, however, demonstrated clear error in the trial
+
+       court’s decision because the judgment did not require the trial court to give
+
+       Gina “full credit” for any of those items. According to Terry’s Exhibit 6, the
+
+       House has a value of “$92,800[,]” (Ex. Vol. 3 at 21), and thus Terry’s half
+
+       would have a value of $46,400. If the trial court gave Gina zero credit for her
+
+       estimated $90,000 in utilities and only half credit for the remaining $185,462.25
+
+
+
+
+       3
+         Terry also claims the trial court erred by giving Gina “credit for payment of personal expenses[,]” (Br. of
+       Appellant at 19), because the mortgage payments included monies spent for attorney fees in a child custody
+       matter. However, Terry failed to suggest to us, or to demonstrate that he suggested to the trial court during
+       trial, the impact this should have on the court’s calculation of the amount of Gina’s contributions to the
+       House. Neither we nor the trial court is obliged to pull such numbers from the ether.
+       4
+         Terry also asserts the trial court should not have considered Gina’s utility costs because she “admitted
+       [they] were only guesstimates of what she had spent for utilities.” (Br. of Appellant at 16.) However, Terry
+       did not object at trial to her testimony or her exhibit listing those figures based on the estimates being
+       speculative. (See Tr. Vol. II at 32) (“To the fact of what her testimony would be no [objection] your
+       honor.”). Nor when she testified on cross-examination that she was guessing did Terry ask the court to strike
+       her testimony or exhibit as speculative. Because Terry failed to lodge any objection to this evidence at trial,
+       he cannot argue on appeal that the trial court should not have considered it. See, e.g., Golden Corral Corp. v.
+       Lenart, </pre><span class="citation" data-id="4408274"><a href="/opinion/4631021/golden-corral-corporation-v-kristina-m-lenart/#1214" aria-description="Citation for case: Golden Corral Corporation v. Kristina M. Lenart">127 N.E.3d 1205, 1214</a></span><pre class="inline"> (Ind. Ct. App. 2019) (objection to challenged evidence is waived if not
+       asserted “at trial contemporaneously with the introduction of such evidence”), trans. denied.
+       5
+        We again note that Terry did not object to the relevance of Gina’s evidence about the cost of the repairs and
+       improvements that she made to the property. Nor did he offer evidence to demonstrate the increased value,
+       or lack thereof, attributable to Gina’s improvements. When a party fails to offer the type of evidence it
+       believes is required, we will not find error in the trial court’s use of the only evidence it was given.
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026                             Page 10 of 14
+       in expenses on her list – to eliminate any monies Gina had needed to pay for
+
+       her half of the house – Gina still was due a credit of $92,731.12 – which is
+
+       nearly twice the value of Terry’s half of the house. Regardless precisely how
+
+       the trial court determined equity required Gina to receive the full value of the
+
+       house, Terry has not demonstrated any error occurred.6 We accordingly affirm
+
+       the award of the House to Gina.
+
+
+       3. Money Judgment
+
+[19]   Finally, Terry challenges the trial court’s order that he pay a $4,307.95 money
+
+       judgment to Gina. To arrive at that sum, the trial court added together
+
+       $3,061.78 (due for judgment lien, interest, and court costs thereon) and
+
+       $2,400.00 (for two-year loss of homestead deduction), and then the court
+
+       subtracted $1,153.83 (for the two duplicative payments Terry made toward the
+
+       mortgage and taxes on the House). Terry argues the trial court should not have
+
+       ordered him to pay either the lost homestead deduction or the judgment lien.
+
+
+[20]   Regarding the lost homestead deduction, Terry contends he should not be
+
+       penalized for Gina’s loss of the homestead deduction after title transferred to
+
+       him because Gina lost her legal eligibility for the homestead deduction in 2001,
+
+       when she conveyed the House to herself and Gregg as joint tenants. (Br. of
+
+
+
+
+       6
+         Our refusal to find error herein, because equity tipped so far in Gina’s favor, should not be read as
+       permission for trial courts to adopt inadequate findings submitted by a party. Trial Rule 52 requires trial
+       courts to enter reasoned findings and conclusions that explain the basis of the judgment, and if a trial court
+       receives wholly inadequate suggestions from all litigants, then the trial court needs to draft its own order. We
+       recognize the time constraints weighing on trial courts but note that inadequate findings cause confusion for
+       litigants and complications on appeal.
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026                              Page 11 of 14
+       Appellant) (citing Kellam v. Fountain Cnty. Assessor, </pre><span class="citation" data-id="7870980"><a href="/opinion/7921563/kellam-v-fountain-county-assessor/#123" aria-description="Citation for case: Kellam v. Fountain County Assessor">999 N.E.2d 120, 123</a></span><pre class="inline"> (Ind.
+
+       T.C. 2013) (“Only an individual or married couple can obtain a homestead
+
+       deduction on the individual’s or married couple’s property.”), rev. denied).
+
+       Nevertheless, Terry did not assert this legal argument at trial, after Gina
+
+       testified to the increase in her mortgage payments due to the loss of the
+
+       deduction. (See Tr. Vol. 2 at 31-40.) We accordingly hold this argument
+
+       waived for appeal. See Safeco Ins. Co. of Ind. v. Blue Sky Innovation Group, </pre><span class="citation no-link">230
+
+       N.E.3d 898</span><pre class="inline">, 907 (Ind. 2024) (“This issue was not presented before the trial
+
+       court and is thus waived.”), reh’g denied.
+
+
+[21]   Terry’s final argument is that the trial court erred when it ordered him to pay
+
+       the judgment lien because the lien expired before the court entered its final
+
+       judgment.7 A judgment constitutes a lien on real estate “until the expiration of
+
+       ten (10) years after the rendition of the judgment[,]” exclusive only of “any time
+
+       during which the party was restrained from proceeding on the lien by an appeal,
+
+       an injunction, the death of the defendant, or the agreement of the parties
+
+       entered of record.” </pre><span class="citation no-link">Ind. Code § 34-55-9-2</span><pre class="inline">. While it is true that the underlying
+
+       judgment lien attached to the property on January 6, 2015, (App. Vol. II at 23),
+
+       and thus the lien it created reached the end of its ten-year term on January 6,
+
+       2025, the record before us does not reflect whether any of the four statutory
+
+
+
+
+       7
+         Terry did not raise the issue of the expiration of the judgment lien at trial. Instead, he raised it for the first
+       time in his motion to correct errors. While normally new issues cannot be raised in a motion to correct
+       errors, see Sanders Kennels, Inc. v. Lane, </pre><span class="citation no-link">153 N.E.3d 262</span><pre class="inline">, 269 (Ind. Ct. App. 2020), we decline to apply that rule
+       to this judgment lien, which was still enforceable at the time of the August 28, 2024, trial but expired on
+       January 6, 2025, before the trial court entered its final judgment on April 7, 2025.
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026                                 Page 12 of 14
+       exceptions to the ten-year limitations periods is applicable. Nor is the judgment
+
+       creditor a party to this lawsuit to assert its rights. Given that the trial court was
+
+       left to determine whether Terry or Gina should bear the risk that the lien was
+
+       still enforceable, we cannot say the trial court erred when it chose to place that
+
+       risk on Terry, who was the judgment debtor responsible for the lien’s existence.
+
+       We therefore affirm the trial court’s order that Terry pay a $4,307.95 money
+
+       judgment to Gina.
+
+
+       Conclusion
+[22]   The trial court erred when it denied Terry’s motion to add the parties’ proposed
+
+       orders to the Clerk’s Record after the parties filed those documents with the
+
+       clerk and served them on opposing counsel, but the error was harmless. None
+
+       of Terry’s arguments regarding financial contributions by Gina demonstrate the
+
+       trial court clearly erred when it determined equity required him to sign his
+
+       interest in the House over to her. Terry forfeited his homestead-deduction
+
+       argument by failing to raise it at trial, and the trial court did not err when it
+
+       ordered Terry to pay the judgment lien. We therefore affirm the trial court’s
+
+       judgment.
+
+
+[23]   Affirmed.
+
+
+       Altice, J., and Foley, J., concur.
+
+
+
+
+       Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026       Page 13 of 14
+ATTORNEY FOR APPELLANT
+David W. Stone IV
+Stone Law Office &amp; Legal Research
+Anderson, Indiana
+
+
+ATTORNEY FOR APPELLEE
+Alan D. Wilson
+Kokomo, Indiana
+
+
+
+
+Court of Appeals of Indiana | Opinion 25A-PL-1700 | October 29, 2026   Page 14 of 14
+</pre>

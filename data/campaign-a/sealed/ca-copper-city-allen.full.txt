@@ -1,0 +1,629 @@
+<pre class="inline">                                                                                       09/29/2026
+
+
+                                         DA 25-0839
+                                                                                   Case Number: DA 25-0839
+
+
+              IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                         </pre><span class="citation no-link">2026 MT 230</span><pre class="inline">
+
+
+
+COPPER CITY GAMING, INC.,
+
+              Plaintiff and Appellant,
+
+         v.
+
+ERIC ALLEN,
+
+              Defendant and Appellee.
+
+
+
+APPEAL FROM:          District Court of the Second Judicial District,
+                      In and For the County of Butte-Silver Bow, Cause No. DV-2024-206
+                      Honorable Luke Berger, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+               For Appellant:
+
+                      Lawrence E. Henke, Henke Law Office, PLLC, Philipsburg, Montana
+
+               For Appellee:
+
+                      Mark Seghers, Montana Business Law, PLLC, Bozeman, Montana
+
+
+
+                                                 Submitted on Briefs: August 5, 2026
+
+                                                           Decided: September 29, 2026
+
+
+Filed:
+
+                      __________________________________________
+                                       Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1     Copper City Gaming, Inc. appeals from the November 4, 2025 order of the Montana
+
+Second Judicial District Court, Butte-Silver Bow County, which granted Appellee’s
+
+motion to dismiss under M. R. Civ. P. 12(b)(6) on collateral estoppel grounds.
+
+¶2     We address the following restated issues:
+
+       1. Whether the District Court erred by granting Eric Allen’s motion to dismiss
+          under M. R. Civ. P. 12(b)(6) on collateral estoppel grounds.
+
+       2. Whether the District Court erred under M. R. Civ. P. 12(d) by considering
+          matters outside the pleadings and resolving disputed factual inferences without
+          converting the motion to one for summary judgment and affording Copper City
+          a reasonable opportunity to present pertinent material.
+
+¶3     The former settlement, upon which the collateral estoppel defense is based, shows
+
+that the litigants agreed to waive some dispute involving storage-unit fees. It does not
+
+conclusively show that the former tribunal actually or necessarily decided the factual issues
+
+underlying the claims Copper City Gaming, Inc. (Copper City) raises against Eric Allen
+
+(Eric). The District Court reached the opposite conclusion by resolving disputed inferences
+
+from records outside the complaint without following M. R. Civ. P. 12(d). We reverse and
+
+remand for further proceedings.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶4     Copper City alleges that, in July 2022, Eric entered into a lease agreement with
+
+Copper City, acting through Russ Allen (Russ), who was one of the Copper City
+
+shareholders at the time, for Copper City’s use of storage space that Eric was leasing.
+
+Copper City alleges that Russ authorized four $3,600 payments, totaling $14,400, from
+
+Copper City to Eric under the lease agreement. Copper City’s complaint alleges the lease
+
+                                             2
+agreement and payments were fraudulent and part of a conspiracy between Eric and Russ
+
+and asserts Eric is liable for: (1) fraud; (2) violation of the Montana Consumer Protection
+
+Act; (3) breach of contract; (4) unjust enrichment; and (5) civil conspiracy. Specifically,
+
+Copper City alleges the lease used the wrong address and corporate name, Eric either
+
+lacked authority to sublease the space or failed to provide usable space, and Copper City
+
+did not store any property there.
+
+¶5     The former action, DV-22-206, involved competing claims that both shareholder
+
+groups mismanaged Copper City or misused corporate money. The action began in Copper
+
+City’s name, but the court did not decide whether Russ had authority to sue without board
+
+approval. Instead, by order dated February 16, 2023, the court substituted Russ and Camy
+
+Allen as plaintiffs and declared the authority question moot. Copper City therefore was no
+
+longer a named plaintiff, and the court left unresolved the extent of Russ’s authority to
+
+prosecute claims on Copper City’s behalf. In later pleadings and the settlement documents,
+
+Russ and Camy purported to act on Copper City’s behalf.
+
+¶6     After the parties reached a mediated settlement in the former action, DV-22-206,
+
+they stipulated under M. R. Civ. P. 53 and § 3-5-113, MCA, to the appointment of retired
+
+Judge Gregory G. Pinski as Special Master to resolve disputes concerning the settlement
+
+documents and the settlement’s implementation through dismissal. On December 1, 2023,
+
+the Special Master signed an Order Resolving Settlement Disputes, which was filed
+
+December 5, 2023. The Order required the parties to execute the attached Mutual General
+
+Release and Settlement Agreement and other settlement documents. Under the settlement
+
+documents, the McGraths purchased the Allens’ Copper City shares, and the parties
+
+                                            3
+accounted for corporate revenue, expenses, liabilities, and distributions through
+
+September 30, 2023.        Paragraph 10 of the Special Master’s Order—not the Mutual
+
+Release—provided: “Any other disputes raised by the parties concerning various past
+
+business decisions or expenses incurred by the other party or the Company (e.g. storage
+
+unit fees, retained cash for collectors, expense disputes, etc.) are waived under the
+
+Release.” The separate Mutual Release broadly covered the parties’ mutual claims in the
+
+former action, including claims arising from Copper City’s operation and claims belonging
+
+to the corporation, but it did not itself specifically identify storage-unit fees.
+
+¶7     On February 23, 2024, counsel for the Allens and the McGraths signed a stipulation
+
+authorizing the Special Master to dismiss “the above-entitled matter including any
+
+counterclaims” with prejudice as “fully settled upon the merits,” with each party bearing
+
+its own costs and attorney fees. Acting pursuant to the stipulation, the Special Master
+
+entered an order on February 26, 2024, dismissing the former action and all counterclaims
+
+with prejudice. The stipulation was filed the following day.
+
+¶8     On July 22, 2024, Copper City filed the present complaint. Eric filed an answer to
+
+the complaint on October 30, 2024. On March 6, 2025, Eric filed a motion to dismiss,
+
+asserting that collateral estoppel (issue preclusion) barred Copper City’s claims.1 On
+
+November 4, 2025, the District Court granted Eric’s motion to dismiss on the grounds he
+
+raised. The court concluded that all four elements of issue preclusion were satisfied
+
+
+
+1
+  Although Eric filed his answer before moving to dismiss, the parties and the District Court treated
+the motion as one under Rule 12(b)(6), and neither party challenges that characterization on appeal.
+We address the motion as the parties have presented it.
+                                                 4
+because the former and present actions involved an identical issue concerning the
+
+legitimacy of the storage-unit payments; the dismissal with prejudice constituted a final
+
+judgment on the merits; Copper City was in privity with the McGraths; and Copper City
+
+had a full and fair opportunity to litigate the issue in the former action.
+
+                                STANDARD OF REVIEW
+
+¶9     We review a ruling on a M. R. Civ. P. 12(b)(6) motion to dismiss de novo. Adams
+
+v. Two Rivers Apartments, LLLP, </pre><span class="citation" data-id="6536475"><a href="/opinion/6659033/adams-v-two-rivers-apartments-lllp/#5" aria-description="Citation for case: Adams v. Two Rivers Apartments, LLLP">2019 MT 157, ¶ 5</a></span><pre class="inline">, </pre><span class="citation" data-id="6536475"><a href="/opinion/6659033/adams-v-two-rivers-apartments-lllp/" aria-description="Citation for case: Adams v. Two Rivers Apartments, LLLP">396 Mont. 315</a></span><pre class="inline">, </pre><span class="citation" data-id="6536475"><a href="/opinion/6659033/adams-v-two-rivers-apartments-lllp/" aria-description="Citation for case: Adams v. Two Rivers Apartments, LLLP">444 P.3d 415</a></span><pre class="inline">. We
+
+likewise review a district court’s application of issue preclusion de novo for correctness.
+
+Reisbeck v. Farmers Ins. Exch., </pre><span class="citation" data-id="4545369"><a href="/opinion/4765022/reisbeck-v-farmers-ins/#10" aria-description="Citation for case: Reisbeck v. Farmers Ins.">2020 MT 171, ¶ 10</a></span><pre class="inline">, </pre><span class="citation no-link">400 Mont. 345</span><pre class="inline">, </pre><span class="citation no-link">467 P.3d 557</span><pre class="inline">.
+
+¶10    A decision whether to convert a motion to dismiss into one for summary judgment
+
+under M. R. Civ. P. 12(d) is reviewed for abuse of discretion. Roaring Lion Ranch, LLC
+
+v. YC Properties, </pre><span class="citation" data-id="11281166"><a href="/opinion/10814412/roaring-lion-v-yc-properties/#10" aria-description="Citation for case: Roaring Lion v. YC Properties">2026 MT 60, ¶ 10</a></span><pre class="inline">, </pre><span class="citation no-link">427 Mont. 201</span><pre class="inline">, </pre><span class="citation no-link">586 P.3d 278</span><pre class="inline">.
+
+                                       DISCUSSION
+
+¶11    1. Whether the District Court erred by granting Eric Allen’s motion to dismiss
+          under M. R. Civ. P. 12(b)(6) on collateral estoppel grounds.
+
+¶12    A motion grounded in M. R. Civ. P. 12(b)(6) admits well-pleaded facts and requires
+
+all reasonable inferences in Copper City’s favor. Roaring Lion, ¶ 23. The court may reject
+
+legal conclusions or speculation, but it may not select among competing factual
+
+explanations. Roaring Lion, ¶ 23. Collateral estoppel is an affirmative defense under
+
+M. R. Civ. P. 8(c)(1). A court may resolve issue preclusion under Rule 12(b)(6) only when
+
+the defense can be determined from the complaint and information the court properly may
+
+consider without conversion. Plouffe v. State, </pre><span class="citation" data-id="9511122"><a href="/opinion/886591/plouffe-v-state/#13" aria-description="Citation for case: Plouffe v. State">2003 MT 62, ¶¶ 13-17</a></span><pre class="inline">, </pre><span class="citation" data-id="9511122"><a href="/opinion/886591/plouffe-v-state/" aria-description="Citation for case: Plouffe v. State">314 Mont. 413</a></span><pre class="inline">,
+
+
+                                               5
+</pre><span class="citation" data-id="9511122"><a href="/opinion/886591/plouffe-v-state/" aria-description="Citation for case: Plouffe v. State">66 P.3d 316</a></span><pre class="inline">; Roaring Lion, ¶ 11. Claim and issue preclusion are distinct. Claim preclusion
+
+generally reaches claims that were or could have been litigated, whereas issue preclusion
+
+bars an identical issue actually or necessarily decided in a former adjudication. In other
+
+words, claim preclusion involves the same cause of action, whereas issue preclusion bars
+
+relitigating issues in a second suit based upon a different cause of action. Reisbeck,
+
+¶¶ 14-15. A new label does not avoid preclusion, but the court still must identify the issue
+
+the first tribunal determined. Reisbeck, ¶¶ 13-15; Baltrusch v. Baltrusch, </pre><span class="citation" data-id="9511642"><a href="/opinion/887727/baltrusch-v-baltrusch/#25" aria-description="Citation for case: Baltrusch v. Baltrusch">2006 MT 51,
+
+¶ 25</a></span><pre class="inline">, </pre><span class="citation" data-id="9511642"><a href="/opinion/887727/baltrusch-v-baltrusch/" aria-description="Citation for case: Baltrusch v. Baltrusch">331 Mont. 281</a></span><pre class="inline">, </pre><span class="citation" data-id="9511642"><a href="/opinion/887727/baltrusch-v-baltrusch/" aria-description="Citation for case: Baltrusch v. Baltrusch">130 P.3d 1267</a></span><pre class="inline">. Four elements must be met for issue preclusion to
+
+apply: (1) the identical issue at hand was decided in a prior adjudication; (2) the prior
+
+adjudication resulted in a final judgment on the merits; (3) the party against whom
+
+collateral estoppel is asserted was a party or in privity with a party to the prior adjudication;
+
+and (4) the party against whom collateral estoppel is asserted had a full and fair opportunity
+
+to litigate the issue in the prior adjudication. Benton v. Babcock, </pre><span class="citation" data-id="11212767"><a href="/opinion/10746182/m-benton-v-s-babcock/#14" aria-description="Citation for case: M. Benton v. S. Babcock">2025 MT 277, ¶ 14</a></span><pre class="inline">,
+
+</pre><span class="citation no-link">425 Mont. 166</span><pre class="inline">, </pre><span class="citation no-link">580 P.3d 58</span><pre class="inline"> (citing Adams, ¶ 9).
+
+Issue Identicality
+
+¶13    The District Court concluded that the present storage-unit dispute was identical to
+
+an issue resolved in the former action because the Mutual Release identified the McGraths
+
+as acting individually and on behalf of Copper City and extended to claims of Copper City,
+
+while paragraph 10 of the Special Master’s Order expressly referred to “storage unit fees.”
+
+The settlement documents, however, did not identify Eric, the lease at issue, the address
+
+listed in the lease, the four lease payments, the alleged inability to sublease, the alleged
+
+failure to provide space, or any alleged misrepresentation. The proper question is not
+
+                                               6
+whether the McGraths could have discovered the transaction, joined Eric, or asserted
+
+claims against him, but whether the former adjudication decided an issue Copper City must
+
+establish here.
+
+¶14    The present issues concern Eric’s alleged representations, intent, authority,
+
+performance, receipt and retention of the money, and agreement with Russ. While the prior
+
+and present actions share business background, factual overlap does not substitute for a
+
+prior determination of the later issue. See Victory Ins. Co. v. Downing, </pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/#19" aria-description="Citation for case: Victory Ins. v. Downing">2023 MT 139,
+
+¶¶ 19-20</a></span><pre class="inline">, </pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/" aria-description="Citation for case: Victory Ins. v. Downing">413 Mont. 80</a></span><pre class="inline">, </pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/" aria-description="Citation for case: Victory Ins. v. Downing">532 P.3d 850</a></span><pre class="inline">. Paragraph 10 of the Special Master’s Order
+
+establishes a waiver of some storage-fee dispute, but it does not identify this transaction or
+
+state that the Special Master found the payments legitimate or illegitimate. The District
+
+Court had to infer both that paragraph 10 of the Special Master’s Order necessarily referred
+
+to this lease, and that waiver of the dispute amounted to adjudication of the underlying
+
+facts. Neither inference was compelled in Eric’s favor at the pleading stage.
+
+¶15    The no-admission of liability clause found in the Mutual Release reinforces the
+
+difference between compromise and adjudication, although this is not to say that a
+
+settlement agreement can never support issue preclusion. Although Eric relied on the
+
+statement in paragraph 10 of the Special Master’s Order that certain disputes were “waived
+
+under the Release,” his motion sought dismissal only under issue preclusion and did not
+
+present waiver or release as an independent contractual defense. The former litigants’
+
+agreement to waive a dispute may bear on the settlement’s scope, but it does not
+
+conclusively establish that the former adjudication actually or necessarily decided the
+
+factual issues concerning Eric’s conduct. A consent judgment may foreclose an issue when
+
+                                              7
+the agreement clearly manifests that intent. Linder v. Missoula County, </pre><span class="citation" data-id="882640"><a href="/opinion/882640/linder-v-missoula-county/#296" aria-description="Citation for case: Linder v. Missoula County">251 Mont. 292,
+
+296-97</a></span><pre class="inline">, </pre><span class="citation" data-id="882640"><a href="/opinion/882640/linder-v-missoula-county/#1006" aria-description="Citation for case: Linder v. Missoula County">824 P.2d 1004, 1006-07</a></span><pre class="inline"> (1992). Whatever independent contractual effect the
+
+settlement documents may have—a question we do not decide—they do not conclusively
+
+establish adjudication of Eric’s conduct.
+
+¶16    In Baltrusch, the first trials and judgments determined the misappropriations and
+
+amounts; the later case added only a party’s participation. Baltrusch, ¶¶ 3-8, 27-28. Here,
+
+no comparable factual finding adjudicated the lease between Copper City and Eric, the
+
+$14,400, or Eric’s conduct. In Adams, the entity and its general partners pursued the same
+
+defendant based on the same alleged negligent construction, but here, the former Copper
+
+City case asserted no claim against Eric and did not determine his conduct. Adams,
+
+¶¶ 2-4, 15-16, 23. Additionally, in Shelton v. State, </pre><span class="citation" data-id="10841176"><a href="/opinion/10374588/shelton-v-state/#30" aria-description="Citation for case: Shelton v. State">2025 MT 71, ¶¶ 30-33</a></span><pre class="inline">, </pre><span class="citation" data-id="10841176"><a href="/opinion/10374588/shelton-v-state/" aria-description="Citation for case: Shelton v. State">421 Mont. 327</a></span><pre class="inline">,
+
+</pre><span class="citation no-link">567 P.3d 285</span><pre class="inline">, a Utah court held an evidentiary hearing and expressly decided the same
+
+issue later presented in Montana. No former order expressly decided Eric’s alleged fraud,
+
+breach, unjust enrichment, or conspiracy.
+
+¶17    The former proceeding must actually or necessarily decide the determinative facts;
+
+related conduct alone is not enough. Brishka v. Dep’t of Transp., </pre><span class="citation" data-id="4690055"><a href="/opinion/4886276/brishka-v-dot/#11" aria-description="Citation for case: Brishka v. DOT">2021 MT 129, ¶¶ 11-12</a></span><pre class="inline">,
+
+</pre><span class="citation no-link">404 Mont. 228</span><pre class="inline">, </pre><span class="citation no-link">487 P.3d 771</span><pre class="inline">. Copper City’s conspiracy claim against Eric includes Russ,
+
+but that does not make every issue concerning Eric identical to the former shareholder
+
+dispute. Although the actions share factual background, the complaint and materials
+
+properly considered without conversion did not establish as a matter of law that the former
+
+adjudication decided the issues concerning Eric’s alleged conduct.
+
+
+
+                                            8
+Finality
+
+¶18    Section 3-5-113(1)(c), MCA, gives a special master’s civil order the same force and
+
+effect as an order entered by the district court. The Special Master’s February 26, 2024
+
+order dismissed the former action and all counterclaims with prejudice as fully settled on
+
+the merits. We therefore conclude that the former action produced a final judgment on the
+
+merits. That conclusion does not determine which issues the judgment resolved.
+
+Privity
+
+¶19    “Privity exists where ‘two parties are so closely aligned in interest that one is the
+
+virtual representative of the other . . . .’” Denturist Ass’n of Mont. v. State, </pre><span class="citation" data-id="8030997"><a href="/opinion/8072341/denturist-assn-v-state-department-of-labor-industry/#14" aria-description="Citation for case: Denturist Ass&#x27;n v. State, Department of Labor &amp; Industry">2016 MT 119,
+
+¶¶ 14-15</a></span><pre class="inline">, </pre><span class="citation" data-id="8030997"><a href="/opinion/8072341/denturist-assn-v-state-department-of-labor-industry/" aria-description="Citation for case: Denturist Ass&#x27;n v. State, Department of Labor &amp; Industry">383 Mont. 391</a></span><pre class="inline">, </pre><span class="citation" data-id="8030997"><a href="/opinion/8072341/denturist-assn-v-state-department-of-labor-industry/" aria-description="Citation for case: Denturist Ass&#x27;n v. State, Department of Labor &amp; Industry">372 P.3d 466</a></span><pre class="inline"> (internal citation omitted). Here, the relevant
+
+question is whether Copper City—the party against whom Eric invokes nonmutual
+
+defensive issue preclusion—participated in the former action or was adequately
+
+represented by a party who did. Eric did not have to prove privity with Russ merely to
+
+invoke the defense. Because Copper City was no longer the named plaintiff, Eric had to
+
+establish that a party to the former action adequately represented Copper City’s interests
+
+concerning this specific lease transaction.       The McGraths’ eventual sole ownership,
+
+economic interest in corporate assets, counterclaims, and execution of documents on
+
+Copper City’s behalf give Eric a substantial argument. But the M. R. Civ. P. 12 record
+
+does not conclusively establish who controlled the waiver, what the representatives knew
+
+about Eric, or whether their personal settlement interests aligned with Copper City’s
+
+interest in pursuing this transaction.
+
+
+
+                                              9
+Full and Fair Opportunity
+
+¶20    Copper City bears the burden to show the absence of a full and fair opportunity to
+
+litigate only after Eric establishes the first three elements. Baltrusch, ¶ 18. Although the
+
+McGraths had access to Copper City records in the previous suit and therefore an ability to
+
+investigate, that access does not conclusively establish that Copper City, through a legally
+
+adequate representative, had a full and fair opportunity to litigate the issues concerning
+
+Eric’s conduct. The assertion that the McGraths could have joined Eric confirms that they
+
+did not. Copper City’s absence as a named party does not itself defeat issue preclusion;
+
+rather, it makes adequate representation the controlling inquiry. On this Rule 12 record,
+
+that representation was not conclusively established. In McDaniel v. State, </pre><span class="citation" data-id="9512177"><a href="/opinion/889020/mcdaniel-v-state/#45" aria-description="Citation for case: McDaniel v. State">2009 MT 159,
+
+¶ 45</a></span><pre class="inline">, </pre><span class="citation" data-id="9512177"><a href="/opinion/889020/mcdaniel-v-state/" aria-description="Citation for case: McDaniel v. State">350 Mont. 422</a></span><pre class="inline">, </pre><span class="citation" data-id="9512177"><a href="/opinion/889020/mcdaniel-v-state/" aria-description="Citation for case: McDaniel v. State">208 P.3d 817</a></span><pre class="inline">, we held that a party’s failure to raise particular defenses
+
+does not establish the absence of a full and fair opportunity when the issue itself was raised,
+
+briefed, and argued in the former proceeding. Here, the record does not conclusively
+
+establish that a party adequately representing Copper City had a full and fair opportunity
+
+to litigate Eric’s alleged representations, authority, performance, receipt and retention of
+
+the payments, or agreement with Russ.
+
+M. R. Civ. P. 12(b)(6) on Collateral Estoppel Grounds
+
+¶21    Copper City’s complaint outlines concrete allegations—a written lease, identified
+
+misrepresentations, lack of authority, no stored property at the storage unit, four payments
+
+totaling $14,400, Eric’s receipt of the money, and concerted action with Russ. Whether
+
+Copper City can prove the allegations is a later question. The District Court described the
+
+allegations as “scant,” found no facts supporting Eric’s alleged leadership, called the claims
+
+                                              10
+suspicions, and concluded that only Eric’s degree of participation remained. It also drew
+
+several inferences against Copper City: paragraph 10 of the Special Master’s Order
+
+necessarily referred to this lease and these payments; the former parties’ access to records
+
+meant they knew or should have known all material facts; the former accounting
+
+encompassed the same $14,400 alleged loss, such that recovery against Eric would require
+
+reconstructing the settlement accounting; and Eric’s alleged liability could not be
+
+considered independently of Russ Allen’s conduct.          Some of the District Court’s
+
+propositions may prove true, but the complaint and the settlement documents did not
+
+compel them. Discovery may show that the parties specifically discussed this lease, treated
+
+the $14,400 in the accounting, or intended paragraph 10 of the Special Master’s Order to
+
+resolve this particular transaction. Or discovery may show the opposite.
+
+¶22    We reverse because the complaint and materials properly considered under
+
+Rule 12(b)(6) did not conclusively establish that the former adjudication decided an
+
+identical issue, that a party to the former action adequately represented Copper City
+
+concerning this transaction, or that Copper City had a full and fair opportunity to litigate
+
+the issues concerning Eric’s alleged representations, authority, performance, receipt and
+
+retention of the payments, or agreement with Russ.
+
+¶23    2. Whether the District Court erred under M. R. Civ. P. 12(d) by considering
+          matters outside the pleadings and resolving disputed factual inferences without
+          converting the motion to one for summary judgment and affording Copper City
+          a reasonable opportunity to present pertinent material.
+
+¶24    M. R. Civ. P. 12(d) requires conversion to summary judgment when the court
+
+considers and does not exclude matters outside the pleadings. The court must notify the
+
+
+                                            11
+parties and give them a reasonable opportunity to present pertinent material. Roaring Lion,
+
+¶ 13. The decision whether to convert a motion to dismiss to summary judgment is
+
+reviewed for abuse of discretion. Roaring Lion, ¶ 10. In certain circumstances, a court
+
+may consider information from related proceedings without conversion. Roaring Lion,
+
+¶ 18. In Roaring Lion, the same parties and counsel participated in both actions, the later
+
+claims necessarily required reference to the underlying action, the parties could not claim
+
+surprise from consideration of that record, and the court gave no indication that it relied on
+
+other outside materials. Roaring Lion, ¶¶ 18-19.
+
+¶25    Those circumstances are not present here. The District Court relied on the former
+
+pleadings, procedural and discovery orders, the Special Master’s order and its descriptions
+
+of the parties’ submissions, company records, accounting calculations, the mutual release,
+
+the dismissal order, and the stipulation. It used those materials to decide which storage
+
+dispute the parties raised; what they knew or could discover; whom they represented;
+
+whether their interests aligned; whether paragraph 10 of the Special Master’s Order
+
+encompassed this transaction; whether the accountings resolved the same loss; and whether
+
+Copper City had a full and fair opportunity to pursue Eric.
+
+¶26    Those uses required factual interpretation, not merely recognition of the existence
+
+and contents of the former records. Even assuming the District Court properly could
+
+consider the prior records without conversion, it could not use them to resolve disputed
+
+inferences concerning what the settlement encompassed. Paragraph 10 of the Special
+
+Master’s Order established that the former parties waived a dispute or category of disputes
+
+involving “storage unit fees”; it did not establish conclusively that the waiver encompassed
+
+                                             12
+this lease, these payments, or Eric’s alleged conduct. Roaring Lion is distinguishable
+
+because the same parties and counsel participated in both actions, the later claims
+
+necessarily required reference to the underlying action, and the court gave no indication
+
+that it relied on any other outside material. Roaring Lion, ¶¶ 18-19. This case involves
+
+different parties, Eric’s absence from the former action, and express reliance on an
+
+expanded record to decide disputed aspects of the defense. Plouffe provides the closer
+
+analogy. There, the district court relied on extensive records from former proceedings to
+
+resolve preclusion and had to exclude the materials or convert the motion, give notice, and
+
+allow a response. Plouffe, ¶¶ 13-16. Meagher v. Butte-Silver Bow City-County, </pre><span class="citation" data-id="888019"><a href="/opinion/888019/meagher-v-butte-silver-bow-city-county/#16" aria-description="Citation for case: Meagher v. Butte-Silver Bow City-County">2007 MT
+
+129, ¶¶ 16, 20</a></span><pre class="inline">, </pre><span class="citation" data-id="888019"><a href="/opinion/888019/meagher-v-butte-silver-bow-city-county/" aria-description="Citation for case: Meagher v. Butte-Silver Bow City-County">337 Mont. 339</a></span><pre class="inline">, </pre><span class="citation" data-id="888019"><a href="/opinion/888019/meagher-v-butte-silver-bow-city-county/" aria-description="Citation for case: Meagher v. Butte-Silver Bow City-County">160 P.3d 552</a></span><pre class="inline">, likewise explains that conversion protects
+
+the opportunity to counter outside material and avoid surprise.
+
+¶27    The District Court did not notify the parties that it would treat the motion as one for
+
+summary judgment or afford them a reasonable opportunity under M. R. Civ. P. 56 to
+
+present evidence concerning the settlement negotiations, the storage dispute referenced in
+
+paragraph 10 of the Special Master’s Order, the treatment of the four payments in the
+
+accounting, corporate authority, or the signatories’ knowledge. Those matters bear directly
+
+on issue identity, privity, opportunity to litigate, and possible duplicate recovery.
+
+¶28    We reverse and remand. The District Court abused its discretion by using prior-case
+
+materials to decide which storage transaction the settlement covered, whom the former
+
+parties represented, what they knew, Eric’s role, and whether recovery would duplicate the
+
+prior accounting, without following M. R. Civ. P. 12(d). On remand, the District Court
+
+
+
+                                              13
+may address any developed-record defense after the parties receive the procedures
+
+applicable to that defense.
+
+                                     CONCLUSION
+
+¶29    We hold only that the complaint and materials properly considered under
+
+M. R. Civ. P. 12(b)(6) did not establish issue preclusion conclusively and that the District
+
+Court could not resolve the disputed questions necessary to that defense by relying on
+
+matters outside the pleadings without following M. R. Civ. P. 12(d). We reverse the
+
+November 4, 2025 order and remand for further proceedings. Nothing in this Opinion
+
+forecloses the District Court from considering any defense properly raised and developed
+
+on remand.     We express no view on whether the settlement documents have any
+
+independent contractual effect on Copper City’s claims.
+
+
+                                                 /S/ KATHERINE M. BIDEGARAY
+
+
+We Concur:
+
+/S/ JAMES JEREMIAH SHEA
+/S/ LAURIE McKINNON
+/S/ BETH BAKER
+/S/ INGRID GUSTAFSON
+
+
+
+
+                                            14
+</pre>

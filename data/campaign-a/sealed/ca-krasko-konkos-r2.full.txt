@@ -1,0 +1,1384 @@
+<pre class="inline">************************************************
+   The “officially released” date that appears near the
+beginning of an opinion is the date the opinion will be
+published in the Connecticut Law Journal or the date it
+is released as a slip opinion. The operative date for the
+beginning of all time periods for the filing of postopinion
+motions and petitions for certification is the “officially
+released” date appearing in the opinion.
+   All opinions are subject to modification and technical
+correction prior to official publication in the Connecti-
+cut Law Journal and subsequently in the Connecticut
+Reports or Connecticut Appellate Reports. In the event
+of discrepancies between the advance release version of
+an opinion and the version appearing in the Connecticut
+Law Journal and subsequently in the Connecticut Reports
+or Connecticut Appellate Reports, the latest version is
+to be considered authoritative.
+   The syllabus and procedural history accompanying an
+opinion that appear in the Connecticut Law Journal and
+subsequently in the Connecticut Reports or Connecticut
+Appellate Reports are copyrighted by the Secretary of the
+State, State of Connecticut, and may not be reproduced
+or distributed without the express written permission of
+the Commission on Official Legal Publications, Judicial
+Branch, State of Connecticut.
+************************************************
+                              Krasko v. Konkos
+
+               ROBERT J. KRASKO ET AL. v.
+                ROBERT KONKOS ET AL.
+                      (AC 48824)
+                        Moll, Seeley and Palmer, Js.
+
+                                   Syllabus
+
+The defendants, owners of certain real property that is subject to a right-
+of-way easement benefitting the plaintiffs’ neighboring property, appealed
+from the trial court’s judgment ordering the defendants to authorize the
+removal of a utility pole that is located in the easement area so that the
+plaintiffs could widen their driveway. The defendants claimed, inter alia,
+that the court erred in finding that their refusal to consent to the removal
+of the pole was an obstruction of the plaintiffs’ easement. Held:
+
+The trial court did not err in concluding that the defendants’ refusal to
+consent to the removal of the utility pole constituted an obstruction of the
+plaintiffs’ easement, as the court properly applied the reasonable use analysis
+articulated in Williams v. Green Power Ventures, LLC (</pre><span class="citation" data-id="9901316"><a href="/opinion/9443491/williams-v-green-power-ventures-llc/" aria-description="Citation for case: Williams v. Green Power Ventures, LLC">221 Conn. App. 657</a></span><pre class="inline">),
+the court’s analysis of whether the plaintiffs’ proposed use of the easement
+was reasonably necessary was sound, the majority of the court’s factual find-
+ings were not clearly erroneous, and any erroneous findings were harmless.
+
+The trial court did not err by ordering unpleaded declaratory relief as claimed
+by the defendants but, rather, properly awarded injunctive relief as requested
+by the plaintiffs in their operative complaint, as the judgment directed the
+defendants to take a specific action, namely, to authorize the utility companies
+to remove the utility pole and to transfer the defendants’ electrical service to
+a different utility pole, rather than merely establishing the existing rights
+and legal relations of the parties, and the purpose of the order was to stop
+the defendants’ interference with the plaintiffs’ use and enjoyment of the
+easement, which is a classic purpose of an injunction.
+
+       Argued September 9—officially released November 10, 2026
+
+                             Procedural History
+
+  Action seeking, inter alia, an injunction requiring
+the named defendant et al. to consent to the relocation
+of a utility pole that obstructed the plaintiffs’ ease-
+ment, and for other relief, brought to the Superior Court
+in the judicial district of Fairfield, where the court,
+Stevens, J., granted the plaintiffs’ motions to cite in
+Frontier Communications Corporation et al. as party
+defendants; thereafter, the named defendant et al. filed
+a counterclaim; subsequently, the court, Hon. Dale W.
+Radcliffe, judge trial referee, granted the plaintiffs’
+                           Krasko v. Konkos
+
+motion to cite in Owned Wealth, LLC, et al. as party
+defendants; thereafter, the plaintiffs withdrew their
+complaint against the defendant Margaret Mary Kane;
+subsequently, the court, Hon. Dale W. Radcliffe, judge
+trial referee, granted the plaintiffs’ motion to enforce
+a settlement agreement, and the named defendant et al.
+appealed to this court, Elgo, Moll and Suarez, Js., which
+reversed the judgment of the trial court and remanded
+the case with direction to deny the plaintiffs’ motion
+to enforce the settlement agreement; thereafter, the
+court, Hon. Kenneth B. Povodator, judge trial referee,
+rendered judgment for the plaintiffs with respect to the
+complaint and with respect to counts three through six
+of the counterclaim filed by the named defendant et al.,
+from which the named defendant et al. appealed to this
+court; subsequently, the court, Hon. Kenneth B. Povo-
+dator, judge trial referee, dismissed counts one and two
+of the counterclaim filed by the named defendant et al.
+Appeal dismissed in part; affirmed.
+  Alexander Copp, for the appellants (named defendant
+et al.).
+  Alan R. Spirer, for the appellees (plaintiffs).
+
+                                Opinion
+
+  MOLL, J. This long running dispute over a utility pole
+returns to us on appeal from the Superior Court follow-
+ing this court’s remand in a prior appeal. See Krasko v.
+Konkos, </pre><span class="citation" data-id="9958131"><a href="/opinion/9491518/krasko-v-konkos/#611" aria-description="Citation for case: Krasko v. Konkos">224 Conn. App. 589, 611</a></span><pre class="inline">, </pre><span class="citation no-link">314 A.3d 34</span><pre class="inline"> (2024).
+The defendants Robert Konkos (Konkos), Chelsea Konkos
+(Chelsea), 105 Honeysuckle Trust, dated March 9, 2021,
+Owned Wealth, LLC, as trustee, and Owned Wealth,
+LLC,1 now appeal from the trial court’s judgment
+  1
+    “The plaintiffs initially commenced the underlying action against
+only [Konkos and Chelsea]. On January 22, 2020, the plaintiffs moved
+to cite in Frontier Communications Corporation (Frontier) and Margaret
+Mary Kane as defendants in the underlying action. On February 3, 2020,
+the [trial] court, Stevens, J., granted the plaintiffs’ motions and added
+Frontier and Kane as defendants to the underlying action. On July 6,
+2022, the plaintiffs moved to cite in 105 Honeysuckle Trust, dated
+March 9, 2021, Owned Wealth, LLC, as trustee, and Owned Wealth,
+                           Krasko v. Konkos
+
+rendered after a bench trial in favor of the plaintiffs,
+Robert J. Krasko and Francis L. O’Neill,2 ordering the
+defendants to authorize the removal of a utility pole in
+order to allow the plaintiffs to widen their driveway. On
+appeal, the defendants claim that the trial court erred
+in (1) ruling that their refusal to consent to the removal
+of the utility pole was an obstruction of the plaintiffs’
+easement and (2) granting unpleaded declaratory relief.
+We affirm the judgment of the trial court.
+  The following facts, as either found by the court or
+undisputed by the parties, and procedural history are rel-
+evant to our resolution of this appeal. The plaintiffs are
+the owners of real property located at 115 Honeysuckle
+Hill Lane in Easton (plaintiffs’ property). The defen-
+dants are the owners3 of the abutting property located
+at 105 Honeysuckle Hill Lane in Easton (defendants’
+property). The properties were originally laid out in a
+1978 subdivision map, which designated the defendants’
+property as lot 7 and the plaintiffs’ property as lot 8.
+Lot 7 adjoins Honeysuckle Hill Lane, but lot 8 does not;
+thus, the subdivision map contains a right-of-way over
+lot 7, twenty-five feet wide, that connects lot 8 with the
+public road. The properties were once commonly owned.
+During the period of common ownership, a house was
+constructed on lot 7, while lot 8 remained undeveloped. A
+utility pole (original pole) was placed on lot 7, close to the
+LLC, as additional defendants. . . . On July 18, 2022, the court, Hon.
+Dale W. Radcliffe, judge trial referee, granted the plaintiffs’ motion.
+On September 20, 2022, the plaintiffs withdrew their complaint against
+Kane.” Krasko v. </pre><span class="citation" data-id="9958131"><a href="/opinion/9491518/krasko-v-konkos/" aria-description="Citation for case: Krasko v. Konkos">Konkos, supra,</a></span><pre class="inline"> </pre><span class="citation no-link">224 Conn. App. 591</span><pre class="inline"> n.1. Frontier is
+nominally a defendant in the underlying action; however, no claim has
+been made by the plaintiffs against Frontier. Frontier and Kane are not
+participating in this appeal. In the interest of simplicity, we refer to
+Konkos, Chelsea, 105 Honeysuckle Trust, dated March 9, 2021, Owned
+Wealth, LLC, as trustee, and Owned Wealth, LLC, collectively as the
+defendants.
+  2
+    Francis L. O’Neill is referred to as Francis Krasko in parts of the
+record.
+  3
+   105 Honeysuckle Trust, dated March 9, 2021, Owned Wealth, LLC,
+as trustee, and Owned Wealth, LLC, are the current legal owners of the
+defendants’ property, while Konkos and Chelsea are the former owners
+and current beneficial owners of the defendants’ property.
+                           Krasko v. Konkos
+
+center of the right-of-way, to provide utility service to
+the house. The original pole is jointly owned by Frontier
+Communications Corporation (Frontier), which provides
+telephone service, and The United Illuminating Company
+(UI),4 which provides electrical service (collectively,
+utility companies).
+  In 2015, the then owner of both lots, John M. Barry,
+as trustee of the Richard A. Barry Testamentary Trust
+(trustee), planned to sell lot 8 for development. A sur-
+veyor prepared a site plan, dated December 16, 2015 (site
+plan), for the development of a single-family house on
+lot 8 for Margaret Mary Kane, a prospective buyer. The
+site plan indicated that a driveway would be constructed
+across the right-of-way on lot 7 to service the new home
+on lot 8, with the original pole located in the proposed
+path of the driveway. The site plan also contained a nota-
+tion stating “EXISTING POLE TO BE RELOCATED”
+and included a proposed location for a new utility pole.
+The record does not indicate whether the site plan was
+shared with the trustee.
+   On December 29, 2015, the trustee, as the owner of
+lots 7 and 8, executed an Easement and Mutual Drive-
+way Agreement (easement agreement). The easement
+agreement granted and conveyed “to the owner of [l]ot
+8, its successors and assigns, a perpetual easement over,
+under and across [the] 25 [foot] Right of Way to [l]ot 8:
+a. for ingress and egress to and from Honeysuckle Hill
+Lane on foot and by motor vehicle; including the right
+to construct a driveway in common with lot 7; b. for the
+installation, maintenance, replacement and repair of
+all utilities, including without limitation, water, gas,
+cable TV, telephone, and electricity . . . .” The easement
+agreement further specified “that the owners of [l]ot
+7 will at no time obstruct in any manner the owners of
+[l]ot 8’s access to [l]ot 8 in, under or over the 25 [foot]
+Right of Way . . . .” The easement agreement was duly
+recorded in the Easton land records. On that same day,
+the trustee conveyed the defendants’ property to Konkos
+ 4
+  UI is not a party to this action.
+                         Krasko v. Konkos
+
+and Chelsea by warranty deed. The trustee’s deed speci-
+fied that the defendants’ property was subject to the
+easement agreement, as well as an overlapping utility
+easement now owned by Frontier.5
+  At some point thereafter, the trustee conveyed lot 8
+to Kane. A single-family home was then built on lot 8,
+and a driveway was constructed within the easement
+area to service the new home. During the development
+of lot 8, a new utility pole (new pole), somewhat close to
+the original pole, was installed to provide utility service
+to the newly built home. The original pole was never
+removed or relocated, and it continues to provide util-
+ity service to the defendants’ property. Subsequently,
+the plaintiffs purchased lot 8 from Kane. The current
+driveway servicing the plaintiffs’ property is adjacent
+to the original pole.
+  The plaintiffs commenced the present action on August
+9, 2019. In their operative complaint, dated October 18,
+2024, the plaintiffs alleged that they “have a perpetual
+easement over, under and across a twenty-five (25) foot
+right-of-way to the plaintiffs’ [property] and which ease-
+ment burdens the defendants’ [property] as set forth in
+[the easement agreement] . . . . The plaintiffs’ ability to
+use the easement is obstructed by the location of [the
+original pole] owned and maintained by Frontier and
+located within the right-of-way that is the subject of
+the easement. . . . The removal of the [original] pole,
+which obstructs the plaintiffs’ driveway, requires that
+electrical service to the defendants’ house be transferred
+from the [original] pole to the new . . . pole. . . . Despite
+due demand, the defendants have failed and refused to
+consent to allowing Frontier to relocate the [original
+pole] . . . .”
+  Throughout most of the present action, the parties
+believed that moving the defendants’ electrical service
+from the original pole to the new pole would require the
+defendants to upgrade the electrical service to their
+  5
+   The utility easement was originally granted to Southern New Eng-
+land Telephone Company and now belongs to Frontier as its successor.
+                           Krasko v. Konkos
+
+home to meet current code standards. Accordingly,
+at prior stages of the action, the plaintiffs’ prayer for
+relief requested “a mandatory injunction requiring
+the defendants to upgrade their electrical connection
+between their house and the [new] pole so that the said
+connection complies with the current building code . . . .”
+Upgrading the electrical connection would have required
+installation of new cables from the new pole to the
+defendants’ home, which would in turn have required
+excavation of the defendants’ driveway and yard—a
+significant expense and inconvenience for the defendants.
+Following extensive motions practice, discovery, and a
+prior appeal,6 however, on August 28, 2024, the plain-
+tiffs’ counsel sent a letter to the defendants’ counsel
+explaining that, instead of upgrading their electrical
+connection, the defendants could simply transfer their
+existing electrical connection from the original pole to
+the new pole; accordingly, the plaintiffs proposed a new
+scope of work. The new proposal (splice box proposal)
+would involve disconnecting the defendants’ existing
+cable from the original pole, running the existing cable
+through a seven foot trench between the original pole
+and the new pole, installing a splice box at the base of
+the new pole, and installing a conduit from the splice
+box to the UI connection on the new pole. The splice box
+proposal would involve a relatively minimal interruption
+in electrical service to the defendants’ home while the
+work was completed. The plaintiffs then amended their
+complaint to the operative version, the prayer for relief
+in which requested a mandatory injunction ordering the
+  6
+   In the prior appeal, the defendants claimed that the trial court, Hon.
+Dale W. Radcliffe, judge trial referee, erred in granting the plaintiffs’
+motion to enforce a settlement agreement pursuant to Audubon Parking
+Associates Ltd. Partnership v. Barclay &amp; Stubbs, Inc., </pre><span class="citation" data-id="7842760"><a href="/opinion/7895287/audubon-parking-associates-ltd-partnership-v-barclay-stubbs-inc/#812" aria-description="Citation for case: Audubon Parking Associates Ltd. Partnership v. Barclay &amp;...">225 Conn. 804,
+812</a></span><pre class="inline">, </pre><span class="citation" data-id="7842760"><a href="/opinion/7895287/audubon-parking-associates-ltd-partnership-v-barclay-stubbs-inc/" aria-description="Citation for case: Audubon Parking Associates Ltd. Partnership v. Barclay &amp;...">626 A.2d 729</a></span><pre class="inline"> (1993). Krasko v. </pre><span class="citation" data-id="9958131"><a href="/opinion/9491518/krasko-v-konkos/" aria-description="Citation for case: Krasko v. Konkos">Konkos, supra,</a></span><pre class="inline"> </pre><span class="citation no-link">224 Conn. App.
+594</span><pre class="inline">, 604. This court agreed with the defendants, concluding that “[t]he
+record is clear that the parties did not reach a clear and unambiguous
+agreement.” Id., 611.
+                            Krasko v. Konkos
+
+defendants to authorize the removal of the original pole
+and the work described in the splice box proposal.7
+  The defendants filed their operative answer and special
+defenses on November 14, 2024. In addition to denying
+the plaintiffs’ substantive allegations, the defendants
+raised what they characterized as eight special defenses.
+On November 15, 2024, the plaintiffs filed a reply deny-
+ing all allegations of the defendants’ special defenses and
+stating that they were not cognizable special defenses.
+  The case was tried to the court, Hon. Kenneth B. Povo-
+dator, judge trial referee, on November 20 and 21, 2024.
+Both Krasko and Konkos testified at trial, as did a repre-
+sentative of Frontier and experts hired by both parties.
+The parties presented numerous exhibits, including the
+easement agreement, the site plan, the pertinent deeds,
+written communications between the parties, and photo-
+graphs showing vehicles using the plaintiffs’ driveway.
+  On May 21, 2025, the court rendered judgment in favor
+of the plaintiffs as to their operative complaint. The court
+determined that the plaintiffs’ proposed use of the ease-
+ment to remove the original pole in order to widen their
+driveway was reasonable and/or reasonably necessary.8
+The court assessed the reasonableness of the proposed
+use by analyzing four factors: “[1] the amount of harm
+caused, [2] its foreseeability, [3] the purpose or motive
+with which the act was done, and [4] the consideration
+of whether the utility of the use of the land outweighed
+the gravity of the harm resulting.” (Internal quotation
+ 7
+   The operative complaint asked the court for injunctive relief in the
+alternative: “1. That the court issue a mandatory injunction requiring
+the defendants . . . to consent to the removal of the [original] pole that
+obstructs the easement, and consent to [the splice box proposal] . . . .
+2. In the alternative, that the court issue a mandatory injunction requir-
+ing the defendants to upgrade their electrical connection between their
+house and the [new] pole . . . .” The second claim, however, requiring
+the upgrade of the defendants’ electrical connection, was abandoned
+for purposes of trial. As such, the plaintiffs’ only claim at trial was for
+an injunction requiring the defendants to authorize the work described
+in the splice box proposal.
+  8
+   The court used the terms “reasonably necessary” and “reasonable”
+use interchangeably. See footnote 10 of this opinion.
+                            Krasko v. Konkos
+
+marks omitted.) Williams v. Green Power Ventures, LLC,
+</pre><span class="citation" data-id="9901316"><a href="/opinion/9443491/williams-v-green-power-ventures-llc/" aria-description="Citation for case: Williams v. Green Power Ventures, LLC">221 Conn. App. 657</a></span><pre class="inline">, 685–86, </pre><span class="citation no-link">303 A.3d 13</span><pre class="inline"> (2023), cert.
+denied, </pre><span class="citation no-link">348 Conn. 938</span><pre class="inline">, </pre><span class="citation no-link">307 A.3d 273</span><pre class="inline"> (2024). The court
+found that there was no real risk of any significant harm
+to the defendants because the removal of the original pole
+could be accomplished by simply moving the defendants’
+existing electrical service to the new pole, as described
+in the splice box proposal, with only a relatively minimal
+interruption of service. The court then found that it
+was foreseeable that the original pole would not remain
+in its original location. As to the third factor, the court
+found that the plaintiffs were motivated by a desire to
+comply with the local zoning regulations for the width of
+a driveway and the need for vehicles to avoid being stuck
+between the original pole and a relatively steep drop-off
+on the other side of the driveway, and that the alterna-
+tive solution proposed by the defendants—to expand the
+driveway on the other side—was not reasonable because
+of engineering challenges. Finally, the court determined
+that the utility of the use of the land by the plaintiffs
+in widening the driveway would outweigh the minimal
+burden on the defendants if the work were completed. The
+court went on to reject the defendants’ special defenses.
+The court ordered the defendants to provide authoriza-
+tion to remove the original pole and to splice the power
+line from the new pole to the existing cable(s) serving the
+defendants’ property, as well as to transfer any other
+service as may be required by elimination of the original
+pole, as described in the splice box proposal. This appeal
+followed.9 Additional facts and procedural history will
+be set forth as necessary.
+  The defendants raise two claims on appeal, namely,
+that the court erred in (1) concluding that the defendants’
+  9
+   In its decision disposing of the plaintiffs’ operative complaint, the
+trial court also rendered judgment in the plaintiffs’ favor on counts three
+through six of a six count counterclaim filed by the defendants, with the
+court expressly declining to rule on the first and second counts because
+it was unclear whether those counts were ripe for adjudication, and the
+parties had not yet briefed the issue of ripeness. In their appeal to this
+court, filed June 9, 2025, the defendants also challenged the judgment
+rendered in favor of the plaintiffs on counts three through six of the
+                           Krasko v. Konkos
+
+failure to consent to removing the original pole consti-
+tuted an obstruction of the plaintiffs’ easement, and (2)
+ordering unpleaded declaratory relief. We address each
+claim in turn.
+                                   I
+  The defendants’ first claim on appeal is that the trial
+court on remand erred in concluding that their refusal
+to consent to removing the original pole constituted an
+obstruction of the plaintiffs’ easement. In support of
+this claim, the defendants argue that the court applied
+the wrong legal standard. The defendants then argue
+that, when the issues are analyzed under the purportedly
+correct standard, “the plaintiffs failed to establish that
+the removal of the original pole was reasonably neces-
+sary for the continued enjoyment of [their] right-of-way
+and would not unreasonably burden the defendants’
+property.” In support of this argument, the defendants
+assert that certain factual findings made by the court
+were clearly erroneous. Additionally, the defendants
+argue that the court erred in finding that the original
+pole constitutes an “ ‘obstruction’ ” for purposes of the
+counterclaim. At that time, the trial court had not yet ruled on counts
+one and two of the counterclaim. On June 16, 2025, the trial court ren-
+dered judgment dismissing counts one and two of the counterclaim as
+not ripe for adjudication. The defendants did not amend their appeal.
+  On November 3, 2025, this court ordered the parties to file memoranda
+addressing “whether the portion of this appeal challenging the trial
+court’s judgment in favor of the plaintiffs on counts three through
+six of the defendants’ counterclaim should be dismissed for lack of a
+final judgment because counts one and two of the counterclaim were
+still pending against the plaintiffs when this appeal was filed and the
+defendants did not amend their appeal after the trial court rendered a
+final judgment on the counterclaim.” See Ahern v. Board of Education,
+</pre><span class="citation no-link">219 Conn. App. 404</span><pre class="inline">, 418–21, </pre><span class="citation no-link">295 A.3d 496</span><pre class="inline"> (2023); see also Practice
+Book §§ 61-3 and 61-4. In their memoranda, both parties agreed that that
+portion of the appeal may be dismissed for lack of a final judgment. On
+December 3, 2025, this court dismissed the portion of the appeal chal-
+lenging the trial court’s judgment in favor of the plaintiffs on counts
+three through six of the counterclaim. Thus, only the defendants’ chal-
+lenge to the trial court’s judgment rendered on the plaintiffs’ operative
+complaint is before us on appeal.
+                      Krasko v. Konkos
+
+easement because the original pole predates the easement
+agreement. We address each argument in turn.
+                            A
+  We first address the defendants’ argument that the
+court applied the wrong legal standard in analyzing the
+issues. Specifically, the defendants contend that the
+court erred by analyzing the plaintiffs’ claims in terms
+of whether a proposed use of the easement is reasonably
+necessary, applying the factors this court articulated
+in Williams v. Green Power Ventures, </pre><span class="citation" data-id="9901316"><a href="/opinion/9443491/williams-v-green-power-ventures-llc/" aria-description="Citation for case: Williams v. Green Power Ventures, LLC">LLC, supra,</a></span><pre class="inline"> 221
+Conn. App. 685–86. We disagree with the defendants and
+conclude that the court applied the proper legal standard.
+   Whether the trial court applied the correct legal stan-
+dard is a question of law over which this court’s review
+is plenary. See Mirjavadi v. Vakilzadeh, </pre><span class="citation no-link">310 Conn. 176</span><pre class="inline">,
+183, </pre><span class="citation no-link">74 A.3d 1278</span><pre class="inline"> (2013) (“[i]t is well established that
+[t]he . . . determination of the proper legal standard in
+any given case is a question of law subject to [an appel-
+late court’s] plenary review” (internal quotation marks
+omitted)).
+  We begin with the general legal principles relating
+to easements. “It is well settled that [a]n easement cre-
+ates a nonpossessory right to enter and use land in the
+possession of another and obligates the possessor not to
+interfere with the rules authorized by the easement. . . .
+[T]he benefit of an easement . . . is considered a nonpos-
+sessory interest in land because it generally authorizes
+limited uses of the burdened property for a particular
+purpose. . . . [E]asements are not ownership interests
+but rather privileges to use [the] land of another in [a]
+certain manner for [a] certain purpose . . . .” (Internal
+quotation marks omitted.) Cheshire Land Trust, LLC v.
+Casey, </pre><span class="citation no-link">156 Conn. App. 833</span><pre class="inline">, 844, </pre><span class="citation no-link">115 A.3d 497</span><pre class="inline"> (2015).
+“Easements are classified as either easements appurte-
+nant or easements in gross. . . . Two distinct estates are
+involved in an easement appurtenant: the dominant to
+which the easement belongs and the servient upon which
+the obligation rests.” (Internal quotation marks omitted.)
+                           Krasko v. Konkos
+
+Il Giardino, LLC v. Belle Haven Land Co., </pre><span class="citation" data-id="7846847"><a href="/opinion/7898644/il-giardino-llc-v-belle-haven-land-co/#512" aria-description="Citation for case: Il Giardino, LLC v. Belle Haven Land Co.">254 Conn.
+502, 512</a></span><pre class="inline">, </pre><span class="citation" data-id="7846847"><a href="/opinion/7898644/il-giardino-llc-v-belle-haven-land-co/" aria-description="Citation for case: Il Giardino, LLC v. Belle Haven Land Co.">757 A.2d 1103</a></span><pre class="inline"> (2000).
+   The rights of the dominant estate holder and the servi-
+ent estate holder “are not absolute, but are so limited,
+each by the other, that there may be a reasonable enjoy-
+ment of both.” (Internal quotation marks omitted.) Kuras
+v. Kope, </pre><span class="citation" data-id="7840190"><a href="/opinion/7892982/kuras-v-kope/#342" aria-description="Citation for case: Kuras v. Kope">205 Conn. 332, 342</a></span><pre class="inline">, </pre><span class="citation" data-id="7840190"><a href="/opinion/7892982/kuras-v-kope/" aria-description="Citation for case: Kuras v. Kope">533 A.2d 1202</a></span><pre class="inline"> (1987). “Of
+necessity, the interests of the owner of the easement often
+conflict with the interests of the owner of the burdened
+estate. By law, however, each of the parties owes certain
+duties to the other.” (Internal quotation marks omit-
+ted.) 57 Broad Street Stamford, LLC v. Summer House
+Owners, LLC, </pre><span class="citation" data-id="4312884"><a href="/opinion/4535631/57-broad-street-stamford-llc-v-summer-house-owners-llc/#847" aria-description="Citation for case: 57 Broad Street Stamford, LLC v. Summer House Owners, LLC">184 Conn. App. 834, 847</a></span><pre class="inline">, </pre><span class="citation" data-id="4312884"><a href="/opinion/4535631/57-broad-street-stamford-llc-v-summer-house-owners-llc/" aria-description="Citation for case: 57 Broad Street Stamford, LLC v. Summer House Owners, LLC">195 A.3d 1143</a></span><pre class="inline">
+(2018). “Except as limited by the terms of the servitude
+. . . the holder of an easement . . . is entitled to use the
+servient estate in a manner that is reasonably necessary10
+for the convenient enjoyment of the servitude. . . . Like-
+wise, [e]xcept as limited by the terms of the servitude .
+. . the holder of the servient estate is entitled to make
+any use of the servient estate that does not unreasonably
+interfere with enjoyment of the servitude.” (Footnote
+  10
+     As the trial court observed, this court has used “reasonably nec-
+essary,” “reasonableness of the use,” and other similar terms inter-
+changeably in the easement context. See, e.g., Williams v. Green Power
+Ventures, LLC, supra, 221 Conn. App. 685–86 (“[T]he scope of the
+easement is such that it may be used for those purposes reasonably
+necessary to the full enjoyment of the premises to which the right-of-
+way is appurtenant. Whether a particular use is reasonable is a question
+of fact and must be determined on a case by case basis, considering all
+the relevant circumstances . . . .” (Emphasis added; internal quotation
+marks omitted.)); Francini v. Goodspeed Airport, LLC, </pre><span class="citation no-link">164 Conn. App.
+279</span><pre class="inline">, 293, </pre><span class="citation no-link">134 A.3d 1278</span><pre class="inline"> (2016) (“Generally, [a right-of-way] granted
+or reserved in general terms may be used for any purpose reasonably
+necessary for the party entitled to use it. . . . The grant being gen-
+eral in terms, it must be construed to include any reasonable use to
+which the land may be devoted.” (Emphasis added; internal quotation
+marks omitted.)), aff’d, </pre><span class="citation" data-id="4232554"><a href="/opinion/4455301/francini-v-goodspeed-airport-llc/" aria-description="Citation for case: Francini v. Goodspeed Airport, LLC">327 Conn. 431</a></span><pre class="inline">, </pre><span class="citation" data-id="4232554"><a href="/opinion/4455301/francini-v-goodspeed-airport-llc/" aria-description="Citation for case: Francini v. Goodspeed Airport, LLC">174 A.3d 779</a></span><pre class="inline"> (2018); Hagist
+v. Washburn, </pre><span class="citation" data-id="7853012"><a href="/opinion/7904444/hagist-v-washburn/#86" aria-description="Citation for case: Hagist v. Washburn">16 Conn. App. 83, 86</a></span><pre class="inline">, </pre><span class="citation" data-id="7853012"><a href="/opinion/7904444/hagist-v-washburn/" aria-description="Citation for case: Hagist v. Washburn">546 A.2d 947</a></span><pre class="inline"> (1988) (“It is well
+established that a right-of-way granted in general terms may be used for
+any purpose reasonably necessary for the party entitled to use it. . . .
+Moreover, the issue of what constitutes reasonable use is a question
+of fact . . . .” (Citations omitted; emphasis added; internal quotation
+marks omitted.)).
+                      Krasko v. Konkos
+
+added; internal quotation marks omitted.) Freidheim v.
+McLaughlin, </pre><span class="citation no-link">217 Conn. App. 767</span><pre class="inline">, 779, </pre><span class="citation no-link">290 A.3d 801</span><pre class="inline">
+(2023). “The manner, frequency, and intensity of the
+[dominant estate holder’s] use of the servient estate may
+change over time to . . . accommodate normal develop-
+ment of the dominant estate . . . .” (Internal quotation
+marks omitted.) Zhang v. Omnipoint Communications
+Enterprises, Inc., </pre><span class="citation" data-id="7848916"><a href="/opinion/7900547/chijian-zhang-v-omnipoint-communications-enterprises-inc/#637" aria-description="Citation for case: Chijian Zhang v. Omnipoint Communications Enterprises, Inc.">272 Conn. 627, 637</a></span><pre class="inline">, </pre><span class="citation" data-id="7848916"><a href="/opinion/7900547/chijian-zhang-v-omnipoint-communications-enterprises-inc/" aria-description="Citation for case: Chijian Zhang v. Omnipoint Communications Enterprises, Inc.">866 A.2d 588</a></span><pre class="inline">
+(2005). “The use of an easement must be reasonable
+and as little burdensome to the servient estate as the
+nature of the easement and the purpose will permit. . .
+. Ordinarily when [judicial] opinions speak of the use of
+an easement, it arises in right-of-way cases. Thus use
+frequently involves the amount of traffic over the ease-
+ment or alterations to the land to make it passable. . . .
+This is not to overlook, however, that [t]he owner of an
+easement has all rights incident or necessary to its proper
+enjoyment, [although] nothing more.” (Emphasis added;
+internal quotation marks omitted.) Ringel v. Gottlieb,
+</pre><span class="citation" data-id="11104254"><a href="/opinion/10637667/ringel-v-gottlieb/#804" aria-description="Citation for case: Ringel v. Gottlieb">233 Conn. App. 798, 804</a></span><pre class="inline">, </pre><span class="citation no-link">342 A.3d 1039</span><pre class="inline">, cert. granted,
+</pre><span class="citation no-link">353 Conn. 930</span><pre class="inline">, </pre><span class="citation no-link">346 A.3d 514</span><pre class="inline"> (2025).
+  In light of these principles, this court explained in
+Williams that resolving a claim of interference with
+use and enjoyment of an easement requires a three part
+analysis. Williams v. Green Power Ventures, LLC, supra,
+</pre><span class="citation no-link">221 Conn. App. 686</span><pre class="inline">. “[T]he trial court [must] determine
+(1) the character, extent, and scope of the easement
+granted to the plaintiffs, (2) whether the plaintiffs’ use
+of the easement [is] reasonable in light of the character
+and extent of the easement, and (3) whether the defen-
+dants’ actions [have] interfered with the plaintiffs’ use
+of the easement.” Id. This court further explained that
+“[w]hether a particular use is reasonable is a question
+of fact and must be determined on a case by case basis,
+considering all the relevant circumstances, including
+such factors as [1] the amount of harm caused, [2] its
+foreseeability, [3] the purpose or motive with which the
+act was done, and [4] the consideration of whether the
+utility of the use of the land outweighed the gravity of
+                      Krasko v. Konkos
+
+the harm resulting.” (Internal quotation marks omit-
+ted.) Id., 685–86.
+  In the present case, there is no dispute that the plain-
+tiffs, as the owners of the former lot 8, hold a valid ease-
+ment appurtenant over the defendants’ property, the
+former lot 7. In the parlance of easements, the plaintiffs’
+property is the dominant estate, and the defendants’
+property is the servient estate. There is also no dispute
+as to the general character, extent, and scope of the
+easement. The easement agreement incorporates a pre-
+existing twenty-five foot right-of-way “for all lawful
+purposes” and specifically gives the plaintiffs the right
+to “ingress and egress to and from [the public street] on
+foot and by motor vehicle; including the right to construct
+a driveway in common with [the defendants’ property]”
+within the twenty-five foot right-of-way. (Emphasis
+added.) Rather, the present case centers on a specific
+proposed use of the easement by the plaintiffs, as hold-
+ers of the dominant estate: to remove the original pole
+so that they can expand their driveway into the area
+currently occupied by the original pole. This proposed
+use falls within the general character and scope of the
+easement. See, e.g., State v. Quintiliano, </pre><span class="citation" data-id="4765977"><a href="/opinion/4957783/state-v-quintiliano/#724" aria-description="Citation for case: State v. Quintiliano">206 Conn.
+App. 712, 724</a></span><pre class="inline">, </pre><span class="citation no-link">261 A.3d 31</span><pre class="inline"> (recognizing “the right of a
+dominant estate holder of a right-of-way easement . . .
+to remove obstructions placed in the right-of-way that
+materially interfere with his or her reasonable enjoyment
+of the easement”), cert. denied, </pre><span class="citation no-link">339 Conn. 918</span><pre class="inline">, </pre><span class="citation no-link">262 A.3d
+136</span><pre class="inline"> (2021). There is also no dispute that the defendants’
+refusal to authorize the transfer of their utility service
+interferes with the removal of the original pole. Thus,
+the dispositive issue is whether the proposed use is rea-
+sonable or reasonably necessary for the enjoyment of the
+plaintiffs’ rights under the easement.
+  The trial court assessed the reasonableness of the pro-
+posed use by applying the four factors that this court
+recited in Williams v. Green Power Ventures, LLC, supra,
+221 Conn. App. 685–86. The defendants attempt to
+distinguish Williams by pointing out that the issue in
+                      Krasko v. Konkos
+
+Williams was whether the dominant estate holder’s
+proposed use was within the scope of the easement. This
+distinction is both accurate and immaterial. The trial
+court in Williams interpreted the applicable deed as
+allowing foot passage only and concluded that the ease-
+ment holders’ use of the easement for vehicular travel
+was outside of its scope. Id., 677–78. On appeal, this court
+held that the trial court had misinterpreted the deed:
+vehicular travel was within the scope of the easement.
+Id., 686. The four reasonableness factors recited in Wil-
+liams were never applied in Williams itself; rather, this
+court explained that those were the factors the trial court
+should have applied but did not because it misinterpreted
+the deed. Id. Here, however, there was no dispute as to
+the overall scope of the easement, such that the trial
+court analyzed the specific proposed use of the easement
+under the four reasonableness factors.
+  The defendants contend that the question before the
+trial court was whether the removal of the original pole
+“(1) [is] reasonably necessary for the continued enjoy-
+ment of the right-of-way, and (2) would not unreasonably
+burden the [servient] property.” (Emphasis in original;
+footnote omitted.) Somers v. LeVasseur, </pre><span class="citation" data-id="7843443"><a href="/opinion/7895859/somers-v-levasseur/#567" aria-description="Citation for case: Somers v. LeVasseur">230 Conn. 560,
+567</a></span><pre class="inline">, </pre><span class="citation" data-id="7843443"><a href="/opinion/7895859/somers-v-levasseur/" aria-description="Citation for case: Somers v. LeVasseur">645 A.2d 993</a></span><pre class="inline"> (1994). We observe, however, that
+both requirements set forth in Somers are function-
+ally contained within the reasonableness factors from
+Williams, which require the court to consider both the
+proposed use’s foreseeability, purpose, and benefit to the
+dominant estate in light of the scope of the easement and
+the harm to the servient estate that would result from
+the proposed use. See id.; Williams v. Green Power Ven-
+tures, LLC, supra, 221 Conn. App. 685–86. Indeed, in
+the present case, the court made express factual findings,
+both that the proposed use was reasonable and that the
+harm to the servient estate would be minimal. Thus, the
+quoted language from Somers does not establish a test
+meaningfully different from the test applied by the court.
+  We conclude that the reasonable use analysis articu-
+lated in Williams was the correct standard for the court
+                      Krasko v. Konkos
+
+to apply in the present case. The defendants have not
+identified a meaningfully different legal standard that
+the court should have applied, let alone explained why
+their preferred standard is correct. Thus, the defendants’
+claim fails.
+                             B
+  We next turn to the defendants’ claim that the plain-
+tiffs have not carried their burden of showing that their
+proposed use of the easement is reasonably necessary
+and that the trial court erred in determining that the
+defendants’ refusal to consent to removal of the original
+pole was an obstruction of the easement. In support of
+this claim, the defendants challenge several subsidiary
+factual findings. We conclude that the court’s reason-
+ableness analysis was sound, that the majority of its
+factual findings were not clearly erroneous, and that
+any erroneous findings were harmless. Accordingly, we
+disagree with the defendants.
+  The following additional facts and procedural history
+are relevant to our resolution of this claim. At trial, the
+plaintiffs presented the testimony of Stephen Gemmell,
+a representative of Frontier. Gemmell testified about
+Frontier’s role as the co-owner, installer, and “custo-
+dian” of the original pole and the new pole. Gemmell also
+testified as to what the splice box proposal would entail,
+who would perform the work, and the risks of the proj-
+ect based on his own experience working for Frontier,
+as well as his understanding based on a conversation he
+had with his counterpart at UI. Gemmell explained that
+the Public Utility Regulatory Authority has policies
+relating to the removal of “double utility poles” and that
+the original pole and the new pole constitute a “double
+utility pole” situation.
+   The plaintiffs also presented the testimony of James
+Luczak, a registered professional engineer. Luczak testi-
+fied that the plaintiffs’ driveway is more than 200 feet
+long and that the Easton Zoning Regulations require
+driveways of that length to have a width of at least twelve
+                          Krasko v. Konkos
+
+feet. Luczak measured the “travel way” of the driveway11
+as being eight and one-half feet wide. Luczak testified
+that, on the side of the plaintiffs’ driveway opposite
+the original pole, there is a seven foot vertical drop-off,
+which he characterized as a “steep slope.” He explained
+that, if the original pole were not removed, the other
+way to widen the driveway to twelve feet would be to
+expand the driveway on the side opposite the original
+pole, which, because of the seven foot drop-off, would
+require the construction of a retaining wall of substantial
+size and strength. Luczak’s expert report, which was
+admitted as a full exhibit, specified that the retaining
+wall would need to be approximately 175 feet long and
+seven feet high. Luczak’s report also indicated that,
+with the driveway in its current state, there is a risk of
+injury from falling or driving off the seven foot drop-off
+opposite the original pole.
+  The defendants presented the testimony of two experts:
+Carl Cianci, a consulting structural engineer, and Nick
+Sarro, a building consultant and professional estimator.
+Cianci testified that he measured the travel way of the
+plaintiffs’ driveway at eleven feet, six inches. He also
+testified that the drop-off on the side of the driveway
+opposite the original pole was four to five feet, which
+was not something over which he would want to drive a
+car. Cianci testified that, to widen the driveway to twelve
+feet on the side opposite the original pole, a small retain-
+ing wall, no more than twenty feet long, would need to
+be constructed. Cianci also testified that the plaintiffs’
+driveway is more than 200 feet long. Sarro testified that
+widening the driveway on the side opposite the original
+pole would require a retaining wall four to five feet high
+and twenty feet long and that an engineer would need
+ 11
+   Luczak defined the “travel way” of a driveway as the portion of the
+driveway that can be comfortably navigated by a vehicle, including
+considerations for turns, passing, and snow removal.
+                       Krasko v. Konkos
+
+to design such a retaining wall. Sarro also testified that
+trenching for electric utility lines is “routine” work.
+   Krasko and Konkos also testified at trial. Krasko testi-
+fied that some delivery trucks had been unable to make
+it past the original pole up the driveway and that he had
+safety concerns about using the driveway, especially in
+snow and ice. He also testified to his understanding that
+the utility companies were willing to move forward with
+the splice box proposal. Konkos testified that he had
+numerous concerns about the utility work requested by
+the plaintiffs, including cost, potential loss of electrical
+service, and damage to the defendants’ property. Konkos
+also testified that he has seen numerous trucks make it
+up the plaintiffs’ driveway, past the original pole, and
+that he has seen trucks have issues going up the driveway
+only when backing up instead of going forward. Konkos
+testified that he was aware of the easement agreement
+when he bought the house and was generally aware that
+a house would be built on lot 8 at some point. He also
+acknowledged that the work in the splice box proposal
+would be done within the easement area and would be
+completed by a licensed electrician.
+  The court admitted the following documents, among
+others, as full exhibits: (1) photographs showing vehicles
+using (or attempting to use) the plaintiffs’ driveway; (2)
+historical maps of the plaintiffs’ and the defendants’
+properties, including the original subdivision map and
+the site plan; (3) a 2020 survey map showing the state
+of the plaintiffs’ and the defendants’ properties, which
+indicates that both the original pole and the new pole
+are within the easement area; and (4) relevant portions
+of the Easton Zoning Regulations, including § 5520 (2)
+(a), which provides: “Driveways shall be at least ten (10)
+feet wide except that driveways more than 200 feet in
+length shall be at least twelve (12) feet wide.”
+  We next set forth the applicable standard of review.
+“[The] decision as to what would constitute a reasonable
+use of a right-of-way is for the trier of fact whose decision
+may not be overturned unless it is clearly erroneous.”
+                        Krasko v. Konkos
+
+(Internal quotation marks omitted.) Stefanoni v. Dun-
+can, </pre><span class="citation" data-id="2321065"><a href="/opinion/2321065/stefanoni-v-duncan/#699" aria-description="Citation for case: Stefanoni v. Duncan">282 Conn. 686, 699</a></span><pre class="inline">, </pre><span class="citation" data-id="2321065"><a href="/opinion/2321065/stefanoni-v-duncan/" aria-description="Citation for case: Stefanoni v. Duncan">923 A.2d 737</a></span><pre class="inline"> (2007). “Indeed,
+this court has explained that [f]actual findings are a
+necessary prerequisite to determine the scope and extent
+of [a plaintiff’s] rights with respect to [an] easement. It
+is well established that appellate courts are not triers of
+fact and rely on the trial court’s findings and conclusions
+related thereto.” (Internal quotation marks omitted.)
+Freidheim v. McLaughlin, supra, </pre><span class="citation no-link">217 Conn. App. 790</span><pre class="inline">.
+  “[I]n a case tried before the court, the trial judge is the
+sole arbiter of the credibility of witnesses and the weight
+to be afforded to specific testimony. . . . [When] the fac-
+tual basis of the court’s decision is challenged we must
+determine whether the facts set out in the memorandum
+of decision are supported by the evidence or whether,
+in light of the evidence and the pleadings in the whole
+record, those facts are clearly erroneous. . . . In other
+words, to the extent that the trial court has made findings
+of fact, our review is limited to deciding whether those
+findings were clearly erroneous. . . . A finding of fact is
+clearly erroneous when there is no evidence in the record
+to support it . . . or when although there is evidence to
+support it, the reviewing court on the entire evidence is
+left with the definite and firm conviction that a mistake
+has been committed. . . . In making this determination,
+every reasonable presumption must be given in favor
+of the trial court’s ruling.” (Internal quotation marks
+omitted.) Finocchio Bros., Inc. v. 587 CTA, LLC, </pre><span class="citation no-link">226
+Conn. App. 351</span><pre class="inline">, 355–56, </pre><span class="citation no-link">317 A.3d 838</span><pre class="inline"> (2024).
+  Furthermore, if “some of the facts found [by the trial
+court] are clearly erroneous and others are supported
+by the evidence, we must examine the clearly erroneous
+findings to see whether they were harmless, not only in
+isolation, but also taken as a whole. . . . If, when taken as a
+whole, they undermine appellate confidence in the court’s
+[fact-finding] process, a new hearing is required. . . . In a
+civil case, [t]he harmless error standard . . . is whether the
+improper ruling would likely affect the result.” (Internal
+quotation marks omitted.) Bethel Baseball Assn., Inc.
+                            Krasko v. Konkos
+
+v. Dyer, </pre><span class="citation" data-id="10835562"><a href="/opinion/10368974/bethel-baseball-assn-inc-v-dyer/" aria-description="Citation for case: Bethel Baseball Assn., Inc. v. Dyer">231 Conn. App. 721</a></span><pre class="inline">, 730–31, </pre><span class="citation no-link">334 A.3d 1034</span><pre class="inline">
+(2025).
+  The defendants first argue, in essence, that the trial
+court’s factual findings show that removing the original
+pole was merely convenient and not reasonably neces-
+sary12 for the plaintiffs to use the easement. In their
+appellate brief, the defendants assert that “[t]he court
+expressly found that the driveway, with the [original]
+pole still in place, functionally was sufficiently wide to
+permit large trucks and emergency vehicles to travel on
+the driveway up to the plaintiffs’ residence—demon-
+strated by visual evidence that such vehicles had been
+able to get past the [original] pole without any apparent
+or identified difficulty.” (Internal quotation marks omit-
+ted.) The court made no such factual finding, however.13
+Rather, the court stated in its memorandum of decision
+that there was some evidence introduced to show that
+the driveway was sufficiently wide to allow large trucks
+and emergency vehicles to travel on the driveway and get
+past the original pole without apparent difficulty, but
+there was also evidence of difficulty or refusal of other
+vehicles with respect to getting past the original pole.
+That evidence included Krasko’s testimony about the
+  12
+    The defendants rely on Gager v. Carlson, </pre><span class="citation" data-id="1903825"><a href="/opinion/1903825/gager-v-carlson/#293" aria-description="Citation for case: Gager v. Carlson">146 Conn. 288, 293</a></span><pre class="inline">, </pre><span class="citation" data-id="1903825"><a href="/opinion/1903825/gager-v-carlson/" aria-description="Citation for case: Gager v. Carlson">150
+A.2d 302</a></span><pre class="inline"> (1959), for the proposition that the plaintiffs must establish
+that removal of the original pole is “reasonably necessary, and not merely
+convenient.” (Emphasis omitted; internal quotation marks omitted.)
+We note that the present case is factually distinguishable. In Gager,
+the dominant estate holder needed to enter the servient estate holder’s
+land, outside the area covered by the easement, to perform repairs
+necessary to his enjoyment of the easement. </pre><span class="citation" data-id="1903825"><a href="/opinion/1903825/gager-v-carlson/" aria-description="Citation for case: Gager v. Carlson">Id.,</a></span><pre class="inline"> 293–94. Here, both
+the original pole and the new pole are inside the right-of-way covered
+by the easement, and the work proposed by the plaintiffs would occur
+within the easement area.
+  13
+    At oral argument before this court, the defendants characterized
+the trial court’s findings regarding whether the original pole obstructed
+use of the driveway as inconclusive. We disagree. Although the trial
+court did acknowledge that there was evidence presented on both sides,
+and although the defendants correctly point out that there was no
+express finding that vehicles cannot get by the original pole, the trial
+court’s characterization of accessing the plaintiffs’ property as akin to
+“navigating between Scylla and Charybdis” implies a finding that the
+driveway was at least somewhat treacherous to navigate.
+                       Krasko v. Konkos
+
+difficulties of using the driveway, several photographs
+showing vehicles either having difficulty or refusing to
+use the driveway, and an expert opinion that the drop-
+off on the side of the driveway opposite the original pole
+was dangerous. The trial court determined that “[a]ccess
+to the plaintiffs’ property should not be a matter of
+navigating between Scylla and Charybdis—an immov-
+able utility pole on one side and a somewhat perilous
+drop-off on the other side of the driveway. . . . [I]t is not
+unreasonable to expect that drivers should not have to
+have a sense of [peril] to the left and right, should the
+vehicle depart from dead center of the driveway.” This
+finding, supported by evidence in the record, was not
+clearly erroneous.
+   The defendants also point out that an alternative solu-
+tion to widen the driveway existed, although the trial
+court found that the relative costs leaned in favor of
+removing the original pole. The defendants appear to be
+arguing that, because there was an available alternative,
+the plaintiffs’ proposed use of the easement was not rea-
+sonably necessary, but merely convenient. We disagree.
+A proposed use of an easement need not be absolutely
+necessary, in the sense that there are no possible alterna-
+tives, but, rather, need only be reasonably necessary, in
+the sense that it is needed for the convenient enjoyment
+of the easement. See Zirinsky v. Carnegie Hill Capital
+Asset Management, LLC, </pre><span class="citation" data-id="7863950"><a href="/opinion/7914836/zirinsky-v-carnegie-hill-capital-asset-management-llc/#713" aria-description="Citation for case: Zirinsky v. Carnegie Hill Capital Asset Management, LLC">139 Conn. App. 706, 713</a></span><pre class="inline">, </pre><span class="citation" data-id="7863950"><a href="/opinion/7914836/zirinsky-v-carnegie-hill-capital-asset-management-llc/" aria-description="Citation for case: Zirinsky v. Carnegie Hill Capital Asset Management, LLC">58
+A.3d 284</a></span><pre class="inline"> (2012) (“[e]xcept as limited by the terms of the
+servitude . . . the holder of an easement . . . is entitled
+to use the servient estate in a manner that is reasonably
+necessary for the convenient enjoyment of the servitude”
+(emphasis added; internal quotation marks omitted)).
+Even when an alternative solution exists, a proposed
+use can still be reasonably necessary if the alternative
+is too costly, dangerous, or otherwise impractical, leav-
+ing the proposed use as the reasonable option. In the
+related context of easements by implication, this court
+has stated that, “[insofar] as necessity is significant . . .
+it is sufficient if the easement is highly convenient and
+beneficial for the enjoyment of the dominant estate.”
+                          Krasko v. Konkos
+
+(Internal quotation marks omitted.) Sanders v. Dias, </pre><span class="citation" data-id="1542189"><a href="/opinion/1542189/sanders-v-dias/#294" aria-description="Citation for case: Sanders v. Dias">108
+Conn. App. 283, 294</a></span><pre class="inline">, </pre><span class="citation" data-id="1542189"><a href="/opinion/1542189/sanders-v-dias/" aria-description="Citation for case: Sanders v. Dias">947 A.2d 1026</a></span><pre class="inline"> (2008); see, e.g.,
+</pre><span class="citation" data-id="1542189"><a href="/opinion/1542189/sanders-v-dias/" aria-description="Citation for case: Sanders v. Dias">id.,</a></span><pre class="inline"> 294–95 (upholding trial court’s finding that, “based
+on the significant cost of relocating a driveway to the
+defendants’ home, the risks associated with the blasting
+near the defendants’ home, the limited impact . . . on the
+plaintiff’s property . . . the grade of the defendants’ prop-
+erty, and safety issues associated with the construction
+of a steep driveway, the easement was reasonably neces-
+sary for the fair enjoyment of the defendants’ property”
+(internal quotation marks omitted)). Likewise, here,
+the trial court’s findings indicated that the plaintiffs’
+proposed use, despite the existence of a theoretical alter-
+native, was highly convenient and beneficial for the fair
+enjoyment of the plaintiffs’ rights under the easement
+agreement. The only proposed alternative solution was
+to widen the plaintiffs’ driveway on the side opposite the
+original pole, where there is a “relatively steep drop-off
+. . . .” Although they disagreed on the specifics, both
+the plaintiffs’ and the defendants’ experts agreed that,
+because of the drop-off, a retaining wall, designed by an
+engineer, would be needed to expand the driveway on that
+side. On the other hand, multiple witnesses described
+the work involved in the splice box proposal as routine.
+On the basis of this evidence, the trial court found that
+widening the side of the driveway opposite the original
+pole would be an “engineering project” at likely sub-
+stantial cost, whereas the removal of the original pole as
+proposed in the splice box proposal was “not . . . a major
+undertaking.” Thus, the trial court concluded that the
+proposed alternative solution was not reasonable under
+the circumstances. To the extent the defendants chal-
+lenge this finding, we perceive no error.
+  Next, we address the court’s finding that “there is no
+real risk of any significant harm to the defendants” from
+the removal of the original pole and the movement of
+electrical service to the new pole.14 The defendants con-
+tend that the evidence to support this finding was inad-
+ 14
+   The court made several similar findings, such as finding that there
+would be a “minimal/negligible burden [to the defendants] associated
+                            Krasko v. Konkos
+
+equate because UI, as the electric company, would need
+to give permission to proceed with the electrical work,
+the splice box proposal was not permitted by UI from
+the beginning of this action through August 2024, and
+no one from UI testified at trial. We first observe that,
+if UI in fact does not sign off on the work, that would
+seem to be the plaintiffs’ problem; the defendants do not
+explain how, if at all, UI’s hypothetical resistance would
+cause harm to the defendants.15 Regardless, the letter
+from the plaintiffs’ counsel to the defendants’ counsel,
+which the court received as a full exhibit, indicates that
+UI now does approve the work described in the splice
+box proposal, regardless of what it may have approved
+or prohibited previously. Furthermore, the court heard
+testimony from Gemmell that Frontier is the “custodian”
+of the original pole, that “any placement of the [original]
+pole, moving, is Frontier’s responsibility,” and that his
+understanding, based on speaking with his counterpart
+at UI, was that UI would approve the work. As such, to
+the extent that UI’s approval is even relevant, the court
+had an adequate evidentiary basis to conclude that UI
+did approve the work.
+   The defendants further argue that the trial court did
+not have sufficient testimony from qualified witnesses
+with personal knowledge or relevant documents to estab-
+lish anticipated or likely harm to the defendants. In sup-
+port of this argument, the defendants contend that the
+only witness with any relevant knowledge was Gemmell,
+who gave what they characterize as qualified, general
+answers and did not have detailed personal knowledge16
+with splicing the power lines . . . .” The defendants treat these findings
+as equivalent, as do we.
+  15
+     Likewise, the defendants point out that, according to Gemmell’s
+trial testimony, applicable Easton regulations or ordinances require
+underground conduits and the town would thus need to provide a waiver
+to allow the existing cable to be moved to the new pole. Again, if the
+town refuses to provide a required waiver, that would stop the work from
+being done, which is a problem only for the plaintiffs; this argument does
+not establish how the defendants would be harmed if the work is done.
+  16
+    To the extent the defendants may be implicitly arguing that Gem-
+mell’s testimony should have been excluded because it was speculative
+or based on hearsay, that issue has not been raised before this court.
+                             Krasko v. Konkos
+
+of the electrical side of the splice box project. In the same
+vein, the defendants argue that there was no evidence
+presented regarding the long-term implications of the
+project for the defendants’ property and that the trial
+court did not appreciate the defendants’ legitimate con-
+cerns about how the project would proceed.17 We disagree.
+   The trial court received evidence showing that trench-
+ing from one pole to the next and splicing the power lines
+is a routine procedure and that the work would be done
+by a licensed electrician. Evidence also showed that there
+would be only a brief, two to three hour interruption of
+electrical service to the defendants’ property. Moreover,
+the trial court heard testimony that the original pole
+was somewhat close to the end of its useful life and that
+a “double utility pole”18 situation meant that there was
+regulatory pressure on the utility companies to remove
+the original pole—supporting the trial court’s find-
+ing that there was at least some likelihood the utility
+companies would remove the original pole in the near
+future anyway. Finally, the trial court found that the
+defendants had “no functional use” of the incremental
+area where the driveway would be widened, other than the
+use of the original pole itself, making the burden on the
+servient estate technical at best. The defendants are now
+asking this court to substitute its own judgment for the
+trial court’s findings of fact, which is beyond the scope
+of “our duty as an appellate tribunal to review, and not
+to retry, the proceedings of the trial court.” (Internal
+quotation marks omitted.) FirstLight Hydro Generat-
+ing Co. v. Stewart, </pre><span class="citation" data-id="6356179"><a href="/opinion/6484012/firstlight-hydro-generating-co-v-stewart/#679" aria-description="Citation for case: Firstlight Hydro Generating Co. v. Stewart">328 Conn. 668, 679</a></span><pre class="inline">, </pre><span class="citation" data-id="6356179"><a href="/opinion/6484012/firstlight-hydro-generating-co-v-stewart/" aria-description="Citation for case: Firstlight Hydro Generating Co. v. Stewart">182 A.3d 67</a></span><pre class="inline">
+(2018); see also </pre><span class="citation" data-id="6356179"><a href="/opinion/6484012/firstlight-hydro-generating-co-v-stewart/#680" aria-description="Citation for case: Firstlight Hydro Generating Co. v. Stewart">id., 680</a></span><pre class="inline"> (“[T]he trial court is privileged
+to adopt whatever testimony [it] reasonably believes to
+be credible. . . . On appeal, we do not retry the facts or
+  17
+    We observe that the court ordered the plaintiffs to provide financial
+security against incidental costs incurred by the defendants during the
+splicing process, especially to assure a baseline of electric service during
+the process, in the amount of $3000.
+  18
+     The defendants assert that the meaning of the term “double pole” is
+disputed. The only evidence presented on this subject at trial, however,
+was Gemmell’s uncontroverted testimony that the original pole and the
+new pole constitute a “double utility pole.”
+                           Krasko v. Konkos
+
+pass on the credibility of witnesses.” (Internal quotation
+marks omitted.)). On the record before us, we cannot
+conclude that the trial court’s finding that any harm to
+the defendants would be minimal was clearly erroneous.
+   The defendants also argue that the trial court’s reliance
+on the Easton Zoning Regulations is misplaced because
+ten feet, not twelve, is sufficient for the vast majority
+of driveways. This argument is meritless. The Easton
+Zoning Regulations require driveways longer than 200
+feet to be at least twelve feet wide; Easton Zoning Regs.,
+§ 5520 (2) (a); and both parties’ experts testified that the
+plaintiffs’ driveway is more than 200 feet long. Both
+parties’ experts also testified that the driveway is less
+than twelve feet wide, although they disagreed as to how
+much less. It was not clearly erroneous for the trial court
+to conclude that the current driveway does not conform
+to the Easton Zoning Regulations and that it is reason-
+able for the plaintiffs to want a driveway that conforms
+to the zoning regulations.
+  Next, we address the defendants’ contention that,
+in effect, the court erred in finding that removing the
+original pole constitutes a reasonable use of the easement
+because the original pole existed before the easement
+was created.19 The defendants argue that, because the
+trustee knew of the presence of the original pole when
+he created the easement, he could not have intended that
+the easement required its later removal. They further
+argue that, if the easement required the removal of the
+ 19
+    The court framed this issue as the interpretation of the word
+“obstruct,” as used in the easement agreement, and the defendants
+use the same framing in their appellate brief. The plaintiffs, however,
+frame the issue in terms of whether their use of the easement was rea-
+sonably necessary and whether the original pole materially interfered
+with that use. We agree with the plaintiffs’ framing. Thus, we need not
+reach the precise question of the interpretation of the word “obstruct”
+in the easement agreement because, if the plaintiffs’ proposed use is
+reasonably necessary for the convenient enjoyment of the easement,
+then they are within their rights as the owners of the dominant estate,
+regardless of how the easement agreement defines “obstruct.” We still
+address the defendants’ arguments, however, because they implicate
+the question of reasonable use of the easement.
+                            Krasko v. Konkos
+
+original pole, then the defendants would have been in
+violation of the easement immediately upon closing on
+their property, which would be “an absurd result.” We are
+not persuaded. Whether a particular use of the easement
+area is reasonable is not static; changing circumstances
+can make a previously unreasonable use reasonable. When
+the defendants closed on their property in 2015, the new
+pole had not yet been installed; consequently, the original
+pole was the only available source of electrical service
+for the defendants’ home. Removing the original pole at
+that time would have caused the defendants to lose their
+electrical service, which would have affected any analy-
+sis of reasonableness, specifically, “the consideration
+of whether the utility of the use of the land outweighed
+the gravity of the harm resulting.” (Emphasis added;
+internal quotation marks omitted.) Williams v. Green
+Power Ventures, LLC, supra, </pre><span class="citation no-link">221 Conn. App. 686</span><pre class="inline">. For
+that matter, even after the new pole was installed, so long
+as moving the defendants’ utility service to the new pole
+required an upgrade to the electrical lines—with corre-
+sponding excavation and disruption to the defendants’
+property—the cost and disruption associated with the
+upgrade would have likewise affected the reasonable-
+ness analysis. Circumstances have changed, however,
+such that the defendants’ electrical service can now be
+moved to the new pole with minimal interruption. Thus,
+even if removing the original pole may have previously
+been an unreasonable use of the easement, that does not
+compel a conclusion that it is unreasonable today. The
+defendants’ argument fails.20
+  Finally, we address the defendants’ challenge to the
+court’s finding that a “reasonable inquiry by a purchaser
+ 20
+    Although not raised by either party, we note that our Supreme Court
+has held that “[t]he owner of land upon which there is a [right-of-way] is
+under no obligation to remove obstructions within it which existed when
+it was created.” Howard v. Wiehl, </pre><span class="citation" data-id="6588699"><a href="/opinion/6708323/howard-v-wiehl/#540" aria-description="Citation for case: Howard v. Wiehl">144 Conn. 538, 540</a></span><pre class="inline">, </pre><span class="citation" data-id="6588699"><a href="/opinion/6708323/howard-v-wiehl/" aria-description="Citation for case: Howard v. Wiehl">135 A.2d 360</a></span><pre class="inline">
+(1957). Howard, however, concerned a preexisting obstruction that was
+within the land that contained a right-of-way but was “located entirely
+outside the [right-of-way]” itself. </pre><span class="citation" data-id="6588699"><a href="/opinion/6708323/howard-v-wiehl/" aria-description="Citation for case: Howard v. Wiehl">Id.,</a></span><pre class="inline"> 540–41. Here, the original pole
+is located not just within the land that contains the right-of-way but
+within the right-of-way itself. We read Howard as applying only to
+                            Krasko v. Konkos
+
+of [the defendants’ property] . . . would reveal that the
+easement . . . was not . . . static and conditions were
+expected to change, particularly with respect to the
+location of the [original] pole”—in effect, they challenge
+the finding that the relocation of the original pole was
+foreseeable. The defendants contend that this finding is
+clearly erroneous because it was based on the site plan,
+yet there is no evidence that the trustee knew about the
+notation in the site plan indicating that the original
+pole would be relocated when he executed the easement
+agreement.21 We agree with the defendants that some of
+the court’s findings based on the site plan were not sup-
+ported by the record. For example, we see no basis for the
+finding that “the efforts by [the trustee] to allow lot 8 to
+be improved by construction of a home had included, on
+the site plan, the movement or removal of the [original]
+pole”; the trustee did not commission the site plan, and
+there was no evidence that he was even aware of the
+site plan or the notation therein when he executed the
+easement agreement. There is ample other evidence in
+the record, however, that supports the court’s finding
+of foreseeability. The trustee’s conveyance to the defen-
+dants incorporated the easement agreement, and the ease-
+ment agreement stated that a house was to be built on lot
+8 and that a driveway would be constructed in the existing
+right-of-way to service the new house. The original pole
+was located close to the center of the right-of-way where
+the driveway was to be constructed. The court also heard
+Konkos’ testimony that, when he bought the defendants’
+property, he was aware of the easement agreement and
+preexisting obstructions that are within the burdened land but outside
+of the right-of-way itself, and, thus, Howard is not dispositive of the
+present case.
+  21
+    The defendants also argue, in more general terms, that it was error
+for the court to “rel[y] heavily” on the site plan when there is no evidence
+that either the trustee or the defendants knew of the site plan when the
+easement was created. The defendants are correct insofar as they point
+out that the site plan is mentioned numerous times in the court’s memo-
+randum of decision. Our careful review of the record shows, however,
+that the court substantially relied on the site plan only to establish that
+it was “expected,” “intended,” or “anticipated” that the original pole
+would be moved, all of which are relevant primarily to foreseeability.
+                      Krasko v. Konkos
+
+at least generally aware that a house would be built on
+what is now the plaintiffs’ property. The court thus found
+that, at the time the defendants bought their property,
+there was an “expectation that there would be a driveway
+for traffic crossing through the area” where the original
+pole was located. Given that expectation, even without
+the notation on the site plan, a reasonable purchaser of
+lot 7 could infer that the original pole may need to be
+relocated to accommodate the new driveway servicing
+lot 8. Thus, although the site plan does not support the
+specific factual finding challenged by the defendants,
+we cannot conclude, based on the whole record, that the
+court’s finding of foreseeability was clearly erroneous.
+Cf. Bethel Baseball Assn., Inc. v. </pre><span class="citation" data-id="10835562"><a href="/opinion/10368974/bethel-baseball-assn-inc-v-dyer/" aria-description="Citation for case: Bethel Baseball Assn., Inc. v. Dyer">Dyer, supra,</a></span><pre class="inline"> 231 Conn.
+App. 736–37 (affirming trial court’s finding that, with
+respect to plaintiff’s accounts, nearly $60,000 remained
+unaccounted for because, although specific exhibit on
+which court relied did not support that finding, other
+evidence in record did).
+  Furthermore, even if some of the court’s findings
+related to the notation in the site plan were clearly erro-
+neous, that alone does not require automatic reversal.
+Rather, “we must examine the clearly erroneous findings
+to see whether they were harmless, not only in isolation,
+but also taken as a whole.” (Internal quotation marks
+omitted.) </pre><span class="citation" data-id="10835562"><a href="/opinion/10368974/bethel-baseball-assn-inc-v-dyer/#730" aria-description="Citation for case: Bethel Baseball Assn., Inc. v. Dyer">Id., 730</a></span><pre class="inline">. Here, the court thoroughly examined
+all four Williams reasonableness factors and found that
+they weighed in favor of the plaintiffs. The court relied
+on the notation in the site plan in its findings relating
+to foreseeability only, and, even then, there was other
+evidence that supported the finding that removal of
+the original pole was foreseeable. Reviewing the whole
+record, we conclude that any errors likely would not have
+affected the result. Thus, the defendants’ claim fails.
+                            II
+  The defendants’ second claim on appeal is that the trial
+court erred in ordering unpleaded declaratory relief. The
+defendants argue that the plaintiffs did not comply with
+the pleading and notice requirements for declaratory
+                            Krasko v. Konkos
+
+relief set forth in Practice Book § 17-5622 and that this
+failure was prejudicial to the defendants. The plaintiffs
+argue that the court properly awarded injunctive relief,
+not declaratory relief, as requested in the operative com-
+plaint. We agree with the plaintiffs.
+  The following additional facts and procedural history
+are relevant. In its memorandum of decision, the court
+repeatedly characterized the underlying proceeding as
+having a “declaratory” quality. The court also noted that
+the plaintiffs were seeking injunctive relief and explained
+that the “declaratory” quality of the action came from
+the court’s need to interpret the easement in order to
+award injunctive relief. Ultimately, the court rendered
+judgment in favor of the plaintiffs in accordance with
+their request for injunctive relief. The court ordered
+the defendants to provide authorization “to the extent
+needed for the utility [companies] to undertake removal
+of the [original] pole and splicing the power line from the
+new pole to the existing cable(s) serving the defendants’
+property . . . .”
+  The defendants’ claim and the plaintiffs’ argument
+require us to interpret the court’s judgment and charac-
+terize the relief awarded by the court as either declara-
+tory or injunctive in nature. “The interpretation of a
+trial court’s judgment presents a question of law over
+which [appellate] review is plenary.” Sosin v. Sosin,
+</pre><span class="citation" data-id="2423523"><a href="/opinion/2423523/sosin-v-sosin/#217" aria-description="Citation for case: Sosin v. Sosin">300 Conn. 205, 217</a></span><pre class="inline">, </pre><span class="citation" data-id="2423523"><a href="/opinion/2423523/sosin-v-sosin/" aria-description="Citation for case: Sosin v. Sosin">14 A.3d 307</a></span><pre class="inline"> (2011); see, e.g., 300
+  22
+     Practice Book § 17-56 provides in relevant part: “(a) Procedure in
+actions seeking a declaratory judgment shall be as follows . . . (2) The
+prayer for relief shall state with precision the declaratory judgment
+desired and no claim for consequential relief need be made. . . .
+  “
+    (b) All persons who have an interest in the subject matter of the
+requested declaratory judgment that is direct, immediate and adverse
+to the interest of one or more of the plaintiffs or defendants in the
+action shall be made parties to the action or shall be given reasonable
+notice thereof. . . . The party seeking the declaratory judgment shall
+append to its complaint . . . a certificate stating that all such interested
+persons have been joined as parties to the action or have been given
+reasonable notice thereof. If notice was given, the certificate shall list
+the names, if known, of all such persons, the nature of their interest
+and the manner of notice. . . .”
+                      Krasko v. Konkos
+
+State, LLC v. Hanafin, </pre><span class="citation" data-id="7864019"><a href="/opinion/7914904/300-state-llc-v-hanafin/" aria-description="Citation for case: 300 State, LLC v. Hanafin">140 Conn. App. 327</a></span><pre class="inline">, 330–33,
+</pre><span class="citation" data-id="7864019"><a href="/opinion/7914904/300-state-llc-v-hanafin/" aria-description="Citation for case: 300 State, LLC v. Hanafin">59 A.3d 287</a></span><pre class="inline"> (2013) (proper characterization of dam-
+ages awarded by trial court presented question of law);
+Phoenix Windows, Inc. v. Viking Construction, Inc., </pre><span class="citation" data-id="7862076"><a href="/opinion/7913077/phoenix-windows-inc-v-viking-construction-inc/" aria-description="Citation for case: Phoenix Windows, Inc. v. Viking Construction, Inc.">88
+Conn. App. 74</a></span><pre class="inline">, 77–79, </pre><span class="citation" data-id="7862076"><a href="/opinion/7913077/phoenix-windows-inc-v-viking-construction-inc/" aria-description="Citation for case: Phoenix Windows, Inc. v. Viking Construction, Inc.">868 A.2d 102</a></span><pre class="inline"> (determination of
+whether trial court confirmed or modified arbitration
+award presented question of law), cert. denied, </pre><span class="citation multiple-matches"><a href="/c/Conn./273/932/">273 Conn.
+932</a></span><pre class="inline">, </pre><span class="citation multiple-matches"><a href="/c/A.2d/873/1001/">873 A.2d 1001</a></span><pre class="inline"> (2005).
+  We begin with the legal principles that guide our analy-
+sis. A declaratory judgment is “[a] binding adjudication
+that establishes the rights and other legal relations of the
+parties without providing for or ordering enforcement.”
+(Emphasis added.) Black’s Law Dictionary (12th Ed.
+2024) p. 1005. “The purpose of a declaratory judgment
+action . . . is to secure an adjudication of rights where
+there is a substantial question in dispute or a substan-
+tial uncertainty of legal relations between the parties.”
+(Footnotes omitted; internal quotation marks omitted.)
+Bysiewicz v. Dinardo, </pre><span class="citation" data-id="9774855"><a href="/opinion/2447264/bysiewicz-v-dinardo/#756" aria-description="Citation for case: Bysiewicz v. Dinardo">298 Conn. 748, 756</a></span><pre class="inline">, </pre><span class="citation" data-id="9774855"><a href="/opinion/2447264/bysiewicz-v-dinardo/" aria-description="Citation for case: Bysiewicz v. Dinardo">6 A.3d 726</a></span><pre class="inline">
+(2010). Declaratory relief may be sought to establish
+the existence of a disputed easement; see, e.g., Walters
+v. Servidio, </pre><span class="citation" data-id="10598414"><a href="/opinion/10131813/walters-v-servidio/#7" aria-description="Citation for case: Walters v. Servidio">227 Conn. App. 1, 7</a></span><pre class="inline">, </pre><span class="citation no-link">320 A.3d 1008</span><pre class="inline"> (2024)
+(plaintiffs sought declaratory judgment that they had
+express or implied easement over disputed area); or to
+determine the general rights and responsibilities of the
+parties to an easement, such as “the existence, proper
+location, and the extent of permissible uses and users
+of the [e]asement.” (Internal quotation marks omitted.)
+Fitch v. Forsthoefel, </pre><span class="citation" data-id="4452691"><a href="/opinion/4675438/fitch-v-forsthoefel/" aria-description="Citation for case: Fitch v. Forsthoefel">194 Conn. App. 230</a></span><pre class="inline">, 232–33, </pre><span class="citation no-link">220
+A.3d 876</span><pre class="inline"> (2019). In contrast, an injunction is “[a] court
+order commanding or preventing an action.” Black’s
+Law Dictionary, supra, p. 934. “[I]t is well established
+that . . . the proper remedy to stop interference with an
+owner’s use and enjoyment of an easement is an injunc-
+tion.” Welles v. Lichaj, </pre><span class="citation" data-id="7863699"><a href="/opinion/7914602/welles-v-lichaj/#353" aria-description="Citation for case: Welles v. Lichaj">136 Conn. App. 347, 353</a></span><pre class="inline">, </pre><span class="citation" data-id="7863699"><a href="/opinion/7914602/welles-v-lichaj/" aria-description="Citation for case: Welles v. Lichaj">46 A.3d
+246</a></span><pre class="inline">, cert. denied, </pre><span class="citation no-link">306 Conn. 904</span><pre class="inline">, </pre><span class="citation no-link">52 A.3d 730</span><pre class="inline"> (2012).
+  Although our research has not revealed any case in
+which either this court or our Supreme Court expressly
+addressed the precise question of how to distinguish
+                       Krasko v. Konkos
+
+between declaratory and injunctive relief, the principles
+discussed in the preceding paragraph illuminate the
+distinction. We also find helpful the framework used by
+the United States Court of Appeals for the First Circuit:
+“Injunctions and declaratory judgments are different
+remedies. An injunction is a coercive order by a court
+directing a party to do or refrain from doing something,
+and applies to future actions. A declaratory judgment
+states the existing legal rights in a controversy, but
+does not, in itself, coerce any party or enjoin any future
+action.” Ulstein Maritime, Ltd. v. United States, </pre><span class="citation" data-id="497955"><a href="/opinion/497955/ulstein-maritime-ltd-and-schottel-of-america-inc-v-united-states-of/#1055" aria-description="Citation for case: Ulstein Maritime, Ltd. And Schottel of America, Inc. v....">833
+F.2d 1052, 1055</a></span><pre class="inline"> (1st Cir. 1987). Likewise, we hold that,
+if a judgment merely states the existing legal rights of
+the parties, it is declaratory; if the judgment directs
+a party to do or refrain from doing something, it is an
+injunction.
+  Applying that test here, we conclude that the trial
+court’s judgment was injunctive, as opposed to declara-
+tory, in nature. Rather than simply establishing the
+existing rights and legal relations of the parties, the judg-
+ment directed the defendants to take a specific action,
+namely, to authorize the utility companies to splice their
+electrical connection to the new pole and to remove the
+original pole. Furthermore, the purpose of the order was
+to stop the defendants’ interference with the plaintiffs’
+use and enjoyment of the easement, which is a classic
+purpose for an injunction. See Welles v. </pre><span class="citation" data-id="7863699"><a href="/opinion/7914602/welles-v-lichaj/" aria-description="Citation for case: Welles v. Lichaj">Lichaj, supra,</a></span><pre class="inline">
+</pre><span class="citation" data-id="7863699"><a href="/opinion/7914602/welles-v-lichaj/" aria-description="Citation for case: Welles v. Lichaj">136 Conn. App. 353</a></span><pre class="inline">. The defendants rely heavily on the
+trial court’s purported “agreement” that the case was
+effectively a declaratory judgment action. We question,
+however, whether the trial court even understood itself
+to be awarding declaratory relief. Although the trial
+court discussed the “declaratory quality” of the action
+in its memorandum of decision, it ultimately rendered
+judgment in favor of the plaintiffs on their request for
+injunctive relief. In any event, because the legal charac-
+terization of a remedy is a question of law subject to this
+court’s plenary review, the trial court’s discussion is not
+                         Krasko v. Konkos
+
+dispositive and does not change our conclusion that the
+relief awarded was an injunction.
+  The defendants argue that they were prejudiced by the
+plaintiffs’ purported noncompliance with the pleading
+and notice requirements to render a declaratory judg-
+ment. Specifically, the defendants contend that they did
+not have notice of the nature of the claims against them
+because the action shifted from “breach of . . . easement
+claims, where the plaintiffs had to prove the defendants
+breached the easement and were entitled to injunctive
+relief,” to “a declaratory judgment action in which the
+court defines the scope of the plaintiffs’ right to improve
+the easement.” (Emphasis in original.) We disagree with
+the defendants’ framing. The court did not define the
+scope of the plaintiffs’ right to improve the easement; it
+ordered the defendants to authorize the removal of the
+original pole and the transfer of their electrical service
+to the new pole, consistent with the plaintiffs’ reason-
+able use of the easement, as the plaintiffs have sought
+throughout the underlying action. The only change was to
+the scope of the work needed to transfer the defendants’
+electrical service to the new pole, which in turn changed
+the specific terms of the mandatory injunction sought
+by the plaintiffs and awarded by the court.
+  Finally, the defendants contend that, because the plain-
+tiffs did not follow the standards set forth in our rules
+of practice to seek a declaratory judgment, necessary
+parties, in particular UI, were not joined in this action.23
+Thus, the defendants argue, the judgment requires them
+“to provide authorization to a party not even bound by
+the judgment.” We are not persuaded. The only cause
+of action asserted here is breach of an easement, and the
+parties to the easement are the owners of the plaintiffs’
+and the defendants’ properties, not the utility companies.
+The defendants have not identified any mechanism by
+which UI or any other party could have been bound by
+ 23
+   We note that the proper procedural remedy for failure to join a
+necessary party is a motion to strike. Izzo v. Quinn, </pre><span class="citation" data-id="7869987"><a href="/opinion/7920589/izzo-v-quinn/#640" aria-description="Citation for case: Izzo v. Quinn">170 Conn. App.
+631, 640</a></span><pre class="inline">, </pre><span class="citation" data-id="7869987"><a href="/opinion/7920589/izzo-v-quinn/" aria-description="Citation for case: Izzo v. Quinn">155 A.3d 315</a></span><pre class="inline"> (2017).
+                     Krasko v. Konkos
+
+the judgment in this case. Furthermore, although UI
+perhaps could have been joined as an interested party (as
+Frontier was), the defendants do not explain why UI was
+a necessary party, as UI is not a party to the easement
+and its rights are not affected by the judgment.
+  We emphasize here the scope of the court’s judgment.
+The court did not order that the original pole must be
+removed and that the defendants’ electric service must
+be transferred to the new pole. Rather, it ordered the
+defendants to provide authorization for Frontier and UI
+to perform the work specified in the splice box proposal,
+pursuant to the defendants’ obligation, as owners of the
+servient estate, not to unreasonably interfere with the
+plaintiffs’ reasonable use of the easement to widen their
+driveway. Joinder of a third party, not bound by the
+easement, was not necessary for the court to adjudicate
+the reasonableness of the plaintiffs’ proposed use of the
+easement. If UI, with the defendants’ authorization in
+hand, does not proceed with the splice box proposal for
+some unrelated reason, then that is UI’s prerogative,
+beyond the scope of the easement—and, thus, beyond
+the scope of this action.
+  The judgment is affirmed.
+  In this opinion the other judges concurred.
+</pre>

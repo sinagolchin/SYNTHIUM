@@ -1,0 +1,2 @@
+case_id,source,when,stage,sha256_excerpt,taint,category,posture,layer,committed_notch,actual_notch,hit,tenor
+Wang-intentional-injury-CAIL2018-bf1c8a72,CN/HuggingFace-CAIL2018,2026-07-14T14:53:40,revealed_INCONCLUSIVE,d602045f44617d46,snippet showed parties positions incl victim REQUEST for affirmance and prosecutor objections to congfan/zishou findings; NO court disposition visible,criminal,trial,fact,CLEAN_AFFIRM,UNRETRIEVABLE_TAIL,void,"document tail truncated before 判决主文; posture MIS-CODED at commit (prosecutorial 抗诉 present, not defendant-only) — commit voided"

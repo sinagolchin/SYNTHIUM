@@ -1,0 +1,851 @@
+<pre class="inline">                                                                                         10/27/2026
+
+
+                                          DA 25-0831
+                                                                                     Case Number: DA 25-0831
+
+
+               IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                          </pre><span class="citation no-link">2026 MT 252</span><pre class="inline">
+
+
+
+IN RE THE MARRIAGE OF:
+
+BARBARA KING KEARNS,
+
+               Petitioner and Appellee,
+
+         and
+
+KENNETH MICHAEL KEARNS,
+
+               Respondent and Appellant.
+
+
+
+APPEAL FROM:           District Court of the Eleventh Judicial District,
+                       In and For the County of Flathead, Cause No. DR-2010-691(C)
+                       Honorable Heidi J. Ulbricht, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+                For Appellant:
+
+                       P. Mars Scott, P. Mars Scott Law Offices, Missoula, Montana
+
+                For Appellee:
+
+                       Emily von Jentzen, Shelly F. Brander, Kaufman Vidal Hileman
+                       Ellingson PC, Kalispell, Montana
+
+
+                                                  Submitted on Briefs: September 2, 2026
+
+                                                            Decided: October 27, 2026
+
+
+Filed:
+
+                       __________________________________________
+                                        Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1      Kenneth Michael Kearns (Ken) appeals three rulings of the Montana Eleventh
+
+Judicial District Court, Flathead County, concerning a student loan that he agreed to pay
+
+when he and Barbara King Kearns (Barbara) dissolved their marriage. The District Court
+
+denied his request for additional account access, held him in contempt for nonpayment,
+
+entered a $388,741.24 judgment in favor of Barbara, and awarded her $3,237.50 in attorney
+
+fees.
+
+¶2      We restate the issues as follows:
+
+        1. Whether the District Court erred by denying Ken’s request for additional access
+           to the Parent PLUS loan account.
+
+        2. Whether the District Court erred by holding Ken in contempt for failing to make
+           monthly payments on the loan after the June 2024 order.
+
+        3. Whether the District Court erred by entering an immediately collectible money
+           judgment in Barbara’s favor for the entire unpaid loan balance.
+
+        4. Whether the District Court erred by awarding Barbara $3,237.50 in attorney
+           fees.
+
+        5. Whether Barbara is entitled to appellate attorney fees and sanctions.
+
+We affirm the account-access ruling and the contempt determination based on the August
+
+and September 2024 nonpayments. We vacate the full-balance judgment and remand for
+
+further proceedings concerning the enforcement remedy.         We affirm the $3,237.50
+
+attorney-fee award, remand for determination of reasonable appellate fees within the
+
+applicable contractual provisions, and deny appellate sanctions.
+
+
+
+
+                                             2
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶3    Ken and Barbara executed a Marital and Property Settlement Agreement (MPSA)
+
+on November 29, 2012. Paragraph 10 identifies marital debts by reference to schedules in
+
+a bankruptcy proceeding. In lieu of additional maintenance, Ken agreed “to be solely
+
+responsible for said debt in its entirety” and to “indemnify and hold [Barbara] harmless
+
+thereto.” The parties do not dispute that the assigned debts included the Parent PLUS loan
+
+at issue here. The December 20, 2012 Dissolution Decree incorporated the MPSA and
+
+directed both parties to comply with it. Paragraph 19 of the MPSA prohibited modification
+
+by a subsequent court order.
+
+¶4    Ken resolved the other assigned debts but made no payment on the Parent PLUS
+
+loan until after Barbara sought contempt in 2022. The parties resolved that proceeding
+
+through an October 11, 2022 Stipulation. They acknowledged an estimated loan balance
+
+of $342,230 and an existing federal payment pause. They agreed to seek the addition of
+
+Ken to the account and removal of Barbara if possible. Otherwise, they would direct the
+
+servicer to mail monthly statements to Ken. Paragraph 2 then provided “Kenneth will
+
+make the monthly payments on the account.”
+
+¶5    Paragraph 3 of the Stipulation stated that failure to make the monthly payment
+
+would subject Ken to contempt and make him responsible for attorney fees incurred to
+
+compel compliance. The Stipulation also required application of Ken’s share of the
+
+proceeds from the sale of a business condominium to the loan. Paragraph 7 recognized a
+
+claim against his estate for an unpaid balance if he predeceased Barbara. The parties thus
+
+
+
+                                            3
+specified ongoing payment obligations while preserving Ken’s responsibility for the
+
+remaining debt. Barbara remained the named borrower.
+
+¶6     Barbara again sought contempt in May 2024. After a June 5 hearing, the District
+
+Court entered its June 17, 2024 order holding Ken in contempt. The court explained that
+
+Aidvantage, which was servicing the Parent PLUS loan at issue, had calculated a $590.33
+
+monthly payment after Barbara applied for income-contingent repayment and that Ken had
+
+not paid the full amount despite notice through counsel. The court entered judgment for
+
+delinquent and current payments and awarded enforcement-related attorney fees. It warned
+
+that further failure to meet the monthly-payment obligation would result in a judgment for
+
+the entire outstanding loan balance.
+
+¶7     On June 6, the day after the hearing, Ken requested and obtained a forbearance.
+
+Aidvantage removed it on June 10 after Barbara objected. Ken later maintained that a
+
+representative arranged a separate hardship deferment during a July 30 call, with payments
+
+to resume in October 2024.       He acknowledged making no payments in August or
+
+September 2024. Ken also changed the mailing address, telephone number, and email
+
+address on the account to his information without notifying Barbara. After Barbara stopped
+
+receiving account communications and discovered that her tax document had gone to Ken,
+
+she had Aidvantage restore her information and impose additional account access
+
+restrictions.
+
+¶8     In April 2025, Ken moved for account information, documents, reinstatement as an
+
+authorized recipient of information, and a username and password. He invoked equitable
+
+subrogation and asserted that he needed access to negotiate repayment terms and meet his
+
+                                            4
+obligation. Barbara opposed unrestricted access and moved to enforce the Decree or hold
+
+Ken in contempt. Among alternative remedies, she requested a judgment for the full loan
+
+balance that she could execute against his assets.
+
+¶9     At the July 28, 2025 hearing, Ken testified about his health, substantial debts, and
+
+difficulty sustaining the monthly payment. He attributed the payment amount to Barbara’s
+
+alleged failure to recertify her income.     The District Court instead credited written
+
+repayment-plan approvals that undermined his assertion. A January 2025 approval reduced
+
+the monthly payment to $511.31. The court also found that Ken possessed the payment
+
+amount and due date, and that his unauthorized account changes justified restrictions on
+
+broader access.
+
+¶10    The payment history showed no August or September 2024 payment and no
+
+February 2025 posting, but two payments posted in March 2025. Ken attributed the August
+
+and September nonpayments to the deferment and disputed that he missed the February
+
+payment, explaining that processing delayed the posting to March. Both parties understood
+
+the account to be in good standing at the hearing. The September 16, 2025 order
+
+nevertheless held Ken in contempt, denied additional account access, directed Barbara to
+
+provide the payoff amount, and ordered submission of a proposed full-balance judgment.
+
+¶11    On October 8, 2025, the District Court entered judgment in favor of Barbara for
+
+$388,741.24, the amount Aidvantage quoted for payoff by U.S. mail in account information
+
+dated October 7. The court concluded that Ken was responsible for paying the loan in full
+
+and was therefore liable to Barbara for the unpaid debt. The judgment awarded Barbara
+
+the money, imposed ten-percent annual interest, and authorized ordinary collection
+
+                                             5
+remedies. It did not direct Barbara to apply collections to the loan or address corresponding
+
+credit for payments to the creditor. After Ken filed a notice of nonobjection to the attorney
+
+fees provided for in the September order and claimed in counsel’s affidavit, the court
+
+awarded Barbara $3,237.50.
+
+                               STANDARD OF REVIEW
+
+¶12    Section 3-1-523(2), MCA, permits review because the contempt order includes
+
+ancillary rulings affecting substantial rights. We examine whether the District Court acted
+
+within its jurisdiction and whether the evidence supports contempt. We review findings of
+
+fact for clear error and conclusions of law for correctness. In re Marriage of Steinbeisser,
+
+</pre><span class="citation" data-id="11226031"><a href="/opinion/10759446/marriage-of-steinbeisser/" aria-description="Citation for case: Marriage of: Steinbeisser">2025 MT 289</a></span><pre class="inline">, ¶¶ 16–17, </pre><span class="citation no-link">425 Mont. 306</span><pre class="inline">, </pre><span class="citation no-link">581 P.3d 32</span><pre class="inline">. Contract interpretation presents a
+
+legal question. In re Marriage of Harms, </pre><span class="citation no-link">2022 MT 41</span><pre class="inline">, ¶ 12, </pre><span class="citation no-link">408 Mont. 15</span><pre class="inline">, </pre><span class="citation no-link">504 P.3d 1108</span><pre class="inline">.
+
+Whether the agreements and applicable law authorize the challenged monetary recovery
+
+presents a legal question that we review for correctness. See In re Marriage of Harms,
+
+¶ 12; In re Marriage of Steinbeisser, ¶ 17.
+
+                                      DISCUSSION
+
+¶13    1. Whether the District Court erred by denying Ken’s request for additional access
+          to the Parent PLUS loan account.
+
+¶14    Ken first argues that the District Court failed to address equitable subrogation and
+
+enter findings sufficient for review. M. R. Civ. P. 52(a)(3) generally makes findings and
+
+conclusions unnecessary on motions unless another rule provides otherwise. Del Duca v.
+
+Skydancer, </pre><span class="citation" data-id="11105427"><a href="/opinion/10638840/del-duca-v-skydancer/#11" aria-description="Citation for case: Del Duca v. Skydancer">2025 MT 156, ¶ 11</a></span><pre class="inline">, </pre><span class="citation no-link">423 Mont. 115</span><pre class="inline">, </pre><span class="citation no-link">572 P.3d 804</span><pre class="inline">. Here, the court entered
+
+detailed findings and expressly denied the requested additional access. The pertinent
+
+
+                                              6
+question is whether those findings and the accompanying reasoning disclose the basis for
+
+that ruling. See Byrum v. Andren, </pre><span class="citation" data-id="888046"><a href="/opinion/888046/byrum-v-andren/" aria-description="Citation for case: Byrum v. Andren">2007 MT 107</a></span><pre class="inline">, ¶¶ 52–55, </pre><span class="citation" data-id="888046"><a href="/opinion/888046/byrum-v-andren/" aria-description="Citation for case: Byrum v. Andren">337 Mont. 167</a></span><pre class="inline">, </pre><span class="citation" data-id="888046"><a href="/opinion/888046/byrum-v-andren/" aria-description="Citation for case: Byrum v. Andren">159 P.3d 1062</a></span><pre class="inline">.
+
+¶15    Equitable subrogation generally permits a person who pays an obligation for which
+
+another bears ultimate responsibility to succeed to rights associated with the satisfied claim.
+
+It places the burden on the person who should bear it. Skauge v. Mountain States Tel. &amp;
+
+Tel. Co., </pre><span class="citation" data-id="876539"><a href="/opinion/876539/skauge-v-mountain-states-telephone-telegraph-co/" aria-description="Citation for case: Skauge v. Mountain States Telephone &amp; Telegraph Co.">172 Mont. 521</a></span><pre class="inline">, 524–26, </pre><span class="citation" data-id="876539"><a href="/opinion/876539/skauge-v-mountain-states-telephone-telegraph-co/" aria-description="Citation for case: Skauge v. Mountain States Telephone &amp; Telegraph Co.">565 P.2d 628</a></span><pre class="inline">, 630–31 (1977). Ken does not seek to
+
+exercise creditor rights arising from a payment. He seeks the administrative rights of the
+
+named borrower to manage the account and negotiate repayment terms. The subrogation
+
+principle Ken invokes concerns succession to creditor rights; it does not establish his
+
+claimed entitlement to exercise the administrative rights of the named borrower. See Schuff
+
+v. A.T. Klemens &amp; Son, </pre><span class="citation" data-id="9510470"><a href="/opinion/885205/schuff-v-at-klemens-son/#91" aria-description="Citation for case: Schuff v. A.T. Klemens &amp; Son">2000 MT 357, ¶ 91</a></span><pre class="inline">, </pre><span class="citation" data-id="9510470"><a href="/opinion/885205/schuff-v-at-klemens-son/" aria-description="Citation for case: Schuff v. A.T. Klemens &amp; Son">303 Mont. 274</a></span><pre class="inline">, </pre><span class="citation" data-id="9510470"><a href="/opinion/885205/schuff-v-at-klemens-son/" aria-description="Citation for case: Schuff v. A.T. Klemens &amp; Son">16 P.3d 1002</a></span><pre class="inline">. Moreover,
+
+although Barbara remains liable to the creditor, Ken bears responsibility for the debt as
+
+between the former spouses.
+
+¶16    The District Court also had a sufficient factual basis to deny unrestricted account
+
+control. Ken changed contact information without Barbara’s consent, causing her to stop
+
+receiving mailed and emailed communications about an account for which she remained
+
+liable. The court found that he nevertheless had the information necessary to remit
+
+payments and protected his access to the payoff amount. Those findings explain the refusal
+
+to require disclosure of credentials that would enable further account changes. The
+
+omission of the words “equitable subrogation” does not prevent review of the ruling. We
+
+affirm the account-access ruling as a denial of the unrestricted access Ken claimed under
+
+
+
+                                              7
+subrogation. We do not read that ruling to extinguish the provisions for monthly statements
+
+in the Stipulation or the information the September order entitles him to receive.
+
+¶17    The record likewise supports rejecting Ken’s assertion that the access restrictions
+
+made payment impossible.       Impracticability requires an event occurring without the
+
+obligor’s fault whose nonoccurrence formed a basic contractual assumption, and the
+
+obligor must have taken virtually every action within his power to perform. Lewis &amp; Clark
+
+Cnty. v. Wirth, </pre><span class="citation" data-id="6345604"><a href="/opinion/6473493/l-c-county-v-wirth/#36" aria-description="Citation for case: L &amp; C County v. Wirth">2022 MT 105, ¶ 36</a></span><pre class="inline">, </pre><span class="citation no-link">409 Mont. 1</span><pre class="inline">, </pre><span class="citation no-link">510 P.3d 1206</span><pre class="inline">. Ken continued remitting
+
+payments despite the restrictions, and written approvals contradicted his claim that Barbara
+
+had failed to supply the income information necessary to establish the payment amount.
+
+These facts do not establish his ability to pay the entire loan immediately or sustain
+
+payments indefinitely. They do support the determination that the restrictions did not
+
+prevent the performance at issue.
+
+¶18    2. Whether the District Court erred by holding Ken in contempt for failing to make
+          monthly payments on the loan after the June 2024 order.
+
+¶19    We next address contempt. A contempt determination must rest on disobedience of
+
+a definite, certain, and specific judicial command. Goodover v. Lindey’s Inc., </pre><span class="citation" data-id="883036"><a href="/opinion/883036/goodover-v-lindeys-inc/" aria-description="Citation for case: Goodover v. LINDEY&#x27;S INC.">257 Mont.
+
+38</a></span><pre class="inline">, 41–42, </pre><span class="citation" data-id="883036"><a href="/opinion/883036/goodover-v-lindeys-inc/#701" aria-description="Citation for case: Goodover v. LINDEY&#x27;S INC.">847 P.2d 699, 701</a></span><pre class="inline"> (1993). The Decree here directed compliance with the
+
+MPSA. The parties subsequently specified monthly payments in the Stipulation, and the
+
+June order enforced that obligation after identifying the established payment amount. The
+
+basis for contempt is the judicially enforced payment obligation, not merely the statement
+
+in the Stipulation that a breach would constitute contempt.
+
+
+
+
+                                             8
+¶20    Read together, the Stipulation and June order required continuing monthly payments
+
+once repayment began and the amount was established. The Stipulation acknowledged the
+
+existing federal pause before repayment commenced; it did not give Ken a continuing
+
+option to suspend his promised performance through a separate arrangement with the
+
+servicer. The June order described and enforced that promise. It did not amend the
+
+Stipulation to make avoidance of federal default the measure of compliance.            Even
+
+accepting Ken’s account of the later hardship deferment, the arrangement did not itself alter
+
+his payment obligation to Barbara. This conclusion concerns the voluntary arrangement
+
+Ken described, not the effect of any independently applicable federal prohibition or
+
+mandatory suspension. See § 28-3-202, MCA.
+
+¶21    Ken admitted that he made no August or September payments. The court found his
+
+noncompliance willful after considering his explanations, financial circumstances, and
+
+account changes. His admitted nonpayments support the contempt determination without
+
+resolving whether he timely made the February payment. We therefore affirm contempt
+
+on the August and September grounds. Our affirmance does not resolve the disputed
+
+February payment, which the court must address if relevant to the relief it awards on
+
+remand.
+
+¶22    3. Whether the District Court erred by entering an immediately collectible money
+          judgment in Barbara’s favor for the entire unpaid loan balance.
+
+¶23    The full-balance judgment presents a different question. Ken preserved an objection
+
+to that remedy. At the hearing, counsel argued that entering judgment would impose
+
+payment terms contrary to the settlement agreement. In his opening brief, Ken challenged
+
+
+                                             9
+acceleration and expressly objected to an award requiring him to pay the entire debt to
+
+Barbara. In his reply, Ken reiterated that he had not agreed to a single payment. Barbara
+
+responded that the judgment would permit collection and use of the proceeds to pay the
+
+loan. The permissible scope of that recovery is therefore before us, notwithstanding the
+
+emphasis Ken placed on subrogation and impossibility. See Becker v. Rosebud Operating
+
+Servs., Inc., </pre><span class="citation" data-id="888349"><a href="/opinion/888349/becker-v-rosebud-operating-services-inc/" aria-description="Citation for case: Becker v. ROSEBUD OPERATING SERVICES, INC.">2008 MT 285</a></span><pre class="inline">, ¶¶ 17–18, </pre><span class="citation" data-id="888349"><a href="/opinion/888349/becker-v-rosebud-operating-services-inc/" aria-description="Citation for case: Becker v. ROSEBUD OPERATING SERVICES, INC.">345 Mont. 368</a></span><pre class="inline">, </pre><span class="citation" data-id="888349"><a href="/opinion/888349/becker-v-rosebud-operating-services-inc/" aria-description="Citation for case: Becker v. ROSEBUD OPERATING SERVICES, INC.">191 P.3d 435</a></span><pre class="inline">.
+
+¶24   Section 40-4-201(5), MCA, permits enforcement of an incorporated separation
+
+agreement through remedies available to enforce a judgment, including contempt, and as
+
+contract terms. The statute authorizes enforcement of the obligation the parties undertook.
+
+The availability of judgment-enforcement remedies does not answer whether the
+
+agreements entitle Barbara to immediate recovery of the entire unpaid balance. Courts
+
+must respect the agreement and the final adjudication rather than substitute a different
+
+bargain without a proper legal basis. In re Marriage of Harms, ¶¶ 21–25. The distinction
+
+is especially important where, as here, paragraph 19 of the MPSA expressly prohibits later
+
+judicial modification. See § 40-4-201(6), MCA.
+
+¶25   The District Court relied on § 28-3-601, MCA, because the 2012 MPSA contained
+
+no payoff deadline. But the parties did not leave the manner of performance unaddressed.
+
+In 2022, with an identified balance exceeding $342,000, they agreed to monthly payments,
+
+application of specified sale proceeds, and preservation of a claim against Ken’s estate.
+
+Section 28-3-601, MCA, supplies a reasonable time for performance when the agreement
+
+specifies none. The statute also requires immediate performance of an exactly ascertained
+
+obligation that a party can perform instantly. In applying the reasonable-time provision,
+
+                                            10
+we consider the surrounding circumstances and the time necessary to perform what the
+
+agreement requires, rather than impose a uniform period for performance. Summer Night
+
+Oil Co., LLC v. Munoz, </pre><span class="citation" data-id="889712"><a href="/opinion/889712/summer-night-oil-co-llc-v-munoz/#26" aria-description="Citation for case: SUMMER NIGHT OIL CO., LLC v. Munoz">2011 MT 202, ¶ 26</a></span><pre class="inline">, </pre><span class="citation" data-id="889712"><a href="/opinion/889712/summer-night-oil-co-llc-v-munoz/" aria-description="Citation for case: SUMMER NIGHT OIL CO., LLC v. Munoz">361 Mont. 424</a></span><pre class="inline">, </pre><span class="citation" data-id="889712"><a href="/opinion/889712/summer-night-oil-co-llc-v-munoz/" aria-description="Citation for case: SUMMER NIGHT OIL CO., LLC v. Munoz">259 P.3d 778</a></span><pre class="inline">. Both provisions
+
+require identification of the performance the parties promised. The absence of a final
+
+payoff date in the 2012 MPSA therefore does not resolve whether, after the 2022
+
+Stipulation, Ken owed Barbara an immediate payment equal to the entire loan balance.
+
+The court had to consider the effect of the Stipulation before deciding what further
+
+performance Barbara could compel.
+
+¶26    The estate provision does not require Barbara to await Ken’s death before enforcing
+
+his obligations. Conversely, its preservation of responsibility for the unpaid balance does
+
+not establish that she may collect that balance immediately during his lifetime. A party
+
+may remain responsible for an entire debt while the agreement prescribes installment
+
+performance. The absence of a release answers whether responsibility continues; it does
+
+not resolve when the entire monetary equivalent becomes recoverable.
+
+¶27    Our decision in Rader v. Taylor, </pre><span class="citation" data-id="9855859"><a href="/opinion/1299503/rader-v-taylor/" aria-description="Citation for case: Rader v. Taylor">134 Mont. 419</a></span><pre class="inline">, 428–31, </pre><span class="citation" data-id="9855859"><a href="/opinion/1299503/rader-v-taylor/" aria-description="Citation for case: Rader v. Taylor">333 P.2d 480</a></span><pre class="inline">, 486–88
+
+(1958), distinguishes enforcement of accrued installments from acceleration of future
+
+performance. There, a contract for deed did not authorize a demand for the entire unpaid
+
+purchase price upon default. Although Rader involved a different contract, the same
+
+interpretive restraint applies: alone, a default does not itself supply a contractual or
+
+statutory right to accelerate. Here, neither the MPSA nor the Stipulation expressly makes
+
+all remaining payments immediately due upon a missed installment. A different basis for
+
+presently recoverable relief therefore must support the full-balance judgment.
+
+                                            11
+¶28    The indemnity promise could provide a basis for recovery distinct from collection
+
+of delinquent installments, but its presence does not complete the analysis. Section
+
+28-11-314(1), MCA, permits recovery under an indemnity against liability once liability
+
+exists. Subsection (2), by contrast, requires the indemnitee to have paid the specified
+
+claims, demands, damages, or costs before recovering under an indemnity against those
+
+actual losses.   These rules apply unless the parties’ agreement expresses a contrary
+
+intention. Section 28-11-313, MCA. Thus, Barbara need not necessarily pay the creditor
+
+before recovering from Ken, and a judgment in her favor is not categorically improper. We
+
+therefore consider whether the later Stipulation expresses a contrary intention concerning
+
+immediate recovery of the entire loan balance.
+
+¶29    The District Court did not make that determination. Its conclusion that Ken is
+
+responsible for the loan “in full and is liable to Barbara for the unpaid debt under Montana
+
+law” joins the allocation of responsibility to an immediate monetary recovery without
+
+explaining the legal connection. The payoff documentation establishes what would satisfy
+
+the creditor, not necessarily the amount Barbara could presently recover from Ken under
+
+their agreements. We may affirm a correct result despite incorrect reasoning. Dewey v.
+
+Stringer, </pre><span class="citation" data-id="2675901"><a href="/opinion/2675901/dewey-v-stringer/#16" aria-description="Citation for case: Dewey v. Stringer">2014 MT 136, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="2675901"><a href="/opinion/2675901/dewey-v-stringer/" aria-description="Citation for case: Dewey v. Stringer">375 Mont. 176</a></span><pre class="inline">, </pre><span class="citation" data-id="2675901"><a href="/opinion/2675901/dewey-v-stringer/" aria-description="Citation for case: Dewey v. Stringer">325 P.3d 1236</a></span><pre class="inline">. But even an indemnity
+
+against liability remains subject to a contrary intention concerning performance. Section
+
+28-11-313, MCA. Here, with knowledge of the substantial outstanding balance, the parties
+
+later agreed to monthly payments, application of specified sale proceeds, and preservation
+
+of a claim against Ken’s estate.       Read together, those provisions preserve Ken’s
+
+responsibility for the entire debt while prescribing how he must perform that obligation.
+
+                                            12
+Interpreting the monthly-payment provisions to allow immediate recovery of the entire
+
+balance after a single missed installment would undermine the parties’ agreed method of
+
+performance. We construe the Stipulation as qualifying the timing of recovery under the
+
+earlier indemnity promise, not extinguishing that promise. Barbara’s continuing liability
+
+to the creditor therefore did not, standing alone, make the entire balance immediately
+
+recoverable from Ken notwithstanding the agreed installment performance. His missed
+
+payments justified enforcement of that performance; they did not supply an acceleration
+
+term that the parties omitted. See § 28-3-202, MCA; Rader, 134 Mont. at 428–31, 333 P.2d
+
+at 486–88. We therefore conclude that the District Court lacked authority under the parties’
+
+agreements to accelerate the entire unpaid loan balance based on Ken’s failure to make the
+
+required monthly payments.
+
+¶30    M. R. Civ. P. 70 does not supply the missing substantive right.           It provides
+
+mechanisms to enforce a judgment requiring a specific act. Subsection (d), on which the
+
+language in the September order appears to rely, concerns execution or assistance upon a
+
+judgment or order for possession. M. R. Civ. P. 70(a), (d)-(e). The rule does not
+
+independently authorize conversion of a promise to pay a creditor in installments into an
+
+unconditional personal judgment for every remaining installment. Likewise, the June
+
+warning informed Ken of the consequence the court contemplated; it did not establish that
+
+the parties had agreed to acceleration or resolve the contractual basis for that consequence.
+
+The June order entered judgment for then-due amounts and announced a consequence for
+
+future noncompliance; it did not enter the full-balance judgment that Ken now challenges.
+
+
+
+                                             13
+The earlier adjudicated payment obligations remain intact, but the warning does not
+
+dispense with review of the remedy actually imposed in 2025.
+
+¶31    The dissolution cases do not eliminate that distinction. In In re Marriage of
+
+Scoffield, </pre><span class="citation" data-id="882927"><a href="/opinion/882927/in-re-the-marriage-of-scoffield/" aria-description="Citation for case: In Re the Marriage of Scoffield">258 Mont. 337</a></span><pre class="inline">, 339–40, </pre><span class="citation" data-id="882927"><a href="/opinion/882927/in-re-the-marriage-of-scoffield/" aria-description="Citation for case: In Re the Marriage of Scoffield">852 P.2d 664</a></span><pre class="inline">, 665–66 (1993), the District Court entered
+
+judgment in favor of a former spouse for assigned marital debts and stayed execution on
+
+the condition that the obligor make installments. The appeal concerned which debts he had
+
+assumed, not the power to disregard a later installment agreement. In re Marriage of
+
+Scoffield demonstrates that an interspousal judgment can enforce assigned debt; it does not
+
+establish that this judgment follows from nonpayment alone.
+
+¶32    In In re Marriage of Steinbeisser, ¶ 22, we expressly distinguished modification of
+
+a decree from the contempt sanction. We then addressed the statutory conditions for
+
+reopening a property disposition under § 40-4-208(3), MCA, and the evidence supporting
+
+the modified remedy. In re Marriage of Steinbeisser, ¶¶ 24–27. Here, the District Court
+
+did not identify such a basis for reopening the disposition. Its concerns about prolonged
+
+nonpayment, the growing balance, and the risk to Barbara support effective enforcement,
+
+but they do not dispense with identifying the obligation and legal authority that support the
+
+remedy selected.
+
+¶33    Barbara defends the judgment as a means of obtaining funds to pay the loan. The
+
+written judgment, however, permits her to collect the entire payoff amount without
+
+directing application of collections to that obligation. At the hearing, the judge explained
+
+that entry of the judgment would replace Ken’s monthly payments with collection through
+
+counsel. These features underscore the substantive change in performance. We do not
+
+                                             14
+presume that Barbara would retain the proceeds without paying the creditor, and we do not
+
+hold that a money judgment must always name the creditor as payee. But an expectation
+
+that collections will satisfy the loan cannot substitute for establishing the right to the
+
+judgment and defining how the relief enforces the underlying obligation.
+
+¶34    We therefore vacate paragraph 2 of the operative September 16 order and the
+
+resulting October 8 judgment. We remand for determination of an enforcement remedy
+
+consistent with the MPSA, the Stipulation, and applicable law. The remaining tasks
+
+concern the extent of uncured noncompliance, the credit due for payments already made,
+
+and the appropriate remedy for the violations established under this Opinion. They do
+
+not require the District Court to reconsider our construction of the agreements. See
+
+M. R. App. P. 19(1)(c). The court may enforce Ken’s obligations through a legally
+
+authorized remedy, but it may not accelerate the entire unpaid loan balance based on the
+
+missed monthly payments or reinstate the vacated judgment under another label without
+
+an independent legal basis for that relief.
+
+¶35    The court may enforce the monthly-payment obligation and determine the amount
+
+necessary to cure adjudicated deficiencies. That amount must account for subsequent
+
+payments and existing judgments without counting an obligation twice. Section 27-1-303,
+
+MCA. Because contempt rests on Ken’s separate promise to make monthly payments, the
+
+figure need not be identical to whatever Aidvantage currently classifies as delinquent. If
+
+the District Court orders Ken to pay amounts toward the Parent PLUS loan, it must require
+
+payment to the creditor or direct application of those amounts to the outstanding loan
+
+balance and provide corresponding credit for payments made. The court must distinguish
+
+                                              15
+those payments from separately authorized fees or other relief. Our decision leaves the
+
+underlying debt allocation and the June 2024 adjudicated obligations undisturbed.
+
+¶36    4. Whether the District Court erred by awarding Barbara $3,237.50 in attorney
+          fees.
+
+¶37    The attorney-fee award requires separate treatment. Paragraph 15 of the MPSA
+
+requires reasonable fees to the prevailing party in an action to enforce, modify, or interpret
+
+the agreement. Paragraph 3 of the Stipulation separately makes Ken responsible for fees
+
+incurred when Barbara must compel compliance with his monthly-payment obligation. We
+
+review contractual entitlement for correctness; clear fee provisions control. In re Marriage
+
+of Fossen, </pre><span class="citation" data-id="6536326"><a href="/opinion/6658894/in-re-marriage-of-fossen/#8" aria-description="Citation for case: In re Marriage of Fossen">2019 MT 119, ¶¶ 8, 11</a></span><pre class="inline">, </pre><span class="citation" data-id="6536326"><a href="/opinion/6658894/in-re-marriage-of-fossen/" aria-description="Citation for case: In re Marriage of Fossen">395 Mont. 495</a></span><pre class="inline">, </pre><span class="citation" data-id="6536326"><a href="/opinion/6658894/in-re-marriage-of-fossen/" aria-description="Citation for case: In re Marriage of Fossen">443 P.3d 418</a></span><pre class="inline">. Our contempt holding
+
+preserves Barbara’s entitlement to reasonable fees for that enforcement; Ken’s
+
+unsuccessful subrogation theory does not defeat the contractual entitlement.
+
+¶38    The District Court awarded Barbara $3,237.50 in attorney fees after considering the
+
+reasonableness of the requested amount under the factors identified in In re Marriage of
+
+Mease, </pre><span class="citation" data-id="9511307"><a href="/opinion/886994/in-re-the-marriage-of-mease/#58" aria-description="Citation for case: In Re the Marriage of Mease">2004 MT 59, ¶ 58</a></span><pre class="inline">, </pre><span class="citation" data-id="9511307"><a href="/opinion/886994/in-re-the-marriage-of-mease/" aria-description="Citation for case: In Re the Marriage of Mease">320 Mont. 229</a></span><pre class="inline">, </pre><span class="citation" data-id="9511307"><a href="/opinion/886994/in-re-the-marriage-of-mease/" aria-description="Citation for case: In Re the Marriage of Mease">92 P.3d 1148</a></span><pre class="inline">. Ken expressly notified the court
+
+that he did not object to the fees provided for in the September 16 order and claimed in
+
+counsel’s September 30 affidavit. Although we vacate the full-balance judgment, Barbara
+
+prevailed in establishing Ken’s noncompliance with the monthly-payment obligation, and
+
+the parties’ agreements authorize reasonable fees for enforcing that obligation. The
+
+unsuccessful request for the full-balance remedy arose from the same enforcement
+
+proceeding and does not, by itself, render the related legal work unreasonable or require
+
+reduction of the award. Given Ken’s express nonobjection and the District Court’s
+
+
+                                             16
+reasonableness determination, we find no basis to disturb the $3,237.50 award. We affirm
+
+the October 30, 2025 attorney-fee order.
+
+¶39    5. Whether Barbara is entitled to appellate attorney fees and sanctions.
+
+¶40    Barbara also requests appellate sanctions and contractual appellate attorney fees.
+
+Ken has obtained relief from the full-balance judgment, and his appeal presented
+
+substantial questions about the permissible enforcement remedy.            Sanctions under
+
+M. R. App. P. 19(5) are unwarranted. His lack of success on account access and contempt
+
+does not make the appeal frivolous.
+
+¶41    Barbara invokes the contractual fee provisions as well. Her partial success requires
+
+us to examine the scope of the contractual fee provisions and the matters on which she
+
+prevailed. See In re Marriage of Winters, </pre><span class="citation" data-id="9511291"><a href="/opinion/886971/marriage-of-winters-v-winters/" aria-description="Citation for case: Marriage of Winters v. Winters">2004 MT 82</a></span><pre class="inline">, ¶¶ 59–61, </pre><span class="citation" data-id="9511291"><a href="/opinion/886971/marriage-of-winters-v-winters/" aria-description="Citation for case: Marriage of Winters v. Winters">320 Mont. 459</a></span><pre class="inline">, </pre><span class="citation" data-id="9511291"><a href="/opinion/886971/marriage-of-winters-v-winters/" aria-description="Citation for case: Marriage of Winters v. Winters">87 P.3d
+
+1005</a></span><pre class="inline">. Section 28-3-704(1), MCA, makes contractual attorney-fee rights reciprocal and
+
+entitles the prevailing party to reasonable fees within the scope of the contractual right. A
+
+party may prevail on the particular claim covered by a fee provision despite mixed results
+
+elsewhere in the litigation. TransAction Network, Inc. v. Wellington Techs., Inc., </pre><span class="citation" data-id="885356"><a href="/opinion/885356/transaction-network-inc-v-wellington-technologies-inc/#24" aria-description="Citation for case: Transaction Network, Inc. v. Wellington Technologies, Inc.">2000 MT
+
+223, ¶¶ 24-35</a></span><pre class="inline">, </pre><span class="citation" data-id="885356"><a href="/opinion/885356/transaction-network-inc-v-wellington-technologies-inc/" aria-description="Citation for case: Transaction Network, Inc. v. Wellington Technologies, Inc.">301 Mont. 212</a></span><pre class="inline">, </pre><span class="citation" data-id="885356"><a href="/opinion/885356/transaction-network-inc-v-wellington-technologies-inc/" aria-description="Citation for case: Transaction Network, Inc. v. Wellington Technologies, Inc.">7 P.3d 409</a></span><pre class="inline">. Paragraph 3 of the Stipulation separately assigns
+
+Ken responsibility for future fees relative to compelling compliance with the
+
+monthly-payment agreement. Barbara prevailed in establishing Ken’s violation of that
+
+obligation and successfully defended the resulting contempt determination on appeal.
+
+Vacating the full-balance remedy does not disturb that success. Paragraph 15 of the MPSA
+
+provides an additional contractual basis for reasonable fees attributable to Barbara’s
+
+successful enforcement of Ken’s continuing responsibility for the debt. She therefore
+
+                                             17
+remains entitled to reasonable fees for enforcing the monthly-payment obligation under the
+
+parties’ agreements, subject to an assessment of the work reasonably necessary and the
+
+results obtained. The full-balance request was a proposed remedy for the noncompliance;
+
+our rejection of that remedy does not automatically place all work concerning it outside the
+
+contractual fee provision. Contractual enforcement fees may include fees on appeal. See
+
+In re Marriage of Cini, </pre><span class="citation" data-id="889616"><a href="/opinion/889616/in-re-the-marriage-of-cini/" aria-description="Citation for case: In Re the Marriage of Cini">2011 MT 295</a></span><pre class="inline">, ¶¶ 27–28, </pre><span class="citation" data-id="889616"><a href="/opinion/889616/in-re-the-marriage-of-cini/" aria-description="Citation for case: In Re the Marriage of Cini">363 Mont. 1</a></span><pre class="inline">, </pre><span class="citation" data-id="889616"><a href="/opinion/889616/in-re-the-marriage-of-cini/" aria-description="Citation for case: In Re the Marriage of Cini">266 P.3d 1257</a></span><pre class="inline">. Barbara’s
+
+entitlement therefore includes reasonable fees for defending the contempt determination
+
+on appeal.
+
+¶42    On remand, the court shall determine the reasonable appellate fees attributable to
+
+enforcing the continuing monthly-payment obligation.          The court must assess the
+
+reasonable amount in light of Barbara’s success in establishing noncompliance and her
+
+failure to sustain the full-balance remedy. But the court need not exclude work merely
+
+because it also concerned the full-balance remedy. When compensable and unsuccessful
+
+matters share a common factual core or related legal theories and the court cannot
+
+reasonably divide the work, it may assess the significance of the overall relief obtained in
+
+relation to the hours reasonably expended. Plath v. Schonrock, </pre><span class="citation" data-id="9883185"><a href="/opinion/886635/plath-v-schonrock/#37" aria-description="Citation for case: Plath v. Schonrock">2003 MT 21, ¶ 37</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="9883185"><a href="/opinion/886635/plath-v-schonrock/" aria-description="Citation for case: Plath v. Schonrock">314 Mont. 101</a></span><pre class="inline">, </pre><span class="citation" data-id="9883185"><a href="/opinion/886635/plath-v-schonrock/" aria-description="Citation for case: Plath v. Schonrock">64 P.3d 984</a></span><pre class="inline">. The court must consider the results obtained together with
+
+the other applicable factors governing a reasonable fee, rather than reduce the award
+
+mechanically because Barbara did not obtain every form of relief she requested. Plath,
+
+¶¶ 36–38. The court must explain the reasonable amount awarded. Neither the contractual
+
+entitlement nor the contempt determination makes every claimed appellate fee reasonable.
+
+Each party shall bear his or her own costs on appeal. M. R. App. P. 19(3)(a).
+
+                                            18
+                                     CONCLUSION
+
+¶43    We affirm the account-access ruling, without diminishing the existing rights to
+
+statements and payment information, the contempt determination based on the August and
+
+September 2024 nonpayments, and the award of the $3,237.50 attorney-fee award. We
+
+vacate the directive for a full-balance judgment in paragraph 2 of the September 16, 2025
+
+order and the October 8, 2025 judgment. We remand for determination of the enforcement
+
+remedy and reasonable appellate attorney fees consistent with this Opinion. We deny
+
+Barbara’s request for appellate sanctions.
+
+¶44    Affirmed in part, vacated in part, and remanded.
+
+
+                                                  /S/ KATHERINE M. BIDEGARAY
+
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ JAMES JEREMIAH SHEA
+/S/ LAURIE McKINNON
+/S/ INGRID GUSTAFSON
+
+
+
+
+                                             19
+</pre>

@@ -1,0 +1,10 @@
+attempt,case,jurisdiction,court_level,category,posture,layer,actual_notch
+18,State v. Taylor,OH-Supreme,apex,criminal,trial,pure_law,REVERSED
+18,State ex rel. Yeager v. Lake Cty.,OH-Supreme,apex,criminal,dismissal,pure_law,CLEAN_AFFIRM
+18,State ex rel. Mitchell v. Frederick,OH-Supreme,apex,habeas,dismissal,pure_law,CLEAN_AFFIRM
+18,Vandercar v. Port of Greater Cincinnati,OH-Supreme,apex,civil,trial,pure_law,REVERSED
+18,McCarthy v. Lee,OH-Supreme,apex,civil,dismissal,pure_law,CLEAN_AFFIRM
+18,Scott Fetzer v. Am. Home Assur.,OH-Supreme,apex,civil,discretionary,pure_law,CLEAN_AFFIRM
+18,In re Solar Generation Fund Rider,OH-Supreme,apex,admin,discretionary,pure_law,MODIFIED
+18,Karr v. McClain,OH-Supreme,apex,admin,discretionary,pure_law,REVERSED
+18,N.A.T. Transp. v. McClain,OH-Supreme,apex,admin,discretionary,pure_law,MODIFIED

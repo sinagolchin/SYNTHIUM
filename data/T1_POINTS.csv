@@ -1,0 +1,91 @@
+case,jurisdiction,court_tier,point,standard_of_review,layer,moved,party_power_proxy,blinding,source_id
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,good faith in bringing private road action (24-9-101(a)(iii)),de_novo,pure_law,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,necessity: BLM two-track not a public road,mixed,mixed,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,necessity: Parsons Creek route impracticable (testimony),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,route selection (least-damage reading of 24-9-101(h)),de_novo,pure_law,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,route selection: most reasonable and convenient (findings),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,damages $61200 (viewers appraisal),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,operational damages outside 24-9-101(j),de_novo,pure_law,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,condition 4 (pay all road damage regardless of fault),clearly_erroneous,fact,yes,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,condition 5 (dust suppression),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,condition 6 (four-axle limit; nuisance),clearly_erroneous,fact,yes,corporate_v_corporate,blind,CL op 11448351
+Wagonhound v. Little Medicine Creek Ranch 2026 WY,US-WY,apex,denial of agricultural-use-only condition,clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11448351
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,ADA preemption of negligence/unjust enrichment/civil theft,de_novo,pure_law,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,conversion exception (summary judgment),de_novo,mixed,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,$100 released-value limit (notice and opportunity),de_novo,mixed,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: existence of contract (invoice),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: breach (watch tendered; removed box held watch),clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: credibility of Sonia's testimony,credibility,fact,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: third-party beneficiary standing,de_novo,pure_law,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: subrogation payment finding,clearly_erroneous,fact,no,corporate_v_corporate,blind,CL op 11433545
+Pennsylvania Ins. Co. v. Federal Express (8th Cir. 2026),US-FED-CA8,intermediate,cross: exclusion of undisclosed exhibit,abuse_of_discretion,procedural,no,corporate_v_corporate,blind,CL op 11433545
+Brock v. Tompkins 2026 MT,US-MT,apex,denial of SJ on original express-easement theory,de_novo,pure_law,yes,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,leave to amend after SJ motion,abuse_of_discretion,procedural,no,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,denial of 12(c)/partial SJ on amended theories,de_novo,mixed,no,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,bifurcation / jury right,abuse_of_discretion,procedural,no,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,implied easement by preexisting use (elements and severance),mixed,mixed,yes,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,scope of implied easement taken from later COS,mixed,mixed,yes,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,cross: 25-10-501 five-day period trigger,de_novo,pure_law,yes,individual_v_individual,uncertain_exposure,CL op 11436984
+Brock v. Tompkins 2026 MT,US-MT,apex,cross: UDJA equitable fee denial,abuse_of_discretion,mixed,no,individual_v_individual,uncertain_exposure,CL op 11436984
+Canter v. Canter 2026 UT App 168,US-UT,intermediate,admission of rebuttal-designated expert (rule 26),de_novo,procedural,no,individual_v_individual,uncertain_exposure,CL op 11524635
+Canter v. Canter 2026 UT App 168,US-UT,intermediate,alimony framework (line-item vs halving),de_novo,pure_law,no,individual_v_individual,uncertain_exposure,CL op 11524635
+Canter v. Canter 2026 UT App 168,US-UT,intermediate,Jane line-item expense findings,clearly_erroneous,fact,no,individual_v_individual,uncertain_exposure,CL op 11524635
+Canter v. Canter 2026 UT App 168,US-UT,intermediate,2LMD bonus earned by Chad (implied finding),clearly_erroneous,fact,no,individual_v_individual,uncertain_exposure,CL op 11524635
+Canter v. Canter 2026 UT App 168,US-UT,intermediate,cross: de facto fee shift via $85k from undivided account,abuse_of_discretion,mixed,yes,individual_v_individual,uncertain_exposure,CL op 11524635
+Koch v. City of Sargent 322 Neb. 789,US-NE,apex,CoA dismissal: April 2026 document was a judgment rendered (single written document 25-1301(2)),de_novo,pure_law,yes,individual_v_government,uncertain_exposure,CL op 11524241
+Cheung v. Pena 2026 Idaho,US-ID,apex,2016 ten-year renewal period applies via post-2015 renewal of 2006 judgment,de_novo,pure_law,no,individual_v_individual,blind,CL op 11523520
+Cheung v. Pena 2026 Idaho,US-ID,apex,2016 Rule 60(a) amended judgment as a new issued judgment (clerical vs judicial error),de_novo,mixed,no,individual_v_individual,blind,CL op 11523520
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,subject matter jurisdiction (county court trust proceeding),de_novo,pure_law,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,jurisdiction to fix timing of distributions (federal tax),de_novo,pure_law,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,admission of expert report on issues not specifically pled (unpreserved),abuse_of_discretion,procedural,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,statute of limitations waived by failure to plead,de_novo,procedural,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,late expert report and denial of continuance,abuse_of_discretion,procedural,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,capital account -798659 and loss of partnership interest (conflicting accountants),credibility,fact,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,liability for uncollected rent 214869,mixed,mixed,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,liability for ATM withdrawals 199793 (managing partner burden to account),mixed,mixed,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,unreported transfers 1014960 (undocumented; credibility),credibility,fact,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,direct withdrawals 253645 and alleged double counting,clearly_erroneous,fact,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,attorney fees (trust statute argument inapposite),abuse_of_discretion,mixed,no,individual_v_individual,blind,CL op 11491792
+Berkshire v. Berkshire 322 Neb. 477,US-NE,apex,untimely request for specific findings of fact,de_novo,procedural,no,individual_v_individual,blind,CL op 11491792
+Colton v. Overlook at Fox Creek 2026 Idaho,US-ID,apex,12(b)(6) dismissal: standing under 10-1202 and unaddressed alternative equity/easement claim,de_novo,pure_law,yes,individual_v_organization,blind,CL op 11525565
+Colton v. Overlook at Fox Creek 2026 Idaho,US-ID,apex,SJ on HOA counterclaim: road not shown within subdivision (record-absence finding; movant burden),de_novo,mixed,yes,individual_v_organization,blind,CL op 11525565
+Colton v. Overlook at Fox Creek 2026 Idaho,US-ID,apex,attorney fee awards to respondents (vacated with merits),abuse_of_discretion,procedural,yes,individual_v_organization,blind,CL op 11525565
+Armitage v. DeGroot 2026 Idaho,US-ID,apex,merger of personalty payment promise into warranty deed (collateral-promise exception),de_novo,pure_law,no,individual_v_individual,blind,CL op 11515307
+Armitage v. DeGroot 2026 Idaho,US-ID,apex,attorney fees 12-120(3): commercial transaction as limit vs independent basis,de_novo,pure_law,no,individual_v_individual,blind,CL op 11515307
+In re Estate of Todd 322 Neb. 719,US-NE,apex,validity of joint holographic will written in proponent's hand (30-2328),de_novo,pure_law,no,individual_v_individual,blind,CL op 11518004
+Bear v. Bear 2026 Idaho,US-ID,apex,dismissal of partition action (SMJ rejected; full faith and credit to Montana decree upheld dismissal),de_novo,pure_law,no,individual_v_individual,blind,CL op 11515144
+Ellman v. Charron 2026 Idaho,US-ID,apex,district court subject matter jurisdiction over writ of mandate seeking APA final order on CPA placement recommendation,de_novo,pure_law,no,individual_v_government,blind,CL op 11507686
+Ellman v. Charron 2026 Idaho,US-ID,apex,procedural due process (no protected interest in placement of grandchildren),de_novo,pure_law,no,individual_v_government,blind,CL op 11507686
+11819 Miracle Hills Drive v. Ali 322 Neb. 710,US-NE,apex,homestead exemption as bar to foreclosure decree without 40-105 application,de_novo,pure_law,no,individual_v_organization,blind,CL op 11518005
+11819 Miracle Hills Drive v. Ali 322 Neb. 710,US-NE,apex,SJ despite claimed fact issue on homestead status (no application filed),de_novo,mixed,no,individual_v_organization,blind,CL op 11518005
+11819 Miracle Hills Drive v. Ali 322 Neb. 710,US-NE,apex,decree ordering sale of whole residence when lien attached only to debtor's half (plain error),plain_error,pure_law,yes,individual_v_organization,blind,CL op 11518005
+11819 Miracle Hills Drive v. Ali 322 Neb. 710,US-NE,apex,decree leaving choice of sheriff or special master to creditor (plain error),plain_error,procedural,yes,individual_v_organization,blind,CL op 11518005
+Reilly v. Sullivan 2026 WY 114,US-WY,apex,little weight to mother's primary caregiver status,abuse_of_discretion,fact,no,individual_v_individual,blind,CL op 11510763
+Reilly v. Sullivan 2026 WY 114,US-WY,apex,sibling separation weighing and explanation,abuse_of_discretion,fact,no,individual_v_individual,blind,CL op 11510763
+Reilly v. Sullivan 2026 WY 114,US-WY,apex,uneven credibility findings (sequestration violation),credibility,fact,no,individual_v_individual,blind,CL op 11510763
+Hinckley v. University of Wyoming 2026 WY 118,US-WY,apex,WGCA bars fraud/IIED/wrongful-termination damages claims,de_novo,pure_law,no,individual_v_organization,blind,CL op 11520336
+Hinckley v. University of Wyoming 2026 WY 118,US-WY,apex,wrongful termination in violation of public policy unavailable given WFEPA remedy,de_novo,pure_law,no,individual_v_organization,blind,CL op 11520336
+Hinckley v. University of Wyoming 2026 WY 118,US-WY,apex,WFEPA discrimination/hostile environment claims must be brought as W.R.A.P. 12 petition (exhaustion),de_novo,pure_law,no,individual_v_organization,blind,CL op 11520336
+Hinckley v. University of Wyoming 2026 WY 118,US-WY,apex,denial of Rule 59(e) motion,abuse_of_discretion,procedural,no,individual_v_organization,blind,CL op 11520336
+YC Properties v. Connolly 2026 MT 261,US-MT,apex,Water Court may consider post-1973 conduct in abandonment adjudication,de_novo,pure_law,no,individual_v_organization,blind,CL op 11522243
+YC Properties v. Connolly 2026 MT 261,US-MT,apex,unauthorized change in use as functional equivalent of intent to abandon (SJ),de_novo,pure_law,yes,individual_v_organization,blind,CL op 11522243
+YC Properties v. Connolly 2026 MT 261,US-MT,apex,conclusive presumption of abandonment under 85-2-226 for failure to file claim,de_novo,pure_law,yes,individual_v_organization,blind,CL op 11522243
+In re Marriage of Christofferson 2026 MT 262,US-MT,apex,support calculation inconsistent with court's own health-insurance findings,abuse_of_discretion,mixed,yes,individual_v_individual,uncertain_exposure,CL op 11522250
+In re Marriage of Christofferson 2026 MT 262,US-MT,apex,denial of earlier retroactive child support,abuse_of_discretion,fact,no,individual_v_individual,uncertain_exposure,CL op 11522250
+In re Marriage of Christofferson 2026 MT 262,US-MT,apex,finding that mother delayed nearly a year in seeking back support (contradicted by record; harmless),clearly_erroneous,fact,no,individual_v_individual,uncertain_exposure,CL op 11522250
+In re Estate of Bradford 2026 MT 251,US-MT,apex,removal of personal representative for cause without hearing (72-3-526),abuse_of_discretion,procedural,yes,individual_v_individual,blind,CL op 11514123
+In re Estate of Bradford 2026 MT 251,US-MT,apex,appointment of special administrator without hearing or emergency showing (72-3-701(2)),abuse_of_discretion,procedural,yes,individual_v_individual,blind,CL op 11514123
+In re Estate of Bradford 2026 MT 251,US-MT,apex,blanket freeze of all accounts incl. claimed nonprobate accounts,abuse_of_discretion,mixed,yes,individual_v_individual,blind,CL op 11514123
+Copper City Gaming v. Allen 2026 MT 230,US-MT,apex,issue preclusion from settlement-based stipulated dismissal on 12(b)(6),de_novo,pure_law,yes,individual_v_organization,blind,CL op 11454075
+Copper City Gaming v. Allen 2026 MT 230,US-MT,apex,reliance on prior-case records without Rule 12(d) conversion,abuse_of_discretion,procedural,yes,individual_v_organization,blind,CL op 11454075
+In re Marriage of Kearns 2026 MT 252,US-MT,apex,denial of additional loan-account access (credibility of account-change conduct),clearly_erroneous,fact,no,individual_v_individual,blind,CL op 11514121
+In re Marriage of Kearns 2026 MT 252,US-MT,apex,contempt for Aug/Sep 2024 nonpayment despite servicer deferment,de_novo,mixed,no,individual_v_individual,blind,CL op 11514121
+In re Marriage of Kearns 2026 MT 252,US-MT,apex,immediately collectible full-balance judgment for spouse as enforcement remedy,de_novo,pure_law,yes,individual_v_individual,blind,CL op 11514121
+In re Marriage of Kearns 2026 MT 252,US-MT,apex,enforcement attorney fee award,abuse_of_discretion,procedural,no,individual_v_individual,blind,CL op 11514121
+Victory Ins. Co. v. State CSI 2026 MT 269,US-MT,apex,Commissioner's authority to order supplement of annual statement to disclose pending lawsuit (33-2-701(1)(a)),de_novo,pure_law,no,organization_v_government,blind,CL op 11526918
+Victory Ins. Co. v. State CSI 2026 MT 269,US-MT,apex,"maximum $25,000 fine imposed without stated reasons (2-4-704(2)(a)(vi))",abuse_of_discretion,procedural,yes,organization_v_government,blind,CL op 11526918
+Victory Ins. Co. v. State CSI 2026 MT 269,US-MT,apex,dismissal of whole agency action as remedy (rejected; remand instead),de_novo,pure_law,no,organization_v_government,blind,CL op 11526918
+Gateway Conservation Alliance v. State 2026 MT 243,US-MT,apex,MAPA exhaustion exception for constitutional challenge tethered to a pending permit appeal,de_novo,pure_law,no,organization_v_government,blind,CL op 11500396
+Gateway Conservation Alliance v. State 2026 MT 243,US-MT,apex,futility exception to exhaustion,de_novo,pure_law,no,organization_v_government,blind,CL op 11500396
+Yellowstone County v. Montana DEQ 2026 MT 242,US-MT,apex,categorical claim county lacks authority to perform MS4 minimum control measures (ARM 17.30.1111(6)),de_novo,pure_law,no,government_v_government,blind,CL op 11500389
+Yellowstone County v. Montana DEQ 2026 MT 242,US-MT,apex,MS4 requirements an unfunded mandate under 1-2-112 (federal-statute exception),de_novo,pure_law,no,government_v_government,blind,CL op 11500389

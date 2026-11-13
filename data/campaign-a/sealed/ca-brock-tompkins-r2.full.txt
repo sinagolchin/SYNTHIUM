@@ -1,0 +1,1178 @@
+<pre class="inline">                                                                                        09/08/2026
+
+
+                                         DA 25-0436
+                                                                                    Case Number: DA 25-0436
+
+                IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                        </pre><span class="citation no-link">2026 MT 175A</span><pre class="inline">
+
+
+
+CHRISTINE BROCK, AS CO-TRUSTEE
+OF THE DONALD D. BROCK AND
+JANET M. BROCK, CO-TRUSTEES OF
+THE DON AND JANET BROCK FAMILY
+TRUST DATED MARCH 24, 1998,
+
+              Plaintiff, Appellee,
+              and Cross-Appellant,
+
+         v.
+
+SHAN and DANA TOMPKINS,
+
+              Defendants, Appellants,
+              and Cross-Appellees.
+
+
+
+APPEAL FROM:          District Court of the Twenty-First Judicial District,
+                      In and For the County of Ravalli, Cause No. DV 18-428
+                      Honorable Howard F. Recht, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+               For Appellants:
+
+                      Jesse Kodadek, William T. Casey, Parsons Behle &amp; Latimer, Missoula,
+                      Montana
+
+               For Appellee:
+
+                      Kyle J. Workman, Workman Law, PLLC, Hamilton, Montana
+
+
+                                                 Submitted on Briefs: June 17, 2026
+                                                            Decided: August 4, 2026
+                                                          Amended: September 8, 2026
+Filed:
+
+                      __________________________________________
+                                       Clerk
+Justice Katherine M. Bidegaray delivered the Opinion of the Court.
+
+¶1    Shan and Dana Tompkins (the Tompkins) appeal from the District Court’s
+
+March 25, 2025 Findings of Fact, Conclusions of Law, and Order declaring that Christine
+
+Brock (Brock) holds an implied easement across their property and from several
+
+interlocutory orders. Brock cross-appeals the District Court’s June 19, 2025 procedural
+
+denial of her request for costs and attorney fees under § 25-7-105, MCA. We conclude
+
+that the District Court should have entered summary judgment for the Tompkins on
+
+Brock’s original express-easement theory. Because the District Court did not abuse its
+
+discretion by granting Brock leave to amend before entry of judgment, however, the Rule
+
+56 error did not affect the Tompkins’ substantial rights in the proceedings on the amended
+
+pleading and therefore does not require reversal of those proceedings. We affirm the order
+
+granting leave to amend, the denial of the later dispositive motions, and the bifurcation
+
+order. We reverse the implied-easement judgment and vacate the permanent injunction.
+
+We also vacate the mootness dismissal of Brock’s prescriptive-easement claim, the
+
+Tompkins’ trespass counterclaim, and the extinguishment issues, and we remand any
+
+preserved alternative easement theory that the District Court did not adjudicate on the
+
+merits. We reverse the ruling that Brock’s request under §§ 25-7-105 and 25-10-501,
+
+MCA, was untimely and remand for further proceedings and a new cost-and-fee
+
+determination after final judgment.
+
+¶2    We address the following issues:
+
+
+
+
+                                            2
+      1. Whether the District Court erred by denying summary judgment to the Tompkins
+         on Brock’s original express-easement theory, whether that error requires
+         reversal of the proceedings on the amended pleading, and whether the court
+         abused its discretion by granting Brock leave to amend.
+
+      2. Whether the District Court erred by denying the Tompkins’ motion for judgment
+         on the pleadings and their later motion for partial summary judgment on Brock’s
+         amended claims.
+
+      3. Whether the District Court abused its discretion by bifurcating the case and
+         assigning Brock’s express-, implied-, and public-easement theories to the court
+         while preserving the prescriptive-easement claim and trespass counterclaim for
+         a jury.
+
+      4. Whether the District Court erred by concluding that Brock proved an implied
+         easement by preexisting use benefiting both of her parcels.
+
+      5. Whether reversal of the implied-easement judgment requires vacatur of the
+         permanent injunction and remand of the matters the District Court treated as
+         moot.
+
+      6. Whether the District Court erred by treating its March 25, 2025 order as the
+         decision triggering the five-day period under § 25-10-501, MCA, and by denying
+         Brock’s request under § 25-7-105, MCA, as untimely.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶3    This case involves the roadway known as Forgotten Lane, which extends between
+
+Sawmill Lane, a Ravalli County road, and Conner Cutoff, a state highway near the West
+
+Fork of the Bitterroot River. The Tompkins own Parcel 1 of Certificate of Survey (COS)
+
+No. 4026, which depicts the disputed Forgotten Lane corridor along its southern boundary.
+
+Brock, as co-trustee of the Don and Janet Brock Family Trust, owns two parcels south of
+
+Parcel 1: a 2.5-acre residence parcel and Parcel B of COS No. 4945-R, which lies on
+
+
+
+
+                                           3
+Hoofbeats Lane. Figure 1 below depicts the approximate relative locations of the three
+
+parcels and surrounding roads for orientation.1
+
+
+
+
+¶4     All three parcels trace to a single source of title. In 1943, Walter and Vivian Shook
+
+acquired roughly 111 acres in Section 18, Township 2 North, Range 20 West, comprising
+
+the North half of the Northeast quarter together with an adjoining strip. The 1943 tract
+
+
+
+
+1
+ Figure 1 depicts approximate locations of Parcel 1 of COS No. 4026, the 2.5-acre parcel, Parcel
+B of COS No. 4945-R, Forgotten Lane, Sawmill Lane, Conner Cutoff, and Hoofbeats Lane. It is
+Court-prepared from Montana Cadastral and is not to scale. Parcel outlines and roadway locations
+are approximate and are shown for orientation only. The figure does not determine title to the
+Forgotten Lane corridor, exact parcel boundaries, whether either Brock parcel directly adjoins
+Sawmill Lane, or the existence, character, or scope of any easement.
+                                                 4
+included land from which the present Tompkins parcel and both Brock parcels later
+
+derived.
+
+¶5     In 1949, Vivian Shook conveyed a 14.3-acre tract out of that holding to Dee Shook.
+
+The deed described the tract as running along “the westerly side of the county road” and
+
+“the northwesterly side of the road.” The parties agree that the deed’s road references
+
+describe the roadway now known as Forgotten Lane. This 14.3-acre tract later became part
+
+of the Tompkins parcel.
+
+¶6     In 1950, Walter and Vivian Shook conveyed a larger tract to Milo and Juanita
+
+Wilson, expressly excepting the 14.3-acre tract conveyed in 1949 to Dee Shook and a
+
+separately-described 2.5-acre tract along “the southerly side of the said county road.” The
+
+District Court later identified this 1950 conveyance as the operative severance of title for
+
+purposes of Brock’s implied-easement claim.
+
+¶7     In 1952, Walter and Vivian Shook conveyed the 2.5-acre tract to Dee Shook, placing
+
+the two deeded tracts—the 2.5-acre tract and the previously conveyed 14.3-acre tract—in
+
+Dee Shook’s ownership.
+
+¶8     In 1961, Dee Shook and, separately, Walter and Vivian Shook granted
+
+rights-of-way to the State for construction of Conner Cutoff and the extension of Sawmill
+
+Lane, altering how the surrounding parcels would thereafter be accessed.
+
+¶9     In 1973, the lands the Shooks had conveyed to the Wilsons, including what would
+
+become Brock’s Hoofbeats Lane parcel, were conveyed on contract to Robert and
+
+Elizabeth Saxe. The Saxes recorded COS No. 595 in 1974, depicting the conveyed land
+
+
+                                             5
+as a single, roughly 1,600-acre parcel spanning parts of seven sections and bordering both
+
+Conner Cutoff and Sawmill Lane.
+
+¶10    In 1976, Don and Janet Brock acquired an interest in the 2.5-acre parcel from Dee
+
+and Alice Shook. In 1978, the Saxes subdivided their holdings into “pasture lots” under
+
+COS No. 1619 and conveyed a 10.18-acre lot, known as Tract A, to the Brocks. That tract
+
+later became, after further division, Brock’s Hoofbeats Lane parcel.
+
+¶11    In 1987, Dee Shook recorded COS No. 4026, depicting the disputed corridor within
+
+Parcel 1, now the parcel that belongs to the Tompkins, and labeling it a “60-foot-wide Road
+
+and Utility Easement.” Neither Brock’s 2.5-acre parcel nor her Hoofbeats Lane parcel is
+
+surveyed or legally described on COS No. 4026.
+
+¶12    Brock’s Hoofbeats Lane parcel took its current configuration in June 1993, when
+
+Brock recorded COS No. 4945-R after further dividing the 1978 tract. The Tompkins
+
+purchased Parcel 1 of COS No. 4026 from the Schlapmans in 2004.
+
+¶13    The parties dispute the character of historical use of Forgotten Lane.           The
+
+Tompkins’ evidence at trial was that, while the Schlapmans owned the parcel, they placed
+
+a log across the west end of Forgotten Lane, between Brock’s driveway and Sawmill Lane,
+
+to deter speeding; that the log blocked vehicular access at that end for many years; that the
+
+east end carried “dead end” and “no trespassing” signage; and that Brock’s own testimony
+
+acknowledged her use of that stretch was with the Schlapmans’ permission, and later the
+
+Tompkins’ permission. Brock’s position is that Forgotten Lane was historically the only
+
+road connecting the East Fork Road (U.S. Highway 93) to the West Fork Road, including
+
+
+                                             6
+the only bridge across the West Fork of the Bitterroot River, until Conner Cutoff and a new
+
+bridge were built in the early 1960s, and that it was used by the general public.
+
+¶14     The parties also dispute both the date and character of the events that led to this
+
+litigation. The Tompkins presented evidence that, in 2016, Brock obtained permission
+
+from Shan Tompkins to spread gravel on Forgotten Lane, placed gravel on the road to the
+
+log at the road’s west end, removed a section of fence near the western end and began
+
+driving around the log. The Tompkins testified that, during the summer of 2016, they
+
+replaced the log with a post-and-rail fence and gate. Brock maintains that the actionable
+
+obstruction occurred in 2017, when the Tompkins placed two fences across Forgotten
+
+Lane.
+
+¶15     Brock filed her Complaint in Ravalli County District Court on October 10, 2018,
+
+alleging a single theory that she held an express easement over Forgotten Lane based on
+
+COS No. 4026, and seeking declaratory and injunctive relief. The Tompkins answered,
+
+denied the existence of an express easement, and on the same day moved for summary
+
+judgment. Brock cross-moved for summary judgment on the same express-easement
+
+theory.
+
+¶16     In June 2021, the District Court denied both motions. The court found that Brock
+
+had “provided little evidence of an express grant,” but declined to enter judgment for the
+
+Tompkins, instead concluding that Brock’s pleading should be read to encompass a broader
+
+claim to access rights predating COS No. 4026, and inviting her to amend. Later in 2021,
+
+the District Court granted Brock leave to amend her complaint over the Tompkins’
+
+
+                                             7
+objection. Brock’s amended complaint retained the express easement theory and added
+
+implied-, prescriptive-, and public-easement theories as alternative grounds for declaratory
+
+and injunctive relief. The Tompkins answered, counterclaimed for trespass, demanded a
+
+jury trial, and asserted reverse prescription as an affirmative defense.
+
+¶17    In February 2022, Ravalli County, acting on a request from Brock’s counsel,
+
+determined that Forgotten Lane was a county road. County employees then removed the
+
+Tompkins’ fence and gate and graded the roadway. The Tompkins sued Ravalli County in
+
+federal court, seeking a declaratory judgment that Forgotten Lane was never a validly
+
+created county road and asserting takings claims. Brock consented to a stay of the state
+
+court action pending that outcome. On November 17, 2022, the federal court denied the
+
+County’s motion to dismiss, concluding the County had not established as a matter of law
+
+that Forgotten Lane was ever an official county road. In settling the federal action, the
+
+County agreed, as between itself and the Tompkins, that Forgotten Lane had not been
+
+established as a county road and that neither the County nor the public held a right of access
+
+where the road crossed or touched the Tompkins parcel.
+
+¶18    On March 5, 2024, the District Court held the Tompkins’ motion for judgment on
+
+the pleadings in abeyance, electing to treat it as a converted motion for summary judgment
+
+to be briefed after the close of discovery.
+
+¶19    In April 2024, the Tompkins moved for partial summary judgment on Brock’s
+
+express easement, public easement, prescriptive easement, and implied easement theories.
+
+Brock cross-moved for summary judgment.
+
+
+                                              8
+¶20     On May 8, 2024, the District Court denied both parties’ cross-motions in a single
+
+order, finding disputed material facts concerning, among other things, the date of severance
+
+from common ownership, the historic use of Forgotten Lane, whether permission was
+
+required to use it, and the circumstances surrounding the log that blocked its west end.
+
+¶21     The District Court later bifurcated the case over the Tompkins’ objection. It
+
+assigned Brock’s express-, implied-, and public-easement theories to the bench and
+
+reserved Brock’s prescriptive-easement claim and the Tompkins’ trespass counterclaim for
+
+a jury only if necessary. The District Court stayed the jury trial pending the bench trial,
+
+which ultimately addressed the express- and implied-easement theories on December 5,
+
+2024.
+
+¶22     On March 25, 2025, the District Court entered its Findings of Fact, Conclusions of
+
+Law, and Order. The court found that Brock had not proved an express easement but found
+
+by clear and convincing evidence that Brock held an implied easement across the Tompkins
+
+parcel for the entirety of Forgotten Lane, arising in 1950 when Walter and Vivian Shook
+
+severed title by conveying to the Wilsons. The District Court adopted the scope depicted
+
+on COS No. 4026, entered a permanent injunction, and directed the parties to brief attorney
+
+fees, costs, and any remaining procedural issues by April 25, 2025. The March 25 order
+
+stated that the public-road or public-easement issue had not been tried and remained at
+
+issue. Brock’s amended complaint, however, pleaded the express, public, implied, and
+
+prescriptive theories as alternative grounds for the same declaration of access and related
+
+
+
+
+                                             9
+injunction. The March 25 order granted Brock the complete relief she sought on the
+
+implied-easement ground.
+
+¶23    In the post-trial briefing, Brock treated her remaining alternative easement theories
+
+as moot while the implied-easement judgment remained in effect and maintained that they
+
+would return if that judgment were reversed. The Tompkins declined to pursue their
+
+trespass counterclaim and extinguishment issues while reserving their position following
+
+appeal.
+
+¶24    On June 19, 2025, the District Court dismissed the prescriptive easement claim, the
+
+trespass counterclaim, and extinguishment issues as moot. It denied Brock’s request for
+
+attorney fees under the Uniform Declaratory Judgments Act on equitable grounds. It
+
+separately denied her request under § 25-7-105, MCA, because she had not timely filed a
+
+memorandum of costs under § 25-10-501, MCA, within five days after the March 25
+
+Findings of Fact, and Conclusions of Law, and Order. Brock filed a bill of costs on June 24,
+
+2025, and, on July 1, 2025, moved to alter or amend the judgment. On September 4, 2025,
+
+more than sixty days after the motion was filed, the District Court granted it and awarded
+
+Brock her fees. Because the court had not ruled within sixty days, the motion was deemed
+
+denied by operation of law, and the belated order granting it was vacated. The Tompkins
+
+timely appealed, and Brock timely cross-appealed.
+
+¶25    Although the March 25 order stated that the public-road or public-easement
+
+issue had not been tried, Brock pleaded the express-, implied-, public-, and
+
+prescriptive-easement theories as alternative grounds for the same declaration of access
+
+
+                                            10
+and related injunction. The March 25 order granted that relief on the implied-easement
+
+ground. The June 19 order then disposed of the separately bifurcated prescriptive-easement
+
+claim, the trespass counterclaim, the extinguishment issues, and the fee requests. In
+
+context, the June 19 order ended the proceedings below and constituted a final judgment.
+
+Because we reverse the ground on which the District Court granted complete relief, any
+
+preserved alternative theory that the court did not adjudicate on the merits returns on
+
+remand.
+
+                               STANDARD OF REVIEW
+
+¶26    We review a district court’s grant or denial of summary judgment de novo, applying
+
+the same M. R. Civ. P. 56 standard applied by the district court. Estate of Mandich v.
+
+French, </pre><span class="citation" data-id="6339312"><a href="/opinion/6467201/estate-of-mandich-v-french/#15" aria-description="Citation for case: Estate of Mandich v. French">2022 MT 88, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="6339312"><a href="/opinion/6467201/estate-of-mandich-v-french/" aria-description="Citation for case: Estate of Mandich v. French">408 Mont. 296</a></span><pre class="inline">, </pre><span class="citation" data-id="6339312"><a href="/opinion/6467201/estate-of-mandich-v-french/" aria-description="Citation for case: Estate of Mandich v. French">509 P.3d 6</a></span><pre class="inline">. We review a district court’s grant
+
+or denial of leave to amend a pleading for abuse of discretion. Estate of Mandich, ¶ 15;
+
+Rolan v. New W. Health Servs., </pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/#16" aria-description="Citation for case: Rolan v. New West Health Services">2017 MT 270, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/" aria-description="Citation for case: Rolan v. New West Health Services">389 Mont. 228</a></span><pre class="inline">, </pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/" aria-description="Citation for case: Rolan v. New West Health Services">405 P.3d 65</a></span><pre class="inline">. A district
+
+court’s ruling on a motion for judgment on the pleadings under M. R. Civ. P. 12(c) presents
+
+a question of law that we review for correctness. Conway v. Benefis Health Sys., </pre><span class="citation" data-id="890317"><a href="/opinion/890317/conway-v-benefis-health-system-inc/#16" aria-description="Citation for case: Conway v. Benefis Health System, Inc.">2013 MT
+
+73, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="890317"><a href="/opinion/890317/conway-v-benefis-health-system-inc/" aria-description="Citation for case: Conway v. Benefis Health System, Inc.">369 Mont. 309</a></span><pre class="inline">, </pre><span class="citation" data-id="890317"><a href="/opinion/890317/conway-v-benefis-health-system-inc/" aria-description="Citation for case: Conway v. Benefis Health System, Inc.">297 P.3d 1200</a></span><pre class="inline">.
+
+¶27    Following a bench trial, we review a district court’s findings of fact for clear error
+
+and its conclusions of law, including whether the facts found satisfy the elements of
+
+easement law, de novo. Musselshell Ditch Co. v. JD Bar D, LLC, </pre><span class="citation" data-id="10837376"><a href="/opinion/10370788/musselshell-ditch-v-jd-bar-d/#8" aria-description="Citation for case: Musselshell Ditch v. JD BAR D">2025 MT 63, ¶ 8</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="10837376"><a href="/opinion/10370788/musselshell-ditch-v-jd-bar-d/" aria-description="Citation for case: Musselshell Ditch v. JD BAR D">421 Mont. 232</a></span><pre class="inline">, </pre><span class="citation" data-id="10837376"><a href="/opinion/10370788/musselshell-ditch-v-jd-bar-d/" aria-description="Citation for case: Musselshell Ditch v. JD BAR D">566 P.3d 511</a></span><pre class="inline">. A finding is clearly erroneous if it is not supported by
+
+substantial evidence, if the district court misapprehended the effect of the evidence, or if
+
+
+                                             11
+our review of the record leaves us with a definite conviction that a mistake has been made.
+
+Musselshell Ditch, ¶ 8.
+
+¶28    A claimant asserting an implied easement by preexisting use bears the burden of
+
+proving each element by clear and convincing evidence. Apecella v. Overman, </pre><span class="citation" data-id="11148619"><a href="/opinion/10682032/apecella-v-overman/#31" aria-description="Citation for case: Apecella v. Overman">2025 MT
+
+219, ¶ 31</a></span><pre class="inline">, </pre><span class="citation no-link">424 Mont. 202</span><pre class="inline">, </pre><span class="citation no-link">577 P.3d 133</span><pre class="inline">.
+
+¶29   We review a district court’s decision to bifurcate under M. R. Civ. P. 42(b) for abuse
+
+of discretion. Malta Public School District A &amp; 14 v. Mont. Seventeenth Jud. Dist. Ct.,
+
+</pre><span class="citation" data-id="8028629"><a href="/opinion/8070117/malta-public-school-district-a-14-v-montana-seventeenth-judicial/#50" aria-description="Citation for case: Malta Public School District A &amp; 14 v. Montana...">283 Mont. 46, 50</a></span><pre class="inline">, </pre><span class="citation" data-id="8028629"><a href="/opinion/8070117/malta-public-school-district-a-14-v-montana-seventeenth-judicial/#1338" aria-description="Citation for case: Malta Public School District A &amp; 14 v. Montana...">938 P.2d 1335, 1338</a></span><pre class="inline"> (1997). Whether a jury-trial right attaches to a
+
+claim or a common factual issue presents a question of law that we review for correctness.
+
+Supola v. Mont. Dep’t of Justice, </pre><span class="citation" data-id="883898"><a href="/opinion/883898/supola-v-montana-department-of-justice/#423" aria-description="Citation for case: Supola v. Montana Department of Justice">278 Mont. 421, 423</a></span><pre class="inline">, </pre><span class="citation" data-id="883898"><a href="/opinion/883898/supola-v-montana-department-of-justice/#481" aria-description="Citation for case: Supola v. Montana Department of Justice">925 P.2d 480, 481</a></span><pre class="inline"> (1996). An action
+
+to quiet title to an easement traditionally sounds in equity, but a court may not use
+
+bifurcation to impair the jury right attached to a legal claim or to a factual issue common
+
+to legal and equitable claims. Getter v. Beckman, </pre><span class="citation" data-id="880517"><a href="/opinion/880517/getter-v-beckman/#381" aria-description="Citation for case: Getter v. Beckman">236 Mont. 377, 381</a></span><pre class="inline">, </pre><span class="citation" data-id="880517"><a href="/opinion/880517/getter-v-beckman/#716" aria-description="Citation for case: Getter v. Beckman">769 P.2d 714, 716</a></span><pre class="inline">
+
+(1989); Gray v. City of Billings, </pre><span class="citation" data-id="878376"><a href="/opinion/878376/gray-v-city-of-billings/#13" aria-description="Citation for case: Gray v. City of Billings">213 Mont. 6, 13</a></span><pre class="inline">, </pre><span class="citation" data-id="878376"><a href="/opinion/878376/gray-v-city-of-billings/#272" aria-description="Citation for case: Gray v. City of Billings">689 P.2d 268, 272</a></span><pre class="inline"> (1984).
+
+¶30   Whether legal authority exists to award attorney fees and whether the District Court
+
+correctly interpreted §§ 25-7-105 and 25-10-501, MCA, present questions of law that we
+
+review for correctness. If legal authority exists, we review the decision whether to award
+
+fees and the amount awarded for abuse of discretion. Wohl v. City of Missoula, </pre><span class="citation" data-id="890336"><a href="/opinion/890336/wohl-v-city-of-missoula/#29" aria-description="Citation for case: Wohl v. City of Missoula">2013 MT
+
+46, ¶ 29</a></span><pre class="inline">, </pre><span class="citation" data-id="890336"><a href="/opinion/890336/wohl-v-city-of-missoula/" aria-description="Citation for case: Wohl v. City of Missoula">369 Mont. 108</a></span><pre class="inline">, </pre><span class="citation" data-id="890336"><a href="/opinion/890336/wohl-v-city-of-missoula/" aria-description="Citation for case: Wohl v. City of Missoula">300 P.3d 1119</a></span><pre class="inline">; Boehm v. Cokedale, LLC, </pre><span class="citation" data-id="889696"><a href="/opinion/889696/boehm-v-cokedale-llc/#12" aria-description="Citation for case: Boehm v. COKEDALE, LLC">2011 MT 224, ¶ 12</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="889696"><a href="/opinion/889696/boehm-v-cokedale-llc/" aria-description="Citation for case: Boehm v. COKEDALE, LLC">362 Mont. 65</a></span><pre class="inline">, </pre><span class="citation" data-id="889696"><a href="/opinion/889696/boehm-v-cokedale-llc/" aria-description="Citation for case: Boehm v. COKEDALE, LLC">261 P.3d 994</a></span><pre class="inline">.
+
+
+
+
+                                            12
+                                     DISCUSSION
+
+¶31   1. Whether the District Court erred by denying summary judgment to the Tompkins
+         on Brock’s original express-easement theory, whether that error requires
+         reversal of the proceedings on the amended pleading, and whether the court
+         abused its discretion by granting Brock leave to amend.
+
+¶32   Summary judgment is proper when no genuine issue of material fact exists and the
+
+moving party is entitled to judgment as a matter of law. M. R. Civ. P. 56(c). In reviewing
+
+summary judgment motions, we view the evidence in the light most favorable to the party
+
+opposing summary judgment and draw all reasonable inferences in favor of the party
+
+opposing summary judgment. Warrington v. Great Falls Clinic, LLP, </pre><span class="citation" data-id="6536321"><a href="/opinion/6658889/warrington-v-great-falls-clinic-llp/#8" aria-description="Citation for case: Warrington v. Great Falls Clinic, LLP">2019 MT 111, ¶ 8</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="6536321"><a href="/opinion/6658889/warrington-v-great-falls-clinic-llp/" aria-description="Citation for case: Warrington v. Great Falls Clinic, LLP">395 Mont. 432</a></span><pre class="inline">, </pre><span class="citation" data-id="6536321"><a href="/opinion/6658889/warrington-v-great-falls-clinic-llp/" aria-description="Citation for case: Warrington v. Great Falls Clinic, LLP">443 P.3d 369</a></span><pre class="inline">. Once the moving party meets its initial evidentiary burden
+
+demonstrating facts to support its entitlement to judgment as a matter of law, the burden
+
+then shifts to the nonmoving party to present substantial evidence, as opposed to mere
+
+denial, speculation, or conclusory statements, raising a genuine issue of material fact.
+
+Ternes v. State Farm Fire &amp; Cas. Co., </pre><span class="citation" data-id="889759"><a href="/opinion/889759/ternes-v-state-farm-fire-casualty-co/#27" aria-description="Citation for case: Ternes v. State Farm Fire &amp; Casualty Co.">2011 MT 156, ¶ 27</a></span><pre class="inline">, </pre><span class="citation" data-id="889759"><a href="/opinion/889759/ternes-v-state-farm-fire-casualty-co/" aria-description="Citation for case: Ternes v. State Farm Fire &amp; Casualty Co.">361 Mont. 129</a></span><pre class="inline">, </pre><span class="citation" data-id="889759"><a href="/opinion/889759/ternes-v-state-farm-fire-casualty-co/" aria-description="Citation for case: Ternes v. State Farm Fire &amp; Casualty Co.">257 P.3d 352</a></span><pre class="inline">.
+
+¶33   In her original complaint, Brock pleaded only an express-easement theory. On
+
+appeal, the Tompkins argue that the District Court wrongfully denied their initial motion
+
+for summary judgment because the facts on which the court relied were immaterial to
+
+Brock’s sole claim in her original complaint that COS No. 4026 created an express
+
+easement. The historical allegations concerning Forgotten Lane included in Brock’s
+
+original complaint did not transform unpleaded implied, public, or prescriptive theories
+
+into pending claims. The District Court therefore should have resolved the pleaded
+
+express-easement theory under M. R. Civ. P. 56.
+
+                                           13
+¶34    To prevail on the express-easement theory pleaded in her original complaint, Brock
+
+had to identify a written instrument that manifested an intent to create the easement and
+
+described the dominant and servient estates with reasonable certainty. Blazer v. Wall,
+
+</pre><span class="citation" data-id="9511957"><a href="/opinion/888504/blazer-v-wall/#41" aria-description="Citation for case: Blazer v. Wall">2008 MT 145, ¶¶ 41, 51, 56</a></span><pre class="inline">, </pre><span class="citation" data-id="9511957"><a href="/opinion/888504/blazer-v-wall/" aria-description="Citation for case: Blazer v. Wall">343 Mont. 173</a></span><pre class="inline">, </pre><span class="citation" data-id="9511957"><a href="/opinion/888504/blazer-v-wall/" aria-description="Citation for case: Blazer v. Wall">183 P.3d 84</a></span><pre class="inline">; Towsley v. Stanzak, </pre><span class="citation" data-id="8407324"><a href="/opinion/8436981/towsley-v-stanzak/#12" aria-description="Citation for case: Towsley v. Stanzak">2022 MT
+
+217, ¶ 12</a></span><pre class="inline">, </pre><span class="citation" data-id="8407324"><a href="/opinion/8436981/towsley-v-stanzak/" aria-description="Citation for case: Towsley v. Stanzak">410 Mont. 403</a></span><pre class="inline">, </pre><span class="citation" data-id="8407324"><a href="/opinion/8436981/towsley-v-stanzak/" aria-description="Citation for case: Towsley v. Stanzak">519 P.3d 817</a></span><pre class="inline">. A survey may describe an easement incorporated
+
+into a conveyance, but the transaction documents, read together, must identify both affected
+
+estates. Blazer, ¶¶ 41, 51, 56. A conveyance made “subject to” an easement does not,
+
+without more, create or grant that easement. Blazer, ¶ 64.
+
+¶35    Neither COS No. 4026 nor any instrument of conveyance identifies either Brock
+
+parcel as the dominant estate or grants Brock a right to use the corridor. The references to
+
+a “county road” in historical deeds may bear on Brock’s alternative access theories, but
+
+they do not grant a private easement appurtenant to either parcel. Brock’s original
+
+express-easement theory therefore failed as a matter of law, and the District Court should
+
+have entered summary judgment for the Tompkins on that theory.
+
+¶36    Rule 15(a)(2) directs that “[t]he court should freely give leave when justice so
+
+requires.” M. R. Civ. P. 15(a)(2). Although the rule favors amendment, a court may deny
+
+leave for “an apparent reason such as undue delay, bad faith or dilatory motive on the part
+
+of the movant, repeated failure to cure deficiencies by amendments previously allowed,
+
+undue prejudice to the opposing party by allowance of the amendment, futility of the
+
+amendment, etc.” Seamster v. Musselshell Cnty. Sheriff’s Office, </pre><span class="citation" data-id="2659235"><a href="/opinion/2659235/seamster-v-musselshell-county-sheriffs-office/#14" aria-description="Citation for case: Seamster v. Musselshell County Sheriffs Office">2014 MT 84, ¶ 14</a></span><pre class="inline">,
+
+
+
+
+                                            14
+</pre><span class="citation" data-id="2659235"><a href="/opinion/2659235/seamster-v-musselshell-county-sheriffs-office/" aria-description="Citation for case: Seamster v. Musselshell County Sheriffs Office">374 Mont. 358</a></span><pre class="inline">, </pre><span class="citation" data-id="2659235"><a href="/opinion/2659235/seamster-v-musselshell-county-sheriffs-office/" aria-description="Citation for case: Seamster v. Musselshell County Sheriffs Office">321 P.3d 829</a></span><pre class="inline"> (quoting Bitterroot International Systems, Ltd. v. Western
+
+Star Trucks, Inc., </pre><span class="citation" data-id="888111"><a href="/opinion/888111/bitterroot-international-systems-ltd-v-western-star-trucks-inc/#50" aria-description="Citation for case: Bitterroot International Systems, Ltd. v. Western Star...">2007 MT 48, ¶ 50</a></span><pre class="inline">, </pre><span class="citation" data-id="888111"><a href="/opinion/888111/bitterroot-international-systems-ltd-v-western-star-trucks-inc/" aria-description="Citation for case: Bitterroot International Systems, Ltd. v. Western Star...">336 Mont. 145</a></span><pre class="inline">, </pre><span class="citation" data-id="888111"><a href="/opinion/888111/bitterroot-international-systems-ltd-v-western-star-trucks-inc/" aria-description="Citation for case: Bitterroot International Systems, Ltd. v. Western Star...">153 P.3d 627</a></span><pre class="inline">).
+
+¶37   In determining whether an amendment would cause undue prejudice, a court
+
+balances the prejudice to the opposing party against the sufficiency of the moving party’s
+
+justification for delay. Rolan v. New W. Health Servs., </pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/#16" aria-description="Citation for case: Rolan v. New West Health Services">2017 MT 270, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/" aria-description="Citation for case: Rolan v. New West Health Services">389 Mont. 228</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="9879129"><a href="/opinion/4441182/rolan-v-new-west-health-services/" aria-description="Citation for case: Rolan v. New West Health Services">405 P.3d 65</a></span><pre class="inline">; Saddlebrook Invs., LLC v. Krohne Fund, L.P., </pre><span class="citation" data-id="9956827"><a href="/opinion/9490214/saddlebrook-v-krohne-fund/" aria-description="Citation for case: Saddlebrook v. Krohne Fund">2024 MT 68</a></span><pre class="inline">, ¶¶ 24–31, </pre><span class="citation no-link">416
+
+Mont. 150</span><pre class="inline">, </pre><span class="citation" data-id="9956827"><a href="/opinion/9490214/saddlebrook-v-krohne-fund/" aria-description="Citation for case: Saddlebrook v. Krohne Fund">546 P.3d 195</a></span><pre class="inline">. We have cautioned that “litigants should be allowed to change
+
+legal theories after a motion for summary judgment has been filed only in extraordinary
+
+cases.” Peuse v. Malkuch, </pre><span class="citation" data-id="884078"><a href="/opinion/884078/peuse-v-malkuch/#228" aria-description="Citation for case: Peuse v. Malkuch">275 Mont. 221, 228</a></span><pre class="inline">, </pre><span class="citation" data-id="884078"><a href="/opinion/884078/peuse-v-malkuch/#1157" aria-description="Citation for case: Peuse v. Malkuch">911 P.2d 1153, 1157</a></span><pre class="inline"> (1996); accord
+
+Bardsley v. Pluger, </pre><span class="citation" data-id="3133175"><a href="/opinion/3133175/bardsley-v-pluger/#20" aria-description="Citation for case: Bardsley v. Pluger">2015 MT 301, ¶ 20</a></span><pre class="inline">, </pre><span class="citation" data-id="3133175"><a href="/opinion/3133175/bardsley-v-pluger/" aria-description="Citation for case: Bardsley v. Pluger">381 Mont. 284</a></span><pre class="inline">, </pre><span class="citation" data-id="3133175"><a href="/opinion/3133175/bardsley-v-pluger/" aria-description="Citation for case: Bardsley v. Pluger">358 P.3d 907</a></span><pre class="inline">; Thornton v. Flathead
+
+Cnty., </pre><span class="citation" data-id="888776"><a href="/opinion/888776/thornton-v-flathead-county/#40" aria-description="Citation for case: Thornton v. Flathead County">2009 MT 367, ¶ 40</a></span><pre class="inline">, </pre><span class="citation" data-id="888776"><a href="/opinion/888776/thornton-v-flathead-county/" aria-description="Citation for case: Thornton v. Flathead County">353 Mont. 252</a></span><pre class="inline">, </pre><span class="citation" data-id="888776"><a href="/opinion/888776/thornton-v-flathead-county/" aria-description="Citation for case: Thornton v. Flathead County">220 P.3d 395</a></span><pre class="inline">. Brock did not satisfactorily
+
+explain why she omitted the alternative easement theories from her original complaint.
+
+Those theories rested on historical facts available when she filed suit, and the District
+
+Court’s invitation to clarify her pleading explained why she moved when she did, not why
+
+she omitted those theories initially. Most of the nearly three-year interval, however,
+
+elapsed while the parties’ joint stay remained in effect and their cross-motions awaited
+
+decision. The joint motion stated that the case “may be ruled on briefs,” but expressly
+
+contemplated a new scheduling order if the District Court declined to enter summary
+
+judgment. When Brock moved to amend, meaningful discovery had not occurred, no
+
+depositions had been taken, no trial date had been set, and the Tompkins had not
+
+
+
+
+                                           15
+substantially prepared for trial. The amendment concerned the same roadway, parcels,
+
+alleged obstruction, and requested access.
+
+¶38    Saddlebrook confirms that a weak justification does not end the inquiry; the court
+
+also considers the prejudice that amendment would cause.          Saddlebrook, ¶¶ 25–31.
+
+Although Saddlebrook noted that, unlike in Peuse, the opposing party there had not filed a
+
+summary-judgment motion, the Tompkins filed their motion with their answer, before
+
+discovery, and then jointly stayed the ordinary litigation schedule while the cross-motions
+
+remained pending for more than two years. These circumstances make this one of the
+
+extraordinary cases in which amendment after a summary-judgment motion may be
+
+permitted. Although the amendment required the Tompkins to defend additional theories,
+
+it did not render their dispositive work on the express-easement theory useless; that theory
+
+remained in the case, and the Tompkins ultimately obtained the ruling they had sought on
+
+it. Apart from that dispositive work, the Tompkins had not expended substantial effort or
+
+expense on discovery or trial preparation that the amendment would waste. Under these
+
+circumstances, the District Court could reasonably conclude that Brock’s weak
+
+justification did not outweigh the absence of undue prejudice.         The District Court
+
+incorrectly reasoned that the concerns identified in Peuse did not apply because the initial
+
+motion had been denied based on genuine issues of material fact. Our conclusion that the
+
+Tompkins were entitled to summary judgment on the original theory makes that premise
+
+erroneous. The District Court did not, however, rest its decision solely on that premise. It
+
+separately found that the case had remained stayed, meaningful discovery had not occurred,
+
+
+                                             16
+no depositions had been taken, no trial date had been set, and the Tompkins could point to
+
+no actual prejudice. Those findings support its ultimate determination that amendment
+
+would not unduly prejudice the Tompkins. Rule 56 permits a party to move for summary
+
+judgment at any time, but the filing of such a motion does not eliminate the court’s separate
+
+authority under Rule 15(a)(2) to permit amendment before judgment. Estate of Mandich
+
+does not require a different result. There, the district court had entered summary judgment
+
+and granted injunctive relief before the motion to amend. Estate of Mandich, ¶¶ 10–11,
+
+33–35. Here, no judgment had been entered when Brock moved under Rule 15(a)(2). The
+
+rules governing post-judgment amendment therefore did not apply. Once the District Court
+
+permissibly granted leave, the amended complaint governed the later proceedings. The
+
+Tompkins received notice, discovery, an opportunity to assert defenses and a counterclaim,
+
+dispositive-motion practice, and a trial on the amended pleading. The final judgment also
+
+rejected the express-easement theory. The District Court therefore did not abuse its
+
+discretion by granting leave to amend, and the initial Rule 56 error did not affect the
+
+Tompkins’ substantial rights or require reversal of the proceedings conducted on the
+
+amended pleading. M. R. Civ. P. 61.
+
+¶39    The Tompkins separately invoke the party-presentation principle reflected in
+
+Greenlaw v. United States, </pre><span class="citation" data-id="9435180"><a href="/opinion/145784/greenlaw-v-united-states/" aria-description="Citation for case: Greenlaw v. United States">554 U.S. 237</a></span><pre class="inline">, 243–44, </pre><span class="citation" data-id="9435180"><a href="/opinion/145784/greenlaw-v-united-states/" aria-description="Citation for case: Greenlaw v. United States">128 S. Ct. 2559</a></span><pre class="inline">, 2563–64 (2008), and
+
+United States v. Sineneng-Smith, </pre><span class="citation" data-id="4532445"><a href="/opinion/4752098/united-states-v-sineneng-smith/" aria-description="Citation for case: United States v. Sineneng-Smith">590 U.S. 371</a></span><pre class="inline">, 375–76, </pre><span class="citation" data-id="9226136"><a href="/opinion/9231325/united-states-v-sineneng-smith/" aria-description="Citation for case: United States v. Sineneng-Smith">140 S. Ct. 1575</a></span><pre class="inline">, 1578–79 (2020).
+
+The better course would have been to decide the express-easement theory as pleaded and
+
+leave Brock to determine whether to seek amendment. The District Court did not, however,
+
+
+                                             17
+award relief on an unpresented theory. As explained above, the later proceedings rested
+
+on a formally amended pleading subjected to the adversarial process. That adversarial
+
+process distinguishes this case from one in which a court selects and decides an
+
+unpresented dispositive theory. We therefore need not decide whether Montana law
+
+independently recognizes the broader party-presentation rule the Tompkins propose.
+
+¶40    2. Whether the District Court erred by denying the Tompkins’ motion for judgment
+          on the pleadings and their later motion for partial summary judgment on Brock’s
+          amended claims.
+
+¶41    M. R. Civ. P. 12(c) permits a party to move for judgment on the pleadings “[a]fter
+
+the pleadings are closed—but early enough not to delay trial.” In deciding the motion, the
+
+court accepts the nonmovant’s well-pleaded factual allegations as true and construes them
+
+favorably to the nonmovant. Firelight Meadows, LLC v. 3 Rivers Telephone Coop., Inc.,
+
+</pre><span class="citation" data-id="888445"><a href="/opinion/888445/firelight-meadows-llc-v-3-rivers-telephone-cooperative-inc/#11" aria-description="Citation for case: Firelight Meadows, LLC v. 3 RIVERS TELEPHONE COOPERATIVE,...">2008 MT 202, ¶ 11</a></span><pre class="inline">, </pre><span class="citation" data-id="888445"><a href="/opinion/888445/firelight-meadows-llc-v-3-rivers-telephone-cooperative-inc/" aria-description="Citation for case: Firelight Meadows, LLC v. 3 RIVERS TELEPHONE COOPERATIVE,...">344 Mont. 117</a></span><pre class="inline">, </pre><span class="citation" data-id="888445"><a href="/opinion/888445/firelight-meadows-llc-v-3-rivers-telephone-cooperative-inc/" aria-description="Citation for case: Firelight Meadows, LLC v. 3 RIVERS TELEPHONE COOPERATIVE,...">186 P.3d 869</a></span><pre class="inline">. If the court considers and does not
+
+exclude matters outside the pleadings, M. R. Civ. P. 12(d) converts the motion to one
+
+for summary judgment. Kalispell Aircraft Co., LLC v. Patterson, </pre><span class="citation" data-id="6536371"><a href="/opinion/6658935/kalispell-aircraft-co-v-patterson/#15" aria-description="Citation for case: Kalispell Aircraft Co. v. Patterson">2019 MT 142, ¶ 15</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="6536371"><a href="/opinion/6658935/kalispell-aircraft-co-v-patterson/" aria-description="Citation for case: Kalispell Aircraft Co. v. Patterson">396 Mont. 182</a></span><pre class="inline">, </pre><span class="citation" data-id="6536371"><a href="/opinion/6658935/kalispell-aircraft-co-v-patterson/" aria-description="Citation for case: Kalispell Aircraft Co. v. Patterson">443 P.3d 1100</a></span><pre class="inline">.
+
+¶42    Brock, in the amended complaint,          expressly sought declaratory relief under
+
+implied-, public-, and prescriptive-easement theories and alleged the historical facts on
+
+which those theories rested. It therefore gave the Tompkins fair notice and survived review
+
+under M. R. Civ. P. 12(c). Because the Tompkins relied on matters outside the pleadings
+
+and the District Court did not exclude them, M. R. Civ. P. 12(d) converted the motion to
+
+
+
+
+                                            18
+one for summary judgment. The court notified the parties of the conversion, allowed them
+
+to complete discovery, and permitted supplemental briefing.
+
+¶43    The developed record contained genuine disputes concerning the ownership and
+
+location of the road corridor; the operative severance; the nature, duration, and
+
+permissiveness of historical use; and the circumstances surrounding the log, fenceposts,
+
+and later fencing. Those disputes precluded the broad judgment the Tompkins sought on
+
+every unresolved amended theory. Brock’s later failure to carry the clear-and-convincing
+
+burden at trial does not establish that the pretrial record compelled judgment for the
+
+Tompkins on all theories. The express-easement theory remained legally deficient, but the
+
+final judgment rejected that theory. We affirm the denial of broader pretrial judgment on
+
+the unresolved amended theories.
+
+¶44    3. Whether the District Court abused its discretion by bifurcating the case and
+          assigning Brock’s express-, implied-, and public-easement theories to the court
+          while preserving the prescriptive-easement claim and trespass counterclaim for
+          a jury.
+
+¶45    M. R. Civ. P. 42(b) permits a district court to order separate trials for convenience,
+
+to avoid prejudice, or to expedite and economize, but requires the court to preserve every
+
+constitutional and statutory jury-trial right.      Brock’s bench-tried theories sought
+
+declarations establishing an easement and related injunctive relief. An action to quiet title
+
+to an easement traditionally sounds in equity. Getter, </pre><span class="citation" data-id="880517"><a href="/opinion/880517/getter-v-beckman/#381" aria-description="Citation for case: Getter v. Beckman">236 Mont. at 381</a></span><pre class="inline">, </pre><span class="citation" data-id="880517"><a href="/opinion/880517/getter-v-beckman/#716" aria-description="Citation for case: Getter v. Beckman">769 P.2d at 716</a></span><pre class="inline">.
+
+The District Court reserved Brock’s prescriptive-easement claim and the Tompkins’
+
+trespass counterclaim for a jury and concluded that separate consideration of the
+
+
+
+                                             19
+title-intensive theories would streamline the case, avoid confusion, and conserve judicial
+
+resources.
+
+¶46    The Tompkins rely on Gray, which prohibits a court from using equitable claims to
+
+displace a jury’s determination of a legal claim or a factual issue common to legal and
+
+equitable claims. Gray, </pre><span class="citation" data-id="878376"><a href="/opinion/878376/gray-v-city-of-billings/#13" aria-description="Citation for case: Gray v. City of Billings">213 Mont. at 13</a></span><pre class="inline">, </pre><span class="citation" data-id="878376"><a href="/opinion/878376/gray-v-city-of-billings/#272" aria-description="Citation for case: Gray v. City of Billings">689 P.2d at 272</a></span><pre class="inline">. The bifurcation order did not
+
+submit the prescriptive-easement claim or trespass counterclaim to the court; it reserved
+
+both for a jury.     Because we reverse the implied-easement judgment, the merits
+
+determinations necessary to that judgment cannot receive preclusive effect on a revived
+
+legal claim. The Tompkins therefore have shown no remaining impairment of their
+
+jury-trial right that requires reversal of the sequencing order. We affirm the bifurcation
+
+order, but the District Court must reconsider sequencing in the restored procedural posture
+
+and preserve every applicable jury right.
+
+¶47    4. Whether the District Court erred by concluding that Brock proved an implied
+          easement by preexisting use benefiting both of her parcels.
+
+¶48    An implied easement by preexisting use arises when, at the severance of parcels
+
+previously held in common ownership, an apparent and continuous use exists on the
+
+servient estate, the use is reasonably necessary for the beneficial use and enjoyment of the
+
+dominant estate, and the parties intend the use to continue after severance. Apecella, ¶ 31.
+
+The claimant must prove each element by clear and convincing evidence. Apecella, ¶ 31.
+
+The scope of an implied easement depends on the severing owner’s apparent intent and
+
+extends only to reasonable uses existing at severance and future uses the parties reasonably
+
+could have anticipated. Apecella, ¶ 31 (citing Thomas Mann Post No. 81 v. Knudsen
+
+                                            20
+Family L.P., </pre><span class="citation" data-id="7360986"><a href="/opinion/7440932/thomas-mann-post-v-knudsen-family/#25" aria-description="Citation for case: Thomas Mann Post v. Knudsen Family">2022 MT 150, ¶ 25</a></span><pre class="inline">, </pre><span class="citation" data-id="7360986"><a href="/opinion/7440932/thomas-mann-post-v-knudsen-family/" aria-description="Citation for case: Thomas Mann Post v. Knudsen Family">409 Mont. 318</a></span><pre class="inline">, </pre><span class="citation" data-id="7360986"><a href="/opinion/7440932/thomas-mann-post-v-knudsen-family/" aria-description="Citation for case: Thomas Mann Post v. Knudsen Family">514 P.3d 409</a></span><pre class="inline">). An easement by necessity
+
+is distinct and requires unity of ownership and strict necessity when the unified tract is
+
+severed. Wolf v. Owens, </pre><span class="citation" data-id="887832"><a href="/opinion/887832/wolf-v-owens/#16" aria-description="Citation for case: Wolf v. Owens">2007 MT 302, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="887832"><a href="/opinion/887832/wolf-v-owens/" aria-description="Citation for case: Wolf v. Owens">340 Mont. 74</a></span><pre class="inline">, </pre><span class="citation" data-id="887832"><a href="/opinion/887832/wolf-v-owens/" aria-description="Citation for case: Wolf v. Owens">172 P.3d 124</a></span><pre class="inline">.
+
+¶49    Brock defends the judgment under the preexisting-use framework. The dispositive
+
+issue is not the governing legal standard but the District Court’s application of that standard
+
+to two parcels with different title chains, different potential severances, and different access
+
+histories. The court relied on a single severance to imply one easement benefiting both
+
+parcels without separately analyzing whether the required elements existed for each parcel.
+
+¶50    We need not decide which chain held title to every portion of the disputed corridor.
+
+The District Court’s single 1950 theory fails under either title premise the parties presented.
+
+If the present Forgotten Lane corridor lay within the 14.3-acre tract conveyed to Dee Shook
+
+in 1949, Walter and Vivian Shook did not own the alleged servient estate when they
+
+conveyed property to the Wilsons in 1950. If, as Brock argues, the corridor remained a
+
+separate strip that passed to the Wilsons in 1950, the District Court did not trace that strip
+
+into present Parcel 1 or explain how the 1950 conveyance separated it from each alleged
+
+dominant estate. Under the latter theory, the strip and the land that later became Parcel B
+
+passed together to the Wilsons and could not then give rise to an easement between lands
+
+remaining in common ownership. COS No. 4026, recorded in 1987, cannot itself establish
+
+title to the strip or the severing parties’ intent in 1950. On either premise, the District
+
+Court’s undifferentiated finding does not identify an operative severance between the land
+
+now alleged to be servient and each alleged dominant parcel.
+
+
+                                              21
+¶51    The 2.5-acre parcel requires separate analysis. If the disputed strip passed to the
+
+Wilsons in 1950 while Walter and Vivian retained the 2.5-acre parcel, Brock had to prove
+
+an apparent and continuous private use serving that parcel, reasonable necessity, and an
+
+intent that the use continue as a private property right. The District Court’s findings
+
+describe historical public travel along the old road, but they do not establish a
+
+parcel-specific preexisting private use benefiting the 2.5-acre parcel, an intent to burden
+
+the identified servient parcel with a private appurtenant right, or the scope of such a right.
+
+Evidence that the parties may have regarded the road as public may support an expectation
+
+of continued access, but it does not, without more, establish the particular private
+
+appurtenant easement that the judgment declared.
+
+¶52    If Dee Shook later held both the 2.5-acre parcel and the alleged servient estate, the
+
+1976 conveyance to the Brocks would constitute the relevant severance. By that time, the
+
+modern Sawmill Lane configuration existed in the immediate area, although the parties
+
+dispute the practical availability of direct access from the parcel. The evidence bears on
+
+reasonable necessity but does not alone resolve the preexisting-use doctrine claim. The
+
+decisive deficiency is the absence of clear-and-convincing, severance-specific findings that
+
+the claimed route served the 2.5-acre parcel as an apparent and continuous private access
+
+immediately before the 1976 conveyance, that the route remained reasonably necessary,
+
+and that the severing parties intended the use to continue as an appurtenant property right.
+
+COS No. 4026, recorded eleven years later, cannot alone establish the severing parties’
+
+intent in 1976. Thomas Mann Post No. 81 is distinguishable because, there, the use existing
+
+
+                                             22
+immediately before severance and the circumstances of the division supported an inference
+
+that the parties intended the same access to continue.
+
+¶53    Parcel B followed a different title chain and therefore requires a separate operative
+
+severance. Remote common ownership in 1943 does not, by itself, establish an implied
+
+easement. If the disputed strip and the land that later became Parcel B passed together
+
+through the Wilson-Saxe chain, the 1950 conveyance did not separate a dominant estate
+
+from the land now alleged to be servient. A possible later severance occurred when the
+
+Saxes conveyed the 10.18-acre tract to the Brocks in 1978. The District Court did not find
+
+that the Saxes then owned and retained the disputed corridor, that an apparent and
+
+continuous route across that land served the conveyed tract, or that the parties intended the
+
+use to continue as an appurtenant property right. The judgment therefore identifies no
+
+operative severance at which all elements of an implied easement arose for Parcel B. JRN
+
+Holdings, LLC v. Dearborn Meadows Land Owners Ass’n, Inc., </pre><span class="citation" data-id="4776577"><a href="/opinion/4967941/jrn-holdings-v-dearborn-meadows/" aria-description="Citation for case: JRN Holdings v. Dearborn Meadows">2021 MT 204</a></span><pre class="inline">, ¶¶ 27–31,
+
+</pre><span class="citation no-link">405 Mont. 200</span><pre class="inline">, </pre><span class="citation no-link">493 P.3d 340</span><pre class="inline">, does not support a different result. The road there predated
+
+and served lots sold from a unified development; the findings here connect no comparable
+
+preexisting private use to a severance involving Parcel B and the disputed corridor.
+
+¶54    The judgment’s scope provides an independent basis for reversal. The District
+
+Court adopted the sixty-foot width, utility rights, and full-road length depicted on COS
+
+No. 4026 without finding that the traveled way was sixty-feet wide, that utility use existed,
+
+or that use of the entire corridor existed at the operative severance or was reasonably
+
+contemplated by the severing parties at an operative severance. An implied easement’s
+
+
+                                             23
+scope derives from the use and intent at severance, not automatically from a later survey.
+
+Apecella, ¶ 31; Thomas Mann Post No. 81, ¶ 25.
+
+¶55   The District Court&#x27;s findings do not establish, by clear and convincing evidence, the
+
+elements or scope of an implied easement by preexisting use benefiting either parcel. We
+
+therefore reverse the implied-easement judgment. Because Brock received a full trial on
+
+that theory, the implied-easement-by-preexisting-use claim does not return on remand. We
+
+do not reach the Tompkins&#x27; merger argument.
+
+¶56   5. Whether reversal of the implied-easement judgment requires vacatur of the
+         permanent injunction and remand of the matters the District Court treated as
+         moot.
+
+¶57   Reversal of the implied-easement judgment removes the premise for the permanent
+
+injunction and the District Court’s mootness rulings. The June 19 order dismissed Brock’s
+
+prescriptive-easement claim, the Tompkins’ trespass counterclaim, and the outstanding
+
+extinguishment issues as moot. We therefore vacate the permanent injunction and the
+
+mootness dismissals.
+
+¶58   The District Court did not adjudicate Brock’s public-easement alternative theory on
+
+the merits. Because the implied-easement judgment no longer supplies the complete relief
+
+that made further adjudication unnecessary, any preserved public-easement theory also
+
+returns on remand.
+
+¶59   The District Court shall identify the live claims and defenses, determine the effect
+
+of the prior bifurcation order in the restored procedural posture, and preserve every
+
+applicable constitutional and statutory jury-trial right.      Because we reverse the
+
+
+                                           24
+implied-easement judgment, the District Court shall not give preclusive effect to any
+
+factual determination necessary to that judgment when the same factual issue must be
+
+resolved in connection with a revived legal claim. We express no view on the merits of
+
+the revived theories, defenses, or counterclaim.
+
+¶60    6. Whether the District Court erred by treating its March 25, 2025 order as the
+          decision triggering the five-day period under § 25-10-501, MCA, and by denying
+          Brock’s request under § 25-7-105, MCA, as untimely.
+
+¶61     Section 25-10-501, MCA, requires a party claiming costs to file and serve a
+
+memorandum within five days after receiving notice of the court’s decision.           In a
+
+bench-tried case, findings and conclusions that leave matters unresolved and expressly call
+
+for additional proceedings do not trigger the five-day period. Ballenger v. Tillman,
+
+</pre><span class="citation" data-id="9790163"><a href="/opinion/2605437/ballenger-v-tillman/#382" aria-description="Citation for case: Ballenger v. Tillman">133 Mont. 369, 382</a></span><pre class="inline">, </pre><span class="citation" data-id="9790163"><a href="/opinion/2605437/ballenger-v-tillman/#1052" aria-description="Citation for case: Ballenger v. Tillman">324 P.2d 1045, 1052</a></span><pre class="inline"> (1958) (findings and conclusions that gave the
+
+parties additional time to file exceptions did not commence the period, because they stayed
+
+entry of final decision); Karell v. Am. Cancer Soc’y, </pre><span class="citation" data-id="880343"><a href="/opinion/880343/karell-v-american-cancer-society-montana-division-inc/" aria-description="Citation for case: Karell v. American Cancer Society, Montana Division, Inc.">239 Mont. 168</a></span><pre class="inline">, 177–78, </pre><span class="citation" data-id="880343"><a href="/opinion/880343/karell-v-american-cancer-society-montana-division-inc/" aria-description="Citation for case: Karell v. American Cancer Society, Montana Division, Inc.">779 P.2d 506</a></span><pre class="inline">,
+
+511–12 (1989). Pastimes, LLC v. Clavin, </pre><span class="citation" data-id="890233"><a href="/opinion/890233/pastimes-llc-v-clavin/" aria-description="Citation for case: Pastimes, LLC v. Clavin">2012 MT 29, ¶ 38</a></span><pre class="inline">, </pre><span class="citation" data-id="890233"><a href="/opinion/890233/pastimes-llc-v-clavin/" aria-description="Citation for case: Pastimes, LLC v. Clavin">364 Mont. 109</a></span><pre class="inline">, </pre><span class="citation" data-id="890233"><a href="/opinion/890233/pastimes-llc-v-clavin/" aria-description="Citation for case: Pastimes, LLC v. Clavin">274 P.3d 714</a></span><pre class="inline">,
+
+addresses the consequence of an untimely memorandum; it does not determine whether an
+
+interlocutory decision begins the statutory period.
+
+¶62    The March 25 order expressly directed the parties to brief attorney fees, costs, and
+
+other remaining procedural matters by a future date. It also left the separately bifurcated
+
+claims and counterclaim unresolved. The order therefore did not finally resolve the case.
+
+The June 19 order disposed of those remaining matters, and Brock filed her memorandum
+
+
+
+
+                                             25
+within five days. Assuming § 25-10-501, MCA, applies to her statutory request, the
+
+memorandum was timely. We reverse only the procedural ruling to the contrary.
+
+¶63    Section 25-7-105, MCA, permits a party to serve a written offer to settle a qualifying
+
+claim. If the offeree rejects the offer and the final judgment is less favorable to the offeree
+
+than the offer, the statute requires the offeree to pay the offeror’s postoffer costs, including
+
+reasonable attorney fees. Section 25-7-105(1)(a), (1)(c), (3), MCA. The District Court did
+
+not determine whether Brock’s November 2023 proposal satisfied the statute, including
+
+whether it constituted a qualifying written offer, whether its material terms were
+
+sufficiently definite, and whether the judgment ultimately entered is less favorable to the
+
+offeree. Our reversal also eliminates the judgment previously used for that comparison.
+
+After resolving the remanded claims and entering a new final judgment, the District Court
+
+shall determine the parties’ recoverable costs and all issues bearing on Brock’s request
+
+under § 25-7-105, MCA. We express no view on statutory entitlement or amount.
+
+¶64    The District Court separately denied fees under the Uniform Declaratory Judgments
+
+Act after concluding that equitable considerations did not make an award necessary and
+
+proper. Brock does not develop a basis for disturbing that independent determination. We
+
+leave it undisturbed.
+
+                                      CONCLUSION
+
+¶65    We conclude that the District Court should have entered summary judgment for the
+
+Tompkins on Brock’s original express-easement theory. Because the District Court did
+
+not abuse its discretion by granting leave to amend before entry of judgment, however, the
+
+
+                                              26
+Rule 56 error did not affect the Tompkins’ substantial rights in the proceedings on the
+
+amended pleading and therefore does not require reversal of those proceedings. We affirm
+
+the order granting Brock leave to amend, the denial of the motion for judgment on the
+
+pleadings after conversion under M. R. Civ. P. 12(d), the later motion for partial summary
+
+judgment on the unresolved amended theories, and the bifurcation order. The final
+
+rejection of Brock’s express-easement theory remains undisturbed.           We reverse the
+
+implied-easement judgment and vacate the permanent injunction. We vacate the mootness
+
+dismissal of Brock’s prescriptive-easement claim, the Tompkins’ trespass counterclaim,
+
+and the extinguishment issues, and we remand any preserved alternative easement theory
+
+that the District Court did not adjudicate on the merits. On remand, the District Court shall
+
+identify the live claims and defenses and preserve every applicable constitutional and
+
+statutory jury-trial right. We also reverse the procedural ruling that Brock’s memorandum
+
+was untimely and remand for the District Court to determine costs and attorney fees, if any,
+
+after entry of final judgment.
+
+¶66    Affirmed in part, reversed in part, and remanded.
+
+
+                                                  /S/ KATHERINE M. BIDEGARAY
+
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ JAMES JEREMIAH SHEA
+/S/ BETH BAKER
+/S/ JIM RICE
+
+
+
+                                             27
+</pre>

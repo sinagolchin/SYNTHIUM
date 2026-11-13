@@ -1,0 +1,441 @@
+<pre class="inline">Nebraska Supreme Court Online Library
+www.nebraska.gov/apps-courts-epub/
+10/30/2026 08:18 AM CDT
+
+
+
+
+                                                        - 719 -
+                               Nebraska Supreme Court Advance Sheets
+                                        322 Nebraska Reports
+                                              IN RE ESTATE OF TODD
+                                                 Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+
+
+
+                            In re Estate of Douglas G. Todd, deceased.
+                             Chadd B. Todd, Personal Representative
+                                of the Estate of Douglas G. Todd,
+                                    deceased, appellee, v. Judy
+                                         Sheets, appellant.
+                                                   ___ N.W.3d ___
+
+                                        Filed October 30, 2026.   No. S-25-743.
+
+                 1. Summary Judgment: Appeal and Error. An appellate court affirms a
+                    lower court’s grant of summary judgment if the pleadings and admitted
+                    evidence show that there is no genuine issue as to any material facts or
+                    as to the ultimate inferences that may be drawn from the facts and that
+                    the moving party is entitled to judgment as a matter of law.
+                 2. ____: ____. An appellate court reviews the lower court’s grant of sum-
+                    mary judgment de novo, viewing the record in the light most favorable
+                    to the nonmoving party and drawing all reasonable inferences in that
+                    party’s favor.
+                 3. Statutes: Appeal and Error. Statutory interpretation presents a question
+                    of law that an appellate court resolves independently of the trial court.
+                 4. Wills: Parties. When the material provisions of a purported joint will
+                    are in the handwriting of one party, it is not a valid holographic will of
+                    another party to the purported joint will, even if the other party has
+                    signed it.
+
+                 Appeal from the County Court for Lincoln County: Tanya
+               K. Roberts-Connick, Judge. Affirmed.
+
+                    Randy Fair, of Dudden &amp; Fair, P.C., L.L.O., for appellant.
+
+                    Matthew D. Pederson, of Pederson Law Office, for appellee.
+                             - 720 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+  Funke, C.J., Cassel, Stacy,            Papik,   Freudenberg,
+Bergevin, and Vaughn, JJ.
+
+   Papik, J.
+   Under Nebraska law, holographic wills need not be wit-
+nessed, but the signature, the material provisions, and, with
+some limited exceptions, an indication of the date of sign-
+ing, must be in the handwriting of the testator. But what if
+a purported holographic will is a joint will and the material
+provisions of that joint will are not in the handwriting of the
+person who has died but in that of the other person making
+the joint will? Does the joint will qualify as a valid holo-
+graphic will of the decedent? This case presents that question.
+As we will explain, the material provisions of such a will are
+not in the handwriting of its testator and thus it is not a valid
+holographic will.
+
+                       BACKGROUND
+Probate Proceedings.
+   This appeal arises out of probate proceedings for the estate
+of Douglas G. Todd. After Douglas died in January 2025, his
+son Chadd B. Todd filed an application for informal probate of
+a will Douglas executed in 1984. In the will, Douglas directed
+that his sons would receive all his property.
+   Later, however, Judy Sheets filed an objection to the appli-
+cation for informal probate. Judy asserted that the 1984 will
+was not Douglas’ last will. Instead, Judy claimed that Douglas
+had executed a two-page holographic will in February 2021
+that left his estate to her. Consistent with that claim, Judy
+also filed a petition to have the purported holographic will
+admitted for probate. She attached the purported holographic
+will to her petition. We have reprinted a picture of those
+pages here:
+                 - 721 -
+Nebraska Supreme Court Advance Sheets
+         322 Nebraska Reports
+         IN RE ESTATE OF TODD
+            Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+                             - 722 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+    Eventually, Chadd and Judy filed competing motions for
+summary judgment on Judy’s objection to the application
+for informal probate and petition to admit the holographic
+will. The parties agreed that the question presented by their
+summary judgment motions was whether the 2021 handwritten
+document (2021 document) was a valid holographic will and
+thereby superseded Douglas’ 1984 will.
+    Judy’s deposition was offered and received as part of the
+summary judgment proceedings. In the deposition, Judy tes-
+tified that after Douglas executed the 1984 will, she and
+Douglas began a long-term relationship. Although they never
+married, Judy testified that she and Douglas lived as though
+they were for over four decades up until Douglas’ death in
+2025. Even so, several pieces of property, including motor
+vehicles and real estate, were titled solely in Douglas’ name at
+the time of his death.
+    Judy also testified regarding the purported holographic will.
+She stated that Douglas signed and dated the document and
+told her what to write, but she admitted that the rest of the
+document was in her handwriting.
+County Court’s Ruling.
+   The county court sustained Chadd’s motion for summary
+judgment and denied Judy’s motion for summary judgment.
+The county court concluded that there were no genuine issues
+of material fact and that the purported holographic will was
+not valid as a matter of law for two reasons. First, the county
+court concluded that the document was not a valid holographic
+will because the material provisions of the purported will were
+not in Douglas’ handwriting. Alternatively, the county court
+concluded that the purported holographic will did not express
+testamentary intent.
+   Judy appealed, and we moved the case to our docket.
+                ASSIGNMENTS OF ERROR
+   Judy assigns several errors on appeal, all of which chal-
+lenge the county court’s reasons for concluding that the 2021
+                             - 723 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+document was not a valid holographic will. Condensed and
+restated, she assigns that the county court erred by conclud-
+ing that the 2021 document was not a valid holographic will
+(1) because its material provisions were not in Douglas’ hand-
+writing and (2) because it did not express testamentary intent.
+                  STANDARD OF REVIEW
+   [1,2] An appellate court affirms a lower court’s grant of sum-
+mary judgment if the pleadings and admitted evidence show
+that there is no genuine issue as to any material facts or as to
+the ultimate inferences that may be drawn from the facts and
+that the moving party is entitled to judgment as a matter of law.
+Bar at the Yard v. Friends Family, </pre><span class="citation" data-id="11344378"><a href="/opinion/10876877/bar-at-the-yard-v-friends-family/" aria-description="Citation for case: Bar at the Yard v. Friends Family">321 Neb. 606</a></span><pre class="inline">, </pre><span class="citation no-link">35 N.W.3d
+813</span><pre class="inline"> (2026). An appellate court reviews the lower court’s grant
+of summary judgment de novo, viewing the record in the light
+most favorable to the nonmoving party and drawing all reason-
+able inferences in that party’s favor. See </pre><span class="citation no-link">id.</span><pre class="inline">
+   [3] Statutory interpretation presents a question of law that
+an appellate court resolves independently of the trial court.
+State v. Strawn, </pre><span class="citation" data-id="10924925"><a href="/opinion/10458337/state-v-strawn/" aria-description="Citation for case: State v. Strawn">318 Neb. 859</a></span><pre class="inline">, </pre><span class="citation no-link">19 N.W.3d 761</span><pre class="inline"> (2025).
+                            ANALYSIS
+Judy’s Position: 2021 Document Is Valid
+Holographic Will Even Though Material
+Provisions Are in Her Handwriting.
+   It is Judy’s position that the 2021 document was a valid will
+of Douglas. Because Douglas executed a valid will in 2021,
+Judy argues, it superseded his 1984 will and the county court
+should have admitted it for probate.
+   The 2021 document was not executed with all of the for-
+malities ordinarily required of Nebraska wills. See </pre><span class="citation no-link">Neb. Rev.
+Stat. § 30-2327</span><pre class="inline"> (Reissue 2016). At a minimum, the document
+was not “signed by at least two individuals each of whom wit-
+nessed either the signing or the testator’s acknowledgment of
+the signature or of the will.” </pre><span class="citation no-link">Id.</span><pre class="inline"> Judy readily admits this but
+argues that the 2021 document was a valid holographic will
+pursuant to </pre><span class="citation no-link">Neb. Rev. Stat. § 30-2328</span><pre class="inline"> (Reissue 2016).
+                              - 724 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                      IN RE ESTATE OF TODD
+                         Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+   Section 30-2328 recognizes an exception to the usual
+requirement that wills bear the signature of two witnesses.
+That statute provides, in relevant part: “An instrument which
+purports to be testamentary in nature but does not comply
+with [§ 30-2327] is valid as a holographic will, whether or
+not witnessed, if the signature, the material provisions, and an
+indication of the date of signing are in the handwriting of the
+testator . . . .” § 30-2328.
+   The county court concluded that the 2021 document did not
+qualify as a valid holographic will under § 30-2328 because
+its material provisions were not in Douglas’ handwriting.
+Although Judy admits that the material provisions in the 2021
+document were entirely in her handwriting, she argues that
+the document still qualifies as a valid holographic will under
+§ 30-2328. Judy points out that § 30-2328 requires that the sig-
+nature and material provisions be in the handwriting of the
+“testator.” Judy argues that she was a “testator” for purposes
+of § 30-2328 because the Nebraska Probate Code generally
+defines “[t]estator” as “the maker of a will,” </pre><span class="citation no-link">Neb. Rev. Stat.
+§ 30-2209</span><pre class="inline">(49) (Reissue 2016), and she, along with Douglas,
+were the makers of a joint will.
+   Judy’s argument that she is a “testator” of the purported
+holographic will requires us to discuss the nature of joint wills.
+We do so now.
+Joint Wills.
+   The term “joint will” is used to refer to a testamentary
+instrument executed by two or more parties in which the
+parties set forth how their joint or separate property should
+be disposed of upon death. See, Powell v. American Charter
+Fed. Sav. &amp; Loan Assn., </pre><span class="citation" data-id="2134859"><a href="/opinion/2134859/powell-v-american-charter-federal-savings-loan-assn/" aria-description="Citation for case: Powell v. American Charter Federal Savings &amp; Loan Ass&#x27;n">245 Neb. 551</a></span><pre class="inline">, </pre><span class="citation" data-id="2134859"><a href="/opinion/2134859/powell-v-american-charter-federal-savings-loan-assn/" aria-description="Citation for case: Powell v. American Charter Federal Savings &amp; Loan Ass&#x27;n">514 N.W.2d 326</a></span><pre class="inline">
+(1994); Webb v. Smith, </pre><span class="citation" data-id="1260133"><a href="/opinion/1260133/webb-v-smith/" aria-description="Citation for case: Webb v. Smith">220 Ga. 809</a></span><pre class="inline">, </pre><span class="citation" data-id="1260133"><a href="/opinion/1260133/webb-v-smith/" aria-description="Citation for case: Webb v. Smith">141 S.E.2d 899</a></span><pre class="inline"> (1965);
+1 H.C. Underhill, A Treatise on the Law of Wills § 11 at 18
+(1900) (“[a] joint will is an instrument executed as a will,
+by two or more testators at the same time, disposing of the
+property of each to the others, or to the survivor of the others,
+                              - 725 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                      IN RE ESTATE OF TODD
+                         Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+or to some third party”). Although initially held invalid by
+English courts, joint wills came to be generally recognized as
+valid by American courts. See, e.g., Curry v. Cotton, </pre><span class="citation" data-id="3417861"><a href="/opinion/3421259/curry-v-cotton/" aria-description="Citation for case: Curry v. Cotton">356 Ill.
+538</a></span><pre class="inline">, </pre><span class="citation" data-id="3417861"><a href="/opinion/3421259/curry-v-cotton/" aria-description="Citation for case: Curry v. Cotton">191 N.E. 307</a></span><pre class="inline"> (1934); Williams v. Williams, </pre><span class="citation" data-id="6813938"><a href="/opinion/6918391/williams-v-williams/" aria-description="Citation for case: Williams v. Williams">123 Va. 643</a></span><pre class="inline">,
+</pre><span class="citation" data-id="6813938"><a href="/opinion/6918391/williams-v-williams/" aria-description="Citation for case: Williams v. Williams">96 S.E. 749</a></span><pre class="inline"> (1918); 1 Underhill, supra.
+   The term “joint will,” however, is something of a misno-
+mer. It is a misnomer because a joint will actually contains
+two wills. As one court put it, “a joint will, is, in effect, the
+separate will of each person signing it as [a] testator.” Olive v.
+Biggs, </pre><span class="citation" data-id="9561567"><a href="/opinion/1205431/olive-v-biggs/#455" aria-description="Citation for case: Olive v. Biggs">276 N.C. 445, 455</a></span><pre class="inline">, </pre><span class="citation" data-id="9561567"><a href="/opinion/1205431/olive-v-biggs/#308" aria-description="Citation for case: Olive v. Biggs">173 S.E.2d 301, 308</a></span><pre class="inline"> (1970).
+   This description of joint wills is not an outlier; court after
+court and commentator after commentator have recognized
+that a joint will is in fact multiple, separate wills that hap-
+pen to be embodied in the same document. See, e.g., Powell,
+</pre><span class="citation" data-id="2134859"><a href="/opinion/2134859/powell-v-american-charter-federal-savings-loan-assn/#557" aria-description="Citation for case: Powell v. American Charter Federal Savings &amp; Loan Ass&#x27;n">245 Neb. at 557</a></span><pre class="inline">, </pre><span class="citation" data-id="2134859"><a href="/opinion/2134859/powell-v-american-charter-federal-savings-loan-assn/#332" aria-description="Citation for case: Powell v. American Charter Federal Savings &amp; Loan Ass&#x27;n">514 N.W.2d at 332</a></span><pre class="inline"> (“joint will is a single
+instrument which is executed by two parties and which repre-
+sents their respective wills”); Lane v. Woodland Hills Baptist
+Church, </pre><span class="citation" data-id="1877976"><a href="/opinion/1877976/lane-v-woodland-hills-baptist-church/#903" aria-description="Citation for case: Lane v. Woodland Hills Baptist Church">285 So. 2d 901, 903</a></span><pre class="inline"> (Miss. 1973) (“[i]t is well
+settled in this state that a joint will constitutes the separate
+will of each executing it”); Webb, </pre><span class="citation" data-id="1260133"><a href="/opinion/1260133/webb-v-smith/#811" aria-description="Citation for case: Webb v. Smith">220 Ga. at 811</a></span><pre class="inline">, </pre><span class="citation" data-id="1260133"><a href="/opinion/1260133/webb-v-smith/#901" aria-description="Citation for case: Webb v. Smith">141 S.E.2d
+at 901</a></span><pre class="inline"> (describing joint will as “simple testamentary instru-
+ment constituting the wills of two or more persons”); Father
+Flanagan’s Boys’ Home v. Turpin, </pre><span class="citation" data-id="7121440"><a href="/opinion/7209701/father-flanagans-boys-home-v-turpin/#607" aria-description="Citation for case: Father Flanagan&#x27;s Boys&#x27; Home v. Turpin">252 Iowa 603, 607</a></span><pre class="inline">, </pre><span class="citation multiple-matches"><a href="/c/N.W.2d/106/637/">106
+N.W.2d 637</a></span><pre class="inline">, 639 (1960) (“[a] ‘joint’ will is nothing more than
+a single testamentary instrument constituting the wills of two
+or more persons, jointly executed. The term refers to form
+rather than substance. It is in effect the separate will of each
+maker . . .”); Florey et al. v. Meeker et al., </pre><span class="citation" data-id="1139013"><a href="/opinion/1139013/florey-v-meeker/#271" aria-description="Citation for case: Florey v. Meeker">194 Or. 257, 271</a></span><pre class="inline">,
+</pre><span class="citation" data-id="1139013"><a href="/opinion/1139013/florey-v-meeker/#1183" aria-description="Citation for case: Florey v. Meeker">240 P.2d 1177, 1183-84</a></span><pre class="inline"> (1952) (“[a] will, although joint in
+the sense that it incorporates in one instrument the testamen-
+tary disposition of two or more testators, is in effect the sepa-
+rate will of each of the testators who executed it”); 1 William
+J. Bowe &amp; Douglas H. Parker, Page on the Law of Wills,
+§ 11.1 at 552 (1960) (“[t]hough referred to as a joint will,
+using the singular form of the noun because a single instru-
+ment is involved, two wills are actually created”); 1 John E.
+                             - 726 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+Alexander, Commentaries on the Law of Wills § 69 at 83
+(1917) (“although two or more persons may jointly execute a
+single testamentary document, the instrument is the separate
+will of each testator and its legal effect is separate and dis-
+tinct and not joint”).
+   Consistent with the recognition that a joint will contains
+multiple, separate wills, joint wills are probated on the death
+of each testator as his or her separate will. See, </pre><span class="citation" data-id="1877976"><a href="/opinion/1877976/lane-v-woodland-hills-baptist-church/" aria-description="Citation for case: Lane v. Woodland Hills Baptist Church">Lane, supra;</a></span><pre class="inline">
+Father Flanagan’s Boys’ </pre><span class="citation" data-id="7121440"><a href="/opinion/7209701/father-flanagans-boys-home-v-turpin/" aria-description="Citation for case: Father Flanagan&#x27;s Boys&#x27; Home v. Turpin">Home, supra;</a></span><pre class="inline"> Florey et al., </pre><span class="citation" data-id="1139013"><a href="/opinion/1139013/florey-v-meeker/#272" aria-description="Citation for case: Florey v. Meeker">194 Or.
+at 272-73</a></span><pre class="inline">, </pre><span class="citation" data-id="1139013"><a href="/opinion/1139013/florey-v-meeker/#1184" aria-description="Citation for case: Florey v. Meeker">240 P.2d at 1184</a></span><pre class="inline"> (“joint instrument must operate
+severally as to each testator and be probated as the will of
+each testator”); Collins v. Stroup, </pre><span class="citation" data-id="3680864"><a href="/opinion/3933946/collins-v-stroup/#686" aria-description="Citation for case: Collins v. Stroup">71 N.D. 679, 686</a></span><pre class="inline">, </pre><span class="citation" data-id="3680864"><a href="/opinion/3933946/collins-v-stroup/#745" aria-description="Citation for case: Collins v. Stroup">3 N.W.2d
+742, 745</a></span><pre class="inline"> (1942) (explaining that joint wills “ought to be pro-
+bated upon the death of each testator as the separate will of
+the decedent”); Curry, </pre><span class="citation" data-id="3417861"><a href="/opinion/3421259/curry-v-cotton/#543" aria-description="Citation for case: Curry v. Cotton">356 Ill. at 543</a></span><pre class="inline">, </pre><span class="citation" data-id="3417861"><a href="/opinion/3421259/curry-v-cotton/#309" aria-description="Citation for case: Curry v. Cotton">191 N.E. at 309</a></span><pre class="inline"> (“[o]n
+the death of the testator first dying it is subject to record and
+probate as his will, and on the death of the surviving testa-
+tor[,] it is subject to probate as his will”); 1 Bowe &amp; Parker,
+supra, § 11.1 at 552 (joint will “would have to be fully and
+independently probated upon the death of each testator”).
+
+2021 Document Was Not Valid Holographic
+Will of Douglas.
+   Once it is understood that a joint will contains multiple,
+separate wills and that each separate will therein is probated
+independently upon the death of each testator, Judy’s argument
+unravels. If Judy is correct that the 2021 document was a joint
+will, then the document contained both her will and Douglas’
+will. But even if wills for both Douglas and Judy were embod-
+ied in the 2021 document, the only will of the two that could
+be offered for probate in Douglas’ estate matter was Douglas’
+will. At the risk of stating the obvious, it was Douglas who had
+died, and it was Douglas’ property that was subject to disposi-
+tion in the probate proceedings for his estate. Judy may have
+been a testator of her separate will that was also embodied in
+                             - 727 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+the 2021 document, but only Douglas could be the testator of
+the will that Judy offered for probate.
+   Because only Douglas could be the testator of the will Judy
+offered in his probate proceedings, it did not qualify as a valid
+holographic will. As discussed above, the material provisions
+of holographic wills must be in the handwriting of the testator.
+There is no dispute that Judy handwrote the material provisions
+of the 2021 document. Thus, the 2021 document was not a
+valid holographic will of Douglas.
+
+Our Decision Is Consistent With Other
+Courts and With Purpose of
+Holographic Will Statutes.
+   Although it appears relatively few courts have encountered
+the exact question before us today and even fewer have exten-
+sively discussed it, our decision is consistent with the weight
+of existing authority. A handful of courts have concluded, or at
+least suggested, that when the material provisions of a docu-
+ment purporting to be a joint will are entirely in one person’s
+handwriting, it is not a valid holographic will of the other
+party to the purported joint will, even if the other party has
+signed it.
+   Judy cites one such case in her brief, In re Cole’s Will, </pre><span class="citation" data-id="3675006"><a href="/opinion/3928372/in-re-will-of-cole/" aria-description="Citation for case: In Re Will of Cole">171
+N.C. 74</a></span><pre class="inline">, </pre><span class="citation" data-id="3675006"><a href="/opinion/3928372/in-re-will-of-cole/" aria-description="Citation for case: In Re Will of Cole">87 S.E. 962</a></span><pre class="inline"> (1916). In that case, a husband prepared
+a document purporting to be a joint will of him and his wife.
+With the exception of the wife’s signature, the document was
+entirely in the husband’s handwriting. When the husband
+died, the document was offered for probate as his holographic
+will. The North Carolina Supreme Court concluded that the
+document was correctly admitted for probate as a holographic
+will of the husband but added that “this could not be done
+in this case as to the wife, as it does not comply, and could
+not comply, with the requirements of the statutory provisions
+as to a holographic will, for two people could not write such
+[a] will.” </pre><span class="citation" data-id="3675006"><a href="/opinion/3928372/in-re-will-of-cole/#75" aria-description="Citation for case: In Re Will of Cole">Id. at 75</a></span><pre class="inline">, </pre><span class="citation" data-id="3675006"><a href="/opinion/3928372/in-re-will-of-cole/#963" aria-description="Citation for case: In Re Will of Cole">87 S.E. at 963</a></span><pre class="inline">. Similar language appears
+                              - 728 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                      IN RE ESTATE OF TODD
+                         Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+in several other cases. See, e.g., George v. Smith, </pre><span class="citation" data-id="9648853"><a href="/opinion/1533040/george-v-smith/" aria-description="Citation for case: George v. Smith">216 Ark.
+896</a></span><pre class="inline">, </pre><span class="citation" data-id="9648853"><a href="/opinion/1533040/george-v-smith/" aria-description="Citation for case: George v. Smith">227 S.W.2d 952</a></span><pre class="inline"> (1950) (observing that document pur-
+porting to be joint will of two brothers was not holographic
+will of one brother because, with the exception of signature,
+document was in handwriting of other); Graser v. Graser, </pre><span class="citation" data-id="4898011"><a href="/opinion/5082263/graser-v-graser/" aria-description="Citation for case: Graser v. Graser">147
+Tex. 404</a></span><pre class="inline">, </pre><span class="citation" data-id="4898011"><a href="/opinion/5082263/graser-v-graser/" aria-description="Citation for case: Graser v. Graser">215 S.W.2d 867</a></span><pre class="inline"> (1948) (observing that document
+purporting to be joint will of husband and wife was not holo-
+graphic will of wife because material provisions were in hus-
+band’s handwriting); Puckett v. Hatcher, </pre><span class="citation" data-id="3446380"><a href="/opinion/3448299/puckett-v-hatcher/#161" aria-description="Citation for case: Puckett v. Hatcher">307 Ky. 160, 161</a></span><pre class="inline">,
+</pre><span class="citation" data-id="3446380"><a href="/opinion/3448299/puckett-v-hatcher/#743" aria-description="Citation for case: Puckett v. Hatcher">209 S.W.2d 742, 743</a></span><pre class="inline"> (1948) (document purporting to be joint
+will “was not witnessed and since it was not written ‘wholly’
+by either of them it could not be regarded as a holographic
+will”). A prominent treatise reaches the same conclusion. See
+2 William J. Bowe &amp; Douglas H. Parker, Page on the Law of
+Wills § 20.5 at 286 (1960) (“[a] joint will, in the handwriting
+of one testator, and signed by both testators is the valid holo-
+graphic will of the testator in whose handwriting it is. It is not
+the valid holographic will of the other”).
+   Judy contends that a West Virginia case, Matheny v.
+Matheny, </pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/" aria-description="Citation for case: Matheny v. Matheny">182 W. Va. 790</a></span><pre class="inline">, </pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/" aria-description="Citation for case: Matheny v. Matheny">392 S.E.2d 230</a></span><pre class="inline"> (1990), supports her
+contention that the 2021 document was a valid holographic
+will of Douglas. In that case, a husband and wife prepared
+a document that the court described as a “joint holographic
+will.” </pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/#792" aria-description="Citation for case: Matheny v. Matheny">Id. at 792</a></span><pre class="inline">, </pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/#232" aria-description="Citation for case: Matheny v. Matheny">392 S.E.2d at 232</a></span><pre class="inline">. The wife died, and then,
+several years later, the husband died. The case involved a
+dispute over whether the will should be admitted to probate
+as the will of the husband. The appellate court concluded that
+the document met the requirements for holographic wills in
+West Virginia, including the requirement that the will be in the
+handwriting of the testator. It stated that “a valid joint holo-
+graphic will was made by” the husband and wife. </pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/#793" aria-description="Citation for case: Matheny v. Matheny">Id. at 793</a></span><pre class="inline">,
+</pre><span class="citation" data-id="8181176"><a href="/opinion/8218074/matheny-v-matheny/#233" aria-description="Citation for case: Matheny v. Matheny">392 S.E.2d at 233</a></span><pre class="inline">.
+   It is not clear that Matheny lends any support to Judy’s
+argument. Although the opinion does not directly address
+whether the holographic will at issue was in the handwriting
+of the husband or the wife, a provision of the will quoted in
+                             - 729 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+the opinion refers to the husband in the first person. If the
+material provisions of the document at issue in that case were,
+in fact, handwritten by the husband, the court’s determination
+that it was a valid holographic will of the husband does not
+speak to the question presented in this case.
+   [4] In any event, nothing in Matheny persuades us that the
+2021 document was a valid holographic will of Douglas for
+the reasons we have discussed. We join those courts and com-
+mentators that have concluded that when the material provi-
+sions of a purported joint will are in the handwriting of one
+party, it is not a valid holographic will of another party to the
+purported joint will, even if the other party has signed it.
+   We close by noting that our holding in this case is not only
+consistent with other authorities, it also aligns with the pur-
+pose of holographic will statutes. Many courts and commenta-
+tors have observed that while the recognition of holographic
+wills allows wills to be made without the usual formality and
+expense, the requirement that the material provisions be in the
+handwriting of the testator serves as a guard against fraud.
+See, e.g., Matter of Estate of Buckley, </pre><span class="citation" data-id="336110"><a href="/opinion/336110/in-the-matter-of-the-estate-of-dorothy-d-buckley-deceased-appeal-of/#582" aria-description="Citation for case: In the Matter of the Estate of Dorothy D. Buckley,...">536 F.2d 580, 582</a></span><pre class="inline"> (3d
+Cir. 1976) (explaining that while holographic will statutes pro-
+vide exception to certain formalities, requirement that docu-
+ment be written by testator guards against “forgery” because
+“[p]resumably, a document which the testator has written by
+himself represents his own desires and not those of a fraudu-
+lent interloper . . .”); Matter of Estate of Krueger, </pre><span class="citation" data-id="1289901"><a href="/opinion/1289901/matter-of-estate-of-krueger/#154" aria-description="Citation for case: Matter of Estate of Krueger">529 N.W.2d
+151, 154</a></span><pre class="inline"> (N.D. 1995) (requirement that material provisions be
+in handwriting of testator “is designed to ensure the authentic-
+ity of holographs, while still permitting lay persons to prepare
+their own wills without the expense and formality associated
+with attested wills”); 1 William J. Bowe &amp; Douglas H. Parker,
+Page on the Law of Wills § 1.3 at 6 (1960) (explaining that
+some jurisdictions allow holographic wills to be probated
+“[b]ecause of the additional guaranty of trustworthiness that is
+thought to exist in the complete use of handwriting . . .”). That
+protection against fraud would be weakened if a document
+                             - 730 -
+         Nebraska Supreme Court Advance Sheets
+                  322 Nebraska Reports
+                     IN RE ESTATE OF TODD
+                        Cite as </pre><span class="citation no-link">322 Neb. 719</span><pre class="inline">
+
+written in one person’s handwriting could be recognized as the
+valid holographic will of another.
+  Because the county court correctly determined that the 2021
+document could not be a valid holographic will of Douglas
+when its material provisions were not in his handwriting, we
+need not address its alternative conclusion that the 2021 docu-
+ment did not adequately express testamentary intent.
+                        CONCLUSION
+   Because we conclude that the county court did not err in
+determining that the 2021 document was not a valid holo-
+graphic will, we affirm.
+                                               Affirmed.
+</pre>

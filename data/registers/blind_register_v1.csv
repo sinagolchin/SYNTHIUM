@@ -1,0 +1,20 @@
+attempt,case,jurisdiction,category,posture,layer,actual_notch
+10,Gleason v. Durden,CT,civil,trial,legal_overlay,REVERSED
+10,Kellogg v. Middlesex,CT,civil,summary_judgment,pure_law,REVERSED
+10,Gottesman v. Kratter,CT,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+10,KDM v. DRVN,CT,civil,trial,legal_overlay,REVERSED
+10,Canner v. Governor's Ridge,CT,civil,discretionary,fact,CLEAN_AFFIRM
+10,DiTullio v. LM General,CT,civil,discretionary,remedy_calculation,MODIFIED
+10,Lasso v. Valley Tree,CT,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+10,Squillante v. Capital Region,CT,civil,summary_judgment,pure_law,CLEAN_AFFIRM
+10,Menard v. State,CT,civil,trial,remedy_calculation,MODIFIED
+10,Herron v. Daniels,CT,civil,trial,fact,CLEAN_AFFIRM
+10,Medical Device v. Aferzon,CT,civil,trial,remedy_calculation,MODIFIED
+11,Marco v. Starr Indemnity,CT,civil,trial,pure_law,CLEAN_AFFIRM
+11,O&G Industries v. American Home,CT,civil,trial,fact,CLEAN_AFFIRM
+11,DeJesus v. R.P.M.,CT,admin,discretionary,legal_overlay,MODIFIED
+11,Robb v. Veterinary Medicine Bd,CT,admin,discretionary,pure_law,CLEAN_AFFIRM
+11,Property Tax Mgmt v. Worldwide,CT,civil,trial,pure_law,CLEAN_AFFIRM
+11,Smernoff v. Star Tire,CT,civil,trial,remedy_estimate,CLEAN_AFFIRM
+11,Eichler v. Healthy Mom,CT,civil,trial,fact,CLEAN_AFFIRM
+11,Lemma v. York & Chapel,CT,civil,discretionary,pure_law,CLEAN_AFFIRM

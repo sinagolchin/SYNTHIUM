@@ -1,0 +1,1374 @@
+<pre class="inline">                          </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+
+
+
+                THE UTAH COURT OF APPEALS
+
+                         CHAD CANTER,
+                  Appellant and Cross-appellee,
+                               v.
+                         JANE CANTER,
+                  Appellee and Cross-appellant.
+
+                              Opinion
+                          No. 20241180-CA
+                      Filed November 5, 2026
+
+           Third District Court, Salt Lake Department
+                 The Honorable Robert P. Faust
+                          No. 224902987
+
+           Ryan Rudd, Meagan Rudd, Courtney Cooper,
+                and Spencer Felton, Attorneys for
+                  Appellant and Cross-appellee
+          Julie J. Nelson, Skylar Walker, and Kayla Quam,
+            Attorneys for Appellee and Cross-appellant
+
+     JUDGE RYAN M. HARRIS authored this Opinion, in which
+       JUDGES JOHN D. LUTHY and AMY J. OLIVER concurred.
+
+HARRIS, Judge:
+
+¶1     After a bench trial in this divorce case, the trial court—as
+relevant here—ordered Chad Canter to pay $2,448 in monthly
+child support and $8,623 in monthly alimony to his ex-wife, Jane
+Canter, and it also ordered each party to pay their own attorney
+fees. Both parties appeal, each challenging different parts of the
+court’s orders. Chad takes issue with the court’s child support and
+alimony awards, challenging the court’s decision to allow Jane’s
+financial expert to testify and, in addition, asserting that the court
+incorrectly assessed Jane’s expenses as well as the parties’
+                           Canter v. Canter
+
+
+respective incomes. 1 For her part, Jane challenges some of the
+court’s orders relating to attorney fees. She acknowledges that, all
+else being equal, it was not an abuse of discretion under these
+circumstances for the court to have ordered each party to bear
+their own fees, but she contends that the court—through some of
+its other decisions regarding property division—effectively (and
+in contravention of its own order) required her to pay some of
+Chad’s fees without making the findings necessary to support
+such an award.
+
+¶2    We reject Chad’s arguments and affirm the court’s orders
+regarding child support and alimony. But we find merit in Jane’s
+arguments regarding attorney fees, and we therefore remand this
+matter with instructions for the trial court to align its attorney fees
+order with its property division orders.
+
+
+                          BACKGROUND
+
+                        Pre-trial Proceedings
+
+¶3     In May 2022, after being married to Jane for more than
+twenty-four years, Chad moved out of the parties’ marital
+house and petitioned for divorce. Chad and Jane had four
+children together, but by the time of trial, only one of them was a
+minor, and that child is now an adult. Around the time of
+separation, Chad—in a self-described effort to divide “the parties’
+total marital checking and savings account balances”—
+transferred nearly $48,000 to Jane from one of the parties’ marital
+accounts.
+
+
+
+1. Throughout this opinion, “we follow our standard practice of
+referring to the parties by their first names when they share the
+same surname, with no disrespect intended by the apparent
+informality.” See Miner v. Miner, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">2021 UT App 77</a></span><pre class="inline">, ¶ 2 n.2, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">496 P.3d
+242</a></span><pre class="inline"> (cleaned up).
+
+
+ 20241180-CA                      2                </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+¶4      Soon after Chad filed the divorce petition, Jane filed a
+motion for temporary orders, asking that Chad be ordered to pay
+child support and alimony. Chad filed an opposition to Jane’s
+motion, claiming that Jane had no need for alimony because, since
+the filing of the petition, he had been paying and would “continue
+to pay the necessary marital expenses . . . , including mortgage,
+utilities, insurance, vehicles, etc.” After oral argument on the
+matter, a domestic relations commissioner entered temporary
+orders requiring Chad to pay Jane temporary child support in the
+amount of $2,039 per month and temporary alimony in the
+amount of $6,042 per month. The commissioner also ordered that
+the parties’ then-minor child remain in the marital house with
+Jane but that the parties “have joint legal custody.”
+
+¶5     The case proceeded toward trial, and on the day case-in-
+chief expert disclosures were due, Jane disclosed to Chad that she
+had retained a “real estate appraiser and consultant.” In her
+disclosure document, Jane did not designate an accounting
+expert. That same day, Chad filed an expert witness disclosure
+document of his own, designating three retained expert witnesses:
+a real estate appraiser, a vocational expert (Vocational Expert),
+and a forensic accountant (Chad’s Accountant). Both parties filed
+documents electing to receive written reports from the opposing
+parties’ experts instead of opting to take their depositions. And
+both parties timely produced those reports.
+
+¶6     Later, on or before her deadline for designating rebuttal
+experts, Jane disclosed to Chad that she had retained a forensic
+accountant of her own (Jane’s Accountant) as a “designated
+rebuttal expert” who would “rebut the expert report of” Chad’s
+Accountant regarding the “income for the parties,” the “parties’
+monthly needs,” and “the division of the marital estate.” In
+response, Chad filed a document electing to receive a written
+report from Jane’s Accountant instead of opting to take his
+deposition. Jane timely produced that report.
+
+
+
+
+ 20241180-CA                    3              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+¶7     Chad then filed a certificate of readiness for trial,
+representing to the court that the “case [was] ready for trial” and
+that “[a]ll required discovery ha[d] been completed.” Later, a
+pretrial conference was held and a trial date was set.
+
+¶8      As trial approached, both parties timely filed pretrial
+disclosures. As relevant here, Chad listed Chad’s Accountant
+as a “will call” witness, and he indicated that Chad’s
+Accountant would testify about (among other things) the parties’
+“ability to pay and determination of alimony amount.” For her
+part, Jane listed Jane’s Accountant as a “will call” witness, and she
+indicated that she would call Jane’s Accountant “to rebut the
+expert report of” Chad’s Accountant. Jane also listed her real
+estate appraiser as a “may call” witness, but he did not end up
+testifying at trial.
+
+¶9      A few days before trial, Chad filed a motion in limine
+asking the court to forbid Jane’s Accountant from testifying at
+trial. In his motion, Chad pointed out that Jane had set forth
+claims on which “she carrie[d] the burden of proof,” including her
+claim for alimony, and he asserted that because Jane’s
+Accountant’s testimony “aid[ed] in Jane’s case-in-chief,” Jane had
+been obligated to designate Jane’s Accountant as a case-in-chief
+expert and that Jane had therefore violated disclosure rules by
+waiting to disclose Jane’s Accountant, for the first time, as a
+rebuttal expert. As a remedy, Chad asked the court to exclude all
+testimony from Jane’s Accountant.
+
+¶10 The next day, Jane filed an opposition to Chad’s motion in
+limine, wherein she asserted that Jane’s Accountant had been
+“properly designated in all regards.” She explained that at the
+time her case-in-chief designations were due, she had not
+“believe[d that] a forensic expert would be needed” and that it
+was only after Chad disclosed Chad’s Accountant that it
+“bec[a]me clear that Jane needed a rebuttal expert.”
+
+
+
+
+ 20241180-CA                     4               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+                                Trial
+
+¶11 When the trial began, Chad’s counsel brought up the
+motion in limine, and the court asked, “[D]id we not already have
+a motion deadline in this case, so these matters could have been
+decided before we got right here at the time of trial?” The court
+mused, “[I]n most of my civil matters I send out a pretrial order
+giving everybody deadlines, including motions in limine. I have
+a standing order of 21 motions that parties cannot bring before
+me.” In reference to Chad’s motion potentially being considered
+untimely, the court stated, “[E]verybody knows, and is aware that
+nobody follows the rules strictly in domestic relations [cases], and
+it’s never really enforced except when people want to use it as a
+sword.” But the court concluded by stating that, regardless of
+whether Chad had filed his motion in limine on time, the court
+would consider the motion on its merits and would “deal with” it
+“at the time, if and when [Jane’s Accountant] is called,” and by
+telling Chad that he could make objections “at that point in time.”
+
+¶12 Chad then testified, and he stated that he had been a senior
+vice president of a bank since 2014 and that his W-2 income had
+been $300,127 in 2021; $526,952 in 2022; and $528,768 in 2023.
+Notably, the figure Chad was using for his overall 2021 income
+was based solely on his W-2 income from the bank; he
+“exclude[ed] [a] finder’s fee [bonus] of about $250,000,” an
+amount he testified was excludable because it had been paid to a
+limited liability company called 2LMD, LLC (2LMD), a company
+he and Jane jointly owned as “50 percent shareholders.” Chad
+then called Vocational Expert, who testified that “[t]he best
+indicator” of what an individual is capable of earning comes from
+federal labor statistics and that those statistics indicated that the
+“upper 90th percentile” of salary for “a financial manager” like
+Chad was $226,820.
+
+¶13 Chad’s Accountant then took the stand, and he testified
+about the couple’s business holdings, including 2LMD. He stated
+
+
+
+ 20241180-CA                     5               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+that 2LMD had been “created for a one-time commission from a
+business opportunity” in which Chad had “helped facilitate
+financing for investors looking to develop land,” and he testified
+that, for those services, Chad had “received a one-time
+commission of $250,000.” He also offered other testimony about
+the parties’ finances; for instance, he testified that the combined
+“marital standard of living” for Chad and Jane was $14,214.32 per
+month. In addition, he offered evaluations of Chad’s and Jane’s
+expenses, opining that Chad had an adjusted monthly need of
+$7,228.76 and Jane had an adjusted monthly need of $7,205.57—
+amounts roughly equal to half of his computed “marital standard
+of living.” Chad’s Accountant testified that he had calculated the
+parties’ monthly expense amounts by starting with the couple’s
+monthly average spending, during the marriage, on over forty
+categories of purchases, and then “allocat[ing] their need,” a
+process that (for most line items) essentially involved dividing the
+average in half and then making additional adjustments, such as
+changing the housing allowance so that, post-separation, Jane and
+Chad were each allocated $2,128.92 for housing. 2
+
+¶14 After that, Jane indicated that she wanted to call Jane’s
+Accountant to the stand, but at that point Chad renewed his
+motion in limine to exclude Jane’s Accountant and asked the court
+to rule on it. Specifically, Chad claimed that testimony from Jane’s
+Accountant would be “deficient procedurally and substantively,”
+procedurally for “not follow[ing] rule 26” and substantively for
+being “outrageous” and “not reliable.” After considering the
+parties’ arguments, the court allowed Jane’s Accountant to testify,
+stating, “[I]f I exclude the report based upon some technicalities
+and whatever else, and the information doesn’t come in, and then
+I make my determinations, we’re making a gamble in whether or
+not the [Utah] Court of Appeals is going to say I should have let
+
+
+
+2. For reference, the couple’s average monthly mortgage payment
+for the marital house during 2021 and 2022 was $2,819.
+
+
+ 20241180-CA                     6              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+it in and considered it anyway, because it really wasn’t harmful
+to you.” The court continued,
+
+       Look, the bottom line here, . . . if the expert report is
+       garbage, I’m not going to consider it. Okay? If it’s
+       inflated, you can point that out . . . through the
+       report. But I need to get some information in regards
+       to the marital standard of living in regards to these
+       individuals. Then I want to go through the financial
+       declarations and their statements.
+
+¶15 Jane’s Accountant then testified, and he rebutted certain
+aspects of Chad’s Accountant’s testimony. With regard to the
+parties’ reasonable expenses, Jane’s Accountant explained that
+one cannot properly compute post-separation expenses for each
+party simply by dividing marital expenses in half, because many
+of the typical expenses a household incurs during a marriage need
+to be replicated for each party post-separation. For this reason, he
+allocated 100% (rather than 50% or some other percentage) of
+many of the parties’ historical expenses to both parties’ post-
+separation expenses because each of them, after divorce, would
+still need to pay the entire expense. Using the same underlying
+data that Chad’s Accountant had used, Jane’s Accountant
+concluded that the couple had spent some $17,000 per month on
+expenses during the marriage. But he computed each party’s post-
+separation expenses as greater than simply half of that amount; in
+particular, he testified that Jane’s post-separation expenses were
+$13,715.02 and that Chad’s were $12,022.33.
+
+¶16 Jane testified next, and she discussed her financial
+declaration, her earning capacity, and what she considered to be
+her reasonable monthly expenses. She testified that during the
+majority of the marriage she had been “at home with the kids”
+and that her marital responsibilities had included cooking,
+cleaning, helping with yardwork, taking the children to
+appointments, and making sure they stayed on top of their
+
+
+
+ 20241180-CA                      7                </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                           Canter v. Canter
+
+
+schoolwork. She testified that during the marriage she had
+worked outside the home “very minimally.” Based on this and
+other evidence, Chad and Jane eventually stipulated that Jane’s
+income, for child support and alimony purposes, was $2,896 per
+month. Jane also offered testimony regarding certain specific
+expenses listed in her financial declaration, including gym
+memberships, personal care, clothing, entertainment, travel,
+groceries, jewelry, and pets.
+
+¶17 After completion of the evidentiary presentations, the
+parties submitted written closing arguments. As relevant here,
+Jane asked the court to order Chad to pay her attorney fees, but
+she stated that, if the court were disinclined to go in that direction,
+“at a minimum, both [parties’ attorney] fees should be paid out of
+the marital estate before it gets divided.” For his part, Chad
+argued that Jane had had access to significant funds at the time of
+separation and that she should have used those funds to pay her
+attorney fees, arguing specifically that “Jane cannot misuse her
+finances post-separation and then claim that she needs money for
+attorneys’ fees.”
+
+¶18 Later, the court issued written rulings containing its
+findings of fact and conclusions of law. In those rulings, the court
+found that Chad’s income, for child support and alimony
+purposes, was $526,531 per year, which equated to $43,878 per
+month gross and $31,905 per month net. The court arrived at this
+amount by averaging Chad’s income over a three-year period and
+by including the entirety of the 2021 bonus payment made to
+2LMD as part of Chad’s income for that year. Based on that
+income figure (and on the income figure for Jane to which the
+parties had stipulated), the court calculated Chad’s child support
+obligation as $2,448 per month, to be paid until the parties’ last
+remaining minor child reached majority.
+
+¶19 With regard to alimony, the court ordered Chad to pay
+Jane $8,623 per month “for the length of the marriage.” It
+
+
+
+ 20241180-CA                      8                </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+determined that Chad’s “approved expenses” amounted to
+$10,176 per month and that Jane’s “approved expenses”
+amounted to $11,519 per month. The court determined these
+expense amounts by first considering the testimony of the
+accounting experts along with the parties’ own testimony and
+financial disclosures, and then by making its own adjustments to
+some of the line items; for example, it lowered Jane’s “telephone”
+expense because it found that Jane’s listed amount “included the
+costs for . . . family members.” Then, using the same income
+figures that it had used to compute child support, the court
+subtracted Jane’s stipulated income ($2,896) from her approved
+expenses ($11,519) and, from there, determined that Jane’s
+monthly shortfall was $8,623 per month and that Chad had the
+financial capacity to make that payment.
+
+¶20 Regarding marital property and debts, the court ordered
+that the parties’ marital house be sold and that the proceeds be
+“equally split between the parties.” Further, it ordered the parties
+to “pay all their mutual debt and post-separation debts from
+marital assets, except attorney fees.” And it also ordered that all
+financial accounts owned by the parties “be equally divided
+between the parties as of” the date of trial.
+
+¶21 As for attorney fees, the court denied Jane’s request that
+Chad be ordered to pay her fees. Instead, the court ordered “each
+party to pay their own attorney fees and costs,” finding
+specifically that Jane had “the ability to pay her own fees in view
+of the large amounts of assets awarded to her, which include[d]
+one half of the balances in all accounts and one half of the equity
+in” the parties’ marital house.
+
+                       Post-trial Proceedings
+
+¶22 A few weeks later, Jane filed a motion to alter or amend
+part of the court’s ruling concerning attorney fees. Specifically,
+she asserted that Chad had paid at least some of his attorney fees
+
+
+
+ 20241180-CA                     9              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+with funds from one of the parties’ marital accounts prior to the
+court’s equitable division of those funds, whereas Jane had put
+her attorney fees on credit cards and was now required to pay her
+fees entirely out of her own post-division share of the assets. And
+she argued that the effect of this was that Jane had ended up
+paying “75% of the parties’ attorney fees: all of her own, and half
+of Chad’s,” a fact that she posited was at odds with the court’s
+ruling that each party was to bear their own fees and costs. Chad
+disagreed with Jane’s claim in this regard, again pointing out that
+during the pre-trial phase of the case Jane had been given access
+to certain marital funds but that she had chosen to spend those
+funds on things other than attorney fees. 3
+
+¶23 Later, and before the court had ruled on the motion just
+described, Jane filed three additional motions that she styled as
+“motions to enforce.” In one of them, Jane asked the court to order
+Chad to produce nine months’ worth of statements—spanning
+the months immediately preceding trial—from one of the parties’
+bank accounts (the Zions Account) over which Chad had
+maintained sole control during the separation period. Jane
+asserted that, during that period, the Zions Account had
+contained then-undivided marital assets and that the balance in
+that account had dropped by nearly $100,000. In another motion,
+Jane asked the court to hold Chad in contempt for (among
+other things) “failing to equally divide the bank accounts.” And
+in yet another motion, Jane asked the court to hold Chad in
+contempt for “dissipating approximately $100,000” from the
+Zions Account.
+
+¶24 Chad then filed his own motion seeking to alter or amend
+the trial court’s ruling, claiming that the court improperly
+admitted testimony from Jane’s Accountant and improperly
+
+
+3. Chad specifically claimed that Jane used her share of the post-
+separation marital funds on things he deemed extravagant, such
+as traveling and elective surgery.
+
+
+ 20241180-CA                    10              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+calculated Chad’s income. With regard to Jane’s Accountant,
+Chad asserted that the court had “refused to hear” his motion in
+limine seeking exclusion of that expert. And with regard to his
+income, Chad assailed the court’s decision to include the entirety
+of the 2LMD bonus payment in his 2021 income instead of
+“attributing half of that income to Jane.”
+
+¶25 In addressing these voluminous post-trial motions, the
+court first determined that Jane’s three motions to enforce should
+be adjudicated by a domestic relations commissioner before
+proceeding to the court itself. But the court allowed the parties’
+dueling motions to alter or amend to move forward without first
+going to the commissioner. After full briefing and oral argument
+on the motions to alter or amend, the court issued a written ruling
+denying both motions. In that ruling, the court stated as follows:
+
+      [Chad’s] motion in limine on [Jane’s Accountant]
+      was denied at trial but counsel requested a formal
+      denial which is granted herein. Regarding [Jane’s]
+      request to change the award of attorney fees . . .
+      [Jane] does and will have more than sufficient assets
+      to pay her fees and there is not a need. Additionally,
+      [Jane] received [marital] assets early in the
+      separation . . . which she could have used to pay
+      fees, as did [Chad], but she [chose] to spend the
+      money elsewhere and not pay her fees. Finally,
+      [Jane] was the cause of increased attorney fees for
+      both parties, and the [c]ourt is not going to [re]ward
+      her by making [Chad] pay his [f]ees caused by
+      [Jane’s] actions and one half of [Jane’s] fees.
+
+¶26 Meanwhile, after a hearing on Jane’s motion concerning
+discovery of bank statements from the Zions Account, the
+commissioner recommended that Jane be allowed to “prepare
+and serve two subpoenas to obtain proof of the bank statements,”
+with Chad bearing the costs associated with those subpoenas.
+
+
+
+ 20241180-CA                    11              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+Chad objected to the commissioner’s recommendation, but the
+trial court overruled the objection.
+
+¶27 Jane then subpoenaed the bank statements relating to the
+Zions Account, and those documents showed that in the months
+leading up to trial, $85,000 had been transferred out of the Zions
+Account via checks addressed to Chad’s attorneys, and that this
+had occurred prior to the account being equally divided between
+the parties. Jane then consolidated the arguments made in her
+prior motions to enforce and filed another motion to enforce, this
+time claiming that Chad had “dissipated [marital funds] by
+writing checks out of [the Zions Account]” to pay for his attorney
+fees. As a remedy, she asked the court to award her “the entirety
+of the dissipated funds.” Chad opposed the new motion, claiming
+that he had “used those funds on his reasonable expenses” and
+that Jane was “wasting everyone’s time (including the [c]ourt’s)
+by taking them on this nearly year-long fishing expedition.”
+
+¶28 After oral argument on the new motion, the commissioner
+agreed with Jane and recommended that Chad be “held in
+contempt,” that Jane be awarded attorney fees in connection with
+the motions to enforce, and that “Chad . . . reimburse Jane $42,500,
+one-half of the $85,000” of pre-division marital funds that Chad
+had used to pay his attorneys.
+
+¶29 Chad objected to the commissioner’s recommendation,
+and the court eventually issued a written ruling sustaining that
+objection. There, the court concluded as follows:
+
+       The [c]ourt already has ruled multiple times on the
+       issue of attorney fees and this was simply a different
+       approach to try to readdress the same issue. The
+       [c]ourt left open the potential issue of dissipation of
+       assets from this one account as the account balance
+       had dropped and [Jane] did not know why. It was
+       shown that [some] $80,000 went to attorney fees for
+
+
+
+ 20241180-CA                     12              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+       [Chad]. The [c]ourt already addressed and
+       readdressed the issues of fees and the same
+       arguments made previously. The [c]ourt believes
+       the commissioner did not have the entire picture of
+       this matter when she handled the matter before
+       her. . . . [T]he objection is sustained.
+
+
+            ISSUES AND STANDARDS OF REVIEW
+
+¶30 Both parties now appeal, challenging various aspects of the
+court’s rulings. In his appeal, Chad asks us to consider two issues.
+First, he takes issue with the court’s denial of his motion in limine,
+in which he sought to exclude Jane’s Accountant from testifying
+at trial. “We review for correctness any legal questions underlying
+the admissibility of evidence, but we review for abuse of
+discretion any decisions to admit or exclude evidence and
+determinations regarding the admissibility of expert testimony.”
+Metropolitan Water Dist. of Salt Lake &amp; Sandy v. Sorf, </pre><span class="citation" data-id="9911909"><a href="/opinion/9454084/metropolitan-water-v-sorf/#28" aria-description="Citation for case: Metropolitan Water v. Sorf">2023 UT App
+146, ¶ 28</a></span><pre class="inline">, </pre><span class="citation" data-id="9911909"><a href="/opinion/9454084/metropolitan-water-v-sorf/" aria-description="Citation for case: Metropolitan Water v. Sorf">542 P.3d 87</a></span><pre class="inline"> (cleaned up).
+
+¶31 Second, Chad challenges the substance of the court’s
+alimony award, with regard to the computation of both Jane’s
+expenses as well as the parties’ income. As a general matter, “we
+review all aspects of [a] trial court’s alimony determination for an
+abuse of discretion.” Miner v. Miner, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/#11" aria-description="Citation for case: Miner v. Miner">2021 UT App 77, ¶ 11</a></span><pre class="inline">, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">496
+P.3d 242</a></span><pre class="inline"> (cleaned up). Factual findings that undergird an alimony
+determination are reviewed deferentially and are overturned
+“only if they are clearly erroneous.” See Klein v. Klein, </pre><span class="citation" data-id="11207030"><a href="/opinion/10740445/klein-v-klein/#25" aria-description="Citation for case: Klein v. Klein">2025 UT
+App 170, ¶ 25</a></span><pre class="inline">, </pre><span class="citation no-link">582 P.3d 1197</span><pre class="inline">. Under that standard, “we will
+disturb a court’s factual findings only where the court’s
+conclusions do not logically follow from, or are not supported by,
+the evidence.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (cleaned up). “But when [trial] courts have
+discretion to weigh factors or balance competing interests, those
+discretionary determinations must rest upon sound legal
+principles.” In re adoption of M.A., </pre><span class="citation" data-id="9943016"><a href="/opinion/9477485/in-re-adoption-of-ma/#10" aria-description="Citation for case: In re Adoption of M.A.">2024 UT 6, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="9943016"><a href="/opinion/9477485/in-re-adoption-of-ma/" aria-description="Citation for case: In re Adoption of M.A.">545 P.3d 241</a></span><pre class="inline">
+
+
+
+ 20241180-CA                     13               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+(cleaned up). And “when a legal conclusion is embedded in a
+[trial] court’s discretionary determination, we peel back the abuse
+of discretion standard and look to make sure that the court
+applied the correct law.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (cleaned up). Accordingly, a “court’s
+choice of, and application of, the appropriate legal standard . . .
+presents an issue of law that we review for correctness.” Myers v.
+Myers, </pre><span class="citation" data-id="9395866"><a href="/opinion/9400390/myers-v-myers/#19" aria-description="Citation for case: Myers v. Myers">2023 UT App 20, ¶ 19</a></span><pre class="inline">, </pre><span class="citation" data-id="9395866"><a href="/opinion/9400390/myers-v-myers/" aria-description="Citation for case: Myers v. Myers">526 P.3d 1253</a></span><pre class="inline"> (cleaned up).
+
+¶32 In her cross-appeal, Jane takes issue with the court’s
+attorney fees rulings. “We review a [trial] court’s decision to
+award attorney fees for an abuse of discretion, but review its
+underlying legal conclusions for correctness.” Miner v. Miner,
+</pre><span class="citation" data-id="11048322"><a href="/opinion/10581734/miner-v-miner/#13" aria-description="Citation for case: Miner v. Miner">2025 UT App 64, ¶ 13</a></span><pre class="inline">, </pre><span class="citation no-link">571 P.3d 788</span><pre class="inline"> (cleaned up), cert. denied, </pre><span class="citation no-link">574
+P.3d 526</span><pre class="inline"> (Utah 2025).
+
+
+                            ANALYSIS
+
+                       I. Jane’s Accountant
+
+¶33 First, Chad challenges the trial court’s order denying his
+motion in limine and allowing Jane’s Accountant to testify at trial.
+In particular, he claims that Jane’s Accountant “should have been
+mandatorily excluded” because he had not been properly
+disclosed under rule 26 of the Utah Rules of Civil Procedure and
+because the court did not make findings “concerning
+harmlessness or good cause.” We find Chad’s arguments in
+this regard unpersuasive because we conclude that Jane’s
+disclosure of Jane’s Accountant as a rebuttal expert was
+procedurally proper.
+
+¶34 Under our rules, the timing for expert disclosure varies
+depending upon whether the party bears the burden of proof at
+trial on the relevant issue. On issues for which a party bears the
+burden of proof, the relevant rules are subsections (i) and (iii) of
+rule 26(a)(4)(C) of the Utah Rules of Civil Procedure. Subsection
+(i) governs the timing for disclosing case-in-chief witnesses, see
+
+
+ 20241180-CA                    14              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+Utah R. Civ. P. 26(a)(4)(C)(i) (“The party who bears the burden of
+proof on the issue for which expert testimony is offered must
+serve on the other parties the information required by paragraph
+(a)(4)(A) within 14 days after the close of fact discovery.”), and
+subsection (iii) governs the timing for disclosing rebuttal
+witnesses, see </pre><span class="citation no-link">id.</span><pre class="inline"> R. 26(a)(4)(C)(iii) (“If the party who bears the
+burden of proof on an issue wants to designate rebuttal expert
+witnesses, it must serve on the other parties the information
+required by paragraph (a)(4)(A) within 14 days after the later of
+(A) the date on which the election under paragraph (a)(4)(C)(ii) is
+due or (B) service of the written report or the taking of the expert’s
+deposition pursuant to paragraph (a)(4)(C)(ii).”).
+
+¶35 In this situation, subsections (i) and (iii) are the relevant
+rules because Jane bore the burden of proof at trial with regard to
+her alimony claim. 4 “A party seeking alimony bears the burden of
+demonstrating to the court that the [relevant] factors support an
+award of alimony.” Dahl v. Dahl, </pre><span class="citation no-link">2015 UT 79</span><pre class="inline">, ¶ 95, </pre><span class="citation no-link">459 P.3d 276</span><pre class="inline">
+(cleaned up). Here, Jane asked for alimony in her counter-petition
+for divorce, and she requested it by motion early in the case,
+
+
+4. At oral argument before this court, Chad’s counsel argued that
+Jane should have disclosed Jane’s Accountant as an “opposition
+expert” (pursuant to rule 26(a)(4)(C)(ii)) rather than as a rebuttal
+expert (pursuant to subsection (iii)) because Chad had filed his
+designation of Chad’s Accountant before Jane filed her
+designation of Jane’s Accountant. However, rule 26(a)(4)(C)
+indicates that the deciding factor for determining which expert
+designation rule applies hinges on which party “bear[s] the
+burden of proof” and not on the order in which the parties
+designate their experts. See Utah R. Civ. P. 26(a)(4)(C). And here,
+it is clear that Jane bore the burden of proof on the alimony issue.
+Therefore, we disagree with Chad’s contention that because Chad
+filed his expert disclosure before Jane filed hers, Jane’s
+Accountant should have been designated as an opposition expert
+pursuant to subsection (ii).
+
+
+ 20241180-CA                     15               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+during the temporary orders phase. The court granted her request
+for temporary alimony and, from there, both parties recognized
+that Jane’s claim for alimony would be a central issue at trial.
+Indeed, in his initial motion in limine on the topic of Jane’s
+Accountant, Chad acknowledged that Jane “carrie[d] the burden
+of proof” on her request for alimony at trial. And at oral argument
+before this court, Chad conceded that Jane bore the burden of
+proof on the issue of alimony. Moreover, alimony is the main
+issue Chad’s Accountant and Jane’s Accountant were designated
+to address. Chad’s pretrial disclosures expressly stated that
+Chad’s Accountant would testify about the parties’ “ability to pay
+and determination of alimony amount,” and Jane’s pretrial
+disclosures indicated that Jane’s Accountant would testify “to
+rebut the expert report of” Chad’s Accountant. Accordingly, it is
+clear that Jane bore the burden of proof on her alimony claim and
+that Chad’s Accountant and Jane’s Accountant were experts
+specifically designated to address that issue. Thus, we look to
+subsections (i) and (iii)—and not to subsection (ii)—to determine
+whether Jane properly disclosed Jane’s Accountant.
+
+¶36 And we conclude that she did. To be sure, Jane did not
+designate Jane’s Accountant as a case-in-chief expert pursuant to
+subsection (i). At that point in time, Jane designated only one
+expert (a real estate appraiser). But she did designate Jane’s
+Accountant as a rebuttal expert pursuant to subsection (iii), and
+she did so timely and correctly. And at trial, Jane’s Accountant
+offered testimony that was limited to rebutting Chad’s
+Accountant. 5 Under these circumstances, we perceive no
+infirmities in the manner in which Jane designated Jane’s
+Accountant as a rebuttal expert.
+
+
+
+5. Indeed, Chad makes no meaningful claim, either on appeal or
+before the trial court, that Jane’s Accountant offered testimony
+that went beyond the scope of rebutting the conclusions offered
+by Chad’s Accountant.
+
+
+ 20241180-CA                    16              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                           Canter v. Canter
+
+
+¶37 Chad argues otherwise. He contends that Jane was not
+permitted to designate Jane’s Accountant as a rebuttal expert
+when she did not designate any accountant as a case-in-chief
+expert. In other words, Chad claims that the rules require Jane to
+designate an initial case-in-chief expert before being able to
+designate a rebuttal expert. We reject this assertion, at least with
+regard to claims—such as alimony claims—for which expert
+testimony is not necessarily required to prove one’s case. 6
+
+¶38 As an initial matter, it is worth noting that there is nothing
+in the text of the relevant rules that even hints at a requirement
+that a party who bears the burden of proof on an issue must first
+designate a case-in-chief expert in order to be able to later
+designate a rebuttal expert. See Utah R. Civ. P. 26(a)(4)(C)(i), (iii).
+We are rightly hesitant to read any such restriction into the rule.
+See St. Jeor v. Kerr Corp., </pre><span class="citation" data-id="2803090"><a href="/opinion/2803090/st-jeor-v-kerr-corporation/#13" aria-description="Citation for case: St. Jeor v. Kerr Corporation">2015 UT 49, ¶ 13</a></span><pre class="inline">, </pre><span class="citation" data-id="2803090"><a href="/opinion/2803090/st-jeor-v-kerr-corporation/" aria-description="Citation for case: St. Jeor v. Kerr Corporation">353 P.3d 137</a></span><pre class="inline"> (“[W]e will
+not read additional limitations into [a rule of procedure] that the
+language cannot bear.”). And the linguistic clues we do have
+point in the other direction. For example, subsection (iii) states
+that “[t]he court may preclude an expert disclosed only as a
+
+
+6. Chad relies on Dierl v. Birkin, </pre><span class="citation" data-id="9395884"><a href="/opinion/9400408/dierl-v-birkin/" aria-description="Citation for case: Dierl v. Birkin">2023 UT App 6</a></span><pre class="inline">, </pre><span class="citation" data-id="9395884"><a href="/opinion/9400408/dierl-v-birkin/" aria-description="Citation for case: Dierl v. Birkin">525 P.3d 127</a></span><pre class="inline">, to
+support his argument. But Dierl is readily distinguishable. In that
+medical negligence case, the plaintiff bore the burden of proof on
+the relevant issue, and he needed expert testimony to prove his
+case. Id. ¶ 19. Yet he designated one of his expert witnesses only
+as a rebuttal expert, and the district court refused to allow that
+witness’s opinions to be admitted in the plaintiff’s case-in-chief.
+Id. ¶ 12. On that basis, the court entered summary judgment
+against the plaintiff for lack of proof, and we affirmed that order.
+Id. ¶¶ 13, 41. In this case, by contrast, Jane did not need an expert
+in order to prove her alimony claim, and the trial court here, in
+any event, exercised its discretion to allow Jane’s Accountant—a
+designated rebuttal expert—to testify during Jane’s case-in-chief,
+a decision Chad does not here challenge. For these reasons, Dierl
+is not helpful to Chad’s arguments.
+
+
+ 20241180-CA                      17               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                           Canter v. Canter
+
+
+rebuttal expert from testifying in the case in chief.” Utah R. Civ.
+P. 26(a)(4)(C)(iii) (emphasis added). This language suggests that
+the drafters of the rules envisioned a scenario in which a properly
+designated rebuttal expert could testify in the case-in-chief of a
+party bearing the burden of proof on an issue. See Gallegos v.
+Brewski’s on Historic 25th St., </pre><span class="citation" data-id="11409923"><a href="/opinion/10942339/gallegos-v-brewskis/#43" aria-description="Citation for case: Gallegos v. Brewskis">2026 UT App 120, ¶ 43</a></span><pre class="inline"> (“The text in
+rule 26(a)(4)(C)(iii) is permissive; it expressly provides that the
+court may preclude an expert disclosed only as a rebuttal expert
+from testifying in the case in chief.” (cleaned up)), petition for cert.
+filed, Oct. 9, 2026 (No. 20261347).
+
+¶39 But even if the rules could be considered ambiguous on
+this point, we agree with Jane that the practicalities of the
+situation cut strongly in her favor. Generally, alimony claims can
+be fully proved and supported at trial without expert testimony.
+See Wellman v. Kawasaki, </pre><span class="citation" data-id="9395875"><a href="/opinion/9400399/wellman-v-kawasaki/#14" aria-description="Citation for case: Wellman v. Kawasaki">2023 UT App 11, ¶ 14</a></span><pre class="inline">, </pre><span class="citation" data-id="9395875"><a href="/opinion/9400399/wellman-v-kawasaki/" aria-description="Citation for case: Wellman v. Kawasaki">525 P.3d 139</a></span><pre class="inline">
+(stating that “the most common way” for alimony claimants to
+satisfy their burden of proof is by “provid[ing] the court with a
+credible financial declaration and supporting documentation to
+demonstrate that the [relevant] factors support an award of
+alimony” (cleaned up)); see also Munoz-Madrid v. Carlos-Moran,
+</pre><span class="citation" data-id="5138713"><a href="/opinion/5310162/munoz-madrid-v-carlos-moran/#10" aria-description="Citation for case: Munoz-Madrid v. Carlos-Moran">2018 UT App 95, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="5138713"><a href="/opinion/5310162/munoz-madrid-v-carlos-moran/" aria-description="Citation for case: Munoz-Madrid v. Carlos-Moran">427 P.3d 420</a></span><pre class="inline"> (finding that even though a
+party failed to present expert testimony or even file a financial
+declaration, “there was not a complete lack of evidence to
+support” an alimony award). And in domestic cases—an area of
+the law in which nearly 75% of cases in Utah involve at least one
+unrepresented party, see And Justice for All, Domestic Violence and
+Family Law Legal Aid, https://le.utah.gov/interim/2025/pdf/
+00001035.pdf [https://perma.cc/6E7G-CEBD]—parties are often
+cash-strapped and making every effort to resolve their litigation
+in the most cost-effective way possible. In such situations, parties
+may not want to spend the money to hire an expert to support an
+alimony claim, at least not until they know that the other side is
+going to spend the money to do so in opposition to such a claim.
+As Jane sensibly points out in her brief, “a party with the burden
+of proof may not think that they need an expert on these issues or
+
+
+
+ 20241180-CA                      18               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+may not want to (or be able to) spend money on them,” but if “the
+other side then chooses to retain an expert to testify about those
+[same] issues, the rules rightfully permit the party with the
+burden to then decide whether they want to retain a rebuttal
+expert.” Indeed, the rule interpretation for which Chad advocates
+would put a lot of pressure on alimony claimants to designate
+case-in-chief accounting experts in nearly every case, because they
+would know that if they elect not to, the other side would have
+the exclusive and unrebuttable option to be the only party with an
+accounting expert at trial, a fact that may put the alimony claimant
+at a significant disadvantage.
+
+¶40 Chad pushes back, claiming that interpreting the rule in
+Jane’s favor “wholly undermines [r]ule 26’s purpose of
+‘eliminat[ing] unfair surprise and provid[ing] the opposing party
+with a reasonable opportunity to prepare for trial.’” (Quoting
+Erickson v. Erickson, </pre><span class="citation" data-id="6321322"><a href="/opinion/6449211/erickson-v-erickson/#28" aria-description="Citation for case: Erickson v. Erickson">2022 UT App 27, ¶ 28</a></span><pre class="inline">, </pre><span class="citation" data-id="6321322"><a href="/opinion/6449211/erickson-v-erickson/" aria-description="Citation for case: Erickson v. Erickson">507 P.3d 824</a></span><pre class="inline">.) We
+disagree; no strategic windfall results for a party who bears the
+burden of proof and who chooses to forgo disclosing a case-in-
+chief expert yet later opts to disclose a rebuttal expert. After all,
+the decision to take this path is not without risk, because if the
+party who bears the burden of proof chooses to forgo timely
+designating a case-in-chief expert, any later-designated rebuttal
+expert will be strictly confined to rebutting the matters discussed
+by the other side’s expert and will not be allowed to offer opinions
+on other matters. Moreover, it will be entirely up to the court’s
+discretion as to whether that rebuttal expert will be allowed to
+offer his or her limited rebuttal opinions in the party’s case-in-
+chief; the court has the discretion to restrict that expert solely to
+testimony given at the end of the trial, in rebuttal. See Utah R. Civ.
+P. 26(a)(4)(C)(iii) (“The court may preclude an expert disclosed
+only as a rebuttal expert from testifying in the case in chief.”).
+
+¶41 In sum, Jane properly and timely disclosed Jane’s
+Accountant as a rebuttal witness on a matter for which she bore
+the burden of proof; her decision not to designate a case-in-chief
+
+
+
+ 20241180-CA                     19               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+accounting expert on this topic did not preclude her from
+designating a rebuttal expert. On this basis, we reject Chad’s
+challenge to the trial court’s order denying his motion in limine
+asking for exclusion of Jane’s Accountant.
+
+                           II. Alimony
+
+¶42 Second, Chad challenges—in two ways—the trial court’s
+order requiring him to pay Jane $8,623 per month in alimony.
+First, he contends that the court incorrectly calculated Jane’s
+reasonable monthly expenses. Next, he asserts that the court
+exceeded its discretion when it attributed the entirety of the
+2LMD bonus payment to his 2021 income. We find neither of these
+arguments persuasive.
+
+A.     Jane’s Expenses
+
+¶43 Chad’s grievance regarding the court’s calculation of Jane’s
+expenses is largely a challenge to the legal framework the court
+used in determining those expenses. Specifically, he contends that
+the court used a framework that did not properly take into
+account the parties’ marital standard of living. And he asserts that
+the court’s utilization of this improper legal framework led to
+miscalculations regarding Jane’s reasonable monthly expenses.
+We reject these arguments because the court applied a proper
+legal framework and because Chad has not borne his appellate
+burden of demonstrating that the court exceeded its discretion in
+calculating any individual line item in Jane’s monthly expenses.
+
+¶44 “The primary purposes of alimony are: (1) to get the
+parties as close as possible to the same standard of living that
+existed during the marriage; (2) to equalize the standards of living
+of each party; and (3) to prevent the recipient spouse from
+becoming a public charge.” Fox v. Fox, </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/#15" aria-description="Citation for case: Fox v. Fox">2022 UT App 88, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">515
+P.3d 481</a></span><pre class="inline"> (cleaned up). To further these purposes, any award
+“should be fashioned in consideration of the recipient spouse’s
+
+
+
+ 20241180-CA                    20              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+station in life in light of the parties’ customary or proper status or
+circumstances, with the goal being an alimony award calculated
+to approximate the parties’ standard of living during the marriage
+as closely as possible.” </pre><span class="citation no-link">Id.</span><pre class="inline"> (cleaned up). “The ultimate test of the
+propriety of an alimony award is whether . . . the party receiving
+alimony will be able to support him- or herself as nearly as
+possible at the standard of living enjoyed during marriage.” Davis
+v. Davis, </pre><span class="citation" data-id="9572780"><a href="/opinion/1309789/davis-v-davis/#649" aria-description="Citation for case: Davis v. Davis">749 P.2d 647, 649</a></span><pre class="inline"> (Utah 1988) (cleaned up).
+
+¶45 A proper alimony analysis is “governed by a multi-factor
+inquiry” outlined in Utah’s alimony statute. See Miner v. Miner,
+</pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/#16" aria-description="Citation for case: Miner v. Miner">2021 UT App 77, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">496 P.3d 242</a></span><pre class="inline">. The applicable statute requires
+the court to analyze certain factors when considering a party’s
+alimony claim, including “the financial condition and needs of the
+recipient spouse,” “the recipient’s earning capacity or ability to
+produce income,” and “the ability of the payor spouse to provide
+support.” Utah Code § 30-3-5(10)(a)(i)–(iii) (2023). 7 The statute
+
+
+7. In 2024 and again in 2026—after the trial court made its alimony
+award in this case—our legislature made changes to the relevant
+alimony statute. See Utah Code § 81-4-502. One of the
+amendments included a renumbering. Id. For purposes of our
+opinion and analysis here, we cite and rely on the statute in effect
+at the time of trial (which took place in March 2024, before the
+2024 amendments went into effect). See id. § 30-3-5 (2023). We do
+so not only because no party to this appeal asks us to do
+otherwise, but also because the changes our legislature made to
+the statute may not be entirely superficial. Compare id. § 81-4-
+502(1) (2026) (stating that “the standard of living existing during
+the marriage” is one of the “factors” that a court “shall consider”
+in determining alimony), with id. § 30-3-5(10)(a), (d) (2023) (listing
+several factors that a court “shall consider” in determining
+alimony, which list did not include the marital standard of living,
+and then stating that, “[a]s a general rule, the court should look to
+the standard of living, existing at the time of separation, in
+                                                       (continued…)
+
+
+ 20241180-CA                     21               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                           Canter v. Canter
+
+
+directs courts, in considering and applying these factors, to “look
+to the standard of living[] existing at the time of separation.” </pre><span class="citation no-link">Id.</span><pre class="inline">
+§ 30-3-5(10)(d). And we have stated that “trial courts have broad
+discretion in making alimony awards so long as they consider the
+statutory alimony factors and are mindful of the primary
+purposes of alimony,” including “maintain[ing] the standard of
+living the parties enjoyed during the marriage.” Boyer v. Boyer,
+</pre><span class="citation" data-id="2458637"><a href="/opinion/2458637/boyer-v-boyer/" aria-description="Citation for case: Boyer v. Boyer">2011 UT App 141</a></span><pre class="inline">, ¶ 19 n.6, </pre><span class="citation" data-id="2458637"><a href="/opinion/2458637/boyer-v-boyer/" aria-description="Citation for case: Boyer v. Boyer">259 P.3d 1063</a></span><pre class="inline"> (cleaned up).
+
+¶46 In Fox, we laid out the steps that courts should take when
+assessing an alimony claim. </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/#20" aria-description="Citation for case: Fox v. Fox">2022 UT App 88, ¶ 20</a></span><pre class="inline">. There, we
+stated that “the first step . . . is for the court to assess the needs of
+the parties, in light of their marital standard of living.” </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">Id.</a></span><pre class="inline"> (cleaned
+up). “This means that the court must determine the parties’ needs
+reasonably incurred, calculated upon the standard of living
+enjoyed during the marriage.” </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">Id.</a></span><pre class="inline"> (cleaned up). After that, in the
+second step, “the court must determine the extent to which the
+receiving spouse is able to meet his or her own needs with his or
+her own income, and if the receiving spouse is able to meet all his
+or her needs with his or her own income, then the court should
+not award alimony.” </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">Id.</a></span><pre class="inline"> (cleaned up). “Finally, and only if the
+court determines that the recipient spouse cannot meet his or her
+own needs, the final step in the process is for the court to assess
+whether the payor spouse’s income, after meeting his or her
+needs, is sufficient to make up some or all of the shortfall between
+the receiving spouse’s needs and income.” </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">Id.</a></span><pre class="inline"> (cleaned up).
+
+
+
+determining alimony in accordance with” the factors listed). The
+parties to this appeal—perhaps given their understanding that the
+pre-2024 law applies here—have not offered any briefing on the
+question of whether the 2024 statutory amendments were meant
+to effect any material change in how courts calculate alimony in
+light of the marital standard of living. We therefore offer no
+opinion on that question, and we here apply the law as it existed
+at the time of trial.
+
+
+ 20241180-CA                       22               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+¶47 As concerns the first step—assessing the reasonable
+monthly needs of the parties, viewed through the prism of the
+parties’ marital standard of living—we clarified that “there is
+usually no need for a trial court to make a separate specific finding
+regarding the overall marital standard of living as measured by
+the total amount of money spent each month by the couple while
+they were married.” Id. ¶ 19 (cleaned up). In Fox, one of the parties
+had argued that the district court had “failed to start its alimony
+analysis by . . . calculating the overall marital standard of living”
+and had instead “erroneously moved straight to an arbitrary
+needs-based alimony analysis.” Id. ¶ 18. We rejected this
+argument, emphasizing that a proper analysis of the parties’
+reasonable monthly needs involves a line-by-line assessment of
+their expenses, viewed “in light of their marital standard of
+living.” Id. ¶ 20 (cleaned up). And we have since clarified that this
+is properly done by assessing each claimed expense, on a line-by-
+line basis, in light of the marital standard of living, and not by
+calculating the parties’ total expenses during the marriage and
+dividing those in half. See Clarke v. Clarke, </pre><span class="citation no-link">2023 UT App 160</span><pre class="inline">, ¶ 57,
+</pre><span class="citation no-link">542 P.3d 935</span><pre class="inline"> (concluding that a finding about the “overall marital
+standard of living . . . is typically unnecessary” and “is not one of
+the input variables that a court needs to assess before computing
+an alimony award,” and stating that “courts should not calculate
+alimony by simply dividing the couple’s pre-separation expenses
+in half” (cleaned up)); accord Smith v. Smith, </pre><span class="citation" data-id="9949537"><a href="/opinion/9482924/smith-v-smith/#14" aria-description="Citation for case: Smith v. Smith">2024 UT App 28, ¶ 14</a></span><pre class="inline">,
+</pre><span class="citation no-link">546 P.3d 349</span><pre class="inline">, cert. granted, </pre><span class="citation no-link">564 P.3d 958</span><pre class="inline"> (Utah 2025); see also Fox,
+</pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/#25" aria-description="Citation for case: Fox v. Fox">2022 UT App 88, ¶ 25</a></span><pre class="inline"> (“[T]he court was not required to make any
+specific finding regarding how much total money the parties
+spent each month during the marriage, and it was certainly not
+required to presumptively award [the wife] half of any such
+amount as alimony.”).
+
+¶48 Here, the trial court correctly applied these legal principles
+and made line-by-line expense findings regarding the parties’
+reasonable monthly expenses as reflected by the parties’ marital
+standard of living. First, the court considered the evidence
+
+
+
+ 20241180-CA                     23              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+presented regarding how much the parties had spent on the
+various line items during the marriage, which evidence came not
+only from the parties’ competing experts but also from their own
+testimony and documents. In particular, the court took into
+account Jane’s testimony regarding certain expense items listed
+on her financial declaration, including gym memberships,
+personal care, clothing, entertainment, travel, groceries, jewelry,
+and pets. Next, the court made various adjustments to specific line
+items in Jane’s list of monthly expenses; for instance, the court
+reduced Jane’s claimed “telephone” expense because it found that
+the claimed amount “included the costs for . . . family members.”
+In the end, after considering each claimed expense in light of the
+marital standard of living, the court added Jane’s line items
+together and calculated her reasonable expenses to be $11,519 per
+month. We perceive no incorrect application of law in the trial
+court’s approach.
+
+¶49 Chad’s arguments to the contrary are rooted in a
+misunderstanding of Utah law—similar to the one espoused by
+the appellant in Fox—regarding the first step of the alimony
+analysis. For instance, Chad chides the trial court for not
+adequately tying its expense determinations to the marital
+standard of living, complaining that the court ignored Chad’s
+Accountant’s testimony regarding the parties’ marital standard of
+living and Jane’s reasonable expenses. In particular, Chad objects
+to the court’s determination that Jane’s expenses are $11,519 per
+month, protesting that this amount is “nearly the entire marital
+household” expense amount (which Chad’s Accountant had
+computed to be $14,214.32 per month) and is “over $4,300 per
+month more than her allocated share of the marital standard.” But
+had the court conducted the analysis in the manner Chad
+suggests, that would have been legally incorrect and may have
+led to reversible error.
+
+¶50 Indeed, requiring the analysis to be conducted in the
+manner Chad suggests would handcuff trial judges and would
+
+
+
+ 20241180-CA                    24              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+prevent them—at least in many cases, depending upon the
+litigants’ income levels—from truly being able to take the marital
+standard of living into account when assessing the reasonableness
+of each party’s claimed expenses. It is incorrect and impractical to
+simply tally the couple’s total pre-divorce expenses and cut them
+in half, because many of life’s typical expense items—for instance,
+housing, utilities, insurance, internet, cellular phone service, even
+streaming subscriptions—must be replicated by both spouses
+following separation. And the law aims for each party—assuming
+there are sufficient financial resources to go around—to
+(separately) enjoy the same level of amenities they enjoyed
+(together) during the marriage. For this reason, we have
+instructed courts to assess each party’s expenses on a line-by-line
+basis—and not on a total-expenses-divided-in-half basis—and
+assign a value to each line item that is commensurate with the
+parties’ habits during the marriage. See Smith, </pre><span class="citation" data-id="9949537"><a href="/opinion/9482924/smith-v-smith/#14" aria-description="Citation for case: Smith v. Smith">2024 UT App 28,
+¶ 14</a></span><pre class="inline"> (stating that “the proper way to take the marital standard of
+living into account is at step one by assessing a party’s claimed
+line-item expenses in light of that standard” (cleaned up)).
+
+¶51 But here, Chad does not challenge any of the specific line-
+item amounts the trial court assigned to Jane as her reasonable
+expenses. Instead—and in addition to his unpersuasive legal
+arguments about the trial court’s overall approach—he asserts
+generally that the court erred by basing some of those line-item
+amounts on Jane’s “own unsubstantiated figures” with “no
+supporting documentation.” But there is nothing wrong with the
+trial court’s reliance—in part—on Jane’s testimony and financial
+declaration. Indeed, we have stated that “the most common way
+for a party to satisfy” the burden of proving a party’s need in light
+of the marital standard of living “is for the party to provide the
+court with a credible financial declaration and supporting
+financial documentation to support an award of alimony.”
+Krajeski v. Krajeski, </pre><span class="citation" data-id="10800273"><a href="/opinion/10333685/krajeski-v-krajeski/#46" aria-description="Citation for case: Krajeski v. Krajeski">2025 UT App 19, ¶ 46</a></span><pre class="inline">, </pre><span class="citation" data-id="10800273"><a href="/opinion/10333685/krajeski-v-krajeski/" aria-description="Citation for case: Krajeski v. Krajeski">565 P.3d 544</a></span><pre class="inline"> (cleaned
+up), cert. denied, </pre><span class="citation no-link">574 P.3d 519</span><pre class="inline"> (Utah 2025). And there was other
+evidence at the trial court’s disposal, including rebuttal testimony
+
+
+
+ 20241180-CA                     25              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+from Jane’s Accountant, that supported the trial court’s ultimate
+conclusions regarding Jane’s monthly expenses. Thus, Chad has
+not carried his burden of persuasion on appeal of convincing us
+that any of those line items were incorrectly computed or
+insufficiently supported by the evidence presented at trial.
+
+¶52 Thus, for all of these reasons, we reject Chad’s challenges
+to the trial court’s findings and conclusions regarding Jane’s
+reasonable monthly expenses.
+
+B.    The Parties’ Income Figures
+
+¶53 Chad also challenges the trial court’s determinations
+regarding the income figures attributed to the parties for purposes
+of computing Chad’s child support and alimony obligations.
+Specifically, he argues that the court erred by attributing the
+entirety of the 2LMD bonus payment to Chad’s 2021 income,
+rather than attributing half of that money to Jane, who was a “50
+percent shareholder” in the company. In response, Jane argues
+that the court correctly attributed the entire amount to Chad,
+pointing out that he was the one who actually “earned the
+money” and asserting that “[t]here is no reasonable argument that
+Jane earned any of that income.” 8 We agree with Jane.
+
+
+
+8. Jane also accurately points out that if we reject Chad’s
+challenges to the court’s determinations regarding her monthly
+expenses—which we’ve done, see supra Part II.A—then Chad’s
+challenge to the court’s findings regarding the parties’ income
+figures cannot make any difference to the calculation of Jane’s
+alimony award, because even if the 2021 bonus payment were not
+attributed entirely to Chad, he would still be able to pay all of
+Jane’s shortfall. But Chad’s challenge to the court’s income
+findings still could affect his now-expired child support
+obligation, and for this reason we proceed to address the merits
+of his argument.
+
+
+ 20241180-CA                    26              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+¶54 In the second step of an alimony analysis, “the court must
+determine the extent to which the receiving spouse is able to meet
+his or her own needs with his or her own income, and if the
+receiving spouse is able to meet all his or her needs with his or her
+own income, then the court should not award alimony.” Fox v.
+Fox, </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/#20" aria-description="Citation for case: Fox v. Fox">2022 UT App 88, ¶ 20</a></span><pre class="inline">, </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">515 P.3d 481</a></span><pre class="inline"> (cleaned up). But if the
+recipient spouse cannot meet his or her own needs, then in the
+third step the court must “assess whether the payor spouse’s
+income, after meeting his or her needs, is sufficient to make up
+some or all of the shortfall between the receiving spouse’s needs
+and income.” </pre><span class="citation" data-id="7797627"><a href="/opinion/7853761/fox-v-fox/" aria-description="Citation for case: Fox v. Fox">Id.</a></span><pre class="inline"> (cleaned up). These steps necessarily require the
+court to make findings regarding the parties’ respective “earning
+capacity or ability to produce income.” See Utah Code § 30-3-
+5(10)(a)(ii) (2023).
+
+¶55 Here, Chad’s Accountant testified that 2LMD “was created
+for a one-time commission from a business opportunity” in which
+“Chad helped facilitate financing for investors looking to
+develop land” and that, “[f]or his services” in this regard, Chad
+was paid “a one-time commission of $250,000.” Jane also
+testified that she had no knowledge of 2LMD, and she went so
+far as to subpoena the company to obtain its operating
+agreement and learn about the finder’s fee. The court was also
+aware that the parties had stipulated to an income figure for Jane.
+Based on this evidence, the court at least impliedly found that
+Chad was the one who earned the 2LMD bonus payment, and
+based in part on that implied finding, it determined that Chad’s
+gross annual income, for child support and alimony purposes,
+was $526,531.
+
+¶56 Chad disagrees with the underlying finding that formed
+the basis of the court’s determination to include the entire 2LMD
+payment as part of his income, asserting that the evidence does
+not definitively show that he was the one who actually earned the
+2021 bonus payment and arguing that the court should at least
+have assigned half of the value of that payment to Jane’s 2021
+
+
+
+ 20241180-CA                     27              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+income. 9 But as noted, see supra ¶ 31, we review the court’s factual
+finding that it was Chad who earned the bonus payment for clear
+error, and we will disturb it only if “the court’s conclusion[] do[es]
+not logically follow from, or [is] not supported by, the evidence.”
+See Klein v. Klein, </pre><span class="citation" data-id="11207030"><a href="/opinion/10740445/klein-v-klein/#25" aria-description="Citation for case: Klein v. Klein">2025 UT App 170, ¶ 25</a></span><pre class="inline">, </pre><span class="citation no-link">582 P.3d 1197</span><pre class="inline"> (cleaned
+up). In this case, the court’s implied finding regarding the 2021
+bonus payment is supported by ample evidence in the trial record,
+including the evidence described in the previous paragraph. And
+given that factual finding, the court did not exceed its discretion
+by including the bonus payment as part of Chad’s 2021 income.
+See generally Bond v. Bond, </pre><span class="citation" data-id="5138766"><a href="/opinion/5310215/bond-v-bond/#6" aria-description="Citation for case: Bond v. Bond">2018 UT App 38, ¶ 6</a></span><pre class="inline">, </pre><span class="citation" data-id="5138766"><a href="/opinion/5310215/bond-v-bond/" aria-description="Citation for case: Bond v. Bond">420 P.3d 53</a></span><pre class="inline">
+(“Courts have broad discretion to select an appropriate method of
+assessing a spouse’s income . . . .” (cleaned up)).
+
+¶57 On this basis, we reject Chad’s challenge to the trial court’s
+factual finding regarding the income figures attributed to the
+parties for purposes of child support and alimony.
+
+
+
+9. Chad also argues that “the only evidence regarding the [bonus
+payment’s] source and ownership was that . . . the parties
+reported the associated income on their marital tax return,” which
+he contends amounts to “uncontroverted evidence that each
+spouse owned 50% of the receiving entity.” While courts can look
+to the parties’ joint tax returns to determine their gross income,
+the court maintains discretion to also look to sources outside of
+the parties’ tax returns. See Utah Code § 78B-12-203(1) (2023)
+(“‘[G]ross income’ includes prospective income from any source,
+including earned and nonearned income sources which may
+include salaries, wages, commissions, royalties, bonuses, rents,
+gifts from anyone, prizes, dividends, severance pay, pensions,
+interest, trust income, alimony from previous marriages,
+annuities, capital gains, Social Security benefits, workers’
+compensation benefits, unemployment compensation, income
+replacement disability insurance benefits, and payments from
+‘nonmeans-tested’ government programs.”).
+
+
+ 20241180-CA                     28               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+                         III. Attorney Fees
+
+¶58 In her cross-appeal, Jane challenges some of the trial court’s
+rulings related to attorney fees. The court ordered that—as a
+general matter—both parties were to bear their own fees, and Jane
+does not challenge that order. Instead, she contends that the
+court—through some of its other decisions regarding property
+division—effectively (and in contravention of its own fee order)
+required her to pay some of Chad’s fees without making the
+findings necessary to support such an award.
+
+¶59 As we understand them, Jane’s arguments are centered on
+the Zions Account, which contained marital funds that Chad
+controlled in the months leading up to trial. She points out that
+the evidence she unearthed post-trial demonstrated that Chad
+paid his lawyers $85,000 out of that account before it was divided.
+She thus argues that at least this portion—$85,000—of Chad’s
+attorney fees were paid out of pre-division marital funds, while
+she was forced to pay all of her attorney fees out of her share of
+post-division monies. And she asserts that the trial court therefore
+erred by not adopting the commissioner’s recommendation that
+Chad be required to pay her $42,500, half of the amount he took
+out of the parties’ marital account to pay his attorney fees. We find
+merit in Jane’s position.
+
+¶60 “In divorce cases, both the decision to award attorney fees
+and the amount of such fees are within the trial court’s sound
+discretion.” Miner v. Miner, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/#108" aria-description="Citation for case: Miner v. Miner">2021 UT App 77, ¶ 108</a></span><pre class="inline">, </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">496 P.3d 242</a></span><pre class="inline">
+(cleaned up). But any such award “must be based on [i] evidence
+of the financial need of the receiving spouse, [ii] the ability of the
+other spouse to pay, and [iii] the reasonableness of the requested
+fees. And, failure to consider these factors is grounds for reversal
+on the fee issue.” </pre><span class="citation" data-id="5136789"><a href="/opinion/5308238/miner-v-miner/" aria-description="Citation for case: Miner v. Miner">Id.</a></span><pre class="inline"> (alterations in original) (cleaned up). Here,
+Jane argues that the court—even while saying that both parties
+were to bear their own fees—actually made a de facto attorney
+fees award that effectively required her to pay $42,500 of Chad’s
+
+
+
+ 20241180-CA                     29               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                          Canter v. Canter
+
+
+fees, and she asserts that it did so without making any findings
+supporting any such award.
+
+¶61 A similar situation arose in Miner. There, the court after
+trial “ordered each party to pay his or her own attorney and
+expert fees,” but it “made no adjustment to account for [a] portion
+of [the wife’s] attorney fees that [the husband] had already paid.”
+Id. ¶ 105. The husband filed a post-trial motion asking the trial
+court to make an appropriate adjustment, but the court refused.
+See id. ¶ 107. The husband appealed that decision, and we agreed
+with the husband, stating as follows:
+
+       In this case, it was within the court’s discretion to
+       make attorney fees awards to one party or another.
+       But in order to do so, the court must first make
+       adequate findings. Here, the court professed not to
+       be making any award of attorney fees, and to be
+       requiring each party to bear his or her own, but [the
+       husband] has persuasively argued that he paid a
+       significant part of [the wife’s] fees without being
+       credited for that payment. If the court wishes to
+       award [the wife] those fees, and require [the
+       husband] to pay them, it must engage with the
+       three-part test, and make the required findings. It
+       cannot make such an award sub silentio, while
+       asserting that its order asks both parties to bear their
+       own fees.
+
+Id. ¶ 109 (cleaned up). We remanded the case to the trial court and
+instructed the court to select between “two options.” Id. ¶ 110. It
+could “continue to insist that both parties bear their own fees, in
+which case it need[ed] to make an adjustment to account for any
+portion of [the wife’s] fees that [the husband had] paid, or at least
+explain why no such adjustment [was] necessary.” Id. Or,
+“[a]lternatively, it [could] explicitly make a partial award of
+
+
+
+
+ 20241180-CA                     30               </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+attorney fees to [the wife], in which case it need[ed] to make
+appropriate findings” as required by the three-part test. </pre><span class="citation no-link">Id.</span><pre class="inline">
+
+¶62 Similarly here, Jane has demonstrated that—due to Chad’s
+use of the undivided marital Zions Account prior to trial—she has
+effectively paid some of Chad’s attorney fees. Yet the court
+ordered after trial, and continued to insist following post-trial
+motions, that each party should bear their own attorney fees, even
+while it denied Jane’s continued requests for an adjustment. 10
+Thus, the court’s orders are in conflict, and we must remand this
+matter for the court to make the same choice required in the Miner
+remand: either make a $42,500 adjustment by ordering Chad to
+pay that amount to Jane, or explicitly make a partial award of
+attorney fees to Chad (which would require findings that Chad
+has a need and Jane has the ability to pay some of Chad’s fees). 11
+
+
+
+10. In this vein, Chad argues that “the law of the case doctrine
+supports” the trial court’s decision to overrule Jane’s objection to
+the commissioner’s recommendation because the court had
+already ruled on the issue of attorney fees multiple times. While
+we agree that the court had ruled on attorney fees in ordering that
+both parties pay their own attorney fees in connection with the
+divorce proceeding, Jane’s claim here is different. Specifically,
+Jane does not argue that the court should alter its attorney fees
+award requiring both parties to pay their own fees but, rather, that
+the court should effectuate that award by requiring both parties
+to actually pay their own fees with their separate property. This
+new claim had not been previously addressed by the trial court,
+meaning that the law of the case doctrine does not apply.
+
+11. Jane seeks attorney fees for her costs incurred in bringing this
+cross-appeal, arguing that “if she prevails on this issue, then she
+would have received attorney fees below.” This is incorrect. While
+it’s true that “as a general matter, when a party who received
+                                                      (continued…)
+
+
+ 20241180-CA                    31              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+                         Canter v. Canter
+
+
+                         CONCLUSION
+
+¶63 The trial court neither erred nor exceeded its discretion in
+allowing Jane’s Accountant to testify at trial. The court also
+applied the correct legal framework in evaluating Jane’s alimony
+claim, and Chad has not borne his burden of demonstrating that
+any of the court’s factual determinations related to alimony or
+child support are erroneous. We therefore reject all of Chad’s
+appellate arguments and affirm the court’s orders regarding child
+support and alimony.
+
+¶64 Regarding Jane’s cross-appeal, however, we find merit in
+her assertion that she was effectively compelled to pay a portion
+of Chad’s attorney fees; this not only conflicted with the court’s
+“bear-your-own-fees” order, but it was also unsupported by
+findings necessary to sustain such an award. We therefore
+remand this case to the trial court for the limited purpose of
+selecting between the two options outlined above.
+
+
+
+
+attorney fees below prevails on appeal, the party is also entitled
+to fees reasonably incurred on appeal,” Behar v. Johnson, </pre><span class="citation" data-id="10607737"><a href="/opinion/10141136/behar-v-johnson/" aria-description="Citation for case: Behar v. Johnson">2024 UT
+App 129</a></span><pre class="inline">, ¶ 34 n.2, </pre><span class="citation" data-id="10607737"><a href="/opinion/10141136/behar-v-johnson/" aria-description="Citation for case: Behar v. Johnson">557 P.3d 607</a></span><pre class="inline"> (cleaned up), the court generally
+ordered (and Jane does not dispute) that both parties pay their
+own attorney fees. That is, Jane was never awarded attorney fees
+below, so she is not entitled to an award of attorney fees incurred
+on appeal simply by operation of the general rule we articulated
+in Behar. The fact that she prevailed on this issue here on appeal
+does not mean that she would have received attorney fees below;
+our ruling here is simply that Jane is entitled either to an
+adjustment in order to make true the trial court’s order that both
+sides bear their own fees or to a modified order supported by
+adequate findings. On this basis, Jane’s request for attorney fees
+incurred in connection with this appeal is denied.
+
+
+ 20241180-CA                    32              </pre><span class="citation no-link">2026 UT App 168</span><pre class="inline">
+</pre>

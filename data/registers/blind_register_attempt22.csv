@@ -1,0 +1,13 @@
+attempt,case,jurisdiction,court_level,category,posture,dismissal_subtype,layer,actual_notch
+22,State ex rel. Zander v. Summit Cty.,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. Evans v. Scioto Cty.,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. White v. Nusbaum,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,Smith v. Sheldon,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. Miller v. Bower,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. Cobb v. Adult Parole Auth.,OH-Supreme,apex,criminal,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. Washington v. D'Apolito,OH-Supreme,apex,criminal,dismissal,merits,pure_law,REVERSED
+22,Schmitz v. NCAA,OH-Supreme,apex,civil,dismissal,merits,pure_law,REVERSED
+22,State ex rel. Roush v. Montgomery,OH-Supreme,apex,civil,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. O'Malley v. Russo,OH-Supreme,apex,civil,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM
+22,State ex rel. Yost v. Omar Mosque,OH-Supreme,apex,admin,dismissal,merits,pure_law,REVERSED
+22,State ex rel. St. Clair Twp. v. Hamilton,OH-Supreme,apex,admin,dismissal,gatekeeping,pure_law,CLEAN_AFFIRM

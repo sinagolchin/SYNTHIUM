@@ -1,0 +1,528 @@
+<pre class="inline"> United States Court of Appeals
+         FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+Argued April 6, 2026                    Decided July 28, 2026
+
+                         No. 25-1106
+
+           THE ESTATE OF STEPHEN M. JENNIONS,
+                       PETITIONER
+
+                              v.
+
+        COMMODITY FUTURES TRADING COMMISSION,
+                    RESPONDENT
+
+
+
+               On Petition for Review of Orders
+       of the Commodity Futures Trading Commission
+
+
+
+     Stephen S. Hasegawa argued the cause and filed the briefs
+for Petitioner. With him on the briefs were Erika A. Kelton and
+Samuel E. Brown.
+
+    Raagnee Beri, Senior Assistant General Counsel,
+Commodity Futures Trading Commission, argued the cause for
+Respondent. With her on the brief were Tyler Badgley,
+General Counsel and Anne W. Stukes, Acting Deputy General
+Counsel.
+
+    Before: PILLARD, WILKINS, and KATSAS, Circuit Judges.
+
+    Opinion for the Court filed by Circuit Judge WILKINS.
+                               2
+     WILKINS, Circuit Judge:           Stephen M. Jennions
+(“Jennions”) petitions for review of the Commodity Futures
+Trading Commission’s (“CFTC” or “Commission”) final
+orders denying his application for a whistleblower award. His
+award application corresponded to a set of administrative
+actions (“Covered Actions”) taken by the Commission in
+November 2014 against five banks for manipulating
+benchmark rates in the foreign exchange market. Jennions
+contends that the denial was arbitrary, capricious, an abuse of
+discretion, or otherwise not in accordance with law because the
+information he provided the Commission set the agency’s
+investigation in motion and led to a successful enforcement
+action against the five banks. See </pre><span class="citation no-link">17 C.F.R. § 165.2</span><pre class="inline">(i)(1). He
+further alleges that other departments within the CFTC exerted
+undue influence that contributed to the denial of his
+application.
+
+     We disagree. The CFTC properly denied Jennions’s
+application after reasonably determining that he did not
+provide the Commission with original information that was
+sufficiently specific and credible to cause the Commission staff
+to commence their investigation into the five banks. The
+Commission also reasonably rejected Jennions’s claim that
+there was undue control or influence within the Commission
+that contributed to the denial of his application as there is no
+record evidence to support his contention. And even assuming
+some inter-Commission participation occurred in violation of
+the Commission’s regulations, Jennions still failed to identify
+any resulting prejudice from that alleged violation that affected
+the outcome of his application. See </pre><span class="citation no-link">5 U.S.C. § 706</span><pre class="inline">(2). We
+therefore deny the petition for review.
+                               3
+                               I.
+
+                               A.
+
+     The Dodd-Frank Wall Street Reform and Consumer
+Protection Act (“Dodd-Frank Act”) amended the Commodity
+Exchange Act to authorize monetary awards for
+whistleblowers who provide the Commodity Futures Trading
+Commission with information about violations of the
+Commodity Exchange Act. </pre><span class="citation no-link">Pub. L. No. 111-203, § 748</span><pre class="inline">, 124
+Stat. 1739–47 (2010) (codified at </pre><span class="citation no-link">7 U.S.C. § 26</span><pre class="inline">); see also </pre><span class="citation no-link">17
+C.F.R. § 165.1</span><pre class="inline">. To be eligible to receive a monetary award, a
+whistleblower must “voluntarily provide[] original information
+to the Commission that le[ads] to the successful enforcement
+of [a] covered judicial or administrative action.” </pre><span class="citation no-link">7 U.S.C. §
+26</span><pre class="inline">(b)(1). The Dodd-Frank Act defines “original information”
+as information that “is derived from the independent
+knowledge or analysis of a whistleblower”; “is not known to
+the Commission from any other source, unless the
+whistleblower is the original source of the information”; and
+“is not exclusively derived . . . from the news media, unless the
+whistleblower is a source of the information.” </pre><span class="citation no-link">7 U.S.C. §
+26</span><pre class="inline">(a)(4); see also </pre><span class="citation no-link">17 C.F.R. § 165.2</span><pre class="inline">(k)(1)–(3).
+
+     The regulations implementing the whistleblower award
+program set forth three circumstances detailing when
+information could have “led to” to a successful enforcement
+action. Whistleblower Incentives and Protection, </pre><span class="citation no-link">76 Fed. Reg.
+53172</span><pre class="inline">, 53201 (August 25, 2011). Each circumstance requires
+the whistleblower to have submitted the information directly to
+the CFTC. </pre><span class="citation no-link">17 C.F.R. § 165.2</span><pre class="inline">(i)(1)–(3). And particularly
+relevant here, the information provided must be “sufficiently
+specific, credible, and timely to cause the Commission staff to
+commence an examination, [or] open an investigation” into the
+alleged violation that prompts the agency to “br[ing] a
+                               4
+successful judicial or administrative action based in whole or
+in part on conduct that was the subject of the whistleblower’s
+original information[.]” </pre><span class="citation no-link">Id.</span><pre class="inline"> § 165.2(i)(1).
+
+                               B.
+
+     This case focuses on CFTC Orders against five banks
+regarding the manipulation of the World Markets/Reuters
+(“WM/R”) Closing Spot Rates (“WM/R Rates”).
+SJ_ROA0000250. The WM/R Rates are widely used foreign-
+exchange benchmark rates that establish relative currency
+values and are used to price cross-currency swaps, foreign-
+exchange swaps, spot transactions, forwards, options, futures,
+and other derivative instruments. Id. Accordingly, “the
+integrity of the WM/R Rates and other FX benchmarks is
+critical to the integrity of the markets in the United States and
+around the world.” Id. The most widely used WM/R rate is
+set at 4 p.m. London time (the “4 p.m. WM/R fix”).
+Respondent’s Br. 5; SJ_ROA0000140. The 4 p.m. WM/R fix
+is calculated using bids and offers extracted from an electronic
+trading system during a 60-second window (“fix period”), from
+which WM/R determines a median-based mid-trade rate. Id.
+Large transactions executed before and during the fix period
+can influence the resulting rate. Id.
+
+     On January 7, 2013, Jennions voluntarily provided the
+United Kingdom’s Financial Conduct Authority (“UK FCA”
+or “UK Authority”) information concerning alleged
+manipulation of foreign-exchange benchmark rates. In his
+initial communication, Jennions described practices he
+observed while working at Deutsche Bank and Morgan Stanley
+in which traders executed transactions before the fix period to
+obtain preferential pricing for banks at the expense of
+customers requesting execution at the 4 p.m. WM/R fix. [Id.]
+                              5
+Jennions continued assisting the UK FCA over several months
+and provided additional information to the UK Authority.
+
+     On June 12, 2013, the news outlet Bloomberg reported that
+traders at several large banks manipulated foreign exchange
+benchmarks used to value trillions of dollars in investments.
+SJ_ROA0000234–240; Liam Vaughan, Gavin Finch &amp;
+Ambereen Choudhury, Traders Said to Rig Currency Rates to
+Profit Off Clients, BLOOMBERG (June 12, 2013, at 14:06 EDT),
+https://perma.cc/CR86-TEEP. The article described traders
+attempting to influence the 4 p.m. WM/R fix by front-running
+client orders and executing trades during the close of the
+trading session. SJ_ROA0000234; Respondent’s Br. 9–10.
+Citing anonymous traders with knowledge of these trades, the
+article also reported that traders shared order information
+through instant messaging to coordinate strategies and exert
+pressure on benchmark rates. SJ_ROA0000234, 238. The
+article further reported that the UK FCA was already “working
+with regulators worldwide to review the integrity of
+benchmarks” following earlier related enforcement actions.
+SJ_ROA0000235. The Bloomberg Article quoted a UK FCA
+spokesperson saying, “[t]he FCA is aware of these allegations
+and has been speaking to the relevant parties.” Id. The article
+did not attribute its reporting on the underlying scheme to the
+UK FCA beyond this statement.           Id. Jennions was not
+mentioned in the article, he was not one of the anonymous
+traders cited, and he did not communicate with the reporter
+before the article was published.
+
+     According to the CFTC, the Bloomberg article prompted
+the Commission’s Division of Enforcement to open an
+investigation a few days later, on or about June 19, 2013. Two
+CFTC staff members contacted the UK FCA one day before
+the investigation commenced to discuss the UK FCA’s
+statement in the Bloomberg article. The UK FCA explained
+                               6
+that it had not opened a formal investigation, was only
+reviewing certain transactions that might have influenced
+WM/R rates, and had not identified indicia of wrongdoing. At
+that time, the UK FCA did not identify any whistleblowers. Id.
+The CFTC therefore concluded it could proceed independently
+by requesting information directly from banks.
+
+     Almost a month later, after issuing information requests to
+select financial institutions, the CFTC sent the UK FCA a letter
+requesting information concerning complaints relating to the
+WM/R benchmark and asking the UK FCA to facilitate contact
+with any whistleblower willing to speak with the Commission.
+SJ_ROA0000301. The UK FCA reached out to Jennions, but
+neither disclosed his identity to the CFTC nor shared any
+information he provided to them per their policy that prohibits
+disclosure. Id.; see also SJ_ROA0000353. Although Jennions
+told the UK FCA that he was willing to meet with the CFTC,
+the Commission—before learning his identity or receiving any
+information he shared with the UK FCA—ultimately
+abandoned efforts to contact him. SJ_ROA0000302. The
+CFTC received no information from Jennions through the UK
+FCA prior to the successful enforcement action against the
+relevant financial institutions. SJ_ROA0000302.
+
+                                   C.
+
+     In November 2014, the CFTC issued five Orders
+(“Covered Actions”) filing and settling charges against five
+banks—Citibank N.A., JPMorgan Chase Bank N.A., UBS AG,
+The Royal Bank of Scotland plc, and HSBC Bank plc.—for
+attempted manipulation of global foreign exchange benchmark
+rates, particularly the WM/R Rates. SJ_ROA0000099.
+Monetary penalties totaled $1.4 billion. Id. On February 2,
+2015, the Commission posted the first four of five notices of
+the Covered Actions inviting whistleblower award applications
+                               7
+in connection with the successful enforcement action against
+each bank.      Respondent’s Br. 17–18; see, e.g., U.S.
+COMMODITY FUTURES TRADING COMMISSION, “Notice of
+Covered Action No. 2015-010 - JPMorgan Chase Bank, N.A.
+Award Claims Due No Later than May 4, 2015” (February 2,
+2015), https://www.whistleblower.gov/notices/2015-010. The
+final notice was posted on February 13, 2015.
+
+     On April 30, 2015, Jennions submitted a whistleblower
+award application asserting that he was a “critical source of
+information” whose February 11, 2015 Form Tip, Complaint,
+or Referral (“TCR”)1 submission and communications with the
+UK FCA initiated a cross-border investigation that led to the
+Covered Actions.         SJ_ROA0000001; SJ_ROA0000057;
+SJ_ROA0000064–67. In his application, Jennions did not
+claim to have direct contact with the CFTC before his February
+2015 TCR, nor did he claim to be a source for the Bloomberg
+Article. The Commission’s Whistleblower Office notified
+Jennions that it intended to recommend denial of his claim
+“because the information he provided to the Commission did
+not lead to the successful enforcement actions referenced in his
+Award Applications” and noted that Jennions did not “g[i]ve
+the Commission” the information that led to the successful
+resolution of the enforcement action. SJ_ROA0000313–14
+(emphasis in the original). Jennions responded with a letter
+from the UK FCA confirming that their office “received
+intelligence” from him and conducted inquiries based, in part,
+on his information. SJ_ROA0000329. However, the UK FCA
+declined to state that the inquiries prompted the CFTC to
+
+
+
+1 Jennions first contacted the CFTC on February 11, 2015, three
+months after the Commission issued its November 2014 orders, by
+submitting a TCR with information that he provided to the UK FCA.
+SJ_ROA0000001.
+                               8
+investigate the   relevant            financial     institutions.
+SJ_ROA0000330–31.
+
+     On February 9, 2022, the Commission’s Whistleblower
+Claims Review Staff (“CRS”) issued preliminary
+determinations for all award applications related to the
+Covered Actions and recommended denying them all because
+no claimant’s original information led to the successful
+enforcement of the Covered Actions for purposes of Rule
+165.2(i). See, e.g., SJ_ROA0000346–57. In addressing
+Jennions’s award application specifically, the CRS determined
+that he was ineligible for an award based on either his February
+TCR submission or as a derivative source for information the
+Commission obtained from the UK FCA or the Bloomberg
+Article. SJ_ROA0000353–57. In particular, the CRS
+determined that the information provided by Jennions was not
+sufficiently specific or credible and that they were “unable to
+act” on the information he provided without additional
+information or context from the UK FCA or him.
+SJ_ROA0000355–56. Jennions requested the materials the
+Commission relied on to make their determination and
+ultimately requested reconsideration, essentially recycling his
+prior arguments. He further raised for the first time that the
+Commission’s Office of the General Counsel improperly
+influenced the CRS.
+
+     On March 12, 2025, the Commission issued its Final
+Determinations denying Jennions’s application. The CFTC
+concluded that the Bloomberg Article—not his submissions—
+prompted the Commission’s investigation, reiterated that his
+information was not sufficiently specific, credible, or timely to
+have caused the investigation, and determined that his undue-
+influence arguments were unsupported. SJ_ROA0000473–85.
+Jennions timely filed a petition for review of the Commission’s
+denial of his whistleblower application.
+                                  9
+                                 II.
+
+    We have jurisdiction to review the denial of Jennions’s
+application under </pre><span class="citation no-link">7 U.S.C. § 26</span><pre class="inline">(f)(2).
+
+     Whistleblower determinations “shall be in the discretion
+of the Commission.” </pre><span class="citation no-link">7 U.S.C. § 26</span><pre class="inline">(f)(1). We “review the
+determination made by the Commission in accordance with
+section 706[] of” the Administrative Procedure Act, </pre><span class="citation no-link">id.</span><pre class="inline"> §
+26(f)(3).2 Thus, we will “hold unlawful and set aside agency
+action, findings, and conclusions” that are “arbitrary,
+capricious, an abuse of discretion, or otherwise not in
+accordance with law.” </pre><span class="citation no-link">5 U.S.C. § 706</span><pre class="inline">(2)(A). Agency action
+is deemed arbitrary and capricious when it “entirely failed to
+consider an important aspect of the problem, offered an
+explanation for its decision that runs counter to the evidence
+before the agency, or is so implausible that it could not be
+ascribed to a difference in view or the product of agency
+expertise.” Motor Vehicle Mfrs. Ass’n of the United States, Inc.
+v. State Farm Mut. Auto. Ins. Co., </pre><span class="citation" data-id="9429294"><a href="/opinion/110991/motor-vehicle-mfrs-assn-of-united-states-inc-v-state-farm-mut/#43" aria-description="Citation for case: Motor Vehicle Mfrs. Assn. of United States, Inc. v. State...">463 U.S. 29, 43</a></span><pre class="inline"> (1983).
+When reviewing agency factfinding, as we do here, “there is
+no material difference between the APA’s ‘arbitrary and
+capricious’ standard and its ‘substantial evidence’
+standard.” Crooks v. Mabus, </pre><span class="citation" data-id="4110601"><a href="/opinion/4333340/michael-crooks-v-raymond-mabus-jr/#423" aria-description="Citation for case: Michael Crooks v. Raymond Mabus, Jr.">845 F.3d 412, 423</a></span><pre class="inline"> (D.C. Cir.
+2016).
+
+                                 A.
+
+    Jennions contends that the Commission’s decision to deny
+his whistleblower award application under </pre><span class="citation no-link">17 C.F.R. §
+
+
+2</span><pre class="inline"> The code provision specifies “Section 7064 of Title 5,” but the
+United States Code Annotated notes that the proper section
+“[p]robably should be section 706.” </pre><span class="citation no-link">7 U.S.C. § 26</span><pre class="inline">(f)(3), n.2 (internal
+quotations removed).
+                                10
+165.2(i)(1) was arbitrary, capricious, and contrary to the
+evidence before the agency. As explained above, an applicant
+qualifies for an award under this provision only if he provides
+“original information that was sufficiently specific, credible,
+and timely to cause the Commission staff to commence an
+examination, [or] open an investigation” and the Commission
+brings a successful action based in whole or in part on the
+original information supplied by the applicant.3 </pre><span class="citation no-link">17 C.F.R. §
+165.2</span><pre class="inline">(i)(1). Jennions maintains that he has satisfied that
+requirement because he provided original information to the
+UK FCA, and that information, as referenced in the Bloomberg
+article, prompted the Commission’s investigation. Petitioner’s
+Br. 18–20. Although he does not dispute that the Bloomberg
+article triggered the investigation, he argues that the UK FCA’s
+statement within the article necessarily contributed to the
+Commission’s decision to begin the investigation and cannot
+be “disentangled from the rest” of the article’s content.
+Petitioner’s Br. 24; see also SJ_ROA0000224 (Div. of Enf.
+Decl. ¶ 3). He relies on the UK FCA spokesperson’s comment
+that “[t]he [UK] FCA is aware of these allegations and has been
+speaking to the relevant parties,” SJ_ROA0000235, and he
+asserts that he is the reason the UK FCA was “aware” of
+potential WM/R rate manipulation and the impetus for the UK
+FCA’s outreach to the “relevant parties” referenced.
+Petitioner’s Br. 19–21. To bolster his claims, Jennions
+attempts to treat the article’s independent, detailed allegations
+of WM/R rate manipulation as “corroborative” of the UK
+FCA’s brief statement, asserting that all of the statements in the
+article “describe[] the same conduct” he reported to the UK
+FCA. </pre><span class="citation no-link">Id.</span><pre class="inline"> at 20–22. He further contends that the UK FCA’s
+
+
+3 There are two other pathways for satisfying the “led to the
+successful enforcement” requirement. </pre><span class="citation no-link">17 C.F.R. §§ 165.2</span><pre class="inline">(i)(2), (3).
+Here, Jennions does not rely upon either of these alternative paths,
+so we will not reach the other grounds. Petitioner’s Br. 17 n.5.
+                                11
+statement, however limited, must have been credible, as “two
+Commission staff members . . . call[ed] the FCA” before the
+CFTC opened its investigation to gather information. </pre><span class="citation no-link">Id. at 24</span><pre class="inline">.
+
+     We disagree. We hold that the Commission’s conclusions
+and denial of Jennions’s application are supported by
+substantial evidence. The record demonstrates that the
+Commission opened its investigation based on the article’s
+“specific explanation of how the traders were manipulating
+rates,” not the “single-sentence quote that ‘the FCA is aware of
+these allegations and has been speaking to the relevant parties’”
+or any information it otherwise obtained from the UK FCA or
+Jennions. SJ_ROA0000479–81(CFTC Final Order 7–9);
+SJ_ROA0000260–66 (Division of Enforcement Declaration).
+As described above, the article provides detailed descriptions
+of the alleged misconduct, including how traders conducted the
+manipulations and shared their strategies across banks.
+Jennions has not met his burden of showing that the
+Commission’s conclusions that the specific entries in the
+Bloomberg article caused the CFTC to open an investigation
+are implausible or are counter to the evidence before us. As
+the Commission explained in its Final Order and highlighted
+on appeal, “the whistleblower program is designed to
+incentivize persons with knowledge of misconduct to come
+forward and share their information with the Commission[.]”4
+Respondent’s Br. 37 (citing </pre><span class="citation no-link">76 Fed. Reg. 53172</span><pre class="inline">, 53181; </pre><span class="citation no-link">17
+C.F.R. § 165.5</span><pre class="inline">(a)); see also J.A. 481 (CFTC’s Final Order at 9
+
+4 Jennions’s contention that he provided the Commission with
+original information “through the UK FCA” is the sort of argument
+a petitioner may also bring under </pre><span class="citation no-link">17 C.F.R. § 165.2</span><pre class="inline">(l)(2), which
+permits a whistleblower to qualify for an award when original
+information is initially provided to a “foreign futures authority.”
+Since Jennions does not proceed under this provision or claim to
+have made this type of submission, we do not need to reach this
+ground.
+                               12
+(“The whistleblower program is premised upon encouraging
+people to come forward with information[.]”)). There is an
+“expectation that the information . . . [is] high quality,
+reliab[le], and specific[]” such that there is a “meaningful
+nexus to the Commission’s ability to successfully complete its
+investigation.” 76 Fed. Reg. at 53177.
+
+     Even setting aside that Jennions did not provide the
+information directly to the CFTC, the lone, vague, non-
+substantive reference in the Bloomberg article to the UK
+FCA’s awareness of “allegations” offers no insight into the
+nature of misconduct at issue and thus cannot reasonably be
+deemed “specific,” especially in light of the other far more
+detailed references in the article. See id. Nor is there any basis
+for the proposition that detailed information supplied by
+independent contributors (i.e., the traders and other non-
+anonymous sources in the article) is necessarily attributable to
+other contributors (like the UK FCA) merely because the
+information appears within the same publication addressing a
+similar subject. So even if we were to assume, without
+deciding, that the UK FCA’s statement as quoted in the article
+communicated any “original information” Jennions provided,
+his claim would still fail as this quotation was not the type of
+specific and credible information that the CFTC whistleblower
+award program was created to reward. See id. Though “[w]e
+of course recognize that a whistleblower does not always know
+the full picture of a scheme,” they still “must provide some
+actionable detail.” Kitchen v. Commodity Futures Trading
+Comm’n, </pre><span class="citation no-link">177 F.4th 1226</span><pre class="inline">, 1232–33 (D.C. Cir. 2026).
+Actionable details were not provided by Jennions through the
+UK FCA’s statement in the article.
+                              13
+                              B.
+
+     The Commission also rejected Jennions’s claim that the
+CFTC’s Office of the General Counsel (“OGC”) improperly
+influenced the Claims Review Staff in violation of the
+Commission’s rules. Jennions contends that OGC “improperly
+influenced” the CRS by “supplant[ing] the Whistleblower
+Office during the claims review process” and participating in
+the Commission’s final agency determination in a manner that
+was arbitrary, capricious or otherwise contrary to the
+Commission’s rules. Petitioner’s Br. 27–38. He bases this
+assertion on his efforts to obtain additional materials after
+receiving the CRS’s Preliminary Determination denying his
+award application.
+
+     Under </pre><span class="citation no-link">17 C.F.R. § 165.7</span><pre class="inline">(g)(2)(i), a claimant may request
+to review the materials that formed the basis of the CRS’s
+Preliminary Determination, and regulations specify the
+universe of materials available. See </pre><span class="citation no-link">17 C.F.R. § 165.10</span><pre class="inline">. After
+receiving the Preliminary Determination, Jennions requested
+those materials. Unsatisfied with the initial production, he
+sought additional information, including the identities of the
+CRS members and the staff who drafted the Preliminary
+Determination, to verify that the CRS was “properly
+constituted” and that OGC had not exerted “undue influence.”
+SJ_ROA0000432.          He identified no document or
+communication suggesting a violation of the rules.
+
+     The Commission responded that Jennions was not entitled
+to the requested materials, including the composition of the
+CRS, because “Rule 165.10(b) states that ‘[t]he rules in this
+part do not entitle a claimant to obtain from the Commission
+any materials (including pre-decisional or internal deliberative
+process materials that are prepared to assist the Commission or
+the Claims Review Staff in deciding the claim) other than those
+                               14
+listed in paragraph (a) of this section.’” SJ_ROA0000434
+(quoting </pre><span class="citation no-link">17 C.F.R. § 165.10</span><pre class="inline">(b)). Composition of the CRS is
+not expressly listed in Rule 165.10 as subject to disclosure.
+Jennions nonetheless asserted, without any factual support, that
+“we must assume that OGC unduly influenced, and perhaps
+even drafted, the Preliminary Determination, contrary to
+Commission regulations.”           SJ_ROA0000424.            The
+Commission rejected Jennions’s arguments in its Final
+Determination, explaining that the relevant rules state that “the
+OGC must make a legal sufficiency review, not that the OGC
+must not do anything else” that the Commission, within its
+authority, deems appropriate. SJ_ROA0000485 (emphasis in
+original). The Commission further noted that “while Rule
+165.15(a)(2) excludes the Office of General Counsel from the
+Claims Review Staff, it does not follow that were the Office of
+General Counsel to take any other role it would be undue
+influence.” </pre><span class="citation no-link">Id.</span><pre class="inline"> The Commission ultimately found that
+Jennions contentions were not support by the record. </pre><span class="citation no-link">Id.</span><pre class="inline">
+
+     We agree with the Commission’s conclusion. As an initial
+matter, Jennions identifies no evidence that the OGC
+participated in the CRS’s determinations. His argument rests
+instead on speculation that misconduct may have occurred
+during the process, largely because the CFTC did not disclose
+internal materials and declined to confirm whether OGC
+participated in his proceedings. Respondent’s Br. 26–27; see
+also Petitioner’s Reply Br. 16. Speculation is insufficient to
+overcome the “highly deferential” arbitrary and capricious
+standard, which “presumes agency action to be valid.” Lead
+Indus. Ass’n, Inc. v. Env’t Prot. Agency, </pre><span class="citation multiple-matches"><a href="/c/F.2d/647/1130/">647 F.2d 1130</a></span><pre class="inline">, 1145
+(D.C. Cir. 1980) (citation modified).
+
+    Jennions likewise does not explain which stages of the
+award process were supposedly affected or how any
+involvement by OGC altered the outcome of his application.
+                              15
+So even assuming the OGC participated in the Claims Review
+Staff’s decision and that its participation violated the
+Commission’s regulations, Jennions still fails to identify any
+prejudice from that alleged violation. See Air Canada v.
+Department of Transp., </pre><span class="citation multiple-matches"><a href="/c/F.3d/148/1142/">148 F.3d 1142</a></span><pre class="inline">, 1156 (D.C. Cir. 1998);
+see also </pre><span class="citation no-link">5 U.S.C. § 706</span><pre class="inline">. But “[a] party claiming harm from an
+agency’s failure to follow its own rules must demonstrate some
+form of prejudice.” Schaefer v. McHugh, </pre><span class="citation" data-id="149115"><a href="/opinion/149115/schaefer-v-mchugh/#854" aria-description="Citation for case: Schaefer v. McHugh">608 F.3d 851, 854</a></span><pre class="inline">
+(D.C. Cir. 2010). As we have explained, “[i]f the agency’s
+mistake did not affect the outcome, if it did not prejudice the
+petitioner, it would be senseless to vacate and remand for
+reconsideration.” Jicarilla Apache Nation v. U.S. Dep’t of
+Interior, </pre><span class="citation" data-id="150821"><a href="/opinion/150821/jicarilla-apache-nation-v-united-states-department-of-the-interior/#1121" aria-description="Citation for case: Jicarilla Apache Nation v. United States Department of...">613 F.3d 1112, 1121</a></span><pre class="inline"> (D.C. Cir. 2010) (quoting PDK
+Labs., Inc. v. U.S. Drug Enforcement Administration , </pre><span class="citation" data-id="9439379"><a href="/opinion/186152/pdk-laboratories-inc-v-united-states-drug-enforcement-administration/#799" aria-description="Citation for case: PDK Laboratories Inc. v. United States Drug Enforcement...">362 F.3d
+786, 799</a></span><pre class="inline"> (D.C. Cir. 2004)) (citation modified). Without
+credible evidence of specific prejudice affecting the outcome
+of Jennions’s whistleblower application, we will not set aside
+the CFTC’s denial. See DSE, Inc. v. United States, </pre><span class="citation" data-id="184812"><a href="/opinion/184812/dse-inc-v-united-states/#31" aria-description="Citation for case: DSE, Inc. v. United States">169 F.3d
+21, 31</a></span><pre class="inline"> (D.C. Cir. 1999).
+
+                            ***
+
+     We therefore deny the petition for review consistent with
+the conclusions made by the Commission.
+
+                                                   So ordered.
+</pre>

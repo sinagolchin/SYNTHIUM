@@ -1,0 +1,252 @@
+<pre class="inline">          Supreme Court of Texas
+                           ══════════
+                            No. 24-0905
+                           ══════════
+
+UATP Management, LLC; UATP IP, LLC; UA Attractions, LLC;
+       Rachelle Nurse-Goodly; and Joseph Goodly,
+                             Petitioners,
+
+                                   v.
+
+          Chiniqua Geter as next friend of K.G., a minor,
+                             Respondent
+
+   ═══════════════════════════════════════
+               On Petition for Review from the
+     Court of Appeals for the Fourteenth District of Texas
+   ═══════════════════════════════════════
+
+                            PER CURIAM
+
+      A mother released liability on her minor daughter’s behalf in
+favor of a trampoline park. The agreement contains indemnity and
+arbitration provisions.   The indemnity provision identifies several
+park-affiliated individuals and entities as “protected parties,” but the
+protected parties did not sign the agreement.
+      The daughter was injured while visiting the park. Her mother
+sued on her behalf, naming the park and the protected parties as
+defendants. The defendants moved to compel arbitration under the
+release agreement, and the trial court denied the motion. The court of
+appeals reversed as to the park, holding that an arbitration agreement
+existed between the park and the minor child. The court further held,
+however, that the non-signatory affiliates identified in the agreement
+had no contractual right to compel arbitration. Because the protected
+parties are third-party beneficiaries of the agreement, we reverse this
+portion of the court of appeals’ judgment and remand the case to the
+trial court for further proceedings.
+
+                                       I
+
+       Chiniqua Geter sued on behalf of her minor daughter, K.G., for
+injuries K.G. sustained while playing at an Urban Air trampoline park
+in Beaumont, Texas.         The named defendants include Beaumont
+Adventure Park Urban Air LLC (Beaumont Urban Air) and petitioners
+UATP Management, LLC; UATP IP, LLC; UA Attractions, LLC;
+Rachelle Nurse-Goodly; and Joseph Goodly.
+       Before entering the play area of the park, Geter signed a release
+and indemnification agreement in favor of Beaumont Urban Air on
+behalf of K.G. The release and indemnity provision in the agreement
+identifies the non-signatory petitioners as “protected parties” that
+Geter, in signing the agreement, “releases, agrees not to sue, and shall
+indemnify.” 1 The agreement further contains an arbitration provision
+providing that “[a]ny dispute or claim arising out of or relating to this
+Agreement, breach thereof, the Premises, Activities, property damage
+(real or personal), personal injury (including death), or the scope,
+
+
+       1 “[The signatory] releases, agrees not to sue, and shall indemnify
+Urban Air, UATP Management, LLC, UATP IP, LLC, UA Attractions, LLC,
+[and] the legal owner of the premises . . . (collectively, protected parties).”
+
+
+
+
+                                       2
+arbitrability, or validity of this arbitration agreement . . . shall
+be . . . settled by binding arbitration before a single arbitrator” under
+the Federal Arbitration Act. See </pre><span class="citation no-link">9 U.S.C. §§ 1-16</span><pre class="inline">.
+      In their answer, Beaumont Urban Air and the protected parties
+included a notice of their right to arbitrate the parties’ dispute pursuant
+to the release. They then moved to compel arbitration. The trial court
+denied the motion.
+      Beaumont Urban Air and the protected parties filed an
+interlocutory appeal challenging the trial court’s ruling. See TEX. CIV.
+PRAC. &amp; REM. CODE § 51.016; </pre><span class="citation no-link">9 U.S.C. § 16</span><pre class="inline">(a)(1)(B). The court of appeals
+reversed and remanded with instructions to compel arbitration as to
+Beaumont Urban Air, holding that a valid arbitration agreement exists
+between K.G. and Beaumont Urban Air under the direct-benefits
+estoppel doctrine. ___ S.W.3d ___, </pre><span class="citation no-link">2024 WL 4163646</span><pre class="inline">, at *3-4 (Tex.
+App.—Houston [14th Dist.] Sept. 12, 2024). The court of appeals further
+held, however, that the protected parties had no contractual right to
+compel arbitration because they did not sign the agreement and
+direct-benefits   estoppel   does   not     apply   to   claims   that   “exist
+independently of the contract.” </pre><span class="citation no-link">Id.</span><pre class="inline"> The court of appeals observed that
+the arbitration clause—in contrast to the agreement itself—does not
+mention the protected parties.         </pre><span class="citation no-link">Id. at *3</span><pre class="inline">.    The protected parties
+petitioned for review in this Court.
+
+                                       II
+
+      As a general matter, a party seeking to compel arbitration must
+establish that the claims at issue fall within the scope of a valid
+arbitration agreement. Henry v. Cash Biz, LP, </pre><span class="citation" data-id="6109094"><a href="/opinion/6242023/henry-v-cash-biz-lp/" aria-description="Citation for case: Henry v. Cash Biz, LP">551 S.W.3d 111</a></span><pre class="inline">, 115
+
+
+
+
+                                       3
+(Tex. 2018). Whether an agreement to arbitrate exists is a question of
+law for courts to decide. Baby Dolls Topless Saloons, Inc. v. Sotero, </pre><span class="citation no-link">642
+S.W.3d 583</span><pre class="inline">, 586 (Tex. 2022).
+      The court of appeals held that a valid arbitration agreement
+exists and binds K.G. because Geter signed the agreement on K.G.’s
+behalf and K.G. accepted benefits under the agreement by gaining
+access to the park. ___ S.W.3d at ___, </pre><span class="citation no-link">2024 WL 4163646</span><pre class="inline">, at *3. Geter
+challenges this holding, arguing that K.G., as a minor, may disavow the
+contract and did so by instituting this action. 2
+      The arbitration agreement binds K.G. because Geter signed it on
+K.G.’s behalf as her parent as Texas law permits. The direct-benefits
+estoppel doctrine is not required to reach that conclusion. The court of
+appeals relied on our opinion in Taylor Morrison of Texas, Inc. v. Ha to
+support its direct-benefits estoppel application. </pre><span class="citation no-link">Id.</span><pre class="inline"> at *2-3 (citing </pre><span class="citation no-link">660
+S.W.3d 529</span><pre class="inline">, 534 (Tex. 2023)). In Ha, we held that a contractor could
+compel minor children to arbitrate their construction-defect claims
+under a home-purchase agreement their father signed because the
+children had accepted the benefits of the agreement in occupying the
+home. 660 S.W.3d at 531-35. The direct-benefits estoppel doctrine was
+necessary to reach this conclusion because the children’s father had not
+signed the purchase agreement on the children’s behalf. See id. at 531.
+
+
+
+
+      2 As Geter did not timely file a petition challenging the court of appeals’
+
+judgment, the judgment in favor of Beaumont Urban Air is final. See TEX. R.
+APP. P. 53.1 (“A party who seeks to alter the court of appeals’ judgment must
+file a petition for review.”). We address the validity of the agreement only
+insofar as it affects the protected parties’ appeal.
+
+
+
+
+                                       4
+      As we recognized in Ha, “parents may sign arbitration
+agreements on behalf of their children” under the Family Code, which
+recognizes parents’ rights to make “‘decisions of substantial legal
+significance’ concerning their children.” Id. at 534 (quoting TEX. FAM.
+CODE § 151.001(a)(7)). Exceptions apply only “[i]n rare cases . . . such
+as when a parent’s interests are adverse to the child’s interests.” Id. at
+534 n.6. In this case, the parties do not advance an exception to the
+general rule. Geter signed the agreement on K.G.’s behalf to allow her
+to play at the trampoline park. K.G. thus is bound by her mother’s
+signature irrespective of the direct-benefits estoppel doctrine.
+      Nor can K.G. disavow the agreement, having accepted the benefit
+of visiting the trampoline park.     As Geter correctly points out, we
+recognize that a contract obligating a minor is “voidable at the election
+of the minor.” Dairyland Cnty. Mut. Ins. Co. of Tex. v. Roman, </pre><span class="citation" data-id="1499001"><a href="/opinion/1499001/dairyland-county-mutual-insurance-co-of-texas-v-roman/#158" aria-description="Citation for case: Dairyland County Mutual Insurance Co. of Texas v. Roman">498
+S.W.2d 154, 158</a></span><pre class="inline"> (Tex. 1973). However, we also have long recognized the
+corollary principle that a minor “is not permitted to retain the benefits
+of a contract while repudiating its obligations.” </pre><span class="citation" data-id="1499001"><a href="/opinion/1499001/dairyland-county-mutual-insurance-co-of-texas-v-roman/" aria-description="Citation for case: Dairyland County Mutual Insurance Co. of Texas v. Roman">Id.</a></span><pre class="inline"> K.G. lost any ability
+to disavow the agreement upon gaining entry to the trampoline park.
+      Having confirmed that an arbitration agreement exists and binds
+K.G., the remaining issue is whether the protected parties, who did not
+sign the agreement, may nonetheless compel arbitration as beneficiaries
+of that agreement. We hold they can.
+      As a preliminary matter, the protected parties assert that the
+court of appeals erred in reaching the issue of enforceability against
+non-signers to the agreement because the agreement delegates
+questions of arbitrability to the arbitrator. We disagree.
+
+
+
+
+                                    5
+      Parties may agree to delegate questions about the scope of an
+arbitration agreement to arbitrators rather than courts. TotalEnergies
+E&amp;P USA, Inc. v. MP Gulf of Mex., LLC, </pre><span class="citation no-link">667 S.W.3d 694</span><pre class="inline">, 702 (Tex.
+2023). If a valid delegation clause exists, “courts must enforce that
+agreement just as they must enforce an agreement to delegate
+resolution of the underlying merits to the arbitrator.” </pre><span class="citation no-link">Id.</span><pre class="inline"> Whether a
+party who did not sign the agreement may compel arbitration, however,
+“raises the question of whether an agreement to arbitrate exists between
+those parties.” Cerna ex rel. R.W. v. Pearland Urb. Air, LLC, </pre><span class="citation no-link">714 S.W.3d
+585</span><pre class="inline">, 589 (Tex. 2025).    “[T]he existence of a valid arbitration clause
+between specific parties” is “a gateway matter for the court to decide.”
+G.T. Leach Builders, LLC v. Sapphire V.P., LP, </pre><span class="citation" data-id="2831475"><a href="/opinion/2831475/gt-leach-builders-llc-v-sapphire-vp-lp/#524" aria-description="Citation for case: G.T. Leach Builders, LLC v. Sapphire V.P., Lp">458 S.W.3d 502, 524</a></span><pre class="inline">
+(Tex. 2015) (quoting In re Rubiola, </pre><span class="citation" data-id="895301"><a href="/opinion/895301/in-re-rubiola/#224" aria-description="Citation for case: In Re Rubiola">334 S.W.3d 220, 224</a></span><pre class="inline"> (Tex. 2011)). We
+hold that it is for the courts, not an arbitrator, to decide whether the
+non-signatory protected parties may invoke the agreement. We review
+the court of appeals’ resolution of that question de novo. Jody James
+Farms, JV v. Altman Grp., Inc., </pre><span class="citation" data-id="4276220"><a href="/opinion/4498967/jody-james-farms-jv-v-the-altman-group-inc-and-laurie-diaz/#633" aria-description="Citation for case: Jody James Farms, Jv v. the Altman Group, Inc. and Laurie...">547 S.W.3d 624, 633</a></span><pre class="inline"> (Tex. 2018).
+      Because “[a]rbitration is a creature of contract between
+consenting parties,” we examine contract principles to determine
+whether an agreement encompasses non-signatory parties. </pre><span class="citation" data-id="4276220"><a href="/opinion/4498967/jody-james-farms-jv-v-the-altman-group-inc-and-laurie-diaz/#629" aria-description="Citation for case: Jody James Farms, Jv v. the Altman Group, Inc. and Laurie...">Id. at 629</a></span><pre class="inline">.
+We have recognized six such principles that may establish contractual
+application   to   non-signatories:       “(1) incorporation   by   reference,
+(2) assumption, (3) agency, (4) alter ego, (5) equitable estoppel, and
+(6) third-party beneficiary.”   </pre><span class="citation" data-id="4276220"><a href="/opinion/4498967/jody-james-farms-jv-v-the-altman-group-inc-and-laurie-diaz/#633" aria-description="Citation for case: Jody James Farms, Jv v. the Altman Group, Inc. and Laurie...">Id. at 633</a></span><pre class="inline">.      Pertinent to this case, the
+protected parties claim third-party beneficiary status as to the
+agreement.
+
+
+
+
+                                      6
+      “Like other contracts,” third-party beneficiaries may enforce
+arbitration agreements “so long as ‘the parties to the contract intended
+to secure a benefit to that third party and entered into the contract
+directly for the third party’s benefit.’” </pre><span class="citation" data-id="4276220"><a href="/opinion/4498967/jody-james-farms-jv-v-the-altman-group-inc-and-laurie-diaz/" aria-description="Citation for case: Jody James Farms, Jv v. the Altman Group, Inc. and Laurie...">Id.</a></span><pre class="inline"> at 635 (quoting In re Palm
+Harbor Homes, Inc., </pre><span class="citation" data-id="9512915"><a href="/opinion/894735/in-re-palm-harbor-homes-inc/#677" aria-description="Citation for case: In Re Palm Harbor Homes, Inc.">195 S.W.3d 672, 677</a></span><pre class="inline"> (Tex. 2006)). “The benefit
+must be more than incidental, and the contracting parties’ intent to
+‘confer a direct benefit to a third party must be clearly and fully spelled
+out or enforcement by the third party must be denied.’” </pre><span class="citation" data-id="9512915"><a href="/opinion/894735/in-re-palm-harbor-homes-inc/" aria-description="Citation for case: In Re Palm Harbor Homes, Inc.">Id.</a></span><pre class="inline"> (quoting MCI
+Telecomms. Corp. v. Tex. Utils. Elec. Co., </pre><span class="citation" data-id="2463940"><a href="/opinion/2463940/mci-telecommunications-corp-v-texas-utilities-electric-co/#651" aria-description="Citation for case: MCI Telecommunications Corp. v. Texas Utilities Electric Co.">995 S.W.2d 647, 651</a></span><pre class="inline"> (Tex.
+1999)).
+      In this case, the agreement names each non-signatory as among
+the “protected parties” that Geter “releases, agrees not to sue, and shall
+indemnify.” Geter argues that this indemnity provision does not confer
+third-party beneficiary status to the parties’ arbitration provision
+because the arbitration provision does not separately include them. The
+protected parties respond that the dispute resolution clauses—including
+the arbitration provision—are the mechanisms to enforce the benefits of
+release and indemnity conferred to them as intended third-party
+beneficiaries. We agree.
+      The release and indemnity provision expressly identifying the
+non-signatory entities as “protected parties” demonstrates the parties’
+intent to benefit these entities. “By its own terms, the agreement was
+entered into, in part, directly for [the non-signatory entities’] benefit.”
+Palm Harbor Homes, </pre><span class="citation" data-id="9512915"><a href="/opinion/894735/in-re-palm-harbor-homes-inc/#677" aria-description="Citation for case: In Re Palm Harbor Homes, Inc.">195 S.W.3d at 677</a></span><pre class="inline">. The arbitration provision
+applies to undefined “parties” and does not exclude the protected parties
+named elsewhere in the agreement. Construing the contract as a whole
+
+
+
+
+                                    7
+and harmonizing its provisions, as we must, Valence Operating Co. v.
+Dorsett, </pre><span class="citation" data-id="9512883"><a href="/opinion/894667/valence-operating-co-v-dorsett/#662" aria-description="Citation for case: Valence Operating Co. v. Dorsett">164 S.W.3d 656, 662</a></span><pre class="inline"> (Tex. 2005), it follows that the protected
+parties may enforce the arbitration agreement as third-party
+beneficiaries; arbitration is the parties’ chosen means of enforcing the
+agreement’s release and indemnification provision. Having decided that
+the parties agreed to arbitrate, “courts must respect the agreement’s
+terms.” Cerna, 714 S.W.3d at 592. As third-party beneficiaries of the
+agreement, the protected parties may invoke the arbitration provision.
+
+                             *      *      *
+      Without hearing oral argument, see TEX. R. APP. P. 59.1, we grant
+the petition for review and reverse the portion of the court of appeals’
+judgment affirming the trial court’s denial of the motion to compel
+arbitration as to the protected parties. The remainder of the court of
+appeals’ judgment, unchallenged on appeal, remains in effect.         We
+remand the case to the trial court for further proceedings consistent with
+this opinion.
+
+OPINION DELIVERED: October 16, 2026
+
+
+
+
+                                    8
+</pre>

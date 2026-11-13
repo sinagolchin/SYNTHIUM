@@ -1,0 +1,876 @@
+<pre class="inline">                                                                                     11/04/2026
+
+
+                                         DA 25-0661
+                                                                                 Case Number: DA 25-0661
+
+
+              IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                         </pre><span class="citation no-link">2026 MT 261</span><pre class="inline">
+
+
+
+YC PROPERTIES LLC,
+
+              Claimant and Appellant,
+
+         v.
+
+SHARON CONNOLLY; BERNARD J. SPAAN;
+and PATRICK O. CONNELL,
+
+              Objectors and Appellees.
+
+
+
+APPEAL FROM:         Montana Water Court, Case No. 76HF-6002-P-2023,
+                     Honorable Stephen R. Brown, Chief Water Judge
+
+
+COUNSEL OF RECORD:
+
+               For Appellant:
+
+                     Rick C. Tappan, Connlan W. Whyte, Tappan Law Firm, PLLC,
+                     Helena, Montana
+
+               For Appellees Sharon Connolly and Bernard J. Spaan:
+
+                     Kyle J. Workman, Workman Law, PLLC, Hamilton, Montana
+
+               For Appellee Patrick O. Connell:
+
+                     Patrick O. Connell, Self-Represented, Hamilton, Montana
+
+
+                                                  Submitted on Briefs: May 20, 2026
+                                                            Decided: November 4, 2026
+
+Filed:
+
+                     __________________________________________
+                                      Clerk
+Justice Jim Rice delivered the Opinion of the Court.
+
+¶1    Claimant and Appellant YC Properties, LLC (YC Properties) appeals the August 19,
+
+2025 Order on Motions for Summary Judgment entered by the Water Court of the State of
+
+Montana, which granted the motions of Sharon Connolly (Connolly), Bernard J. Spaan
+
+(Spaan), and Patrick O. Connell (Connell) (together, Objectors or Appellees), for summary
+
+judgment. We address the following issues:
+
+      1. Whether the Water Court erred by considering post-1973 conduct to make its
+         determination of abandonment.
+
+      2. Whether the Water Court erred by concluding unauthorized water use is the
+         functional equivalent of an intent to abandon a water right.
+
+¶2    We reverse and remand for further proceedings.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶3    Landowners Charles E. and Alma R. Vining (together the Vinings) filed Statement
+
+of Claim 76H 147812-00 with the Montana Department of Natural Resources (DNRC) on
+
+March 30, 1982. The statement of claim was for two groundwater wells on the Vinings’
+
+property in Ravalli County for the stated purpose of “commercial beaver pens.” Notably,
+
+the property owned by the Vinings also contained a pond.
+
+¶4    In January 1994, and prior to the entry of a preliminary decree, a claims examiner
+
+from the DNRC met with Alma Vining to discuss claim 76H 147812-00. After this
+
+meeting, the DNRC generated an implied claim for the second well in the statement of
+
+claim. This implied claim was identified as 76H 214439-00. Neither claim 76H 147812-
+
+00 nor implied claim 76H 214439-00 included the pond on the property.
+
+
+
+                                             2
+¶5       Prior to the Vinings’ ownership, the property and claimed water rights were held by
+
+Sam A. Downing (Downing). Downing’s declaration of vested water right was recorded
+
+on December 31, 1963, which identified the wells and described their beneficial use as
+
+“domestic, stock water, and irrigation.” These wells would become the sources of the two
+
+claims at issue.
+
+¶6       The Water Court issued the Preliminary Decree on January 14, 1998, which
+
+included claims 76H 147812-00 and 76H 214439-00 in the West Subbasin of the Bitterroot
+
+River 76HF (Basin 76HF). The Preliminary Decree recognized both of the Vinings’ claims
+
+as beneficially used for commercial beaver pens. With respect to claim 76H 214439-00,
+
+the Preliminary Decree described the flow rate as 100.00 gallons per minute (gpm) and the
+
+volume as 161.30 acre-feet per year (AF)1 with a point of diversion in the SWNWSE of
+
+Section 35, T6N, R21W, Ravalli County. With respect to claim 76H 147812-00, the
+
+Preliminary Decree noted that the point of diversion was located in the SENWSE of
+
+Section 35, T6N, R21W, Ravalli County and listed the flow rate as 100.00 gpm with the
+
+volume of 162.22 AF. The Preliminary Decree referenced the “feasible volume” for claim
+
+76H 147812-00 was limited to 161.74 AF.2 One individual objected to a potential volume
+
+issue, but later withdrew his objection.
+
+
+
+1
+  Section 85-20-1101(2), MCA, defines acre-feet as “the amount of water necessary to cover 1
+acre to a depth of 1 foot and is equivalent to 43,560 cubic feet of water.”
+2
+    An issue remark on the decree abstract for Claim 76H 147812-00 stated:
+
+      THE CLAIMED VOLUME EXCEEDS MAXIMUM FEASIBLE VOLUME BASED
+      ON THE FLOW RATE AND PERIOD OF USE, THE MAXIMUM VOLUME
+      POSSIBLE IS 161.74 ACRE-FEET PER YEAR.
+                                                3
+¶7     To resolve the issue remark, the Water Court consolidated 76H 147812-00 into case
+
+76HF-660. On January 28, 2005, Alma Vining filed an affidavit requesting that the volume
+
+be reduced from 162.22 AF to 39.77 AF. A Master’s Report and an order adopting the
+
+Master’s Report were entered in February of 2005, changing the volume to 39.77 AF.
+
+¶8     Sometime in the 1990s, the Vinings stopped using the wells for beaver pens and
+
+instead started using the water for livestock and irrigation purposes. In 1995, the Vinings
+
+leased the property to a third party for the purpose of maintaining livestock. The Vinings
+
+did not apply for nor receive a permit or authorization from the DNRC to change the use
+
+of the appropriation rights from commercial beaver pens to irrigation and livestock. The
+
+Vinings sold the property with both wells to YC Properties in 2020. The DNRC water
+
+rights database thus lists YC Properties as the owner of both claim 76H 147812-00 and
+
+claim 76H 214439-00.
+
+¶9     On February 15, 2023, YC Properties filed a motion with the Water Court to amend
+
+both claims, stating, “[t]he purpose of this motion is to add a historic groundwater pond
+
+(0.68 surface acres and 10 feet deep, capacity of 2.72 AF) that is part of the historical use
+
+of these wells[.]” The motion offered that water was historically pumped from the wells
+
+to the pond and aerial photos taken in 1954 confirm the pond’s historic existence.
+
+Accompanying the motion to amend was an affidavit from Alma Vining’s son, Robert
+
+Vining, which stated the pond had existed for many years and had been used in the beaver
+
+pen system. He further stated that “I remember that it would stay relatively full without
+
+water from the wells, but water from the wells was needed to provide enough flow to supply
+
+the down-gradient beaver pens.”
+
+                                             4
+¶10       Notice of the motion to amend the claims was published and, in response, Appellees
+
+filed objections. The Water Court issued a scheduling order on December 7, 2023, and on
+
+April 24, 2024, Objector Connell moved for a preliminary injunction seeking to prevent
+
+“any and all uses of water” under 76H 148812-00 and 76H 214439-00 or from the pond,
+
+alleging the claims had been abandoned. YC Properties moved to dismiss Connell from
+
+the case, arguing he lacked standing to object. The Water Court issued an order denying
+
+both pending motions. In the meantime, discovery was conducted and witness and exhibit
+
+lists were exchanged.
+
+¶11       Connell then moved for summary judgment, arguing that “YC Properties LLC water
+
+rights 76H 147812-00 and 76H 214439-00 [were] abandoned under 85-2-404(2), MCA[.]”
+
+YC Properties opposed the motion and filed a cross-motion for summary judgment. In
+
+response to Connell’s motion, YC Properties argued that because no final decree had yet
+
+been entered on Basin 76HF, the abandonment provisions of § 85-2-404(2), MCA, were
+
+not applicable.3 In its own motion for summary judgment, YC Properties argued that “there
+
+is no dispute as to the pre-1973 existence of YC’s storage pond and the undisputed facts
+
+show that YC or its predecessors did not abandon its water rights.” Objectors Spaan and
+
+Connolly also filed a joint motion requesting summary judgment, arguing there was no
+
+genuine issue of material fact regarding whether YC Properties had abandoned its water
+
+rights.
+
+
+
+3
+  Subsections (1) and (2) of the statute, addressing abandonment, “do not apply to existing
+rights until they have been finally determined in accordance with part 2 of this chapter.”
+Section 85-2-404(6), MCA.
+                                              5
+¶12       The Water Court issued its Order on Motions for Summary Judgment (Order) on
+
+August 19, 2025.       The Water Court noted that Connell had incorrectly relied upon
+
+§ 85-2-404, MCA, for his abandonment objection, but that the Water Court nonetheless
+
+had jurisdiction to adjudicate the abandonment challenge under § 85-2-227, MCA, and the
+
+common law. Under that authority, the Water Court found that YC Properties and its
+
+predecessors had not used the water rights for thirty years because they ceased using the
+
+water for commercial beaver pen operations in the mid-1990s, thus constituting “non-use”
+
+of the water and triggering a rebuttable presumption of an intent to abandon the water
+
+rights.    Rejecting YC Properties’ argument that its beneficial uses of irrigation and
+
+livestock care could not constitute “non-use,” the Water Court reasoned that because YC
+
+Properties and its predecessors did not file a statement of claim for either livestock or
+
+irrigation use and did not apply for nor receive a permit or authorization from the DNRC
+
+to change the purpose of the water rights from commercial use to stock or irrigation use,
+
+any use of the water for those purposes was “unauthorized.” The Water Court reasoned
+
+that, “when unauthorized water use occurs for a sufficiently long period of time, the
+
+unauthorized use becomes the functional equivalent of intent to abandon a water right.”
+
+(Emphasis added.) The Water Court stated that YC Properties had “offer[ed] no evidence
+
+of commercial water use after the mid-1990s,” that is, for commercial beaver pens, and
+
+therefore did not rebut the presumption that it intended to abandon its water rights. Thus,
+
+the Water Court held that YC Properties had abandoned its water rights and granted
+
+summary judgment in favor of Appellees, dismissing YC Properties’ water claims.
+
+¶13       YC Properties appeals.
+
+                                            6
+                               STANDARD OF REVIEW
+
+¶14    “This Court applies the same standards of review to decisions of the Water Court as
+
+it does to decisions of a district court.” In re Crow Water Compact, </pre><span class="citation" data-id="2821490"><a href="/opinion/2821490/in-re-the-crow-water-compact/#19" aria-description="Citation for case: In Re the Crow Water Compact">2015 MT 217, ¶ 19</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="2821490"><a href="/opinion/2821490/in-re-the-crow-water-compact/" aria-description="Citation for case: In Re the Crow Water Compact">380 Mont. 168</a></span><pre class="inline">, </pre><span class="citation" data-id="2821490"><a href="/opinion/2821490/in-re-the-crow-water-compact/" aria-description="Citation for case: In Re the Crow Water Compact">354 P.3d 1217</a></span><pre class="inline"> (citation omitted).         “We review the Water Court’s
+
+conclusions of law de novo for correctness and its findings of fact to determine whether
+
+they are clearly erroneous.” E. Bench Irrigation Dist. v. Open a Ranch, Inc., </pre><span class="citation no-link">2021 MT
+
+319</span><pre class="inline">, ¶ 29, </pre><span class="citation no-link">406 Mont. 502</span><pre class="inline">, </pre><span class="citation no-link">501 P.3d 380</span><pre class="inline"> (citation omitted).
+
+¶15    “This Court reviews de novo a district court’s grant of summary judgment, using
+
+the same standards applied by the district court under M. R. Civ. P. 56.” Mont. Trout Unltd.
+
+v. Mont. Dep’t of Nat. Res. &amp; Conservation, </pre><span class="citation multiple-matches"><a href="/c/MT/2025/1/">2025 MT 1</a></span><pre class="inline">, ¶ 13, </pre><span class="citation no-link">420 Mont. 85</span><pre class="inline">, </pre><span class="citation no-link">561 P.3d 995</span><pre class="inline">
+
+(citing Smith v. BNSF Ry., </pre><span class="citation" data-id="8030286"><a href="/opinion/8071685/smith-v-burlington-northern-santa-fe-railway-co/#10" aria-description="Citation for case: Smith v. Burlington Northern &amp; Santa Fe Railway Co.">2008 MT 225, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="8030286"><a href="/opinion/8071685/smith-v-burlington-northern-santa-fe-railway-co/" aria-description="Citation for case: Smith v. Burlington Northern &amp; Santa Fe Railway Co.">344 Mont. 278</a></span><pre class="inline">, </pre><span class="citation" data-id="8030286"><a href="/opinion/8071685/smith-v-burlington-northern-santa-fe-railway-co/" aria-description="Citation for case: Smith v. Burlington Northern &amp; Santa Fe Railway Co.">187 P.3d 639</a></span><pre class="inline">). Summary
+
+judgment is appropriate where there is no genuine issue as to any material fact, and the
+
+movant is entitled to judgment as a matter of law. M. R. Civ. P. 56(c)(3).
+
+                                      DISCUSSION
+
+¶16    1. Whether the Water Court erred in considering post-1973 conduct to make its
+          determination of abandonment.
+
+¶17    YC Properties contends the Water Court erred by considering its failure to obtain
+
+authorization from the DNRC to change its water rights usage as evidence of abandonment
+
+“because [the Water Court] lacked jurisdiction to adjudicate or enforce alleged post-1973
+
+changes under the Montana Water Use Act” (MWUA). YC Properties argues the DNRC
+
+holds the authority to adjudicate post-1973 changes to water rights, including whether YC
+
+Properties was eligible to change the use of its rights from commercial beaver pens to
+
+
+                                             7
+irrigation and stock use pursuant to § 85-2-302, MCA. YC Properties thus contends the
+
+Water Court impermissibly acted as the enforcing entity of the MWUA.
+
+¶18    Appellees Connolly and Spaan answer that “YC improperly conflates DNRC[’]s
+
+jurisdiction to enforce the MWUA to a prohibition against the Water Court’s reliance on
+
+compliance with the Act as evidence of abandonment.” Citing § 85-2-227(2), MCA
+
+(“[r]elevant evidence under this part may include admissible evidence arising before or
+
+after July 1, 1973”), Connolly and Spaan argue that “[t]he Water Court is statutorily
+
+authorized to consider all admissible evidence arising after July 1, 1973 in abandonment
+
+cases.”
+
+¶19    The Water Court has exclusive jurisdiction over matters concerning the
+
+“determination and interpretation of existing water rights.” Section 3-7-501, MCA. An
+
+“existing water right means a right to the use of water that would be protected under the
+
+law as it existed prior to July 1, 1973.” Section 85-2-102(13), MCA; see also Heavirland
+
+v. State, </pre><span class="citation" data-id="1086503"><a href="/opinion/1086503/heavirland-v-state/#17" aria-description="Citation for case: Heavirland v. State">2013 MT 313, ¶¶ 17-27</a></span><pre class="inline">, </pre><span class="citation" data-id="1086503"><a href="/opinion/1086503/heavirland-v-state/" aria-description="Citation for case: Heavirland v. State">372 Mont. 300</a></span><pre class="inline">, </pre><span class="citation" data-id="1086503"><a href="/opinion/1086503/heavirland-v-state/" aria-description="Citation for case: Heavirland v. State">311 P.3d 813</a></span><pre class="inline"> (holding the protection of
+
+existing water rights does not preclude applying post-1973 judicial precedent). “The
+
+determination and interpretation of existing water rights includes, without limitation, the
+
+adjudication of total or partial abandonment of existing water rights occurring at any time
+
+before the entry of the final decree.” Section 3-7-501(4), MCA (emphasis added).
+
+¶20    Importantly, whether a water right has been abandoned is a question of fact that
+
+depends on “‘the evidence of the conduct, acts, and intent of the parties claiming the
+
+usufruct of the water.’” Heavirland, ¶ 31 (quoting Power v. Switzer, </pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#529" aria-description="Citation for case: Power v. Switzer">21 Mont. 523, 529</a></span><pre class="inline">,
+
+</pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#34" aria-description="Citation for case: Power v. Switzer">55 P. 32, 34</a></span><pre class="inline"> (1898)). Thus, § 85-2-227(3), MCA, authorizes the Water Court to “determine
+
+                                            8
+all or part of an existing water right to be abandoned based on a consideration of all
+
+admissible evidence that is relevant, including, without limitation, evidence relating to acts
+
+or intent occurring in whole or in part after July 1, 1973.”
+
+¶21    As the exclusive authority on the determination of existing water rights, the Water
+
+Court was well within its jurisdiction when it entertained relevant evidence of post-1973
+
+conduct in its consideration of whether the water claims 76H 147812-00 and 76H 214439-
+
+00 had been abandoned. While YC Properties is correct to the extent that it argues the
+
+Water Court is not, as a matter of law, authorized to decide whether YC Properties violated
+
+the MWUA, the Water Court recognized this limitation, noting that “[t]he [c]ourt’s
+
+jurisdiction limits its determination of [the] motion to amend based on the water rights as
+
+they existed as of July 1, 1973. The authority to address post-1973 changes to a water right
+
+is outside the Water Court’s jurisdiction, as is fashioning a remedy for alleged illegal water
+
+use.” The Water Court stated that it “analyzes Connell’s argument under the authority of
+
+§ 85-2-227, MCA[,]” and thereby properly exercised its exclusive jurisdiction pursuant to
+
+§ 3-7-501(4), MCA.
+
+¶22    In its task of determining whether YC Properties or the Vinings had abandoned
+
+the claims, the Water Court was permitted to consider all the relevant facts.
+
+Section 85-2-227(3), MCA. Without limitation, such record facts here included: the
+
+statement of claim indicated the purpose of 76H 147812-00 and 76H 214439-00 as for
+
+commercial beaver pens; the Vinings ceased using both claims for beaver pens in the mid-
+
+1990s; the Vinings subsequently began using water pursuant to both claims for livestock
+
+and irrigation; the Vinings did not file a statement of claim for livestock and irrigation
+
+                                              9
+purposes; and neither YC Properties nor the Vinings applied to the DNRC for the authority
+
+to change the use from commercial beaver pens to irrigation and livestock. In other words,
+
+the Water Court was permitted to admit evidence about post-1973 conduct into the factual
+
+record and, pursuant to usual evidentiary rules and considerations, rely on that evidence to
+
+determine the issue of abandonment.
+
+¶23      Therefore, we hold the Water Court did not err by considering the post-1973
+
+conduct of YC Properties and its predecessors in adjudicating the issue of abandonment.
+
+¶24      2. Whether the Water Court erred by concluding unauthorized water use is the
+            functional equivalent of an intent to abandon a water right.
+
+¶25      Appellees ask that we affirm the Water Court’s order and hold that “sufficiently
+
+long periods of unauthorized use, without change authorization, is the functional equivalent
+
+of nonuse, triggering the rebuttable presumption that the unauthorized user intended to
+
+abandon it[s] water rights.” Their argument relies heavily on the order entered by the Water
+
+Court in In re Zier, No. 43N-3, </pre><span class="citation no-link">2016 Mont. Water LEXIS 5</span><pre class="inline"> (Mont. Water Ct. Nov. 22,
+
+2016).
+
+¶26      YC Properties contends the Water Court’s ruling sets a dangerous precedent that
+
+“fundamentally expand[s] abandonment doctrine,” which will “create[] a chilling policy
+
+where abandonment could be found when use and intent are present but complete
+
+regulatory compliance is not.” YC Properties suggests that if courts can infer non-use from
+
+these circumstances, “any technical noncompliance would silently morph into forfeiture,
+
+even while water is actively being used[.]”
+
+
+
+
+                                              10
+¶27    For a water right to be abandoned, two concurrent elements must be present:
+
+(1) non-use and (2) an intent to abandon. Twin Creeks Farm &amp; Ranch, LLC v. Petrolia
+
+Irrigation Dist., </pre><span class="citation no-link">2020 MT 80</span><pre class="inline">, ¶ 14, </pre><span class="citation no-link">399 Mont. 431</span><pre class="inline">, </pre><span class="citation no-link">461 P.3d 91</span><pre class="inline"> (citation omitted).
+
+Determining whether a water right has been abandoned “requires weighing all the relevant
+
+factual circumstances of the case.” Heavirland, ¶ 32.
+
+¶28    Consistent with the requisite elements, we have recognized that non-use of water
+
+alone does not constitute abandonment. 79 Ranch v. Pitsch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. 426, 432</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#218" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d
+
+215, 218</a></span><pre class="inline"> (1983) (“In determining the abandonment of a water right, this Court has often
+
+recognized the rule that mere nonuse of the water does not constitute abandonment.”).
+
+Rather, it must also be proven that the claimant intended to abandon his or her water right.
+
+79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 432</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#218" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at 218</a></span><pre class="inline"> (“To prove abandonment, one has to prove
+
+the other party intended to abandon his water right.”) (citations omitted). An intent to
+
+abandon “need not be proved directly, but may be inferred from all the circumstances of
+
+the case.” Skelton Ranch, Inc. v. Pondera Cnty. Canal &amp; Reservoir Co., </pre><span class="citation" data-id="9800287"><a href="/opinion/2682629/skelton-ranch-inc-v-pondera-county-canal-reservoir-co/#52" aria-description="Citation for case: Skelton Ranch, Inc. v. Pondera County Canal &amp; Reservoir Co.">2014 MT 167,
+
+¶ 52</a></span><pre class="inline">, </pre><span class="citation" data-id="9800287"><a href="/opinion/2682629/skelton-ranch-inc-v-pondera-county-canal-reservoir-co/" aria-description="Citation for case: Skelton Ranch, Inc. v. Pondera County Canal &amp; Reservoir Co.">375 Mont. 327</a></span><pre class="inline">, </pre><span class="citation" data-id="9800287"><a href="/opinion/2682629/skelton-ranch-inc-v-pondera-county-canal-reservoir-co/" aria-description="Citation for case: Skelton Ranch, Inc. v. Pondera County Canal &amp; Reservoir Co.">328 P.3d 644</a></span><pre class="inline"> (citation and internal quotations omitted). “The
+
+circumstances must be such as to justify an inference of intention to abandon; in other
+
+words, to leave the property to be taken by any other person who chooses to do so.”
+
+Featherman v. Hennessy, </pre><span class="citation" data-id="8021546"><a href="/opinion/8063731/featherman-v-hennessy/#540" aria-description="Citation for case: Featherman v. Hennessy">42 Mont. 535, 540-41</a></span><pre class="inline">, </pre><span class="citation" data-id="8021546"><a href="/opinion/8063731/featherman-v-hennessy/#753" aria-description="Citation for case: Featherman v. Hennessy">113 P. 751, 753</a></span><pre class="inline"> (1911).
+
+¶29    While not conclusive, non-use of water can be evidence of an intention to abandon
+
+and give rise to a presumption of abandonment. 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 432</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#218" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at
+
+218</a></span><pre class="inline">. Specifically, “a long period of continuous nonuse raises the rebuttable presumption
+
+of an intention to abandon, and shifts the burden of proof onto the nonuser to explain the
+
+                                            11
+reasons for nonuse.” 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 432-33</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#218" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at 218</a></span><pre class="inline">. As the Water Court
+
+noted, the period of non-use that is necessary to raise the rebuttable presumption has been
+
+developed by case law. See Holmstrom Land Co. v. Meagher Cnty. Newlan Creek Water
+
+Dist., </pre><span class="citation" data-id="9507136"><a href="/opinion/876900/holmstrom-land-co-v-meagher-county-newlan-creek-water-district/#424" aria-description="Citation for case: Holmstrom Land Co. v. Meagher County Newlan Creek Water...">185 Mont. 409, 424</a></span><pre class="inline">, </pre><span class="citation" data-id="9507136"><a href="/opinion/876900/holmstrom-land-co-v-meagher-county-newlan-creek-water-district/#1069" aria-description="Citation for case: Holmstrom Land Co. v. Meagher County Newlan Creek Water...">605 P.2d 1060, 1069</a></span><pre class="inline"> (1979) (stating 75 years of non-use is
+
+“clear evidence” of abandonment); 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#431" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 431</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#217" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at 217</a></span><pre class="inline"> (stating
+
+40 years of non-use “is strong evidence of an intent to abandon a water right, and, in effect,
+
+raises a rebuttable presumption of abandonment”); In re Adjudication of Water Rights of
+
+Clark Fork River, </pre><span class="citation" data-id="882481"><a href="/opinion/882481/in-re-the-adjudication-of-the-existing-water-rights-of-clark-fork-river/#16" aria-description="Citation for case: In Re the Adjudication of the Existing Water Rights of...">254 Mont. 11, 16</a></span><pre class="inline">, </pre><span class="citation" data-id="882481"><a href="/opinion/882481/in-re-the-adjudication-of-the-existing-water-rights-of-clark-fork-river/#1123" aria-description="Citation for case: In Re the Adjudication of the Existing Water Rights of...">833 P.2d 1120, 1123</a></span><pre class="inline"> (1992) (approximately 23 years
+
+of non-use raised a rebuttable presumption of abandonment); Skelton Ranch, ¶ 56 (a period
+
+of non-use ranging from 18 to 29 years was sufficient to raise a presumption of
+
+abandonment); and Smith v. Hope Mining Co., </pre><span class="citation" data-id="6639066"><a href="/opinion/6756527/smith-v-hope-mining-co/#438" aria-description="Citation for case: Smith v. Hope Mining Co.">18 Mont. 432, 438</a></span><pre class="inline">, </pre><span class="citation" data-id="6639066"><a href="/opinion/6756527/smith-v-hope-mining-co/#634" aria-description="Citation for case: Smith v. Hope Mining Co.">45 P. 632, 634</a></span><pre class="inline"> (1896)
+
+(stating 9 years of non-use is “certainly very potent evidence, if it stood alone, of an
+
+intention to abandon”).
+
+¶30    In an abandonment dispute, “[t]he objector bears the initial burden of showing a
+
+long period of continuous non-use of the claimed water right.” Skelton Ranch, ¶ 53
+
+(citation omitted). Once non-use has been factually established, the burden shifts to the
+
+claimant to provide evidence explaining or excusing the prolonged non-use of the
+
+particular water rights. 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 432-33</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#218" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at 218</a></span><pre class="inline"> (“In effect, such a
+
+long period of continuous nonuse raises the rebuttable presumption of an intention to
+
+abandon, and shifts the burden of proof onto the nonuser to explain the reasons for
+
+nonuse.”); see also In re Musselshell River Drainage Area, </pre><span class="citation" data-id="882391"><a href="/opinion/882391/in-re-the-adjudication-of-the-existing-rights-of-musselshell-river-drainage/#51" aria-description="Citation for case: In Re the Adjudication of the Existing Rights of...">255 Mont. 43, 51</a></span><pre class="inline">, </pre><span class="citation" data-id="882391"><a href="/opinion/882391/in-re-the-adjudication-of-the-existing-rights-of-musselshell-river-drainage/#582" aria-description="Citation for case: In Re the Adjudication of the Existing Rights of...">840 P.2d
+
+577, 582</a></span><pre class="inline"> (1992). “To rebut the presumption of abandonment, the claimant must establish
+
+                                             12
+some fact or condition excusing the long period of nonuse, not mere expressions of hope
+
+or desire reflecting a gleam-in-the-eye philosophy regarding future use of the water.”
+
+Heavirland, ¶ 19 (citations and internal quotations omitted).
+
+¶31    YC Properties argued to the Water Court that because its water rights had been
+
+continuously used for the recognized beneficial purposes of livestock care and irrigation,
+
+the Appellees could not prove prolonged non-use, and it maintains this position on appeal,
+
+arguing “Montana law is clear that changing the beneficial use of a right does not constitute
+
+abandonment so long as the appropriator continues to put the water to a ‘beneficial use.’”
+
+Connell answers that this Court should affirm the Water Court because “YC Properties,
+
+and its predecessor property owners either disregarded, or ignored Montana Law[,]”
+
+resulting in abandonment.       Connolly and Spaan answer that “compliance with the
+
+[MWUA] is a requirement for continued beneficial use of water when determining
+
+abandonment.” They proffer that “the Court has the opportunity to establish a clear rule
+
+that a water user’s unauthorized use, without change authorization, subjects that user to the
+
+same risk of abandoning its right as if it did not use the water at all.”
+
+¶32    Under the common law, when the owner of the water right abandons or ceases to
+
+use the water for its beneficial use, the right ceases. 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#431" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 431</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#217" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d
+
+at 217</a></span><pre class="inline"> (citation omitted). It has been restated over the years that “application to a beneficial
+
+use is the touchstone of the appropriation doctrine.” In re Adjudication of Existing Rights
+
+to the Use of all Water, </pre><span class="citation" data-id="9510822"><a href="/opinion/886045/in-re-the-adjudication-of-the-existing-rights-to-the-use-of-all-the-water/#10" aria-description="Citation for case: In Re the Adjudication of the Existing Rights to the Use...">2002 MT 216, ¶ 10</a></span><pre class="inline">, </pre><span class="citation" data-id="9510822"><a href="/opinion/886045/in-re-the-adjudication-of-the-existing-rights-to-the-use-of-all-the-water/" aria-description="Citation for case: In Re the Adjudication of the Existing Rights to the Use...">311 Mont. 327</a></span><pre class="inline">, </pre><span class="citation" data-id="9510822"><a href="/opinion/886045/in-re-the-adjudication-of-the-existing-rights-to-the-use-of-all-the-water/" aria-description="Citation for case: In Re the Adjudication of the Existing Rights to the Use...">55 P.3d 396</a></span><pre class="inline"> (citation omitted).
+
+“This fundamental principal has long governed the determination of water rights in
+
+Montana.” 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#431" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 431</a></span><pre class="inline">, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">666 P.2d at 217</a></span><pre class="inline"> (citing Power, </pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#529" aria-description="Citation for case: Power v. Switzer">21 Mont. at 529</a></span><pre class="inline">,
+
+                                              13
+</pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#35" aria-description="Citation for case: Power v. Switzer">55 P. at 35</a></span><pre class="inline">). We have further held that “beneficial use shall be the basis, the measure and
+
+the limit of all rights to the use of water.” McDonald v. State, </pre><span class="citation" data-id="9508254"><a href="/opinion/879258/mcdonald-v-state/#530" aria-description="Citation for case: McDonald v. State">220 Mont. 519, 530</a></span><pre class="inline">, </pre><span class="citation" data-id="9508254"><a href="/opinion/879258/mcdonald-v-state/#605" aria-description="Citation for case: McDonald v. State">722 P.2d
+
+598, 605</a></span><pre class="inline"> (1986) (emphasis in original). “Water rights have therefore been limited to the
+
+amount of water actually put to beneficial use, despite the amount of water diverted or
+
+claimed under the notice of appropriation.” 79 Ranch, </pre><span class="citation" data-id="9507591"><a href="/opinion/878149/79-ranch-inc-v-pitsch/#432" aria-description="Citation for case: 79 Ranch, Inc. v. Pitsch">204 Mont. at 432</a></span><pre class="inline">, 666 P.3d at 218
+
+(citing Conrow v. Huffine, </pre><span class="citation" data-id="8021973"><a href="/opinion/8064128/conrow-v-huffine/" aria-description="Citation for case: Conrow v. Huffine">48 Mont. 437</a></span><pre class="inline">, </pre><span class="citation" data-id="8021973"><a href="/opinion/8064128/conrow-v-huffine/" aria-description="Citation for case: Conrow v. Huffine">138 P. 1094</a></span><pre class="inline"> (1914); Peck v. Simon, </pre><span class="citation" data-id="3543229"><a href="/opinion/3564188/peck-v-simon/" aria-description="Citation for case: Peck v. Simon">101 Mont.
+
+12</a></span><pre class="inline">, </pre><span class="citation" data-id="3543229"><a href="/opinion/3564188/peck-v-simon/" aria-description="Citation for case: Peck v. Simon">52 P.2d 164</a></span><pre class="inline"> (1935); Galiger v. McNulty, </pre><span class="citation" data-id="3543065"><a href="/opinion/3564060/galiger-v-mcnulty/" aria-description="Citation for case: Galiger v. McNulty">80 Mont. 339</a></span><pre class="inline">, </pre><span class="citation" data-id="3543065"><a href="/opinion/3564060/galiger-v-mcnulty/" aria-description="Citation for case: Galiger v. McNulty">260 P. 401</a></span><pre class="inline"> (1927)). One of the
+
+statutory definitions of “beneficial use” is “a use of water for the benefit of the appropriator,
+
+other persons, or the public, including but not limited to agricultural, stock water, . . . [and]
+
+irrigation . . . .” Section 85-2-102(5)(a), MCA.
+
+¶33    In reliance on its reading of Zier, the Water Court rejected YC Properties’ beneficial
+
+use argument. It reasoned that the use of the water for irrigation and livestock purposes by
+
+YC Properties and its predecessors was impermissible because they failed to apply for and
+
+obtain authority from the DNRC to change the water’s use from commercial beaver pens.
+
+Consequently, because the original statement of claim did not authorize irrigation and
+
+livestock, and because YC Properties or the Vinings did not amend the statement of claim
+
+to authorize irrigation and livestock use, such uses were “unauthorized.” Thus, the Water
+
+Court concluded that, “when unauthorized water use occurs for a sufficiently long period
+
+of time, the unauthorized use becomes the functional equivalent of intent to abandon a
+
+water right.” In essence, the Water Court held that a long period of water use inconsistent
+
+with the statement of claim, or which has not been authorized by the DNRC, constitutes,
+
+
+
+                                               14
+or raises a presumption of, intentional non-use of the water as a matter of law, without
+
+considering other evidence.
+
+¶34    We disagree with aspects of the Water Court’s reasoning, as well as the congruent
+
+argument made by Connolly and Spaan that we should adopt a new rule declaring “a water
+
+user’s unauthorized use, without change authorization, subjects that user to the same risk
+
+of abandoning its right as if it did not use the water at all.” This rendering of “non-use” is
+
+too narrow under the common law. Not using water in accordance with an existing
+
+statement of claim is not factually the same thing as not using the water at all, and the
+
+common law’s expansive inquiry into the circumstances requires consideration of both of
+
+these facts for purposes of determining whether an existing right has been abandoned. “To
+
+constitute abandonment there must be a concurrence of act and intent—the relinquishment
+
+of possession and the intent not to resume it for a beneficial use.” Thomas v. Ball, </pre><span class="citation" data-id="8023683"><a href="/opinion/8065750/thomas-v-ball/#167" aria-description="Citation for case: Thomas v. Ball">66 Mont.
+
+161, 167</a></span><pre class="inline">, </pre><span class="citation" data-id="8023683"><a href="/opinion/8065750/thomas-v-ball/#599" aria-description="Citation for case: Thomas v. Ball">213 P. 597, 599</a></span><pre class="inline"> (1923) (citations omitted). “Abandonment is always a voluntary
+
+act, and it is a principle, quite uniformly recognized, that when once an appropriation of
+
+water has been completed, the courts will not lightly decree an abandonment of a property
+
+so valuable in a semi-arid region such as this.” Thomas, </pre><span class="citation" data-id="8023683"><a href="/opinion/8065750/thomas-v-ball/#167" aria-description="Citation for case: Thomas v. Ball">66 Mont. at 167</a></span><pre class="inline">, </pre><span class="citation" data-id="8023683"><a href="/opinion/8065750/thomas-v-ball/#599" aria-description="Citation for case: Thomas v. Ball">213 P. at 599</a></span><pre class="inline">
+
+(citation omitted). Consequently, the Water Court erred by holding, as a matter of law,
+
+that “unauthorized” use of water is the functional equivalent to an intention to abandon the
+
+water which precludes consideration of the other circumstances.4
+
+
+4
+ The Water Court also stated that the failure to file a statement of claim establishes a “conclusive
+presumption of abandonment of that right” pursuant to § 85-2-226, MCA. However, the
+conclusive presumption under § 85-2-226, MCA, arises when there is a “failure to file a claim of
+an existing right under 85-2-221(1).” Section 85-2-226, MCA. In turn, § 85-2-221(1), MCA,
+                                                15
+¶35     Our decision here is consistent with a full reading of Zier. There, Clarance Parker
+
+(Parker) was the predecessor of Betty Jean Zier and David Zier (the Ziers). Zier, at *1.
+
+Parker held claim 43N 20238-00 for irrigation use of wastewater generated from the north
+
+of his property by Allen Ranch’s flood irrigation system. Zier, at *1. Allen Ranch diverted
+
+water from Sage Creek to irrigate its land. Zier, at *1. Parker also held a second irrigation
+
+claim for groundwater from a pond. Zier, at *1. In the 1970s the Allen Ranch changed
+
+from flood irrigation to sprinkler irrigation, and this affected the physical availability of
+
+water for both of Parker’s claims, leaving him with insufficient water to irrigate. Zier, at
+
+*1-2. Consequently, Parker and Allen Ranch agreed to cooperatively divert water for
+
+irrigation of Parker’s property directly from Sage Creek. Zier, at *2. However, this
+
+practice ended in the early 2000s and no irrigation thereafter occurred on Parker’s property.
+
+Zier, at *2. The Water Court recognized two separate periods of “non-use” that it found to
+
+be sufficient to raise a presumption of an intent to abandon: (1) the period beginning in
+
+the late 1970s when Parker was diverting water from Sage Creek and the original sources
+
+of water were not used, and (2) a 15-year period after the 2000s when no irrigation occurred
+
+on the property at all. Zier, at *4. From these, the Water Court concluded the Ziers did
+
+
+
+
+requires “[a] person claiming an existing right . . . shall file with the department no later than
+June 30, 1983, a statement of claim for each water right . . . .” This subsection is thus addressing
+the failure to file the original statement of claim for an existing right prior to the statutory deadline.
+YC Properties’ predecessors filed such an original statement of claim for their two wells, from
+which, upon review by the DNRC, an implied statement of claim was generated for the second
+well, and therefore the statutory conclusive presumption of abandonment under § 85-2-226, MCA,
+does not apply here.
+                                                   16
+not overcome the presumption and therefore had intended to abandon their water rights.
+
+Zier, at *6.
+
+¶36    Notably, non-use was not a contested issue in Zier; the Ziers conceded non-use of
+
+the water during both periods, including the years of actual non-use. Zier, at *1. In
+
+contrast, non-use in the present case is highly contested (YC Properties contends that it and
+
+its predecessors continued to use the water for a beneficial use and cannot be considered
+
+non-use, while Appellees argue unauthorized use cannot constitute a beneficial use and
+
+therefore must be a form of non-use). Further, the Zier Court did exactly what we are
+
+requiring here—it weighed the evidence supporting or inferring an intent to abandon
+
+against the evidence inferring no intent to abandon, including the Ziers’ assertion that they
+
+did not intend to abandon their rights. The Zier Court considered the Ziers’ failure to obtain
+
+a change authorization, reasoning that “[w]ithout an approved change application, Parker
+
+had no legal right to divert water from Sage Creek. The failure to comply with applicable
+
+law is evidence of intent to abandon a water right because Parker took no action to secure
+
+a lawful and permanent alternate supply once his primary sources became unavailable.”
+
+Zier, at *4 (emphasis added). Thus, the failure to obtain a change authorization was an
+
+evidentiary consideration for the abandonment determination in Zier, not a mandate of law.
+
+Further, important in Zier was that, during the period Parker was drawing water from Sage
+
+Creek to irrigate his land, he did not use the water assigned by his statements of claim at
+
+all, and thus the Water Court’s abandonment determination rested upon both the evidence
+
+of Parker’s failure to obtain a change authorization and his actual failure to physically use
+
+the water, including the subsequent 15-year period of non-use. Zier, at *5 (“Even if the
+
+                                             17
+period of non-use was shortened when the claimants used an alternative source, there was
+
+still a 15-year period of non-use.”). Other evidence included the “sale or disposal of
+
+irrigation equipment, failure to replace an inoperable pump, failure to maintain existing
+
+ditches, failure to pursue a meaningful and permanent solution to address the inability to
+
+irrigate, and the lack of plan to resume irrigation in the future.” Zier, at *5. Zier thus
+
+supports this Court’s long held position that “intent, or lack of intent, can be drawn from
+
+the actions and inactions of the claimants and their predecessors.” Zier, at *4. Appellees
+
+omit from their arguments the full record evidence in Zier. Thus, even if Zier was binding
+
+precedent, a governing principle that “unauthorized use is the functional equivalent of
+
+nonuse” could not be properly drawn from its facts and holding.
+
+¶37    Montana has a long historical common law governing water rights. “In Montana,
+
+the common law is the rule of decision ‘so far as it is not repugnant to or inconsistent with
+
+the Constitution of the United States, or the Constitution or statutes of Montana[.]’” Phipps
+
+v. Old Republic Nat’l Title Ins. Co., </pre><span class="citation no-link">2021 MT 152</span><pre class="inline">, ¶ 20, </pre><span class="citation no-link">404 Mont. 336</span><pre class="inline">, </pre><span class="citation no-link">489 P.3d 507</span><pre class="inline">
+
+(quoting Haker v. Sw. R.R., </pre><span class="citation" data-id="1174562"><a href="/opinion/1174562/haker-v-southwestern-railway-co/#368" aria-description="Citation for case: Haker v. Southwestern Railway Co.">176 Mont. 364, 368-69</a></span><pre class="inline">, </pre><span class="citation" data-id="1174562"><a href="/opinion/1174562/haker-v-southwestern-railway-co/#727" aria-description="Citation for case: Haker v. Southwestern Railway Co.">578 P.2d 724, 727</a></span><pre class="inline"> (1978)). “The
+
+common law ‘does not control . . . where the law is declared by statute.’” Phipps, ¶ 20
+
+(citation omitted). The Legislature has acted on occasion to revise the common law of
+
+water, and here, as noted above, it has enacted statutes that will apply different
+
+abandonment principles to claims that are finally determined and for which a final decree
+
+has been entered. See § 85-2-404(6), MCA. Included therein is a provision that will
+
+consider an appropriation right to be abandoned “if the appropriator ceases using the
+
+appropriation right according to its terms and conditions with the intention of not
+
+                                             18
+complying with those terms and conditions,” thus narrowing for that purpose the common
+
+law abandonment inquiry. Section 85-2-404(1), MCA. That law is not effective for
+
+purposes of the rights at issue here because there has been no final decree.
+
+¶38    We do not intend by our holding to excuse the unauthorized use of water and thereby
+
+incentivize or reward parties who fail to comply with the statutory obligation to obtain a
+
+change authorization when their water use changes. Rather, our holding is required by the
+
+common law and simply reaffirms two fundamental principles thereunder.                First,
+
+abandonment of a water right remains a question of fact. See, e.g., § 89-802, Revised
+
+Codes of Montana, 1947. Second, “an appropriation of a right to the use of running water
+
+flowing in the creeks must be for some useful or beneficial purpose, and when the
+
+appropriator, or his successor in interest, abandons and ceases to use the water for such
+
+purpose, the right ceases.” Power, </pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#529" aria-description="Citation for case: Power v. Switzer">21 Mont. at 529</a></span><pre class="inline">, </pre><span class="citation" data-id="6639575"><a href="/opinion/6757014/power-v-switzer/#35" aria-description="Citation for case: Power v. Switzer">55 P. at 35</a></span><pre class="inline">. Therefore, in determining
+
+whether a claimant has abandoned its water rights, the Water Court must consider all the
+
+facts and circumstances of the case, as discussed above, including whether the claimant
+
+used the water in an unauthorized manner and whether the claimant continuously applied
+
+the water to a beneficial purpose. By reaching its conclusion regard the intent to abandon
+
+as a matter of law, and failing to consider evidence of YC Properties’ continuing beneficial
+
+use for the water, the Water Court erred in granting summary judgment in favor of
+
+Appellees.
+
+¶39    We reverse the entry of summary judgment and remand this matter for such further
+
+proceedings as necessary to properly determine the abandonment question, and resolve any
+
+remaining objections filed herein, in accordance with this decision.
+
+                                            19
+                               /S/ JIM RICE
+
+We Concur:
+
+/S/ JAMES JEREMIAH SHEA
+/S/ LAURIE McKINNON
+/S/ BETH BAKER
+/S/ INGRID GUSTAFSON
+
+
+
+
+                          20
+</pre>

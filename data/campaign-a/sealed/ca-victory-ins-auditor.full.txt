@@ -1,0 +1,638 @@
+<pre class="inline">                                                                                      11/10/2026
+
+
+                                          DA 25-0695
+                                                                                  Case Number: DA 25-0695
+
+
+              IN THE SUPREME COURT OF THE STATE OF MONTANA
+
+                                          </pre><span class="citation no-link">2026 MT 269</span><pre class="inline">
+
+
+
+VICTORY INSURANCE COMPANY,
+
+              Petitioner and Appellant,
+
+         v.
+
+STATE OF MONTANA, COMMISSIONER OF
+SECURITIES AND INSURANCE, MONTANA
+STATE AUDITOR,
+
+              Respondent and Appellee.
+
+
+
+APPEAL FROM:          District Court of the First Judicial District,
+                      In and For the County of Lewis and Clark, Cause No. ADV-2025-4
+                      Honorable Mike Menahan, Presiding Judge
+
+
+COUNSEL OF RECORD:
+
+               For Appellant:
+
+                      Linda M. Deola, Scott L. Peterson, Morrison Sherwood Wilson &amp;
+                      Deola, PLLC, Helena, Montana
+
+               For Appellee:
+
+                      Rune Vander Wey, Commission of Securities &amp; Insurance, Office of
+                      the Montana State Auditor, Helena, Montana
+
+
+                                                  Submitted on Briefs: May 13, 2026
+                                                             Decided: November 10, 2026
+
+
+Filed:
+
+                      __________________________________________
+                                       Clerk
+Justice Ingrid Gustafson delivered the Opinion of the Court.
+
+¶1    Victory Insurance Co. (Victory) appeals from the September 3, 2025 Order –
+
+Petition for Judicial Review issued by the First Judicial District Court, Lewis and Clark
+
+County. The District Court’s order denied Victory’s petition for judicial review, which
+
+was filed after the Montana Commissioner of Securities and Insurance (Commissioner)
+
+was granted summary judgment in administrative proceedings against Victory for violating
+
+the Montana Insurance Code, and a $25,000 fine was imposed against Victory.
+
+¶2    We address the following issues on appeal:
+
+      1. Did the District Court err by affirming the agency’s summary judgment ruling
+         that Victory failed to disclose a significant federal suit which put its financial
+         condition potentially at risk?
+
+      2. Is reversal warranted for the failure of the Commissioner to explain the $25,000
+         fine?
+
+¶3    We affirm in part, reverse in part, and remand.
+
+                 FACTUAL AND PROCEDURAL BACKGROUND
+
+¶4    Victory is a worker’s compensation insurer based in Montana. As a Montana
+
+insurer, Victory is subject to Montana’s insurance laws as set forth in Title 33, MCA. The
+
+Commissioner has the duty and authority to “enforce the applicable provisions” of the
+
+insurance code and “ensure that the interests of insurance consumers are protected.”
+
+Section 33-1-311(1), (3), MCA.
+
+¶5    In 2019, Clear Spring Property and Casualty Company (Clear Spring), a Texas
+
+insurer with its headquarters in Illinois, purchased Victory’s book of workers’
+
+compensation policies. As part of the sale, Victory agreed to serve as Clear Spring’s
+
+
+                                            2
+managing general agent in Montana and was authorized to withhold quarterly payments of
+
+$800,000 from premiums paid by Clear Spring’s Montana workers’ compensation
+
+customers as payment.
+
+¶6    On March 1, 2021, Clear Spring sued Victory in the United States District Court for
+
+the Northern District of Illinois, alleging Victory breached various provisions of the
+
+management agreement. Clear Spring sought a judgment in excess of $8 million. Clear
+
+Spring and Victory actively litigated the matter until entering a confidential settlement
+
+agreement on April 21, 2022, whereupon the federal lawsuit was dismissed.
+
+¶7    As a Montana insurance company, Victory is required by the Insurance Code to
+
+annually file with the Commissioner “a full and true statement of the authorized insurer’s
+
+financial condition, transactions, and affairs[.]” Section 33-2-701(1), MCA. Victory
+
+timely filed its 2021 Annual Statement in early 2022. While noting Victory was subject to
+
+potential litigation in the normal course of business, the Annual Statement did not
+
+specifically disclose the existence of the Clear Spring federal lawsuit. On March 17, 2022,
+
+the Commissioner of Securities and Insurance (CSI) Chief Financial Examiner Steve
+
+Matthews wrote a letter asking Victory to amend Note 14 of its 2021 Annual Statement to
+
+disclose the (then-ongoing) Clear Spring litigation. Matthews wrote another letter on
+
+April 1, 2022, explaining the request to amend or supplement the Annual Report was a
+
+“direction” to do so. Victory responded on April 15, 2022, informing Matthews that it did
+
+not intend to amend the 2021 Annual Statement. On May 4, 2022, CSI sent a letter to
+
+Victory directing it to amend Note 14E of the Annual Statement to disclose (1) that Victory
+
+was the defendant in the Clear Spring lawsuit and (2) that the lawsuit had settled. After
+
+                                            3
+receiving no response from Victory, CSI sent another letter noting it was requiring the
+
+Annual Statement to be supplemented for additional information in accordance with the
+
+Commissioner’s power to do so in § 33-2-701(1)(a), MCA, and his duty to ensure the
+
+interests of insurance consumers are protected in accordance with § 33-1-311(3), MCA.
+
+On June 30, 2022, Victory responded with a letter explaining it would not amend the 2021
+
+Annual Statement and the Commissioner’s requirement to amend Note 14E to disclose the
+
+settlement of the Clear Spring lawsuit, which did not occur until the second quarter of 2022,
+
+would amount to requiring Victory to make an untrue statement.
+
+¶8     On December 27, 2022, the Commissioner issued a Notice of Proposed Agency
+
+Action and Opportunity for Hearing, wherein the Commissioner proposed to order the CSI
+
+Chief Financial Examiner to supplement Victory’s 2021 Annual Statement “to include the
+
+fact of and subsequent settlement of” the Clear Spring federal litigation and to impose a
+
+$25,000 fine pursuant to § 33-1-317, MCA. Victory requested a hearing on the proposed
+
+agency action and the matter was assigned to a Hearing Examiner. The Commissioner
+
+filed a motion for summary judgment seeking an order allowing it to supplement Victory’s
+
+2021 Annual Statement, which the parties fully briefed. After briefing, the Hearing
+
+Examiner granted in part and denied in part the Commissioner’s motion on March 5, 2024.
+
+The Hearing Examiner issued a Recommended Decision allowing the Commissioner to
+
+supplement the Annual Statement “to include the fact of the existence of Clear Spring v.
+
+Victory” and to impose a fine not exceeding $25,000, while determining the Commissioner
+
+“may not supplement Victory’s 2021 Annual Statement to include the settlement of Clear
+
+Spring v. Victory because that event occurred outside the time period covered by Victory’s
+
+                                             4
+2021 Annual Statement.” After the Hearing Examiner issued his recommended decision,
+
+Special Deputy Insurance Commissioner (SDIC) Adam Duerk issued an Order on
+
+Opportunity for Respondents to File Exceptions, Present Briefs and Oral Argument.
+
+Victory filed exceptions to the recommended agency decision, the Commissioner filed a
+
+response, and Victory filed a reply.       SDIC Duerk held oral argument on Victory’s
+
+exceptions on September 5, 2024. SDIC Duerk issued the Final Agency Decision on
+
+December 2, 2024, which generally upheld the Hearing Examiner’s recommended
+
+decision, allowing the Commissioner to supplement Victory’s 2021 Annual Statement to
+
+include the existence of the Clear Spring federal lawsuit, but denying the Commissioner
+
+authority to amend the Annual Statement to include the settlement of that lawsuit. In
+
+addition, SDIC Duerk imposed a $25,000 fine, noting the Commissioner’s discretion to
+
+determine a just amount of a fine was not limited by statute and Victory was “not without
+
+recourse” because it could appeal the fine to the District Court.
+
+¶9     Victory filed a petition for judicial review of the final agency decision in the District
+
+Court on December 31, 2024. After full briefing and oral argument, the District Court
+
+denied Victory’s petition for judicial review on September 3, 2025. The District Court
+
+upheld the Commissioner’s Final Agency Decision in all respects, and specifically noted
+
+that “the Commissioner is empowered to impose a fine authorized by law without
+
+explanation as to the reason for doing so.”
+
+¶10    Victory appeals. Additional facts will be discussed as necessary below.
+
+
+
+
+                                               5
+                                STANDARD OF REVIEW
+
+¶11    The Montana Administrative Procedure Act (MAPA) governs courts’ review of
+
+final agency decisions. Victory Ins. Co. v. State, </pre><span class="citation" data-id="11325132"><a href="/opinion/10857731/victory-insurance-co-v-state-auditor/#7" aria-description="Citation for case: Victory Insurance Co. v. State Auditor">2026 MT 100, ¶ 7</a></span><pre class="inline">, </pre><span class="citation no-link">428 Mont. 89</span><pre class="inline">, </pre><span class="citation no-link">590
+
+P.3d 387</span><pre class="inline"> (citing Blaine Cnty. v. Stricker, </pre><span class="citation" data-id="4159614"><a href="/opinion/4382361/blaine-and-hill-co-v-stricker/#16" aria-description="Citation for case: Blaine and Hill Co. v. Stricker">2017 MT 80, ¶ 16</a></span><pre class="inline">, </pre><span class="citation" data-id="4159614"><a href="/opinion/4382361/blaine-and-hill-co-v-stricker/" aria-description="Citation for case: Blaine and Hill Co. v. Stricker">387 Mont. 202</a></span><pre class="inline">, </pre><span class="citation" data-id="4159614"><a href="/opinion/4382361/blaine-and-hill-co-v-stricker/" aria-description="Citation for case: Blaine and Hill Co. v. Stricker">394 P.3d 159</a></span><pre class="inline">)
+
+(Victory 2026). We review a district court order reviewing an agency action by employing
+
+the same standards the district court used to review the agency decision. Victory Ins. Co.
+
+v. State, </pre><span class="citation" data-id="11119024"><a href="/opinion/10652437/victory-ins-v-state/#8" aria-description="Citation for case: Victory Ins. v. State">2025 MT 180, ¶ 8</a></span><pre class="inline">, </pre><span class="citation no-link">423 Mont. 377</span><pre class="inline">, </pre><span class="citation no-link">573 P.3d 772</span><pre class="inline"> (Victory 2025). A district court’s
+
+review of an agency decision “must be conducted by the court without a jury and must be
+
+confined to the record[.]”     Section 2-4-704(1), MCA.           A district court reviews an
+
+administrative agency’s findings of fact to determine whether they are clearly erroneous
+
+and its interpretations and applications of law to determine whether they are correct.
+
+Victory 2025, ¶ 8 (citations omitted). While the district court “may not substitute its
+
+judgment for that of the agency as to the weight of the evidence on questions of fact,” the
+
+district court may “reverse or modify the [agency’s] decision if the substantial rights of the
+
+appellant have been prejudiced[.]” Section 2-4-704(2), MCA. Such prejudice occurs by
+
+way of administrative findings, inferences, conclusions, or decisions which are:
+
+       (i) in violation of constitutional or statutory provisions;
+
+       (ii) in excess of the statutory authority of the agency;
+
+       (iii) made upon unlawful procedure;
+
+       (iv) affected by other error of law;
+
+       (v) clearly erroneous in view of the reliable, probative, and substantial
+       evidence on the whole record;
+
+
+                                               6
+       (vi) arbitrary or capricious or characterized by abuse of discretion or clearly
+       unwarranted exercise of discretion[.]
+
+Section 2-4-704(2)(a), MCA. “An evaluation of a petition for judicial review calls for the
+
+Court to review the entire administrative record.” DeBuff v. Mont. Dep’t of Nat. Res. &amp;
+
+Conservation, </pre><span class="citation" data-id="4668515"><a href="/opinion/4864736/debuff-v-dnrc/#24" aria-description="Citation for case: Debuff v. DNRC">2021 MT 68, ¶ 24</a></span><pre class="inline">, </pre><span class="citation no-link">403 Mont. 403</span><pre class="inline">, </pre><span class="citation no-link">482 P.3d 1183</span><pre class="inline"> (citing KB Enters., LLC
+
+v. Mont. Human Rights Comm’n, </pre><span class="citation" data-id="6536334"><a href="/opinion/6658900/kb-enters-llc-v-mont-human-rights-commn/#6" aria-description="Citation for case: KB Enters., LLC v. Mont. Human Rights Comm&#x27;n">2019 MT 131, ¶ 6</a></span><pre class="inline">, </pre><span class="citation" data-id="6536334"><a href="/opinion/6658900/kb-enters-llc-v-mont-human-rights-commn/" aria-description="Citation for case: KB Enters., LLC v. Mont. Human Rights Comm&#x27;n">396 Mont. 134</a></span><pre class="inline">, </pre><span class="citation" data-id="6536334"><a href="/opinion/6658900/kb-enters-llc-v-mont-human-rights-commn/" aria-description="Citation for case: KB Enters., LLC v. Mont. Human Rights Comm&#x27;n">443 P.3d 498</a></span><pre class="inline">).
+
+                                      DISCUSSION
+
+¶12    1. Did the District Court err by affirming the agency’s summary judgment ruling
+          that Victory failed to disclose a significant federal suit which put its financial
+          condition potentially at risk?
+
+¶13    Victory asserts the Commissioner issued an unlawful order when it ordered
+
+amendment of the 2021 Annual Statement and Victory cannot be penalized for failing to
+
+comply. The Commissioner contends his directive to amend the 2021 Annual Statement
+
+to include the Clear Spring federal lawsuit was both lawful and necessary to protect
+
+Montana consumers, as the potential liabilities from the suit—over $8 million—could have
+
+bankrupted the company.
+
+¶14    The primary thrust of Victory’s argument is that the Commissioner’s directive
+
+ordered it to disclose both the existence of the lawsuit and that it had been settled. Because
+
+the settlement of the lawsuit occurred outside of the 2021 Annual Statement’s reporting
+
+period, the Commissioner lacked statutory authority to include its inclusion in the 2021
+
+Annual Statement. The Hearing Examiner, SDIC Duerk, and the District Court all reached
+
+this same conclusion and the Commissioner does not argue it is incorrect on appeal.
+
+Victory argues that since the order to include the settlement went beyond the
+
+
+                                              7
+Commissioner’s authority, it was entitled to simply ignore the Commissioner’s directive
+
+to amend the 2021 Annual Statement to include the existence of the Clear Spring litigation.
+
+Victory is incorrect.
+
+¶15    Victory is required by law to annually file a “full and true statement” of its
+
+“financial condition, transactions, and affairs as of the preceding December 31.” Section
+
+33-2-701(1), MCA. The annual statement must be:
+
+       (a) in the general form and context as is required or not disapproved by the
+       commissioner, as is in current use for similar reports to states in general with
+       respect to the type of insurer and kinds of insurance to be reported upon, and
+       as supplemented for additional information required by the commissioner;
+
+       (b) completed in accordance with the annual statement instructions and the
+       Accounting Practices and Procedures Manual of the national association of
+       insurance commissioners;
+
+       (c) accompanied by an actuarial opinion attesting to the adequacy of the
+       insurer’s reserves;
+
+       (d) verified by the oath of the insurer’s president or vice president and
+       secretary or, if a reciprocal insurer, by the oath of the attorney-in-fact or its
+       like officers if a corporation. The commissioner may waive the verification
+       under oath.
+
+Section 33-2-701(1)(a)-(d), MCA. The Commissioner’s authority to require an annual
+
+statement to be “supplemented for additional information” to ensure the statement is
+
+actually a “full and true statement” of an insurer’s financial affairs is broad. Section
+
+33-2-701(1)(a), MCA. The Commissioner is mandated by law to protect Montana’s
+
+insurance consumers. Section 33-1-311, MCA. The Commissioner is also entitled by
+
+statute to “make reasonable rules necessary for or as an aid to the effective administration
+
+
+
+
+                                              8
+of any provision of” the Montana Insurance Code, § 33-1-313, MCA, and has done so.
+
+Admin R. M. 6.6.3401 (2017).
+
+¶16    In this case, the Commissioner (or his employee/designee) requested Victory amend
+
+its 2021 Annual Statement to disclose the Clear Spring litigation four times prior to filing
+
+the Notice of Proposed Agency Action. In response, Victory either declined or simply
+
+ignored the Commissioner’s directive. The first (and second) directive to amend the 2021
+
+Annual Statement came before the Clear Spring litigation settled, when CSI Chief
+
+Financial Examiner Matthews requested Victory “amend the annual statement” to disclose
+
+the “ongoing litigation between Victory and Clear Spring.” After Victory responded,
+
+Matthews sent a further letter stating his initial letter comprised “a direction that Victory
+
+amend its 2021 annual statement to include a disclosure to readers, who may include
+
+policyholders and investors, both current and future, that Victory is subject to a lawsuit
+
+that, if decided against Victory, will have a material adverse impact on Victory’s financial
+
+status.” Victory responded with a letter stating it disagreed, “[did] not intend to amend its
+
+annual statement,” and did not believe an insurance company was required “to follow
+
+directions from the Commissioner’s staff[.]” Further letters occurred after the lawsuit was
+
+settled, and only then did the Commissioner begin to assert the statement should be
+
+amended to include both the existence of the lawsuit and its ultimate settlement.
+
+¶17    It is true the Commissioner lacked authority to order Victory to amend its 2021
+
+Annual Statement to include the settlement of the Clear Spring litigation, a fact which both
+
+the Hearing Examiner and SDIC Duerk recognized. But the Commissioner overstepping
+
+his bounds with respect to one of two amendments ordered does not give Victory carte
+
+                                             9
+blanche to ignore all Commissioner directives. Furthermore, had Victory simply amended
+
+its 2021 Annual Statement to include the existence of the lawsuit when directed the first
+
+(or second) time, its amendment would have been complete prior to the Clear Spring
+
+litigation settlement and there would have been no cause to order disclosure of a settlement
+
+that did not yet exist.
+
+¶18    The Commissioner has broad authority to order an insurance company to amend its
+
+annual statement to ensure a “full and true statement” of the company’s affairs are available
+
+to interested Montana insurance consumers and/or investors.           The Commissioner’s
+
+repeated directives to amend Victory’s 2021 Annual Statement to include the existence of
+
+the Clear Spring litigation, when Clear Spring was seeking a judgment with the potential
+
+to place Victory at great financial risk, if not become insolvent, were within the
+
+Commissioner’s statutory authority. Section 33-2-701(1), MCA. Victory was not free to
+
+reject and/or ignore such a directive, and its conduct in doing so violated the Montana
+
+Insurance Code. The Hearing Examiner correctly granted summary judgment to the
+
+Commissioner on this issue, which was properly affirmed by both SDIC Duerk in the Final
+
+Agency Decision and by the District Court on judicial review.
+
+¶19    2. Is reversal warranted for the failure of the Commissioner to explain the $25,000
+          fine?
+
+¶20    Victory asserts the Commissioner’s imposition of a $25,000 fine, the maximum
+
+allowed, was arbitrary and capricious because the Commissioner provided no rationale
+
+behind the choice to impose the maximum fine. The Commissioner contends he is not
+
+required “to provide a detailed explanation of why he selected a particular fine amount,”
+
+
+                                             10
+only that the decision be supported by substantial evidence and within the bounds of his
+
+lawful authority.
+
+¶21    In resolving the summary judgment motion, the Hearing Examiner determined the
+
+Commissioner could require Victory to amend its 2021 Annual Statement to include the
+
+existence of the Clear Spring litigation, but could not require Victory to amend the
+
+statement to include the settlement of that litigation because it occurred outside the time
+
+period covered by the statement. After resolving those two issues, the Hearing Examiner
+
+addressed the statutory authority which allows the Commissioner to, after conducting a
+
+hearing, “impose a fine not to exceed the sum of $25,000” for violating the Insurance Code.
+
+Section 33-1-317, MCA. The Hearing Examiner noted the Commissioner was vested with
+
+the discretion to “determine the just amount of a fine imposed,” and Victory was “not
+
+without recourse” because it could appeal the fine amount to the District Court. The
+
+Hearing Examiner’s recommended order stated the “Commissioner may impose a fine in
+
+an amount not to exceed $25,000.” SDIC Duerk, in the Final Agency Decision, simply
+
+found “the appropriate fine to be imposed” pursuant to the Commissioner’s statutory
+
+authority was $25,000, finding only that its failure to disclose the existence of the Clear
+
+Spring litigation was a violation of the insurance code and again noting Victory was “not
+
+without recourse” because it could appeal the amount of the fine to the District Court.
+
+¶22    The Commissioner argues this matter is governed by Victory Ins. Co. v. Downing,
+
+</pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/#15" aria-description="Citation for case: Victory Ins. v. Downing">2023 MT 139, ¶ 15</a></span><pre class="inline">, </pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/" aria-description="Citation for case: Victory Ins. v. Downing">413 Mont. 80</a></span><pre class="inline">, </pre><span class="citation" data-id="9409792"><a href="/opinion/9414316/victory-ins-v-downing/" aria-description="Citation for case: Victory Ins. v. Downing">532 P.3d 850</a></span><pre class="inline">, wherein we noted the Commissioner was
+
+vested by the Legislature with the authority to impose fines for violations of the Insurance
+
+Code. But Downing’s recognition of the (undisputed) fact the Commissioner has been
+
+                                            11
+vested with the discretion to impose a fine of up to $25,000 does not mean the
+
+Commissioner is not required to explain why he exercised his discretion in the manner
+
+chosen. Our MAPA jurisprudence has consistently made clear that “we will not afford
+
+unfettered deference to agency decisions without a thorough and careful review of the
+
+administrative record and defer only to ‘consistent, rational, and well-supported agency
+
+decision-making.’” DeBuff, ¶ 24 (quoting Mont. Env’t Info. Ctr. v. Mont. Dep’t of Env’t
+
+Quality, </pre><span class="citation no-link">2019 MT 213</span><pre class="inline">, ¶ 26, </pre><span class="citation no-link">397 Mont. 161</span><pre class="inline">, </pre><span class="citation no-link">451 P.3d 493</span><pre class="inline"> (MEIC 2019)). In practice, this
+
+“requires that an agency cogently explain why it has exercised its discretion in a given
+
+manner,” DeBuff, ¶ 24 (internal quotation marks and citation omitted), and a reviewing
+
+court to “consider whether an agency decision was based on a consideration of all relevant
+
+factors.” DeBuff, ¶ 24 (citing Clark Fork Coal. v. Mont. Dep’t of Env’t Quality, </pre><span class="citation" data-id="9511847"><a href="/opinion/888218/clark-fork-coalition-v-montana-department-of-environmental-quality/#21" aria-description="Citation for case: Clark Fork Coalition v. Montana Department of...">2008 MT
+
+407, ¶ 21</a></span><pre class="inline">, </pre><span class="citation" data-id="9511847"><a href="/opinion/888218/clark-fork-coalition-v-montana-department-of-environmental-quality/" aria-description="Citation for case: Clark Fork Coalition v. Montana Department of...">347 Mont. 197</a></span><pre class="inline">, </pre><span class="citation" data-id="9511847"><a href="/opinion/888218/clark-fork-coalition-v-montana-department-of-environmental-quality/" aria-description="Citation for case: Clark Fork Coalition v. Montana Department of...">197 P.3d 482</a></span><pre class="inline">).
+
+¶23   Here, we have no explanation for why the Commissioner decided on the maximum
+
+fine in this case because the Final Agency Decision simply recounts that Victory violated
+
+the Insurance Code. But the existence of a violation of the insurance code is a necessary
+
+condition for an imposition of any fine. Section 33-1-317, MCA. It does not explain why
+
+the Commissioner, vested with the discretion to impose any fine between $0 and $25,000,
+
+chose to impose the maximum penalty in this case. This is unlike the case of the fine we
+
+upheld in Victory 2026, where the Hearing Examiner set forth Victory’s violations of the
+
+insurance code, its attempts to frustrate the Commissioner’s investigation of those
+
+violations by not producing requested records in usable formats, and factual
+
+misrepresentations Victory made to the Hearing Examiner. The Special Deputy Insurance
+
+                                           12
+Commissioner adopted the Hearing Examiner’s findings in the final agency decision.
+
+Victory 2026, ¶¶ 26-27. We affirmed the imposition of the maximum fine, determining the
+
+agency considered “relevant factors”—Victory’s facially illegal agreement, Victory
+
+willfully and actively impeding the Commissioner’s investigation, and Victory
+
+misrepresenting facts to the Hearing Examiner—before deciding to impose the maximum
+
+fine. Victory 2026, ¶ 28. On MAPA review, we may “reverse or modify the [agency’s]
+
+decision if the substantial rights of the appellant have been prejudiced[.]”        Section
+
+2-4-704(2), MCA. Here, we find the imposition of the maximum fine, with no explanation
+
+for why this amount was appropriate, violated Victory’s substantial rights because the
+
+agency decision was “arbitrary or capricious or characterized by abuse of discretion or
+
+clearly unwarranted exercise of discretion.” Section 2-4-704(2)(a)(vi), MCA.
+
+¶24    Victory seeks this Court order the dismissal of the entire agency action because our
+
+review “must be judged on the grounds and reasons set forth in the challenged order(s); no
+
+other grounds should be considered.” MTSUN, LLC v. Mont. Dep’t of Pub. Serv. Regul.,
+
+</pre><span class="citation multiple-matches"><a href="/c/MT/2020/238/">2020 MT 238</a></span><pre class="inline">, ¶ 51, </pre><span class="citation no-link">401 Mont. 324</span><pre class="inline">, </pre><span class="citation no-link">472 P.3d 1154</span><pre class="inline">. We disagree with this contention under
+
+the facts of this case. As discussed in Issue 1, Victory did violate the Insurance Code when
+
+it refused to amend its 2021 Annual Statement to include the existence of the Clear Spring
+
+litigation after being directed to do so by the Commissioner. We have reviewed the
+
+“grounds and reasons set forth” in the agency decision and agreed with the agency that
+
+Victory violated the Insurance Code and § 33-1-317, MCA, grants the Commissioner the
+
+discretion to impose a fine of up to $25,000 for such a violation.           However, the
+
+Commissioner may not exercise his discretion without explanation as he did in this case.
+
+                                            13
+DeBuff, ¶ 24. When faced with a situation where there has been a demonstrated violation
+
+of the Insurance Code but the maximum fine was imposed without explanation, the proper
+
+remedy is not to completely dismiss the agency action, it is to remand with instructions to
+
+the agency to “cogently explain why it has exercised its discretion in a given manner.”
+
+MEIC 2019, ¶ 97. Accordingly, while we affirm the District Court as it relates to affirming
+
+the agency finding a violation of the Insurance Code, we reverse the imposition of the
+
+$25,000 fine and remand to the District Court with instructions to remand to the agency to
+
+“cogently explain why it has exercised its discretion” prior to the imposition of any fine.
+
+Victory may then appeal any fine which may ultimately be imposed to the District Court.
+
+Section 33-1-317, MCA.
+
+                                      CONCLUSION
+
+¶25    The District Court did not err by affirming the Commissioner’s final order which
+
+determined Victory violated the Insurance Code by failing to supplement its annual report
+
+and disclose the federal lawsuit. The District Court’s affirmance of the fine, however, is
+
+reversed and remanded with instructions to remand to the agency to explain why it has
+
+exercised its discretion prior to the imposition of any fine.
+
+¶26    Affirmed in part, reversed in part, and remanded.
+
+
+                                                   /S/ INGRID GUSTAFSON
+
+We Concur:
+
+/S/ CORY J. SWANSON
+/S/ BETH BAKER
+/S/ KATHERINE M. BIDEGARAY
+/S/ JAMES JEREMIAH SHEA
+
+                                              14
+</pre>
