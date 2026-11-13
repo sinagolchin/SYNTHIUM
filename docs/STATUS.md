@@ -1,5 +1,7 @@
 # Synthium — the whole story on one page (updated after 119 blind cases)
 
+> **Note (Nov 13 2026):** this page dates from July 2026 and its case counts (119, 171) are historical. The current numbers, and which count is authoritative, are in the README under "Numbers at a glance".
+
 **The goal:** build rulers — real measuring sticks — for things people judge
 without math. Test domain: judicial decisions (criminal, civil, administrative).
 

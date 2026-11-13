@@ -12,15 +12,35 @@ all readable before the ruling:
 - **P (posture):** decided after a real trial is armored; decided on paper is fragile.
 - **L (layer):** fact-findings almost never flip; the legal layer on top is what moves.
 
-The committed-before-reveal record is 16/19 correct outcome notches against 12/19 for
-the always-affirm baseline. The fact/law seam shows up in 11 legal systems on 5
-continents. Depth is still one jurisdiction (Connecticut coefficients), one coder, and
-the newest refinements still owe a prospective exam. See `docs/STATUS.md`.
+The fact/law seam shows up in 11 legal systems on 5 continents. Depth is still thin: the
+fitted coefficients are Connecticut's, the coding is done by AI agents with no human
+inter-rater check yet, and the newest refinements still owe a prospective exam.
 
 **Campaign A (the owed blind test), finished Nov 12 2026:** 15/20 correct outcome
 notches against 9/20 for always-affirm; on the 16 fully blind cases, 12/16 against 9/16.
-Caveat recorded with it: the facts sections are written by the deciding court and can
-leak its framing. Details in `data/campaign-a/PROGRESS.md`.
+Paired, the model beat the baseline on 9 cases and lost on 3 (exact McNemar p ≈ 0.15),
+so the edge is suggestive, not established. Caveat recorded with it: the facts sections
+are written by the deciding court and can leak its framing. Details in
+`data/campaign-a/PROGRESS.md`.
+
+## Numbers at a glance (as of Nov 13 2026)
+
+The docs were written over several months and quote different counts. This table says
+which number means what. When a doc disagrees with it, this table wins.
+
+| Number | What it is | Status |
+|---|---|---|
+| **38** | Cases in `data/VERIFIED_LEDGER.csv` (37 confirmed against full text, 1 partial) | **Current. The only authoritative case count.** |
+| **15/20 vs 9/20** | Campaign A, notch model vs always-affirm, predictions hash-logged before reveal | Current. Strongest test so far; p ≈ 0.15 paired |
+| **2/3 vs 2/3** | Open phase after Campaign A, same protocol | Current, in progress |
+| **90 points, 6 jurisdictions** | `data/T1_POINTS.csv` for the T1 review-barrier candidate | Current. No fit until ≥30 points in ≥5 jurisdictions |
+| **159** | Rows on disk in the July 2026 registers (`data/FULL_CASE_LIST.md`) | Historical. Machine-listable, not re-verified against full text |
+| **16/19 vs 12/19** | Ruler v3 record from July (attempts 10-11) | Historical. Deterministic-rule grade, not blind: the syllabus with the holding was in view while coding (`docs/AUDIT_2026-07-10.md`, F4) |
+| **119, 171** | July running totals of committed cases | Superseded. 171 is the audited July chain; neither is re-verified |
+| **250, 263** | Later July running totals, built by adding turn by turn | Not verified. Kept only as a record (`docs/COUNT_RECONCILIATION.md`) |
+
+The fact/law and credibility claims in `docs/STATUS.md`, `docs/AXIOM_CANDIDATES.md` and
+`docs/CROSS_BORDER.md` were written against the July totals; read them with this table.
 
 This folder is the one current version of Synthium: code, data and research notes.
 Every earlier version (V2 to V8) was merged into it; `CHANGELOG.md` says what came from
