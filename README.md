@@ -101,6 +101,17 @@ python -m synthium blind status       # the blind protocol, see docs/BLIND_PROTO
 
 ## License
 
-Code (`synthium/`, `tests/`): MIT, see `LICENSE`. Documents and data (`docs/`, `data/`,
-and the top-level notes): CC BY 4.0, see `LICENSE-DOCS-DATA.md`. Court opinion texts
-stored here are not covered; they belong to their sources.
+Code (`synthium/`, `tests/`): PolyForm Strict 1.0.0, see `LICENSE`. You may read, run
+and test it for noncommercial purposes such as research and personal study, but you
+may not sell it, change it, or share copies or changed versions without permission
+from Sina Golchin.
+
+Documents and data (`docs/`, `data/`, and the top-level notes): CC BY-NC-ND 4.0, see
+`LICENSE-DOCS-DATA.md`. You may share them unchanged with credit, for noncommercial
+purposes, but you may not sell them or publish changed versions. Quoting and
+critiquing the work is welcome. Court opinion texts stored here are not covered; they
+belong to their sources.
+
+Versions published before 15 November 2026 (up to commit 74dc4a0) were released under
+MIT (code) and CC BY 4.0 (docs and data); anyone who obtained one of those versions
+keeps those terms for that copy.
