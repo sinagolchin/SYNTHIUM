@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-11-24: geometry and calculus brought back (`synthium/geometry/`)
+
+Sina's call: the V4 maths (manifold geometry, tensor calculus, dimensional discovery)
+should not have been retired with the word counts that fed it. It is back, fed with the
+case quality scores. Every result it gives is marked UNTESTED.
+
+- `archive/v4_original/`: the original V4 code, byte for byte from `Synthium.zip` on
+  Drive, with `ARCHIVE_NOTE.md` on what it really did (constant metric, so its curvature
+  was always zero; nested 1e-6 derivatives that return noise past the third order).
+- `synthium/geometry/` (numpy only): cases as points, qualities as dimensions, the number
+  of dimensions not fixed in advance. Dot to line to area to volume build-up; a test of
+  whether a quality is a new dimension or a combination of others; PCA against shuffled
+  data; Mahalanobis metric; paths along the cases and a curvature index against shuffled
+  data; a metric that varies from place to place with real Christoffel symbols, Riemann
+  tensor and scalar curvature (checked on a sphere); tensors of any rank; rates of change
+  along reading order or filing date; case paths between stages; a loader for any
+  domain's table and a shared-versus-own dimension comparison.
+- `python -m synthium.geometry CASES.csv --out DIR` writes a plain-language report.
+- `tests/test_geometry.py`: 29 tests on cases with known answers.
+- No change to the ruler, the ledgers, or any existing result.
+
 ## 2026-11-12: research data added by the daily runs (package still 9.0.0)
 
 No code changed; the 59 tests are the same. The daily research runs now work in the
