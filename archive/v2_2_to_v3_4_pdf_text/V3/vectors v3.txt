@@ -1,0 +1,198 @@
+"""
+SYNTHIUM OMEGA v3.0 - Core Vector Representations
+================================================
+
+
+11D Reality Vector: 3D Spatial + 8D Qualitative
+- v, R, r, C, S (base dynamics)
+- E, M, P (derived/emergent)
+"""
+
+
+import math
+import numpy as np
+from dataclasses import dataclass
+from typing import Tuple, List, Dict, Optional
+
+
+
+@dataclass
+class RealityVector:
+      """
+      11D Complete Reality State
+
+
+      Spatial (3D): x, y, z
+      Base Dynamics (5D): v, R, r, C, S
+      Derived (3D): E, M, P (computed from base)
+      """
+      # Spatial dimensions (meters)
+      x: float
+      y: float
+      z: float
+
+
+      # Base dynamic dimensions (normalized 0-1)
+      v: float    # Velocity (rate of state change)
+      R: float    # Resistance (friction/opposition)
+      r: float    # Resonance (alignment/coherence)
+      C: float    # Capacity (reserves/depth)
+      S: float    # Entropy (disorder/decay)
+
+
+      # Derived dimensions (computed, can be overridden)
+      E: Optional[float] = None    # Enjoyment
+      M: Optional[float] = None    # Meaning
+      P: Optional[float] = None    # Perception Accuracy
+
+
+      def __post_init__(self):
+            """Validate and compute derived dimensions."""
+            # Validate base dimensions
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          value = getattr(self, dim)
+          if not (0.0 <= value <= 1.0):
+              raise ValueError(f"{dim} must be in [0, 1], got {value}")
+
+
+    # Compute derived dimensions if not provided
+    if self.E is None:
+          self.E = self.compute_enjoyment()
+    if self.M is None:
+          self.M = self.compute_meaning()
+    if self.P is None:
+          self.P = self.compute_perception_accuracy()
+
+
+def compute_enjoyment(self) -> float:
+    """
+    Enjoyment = Low burn rate + High resonance + Low entropy
+    NOT a separate dimension—emerges from physics
+    """
+    burn_rate = self.v * self.R
+    sustainability = max(0.0, 1.0 - (burn_rate / (self.C + 0.01)))
+
+
+    enjoyment = (
+          self.r * 0.35 +              # Alignment feels good
+          (1.0 - self.S) * 0.35 +      # Order feels good
+          sustainability * 0.30        # Sustainability feels good
+    )
+    return max(0.0, min(1.0, enjoyment))
+
+
+def compute_meaning(self) -> float:
+    """
+    Meaning = High capacity + High resonance + Low entropy
+    Measures information richness and coherence
+    """
+    meaning = (
+          self.C * 0.40 +              # Depth creates meaning
+          self.r * 0.35 +              # Connection creates meaning
+          (1.0 - self.S) * 0.25        # Coherence creates meaning
+    )
+    return max(0.0, min(1.0, meaning))
+
+
+def compute_perception_accuracy(self) -> float:
+    """
+    Perception Accuracy = f(entropy, capacity, resonance)
+    Low entropy + High capacity = Can perceive more dimensions
+    """
+    accuracy = (
+          (1.0 - self.S) * 0.50 +      # Low chaos = clear perception
+          self.C * 0.30 +            # High capacity = more processing
+          self.r * 0.20              # Alignment = accurate sensing
+    )
+    return max(0.0, min(1.0, accuracy))
+
+
+def spatial_part(self) -> Tuple[float, float, float]:
+    """Return 3D spatial coordinates."""
+    return (self.x, self.y, self.z)
+
+
+def qualitative_part(self) -> Dict[str, float]:
+    """Return all 8D qualitative values."""
+    return {
+          'v': self.v, 'R': self.R, 'r': self.r, 'C': self.C, 'S': self.S,
+          'E': self.E, 'M': self.M, 'P': self.P
+    }
+
+
+def copy(self) -> 'RealityVector':
+    """Create a deep copy."""
+    return RealityVector(
+          self.x, self.y, self.z,
+          self.v, self.R, self.r, self.C, self.S,
+          self.E, self.M, self.P
+    )
+
+
+def to_dict(self) -> dict:
+    """Serialize to dictionary."""
+    return {
+          'x': self.x, 'y': self.y, 'z': self.z,
+          'v': self.v, 'R': self.R, 'r': self.r, 'C': self.C, 'S': self.S,
+          'E': self.E, 'M': self.M, 'P': self.P
+    }
+
+
+@classmethod
+def from_dict(cls, data: dict) -> 'RealityVector':
+    """Deserialize from dictionary."""
+    return cls(
+          x=data['x'], y=data['y'], z=data['z'],
+          v=data['v'], R=data['R'], r=data['r'], C=data['C'], S=data['S'],
+          E=data.get('E'), M=data.get('M'), P=data.get('P')
+    )
+
+
+def distance_to(self, other: 'RealityVector') -> float:
+    """
+    Euclidean distance in 8D qualitative space.
+    (Spatial distance computed separately)
+    """
+    dist = 0.0
+          for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+              dist += (getattr(self, dim) - getattr(other, dim)) ** 2
+          return math.sqrt(dist)
+
+
+    def __str__(self) -> str:
+          return (
+              f"RealityVector(\n"
+              f"     Spatial: ({self.x:.2f}, {self.y:.2f}, {self.z:.2f})\n"
+              f"     Base: v={self.v:.2f}, R={self.R:.2f}, r={self.r:.2f}, "
+              f"C={self.C:.2f}, S={self.S:.2f}\n"
+              f"     Derived: E={self.E:.2f}, M={self.M:.2f}, P={self.P:.2f}\n"
+              f")"
+          )
+
+
+
+def compute_distance_8D(vec_a: RealityVector, vec_b: RealityVector) -> float:
+    """Compute distance in 8D qualitative space."""
+    return vec_a.distance_to(vec_b)
+
+
+
+def interpolate(vec_a: RealityVector, vec_b: RealityVector, t: float) -> RealityVector:
+    """
+    Linear interpolation between two vectors.
+    t=0 returns vec_a, t=1 returns vec_b
+    """
+    t = max(0.0, min(1.0, t))
+
+
+    return RealityVector(
+          x=vec_a.x + t * (vec_b.x - vec_a.x),
+          y=vec_a.y + t * (vec_b.y - vec_a.y),
+          z=vec_a.z + t * (vec_b.z - vec_a.z),
+          v=vec_a.v + t * (vec_b.v - vec_a.v),
+          R=vec_a.R + t * (vec_b.R - vec_a.R),
+          r=vec_a.r + t * (vec_b.r - vec_a.r),
+          C=vec_a.C + t * (vec_b.C - vec_a.C),
+          S=vec_a.S + t * (vec_b.S - vec_a.S)
+    )
+

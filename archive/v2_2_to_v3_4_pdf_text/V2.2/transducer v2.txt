@@ -1,0 +1,80 @@
+"""
+SYNTHIUM OMEGA v2.2 - Transducer
+===============================
+"""
+
+
+from .vectors_v2 import RealityVector
+
+
+
+class Transducer:
+      """Converts descriptions to 8D RealityVectors."""
+
+
+      QUALITY_KEYWORDS = {
+          'v': ['fast', 'quick', 'speed', 'velocity', 'dynamic', 'moving', 'active', 'rapid'],
+          'R': ['heavy', 'resistant', 'dense', 'solid', 'stuck', 'blocked', 'friction'],
+          'r': ['vibrant', 'resonant', 'connected', 'harmonic', 'attractive', 'aligned'],
+          'C': ['deep', 'capacity', 'large', 'full', 'potential', 'room', 'spacious'],
+          'S': ['chaotic', 'random', 'entropy', 'decay', 'disorder', 'noise', 'confused']
+      }
+
+
+      SPATIAL_CONTEXT = {
+          'high': {'z': 10.0},
+          'low': {'z': -5.0},
+          'center': {'x': 0, 'y': 0},
+          'north': {'y': 10.0},
+          'south': {'y': -10.0},
+          'east': {'x': 10.0},
+          'west': {'x': -10.0},
+          'underground': {'z': -10.0},
+          'above': {'z': 20.0},
+          'surface': {'z': 0}
+      }
+
+
+      def quantify(self, description: str, location: tuple = (0.0, 0.0, 0.0)) -> RealityVector:
+          """
+          Convert natural language to RealityVector.
+          """
+          x, y, z = location
+          desc_lower = description.lower()
+
+
+          # Extract spatial context
+          for keyword, offsets in self.SPATIAL_CONTEXT.items():
+                if keyword in desc_lower:
+                    x += offsets.get('x', 0)
+                    y += offsets.get('y', 0)
+        z += offsets.get('z', 0)
+
+
+# Analyze qualities
+scores = {'v': 0.5, 'R': 0.5, 'r': 0.5, 'C': 0.5, 'S': 0.5}
+
+
+for dim, keywords in self.QUALITY_KEYWORDS.items():
+    matches = sum(1 for k in keywords if k in desc_lower)
+    if matches > 0:
+        scores[dim] = min(1.0, 0.3 + matches * 0.15)
+
+
+# Special patterns
+if 'still' in desc_lower or 'calm' in desc_lower:
+    scores['v'] = 0.1
+
+
+if 'peaceful' in desc_lower or 'serene' in desc_lower:
+    scores['r'] = 0.8
+    scores['S'] = 0.2
+
+
+if 'anxious' in desc_lower or 'worried' in desc_lower:
+    scores['v'] = 0.7
+    scores['S'] = 0.7
+
+
+return RealityVector(x, y, z, **scores)
+

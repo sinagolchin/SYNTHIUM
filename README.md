@@ -56,6 +56,11 @@ synthium/                  the package (standard library only)
   data/courtlistener.py    labels real court records with rubric-independent outcomes
   domains/judicial/        the T/P/L ruler, frozen fitted models (params/), citation space
   blind/                   the blind protocol (protocol.py) and Chinese tenor classifier
+  geometry/                V4's manifold, tensors and dimension discovery on case scores (numpy)
+  phenomena/               every phenomenon as a structure with its own dimensions, and the
+                           catalogue of every past formula, unit, axiom and tool (numpy)
+  legacy/                  every earlier version (V1 to V8, SynthiumBot) restored as live code;
+                           all under consideration, results UNTESTED
   paths.py                 where the data folder is (override with SYNTHIUM_DATA)
   cli.py                   the command line
 data/
@@ -70,8 +75,9 @@ data/
   citation_seed.json       10 real cases as citation vectors
   blind_log_2026-07/       the July blind protocol's log and sealed excerpt
   blind_dryrun_2026-11-10/ the November tool's dry run
+archive/                   untouched originals: V2.2 to V3.4 PDFs and text, V4 code, set-aside docs
 docs/                      the living research documents (start with STATUS.md and RULER.md)
-tests/                     59 tests
+tests/                     129 tests (numpy, scipy, torch ones skip when not installed)
 ```
 
 ## Run it
@@ -88,6 +94,8 @@ python -m synthium blind status       # the blind protocol, see docs/BLIND_PROTO
 
 ## Read next
 
+- `docs/UNDER_CONSIDERATION.md`: every formula, unit, axiom and tool Synthium ever wrote,
+  what it claimed, why it was set aside, and where it lives now (nothing is retired)
 - `docs/STATUS.md`: the whole story on one page
 - `docs/RULER.md`: units, formula, and the full keep/change history
 - `docs/PREDICTIONS_REGISTER.md`: every committed prediction

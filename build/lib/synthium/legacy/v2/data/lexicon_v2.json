@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "version": "2.0",
+    "created": "2024-01-15T10:00:00.000000",
+    "last_modified": "2026-01-01T03:04:28.068604",
+    "total_qualities": 1
+  },
+  "qualities": [
+    {
+      "term": "Office Stress",
+      "vector": {
+        "v": 0.8,
+        "R": 0.6,
+        "r": 0.2,
+        "C": 0.3,
+        "S": 0.7
+      },
+      "formula": "Friction_loss = v \u00d7 R",
+      "timestamp": "2026-01-01T03:04:28.068595",
+      "category": "Psychological"
+    }
+  ]
+}

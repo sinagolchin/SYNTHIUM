@@ -1,0 +1,87 @@
+"""
+SYNTHIUM OMEGA v3.1 - Reality Field
+===================================
+
+
+Systems follow gradients in state space.
+"""
+
+
+import numpy as np
+from typing import List, Dict, Callable
+from .vectors_v34 import RealityVector
+
+
+
+class RealityField:
+      """Systems follow gradients of potential functions."""
+
+
+      def __init__(self, dt: float = 0.01):
+          self.dt = dt
+
+
+      def compute_potential(self, vector: RealityVector) -> float:
+          """
+          Default potential: low = high E + high M + low S.
+          Override for custom landscapes.
+          """
+          return (
+                (1.0 - vector.E) * 2.0 +
+                (1.0 - vector.M) * 1.5 +
+                vector.S * 3.0 +
+                (vector.v * vector.R) * 1.0
+          )
+
+
+      def compute_gradient(self, vector: RealityVector, epsilon: float = 0.001) -> Dict[str, fl
+          """Numeric gradient of potential."""
+          gradient = {}
+          current_potential = self.compute_potential(vector)
+
+
+          for dim in ['v', 'R', 'r', 'C', 'S']:
+                perturbed = vector.copy()
+                current_val = getattr(perturbed, dim)
+                setattr(perturbed, dim, np.clip(current_val + epsilon, 0, 1))
+                perturbed.E = perturbed.compute_enjoyment()
+                perturbed.M = perturbed.compute_meaning()
+                perturbed.P = perturbed.compute_perception_accuracy()
+                new_potential = self.compute_potential(perturbed)
+                gradient[dim] = (new_potential - current_potential) / epsilon
+    return gradient
+
+
+def evolve(self, vector: RealityVector, num_steps: int = 1,
+           learning_rate: float = 0.1) -> List[RealityVector]:
+    """Evolve by gradient descent."""
+    trajectory = [vector.copy()]
+    current = vector.copy()
+
+
+    for _ in range(num_steps):
+        gradient = self.compute_gradient(current)
+        for dim in ['v','R','r','C','S']:
+            new_val = getattr(current, dim) - learning_rate * gradient[dim]
+            setattr(current, dim, np.clip(new_val, 0, 1))
+        current.E = current.compute_enjoyment()
+        current.M = current.compute_meaning()
+        current.P = current.compute_perception_accuracy()
+        trajectory.append(current.copy())
+
+
+    return trajectory
+
+
+def find_equilibrium(self, initial: RealityVector,
+                        max_steps: int = 1000,
+                        tolerance: float = 0.001) -> RealityVector:
+    """Evolve until gradient magnitude below tolerance."""
+    trajectory = self.evolve(initial, num_steps=max_steps)
+    for state in reversed(trajectory):
+        grad = self.compute_gradient(state)
+        mag = np.sqrt(sum(g**2 for g in grad.values()))
+        if mag < tolerance:
+            return state
+    return trajectory[-1]
+

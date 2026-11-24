@@ -1,0 +1,120 @@
+"""
+SYNTHIUM OMEGA v3.1 - SI Unit Grounding
+=======================================
+
+
+Connect dimensionless vectors to physical SI units.
+"""
+
+
+import numpy as np
+from typing import Dict
+from .vectors_v31 import RealityVector
+
+
+
+class SynthiumUnits:
+      """Convert between dimensionless vectors and SI units."""
+
+
+      DIMENSION_UNITS = {
+          'v': {'range': (0.0, 3.0), 'SI': 'Hz', 'name': 'Velocity',
+                'calibration': lambda x: 3.0 * x},
+          'R': {'range': (0.0, 100.0), 'SI': 'kg·m/s', 'name': 'Resistance',
+                'calibration': lambda x: 100.0 * x},
+          'r': {'range': (0.0, 1.0), 'SI': '', 'name': 'Resonance',
+                'calibration': lambda x: x},
+          'C': {'range': (0.0, 100.0), 'SI': 'J', 'name': 'Capacity',
+                'calibration': lambda x: 100.0 * x},
+          'S': {'range': (0.0, 1000.0), 'SI': 'J/K', 'name': 'Entropy',
+                'calibration': lambda x: 1000.0 * x},
+          'E': {'range': (0.0, 1.0), 'SI': '', 'name': 'Enjoyment',
+                'calibration': lambda x: x},
+          'M': {'range': (0.0, 1.0), 'SI': '', 'name': 'Meaning',
+                'calibration': lambda x: x},
+          'P': {'range': (0.0, 1.0), 'SI': '', 'name': 'Perception Accuracy',
+                'calibration': lambda x: x},
+      }
+
+
+      @classmethod
+      def to_SI(cls, vector: RealityVector) -> Dict[str, tuple]:
+          """Return dict {dim: (value_in_SI, unit)}."""
+          si = {}
+          for dim in ['v','R','r','C','S','E','M','P']:
+              dimensionless = getattr(vector, dim)
+              info = cls.DIMENSION_UNITS[dim]
+              si_val = info['calibration'](dimensionless)
+              si[dim] = (si_val, info['SI'])
+          return si
+    @classmethod
+    def from_SI(cls, si_values: Dict[str, float]) -> RealityVector:
+        """Convert SI measurements to dimensionless vector."""
+        dimensionless = {}
+        for dim in ['v','R','r','C','S']:
+            if dim in si_values:
+                   info = cls.DIMENSION_UNITS[dim]
+                   low, high = info['range']
+                   norm = (si_values[dim] - low) / (high - low)
+                   dimensionless[dim] = np.clip(norm, 0, 1)
+            else:
+                   dimensionless[dim] = 0.5
+        return RealityVector(0,0,0, **dimensionless)
+
+
+    @classmethod
+    def display_si(cls, vector: RealityVector, precision: int = 2) -> str:
+        """Human-readable SI representation."""
+        si = cls.to_SI(vector)
+        lines = ["SI Unit Representation:"]
+        for dim in ['v','R','r','C','S','E','M','P']:
+            val, unit = si[dim]
+            name = cls.DIMENSION_UNITS[dim]['name']
+            if unit in ('', 'bits', 'J'):
+                   fmt = f'{val:.0f}'
+            else:
+                   fmt = f'{val:.{precision}f}'
+            lines.append(f"     {name:20s}: {fmt:>10s} {unit}")
+        return "\n".join(lines)
+
+
+
+class PhysiologicalCalibration:
+    """Map physiological measurements to Synthium dimensions."""
+
+
+    @staticmethod
+    def from_biomarkers(cortisol_ng_ml: float = None,
+                           heart_rate_bpm: float = None,
+                           hrv_ms: float = None,
+                           dopamine_relative: float = None) -> Dict[str, float]:
+        """Convert biomarkers to dimensionless values."""
+        dims = {}
+        if heart_rate_bpm is not None:
+            dims['v'] = np.clip((heart_rate_bpm - 60) / 40, 0, 1)
+        if cortisol_ng_ml is not None:
+            dims['R'] = np.clip((cortisol_ng_ml - 5) / 20, 0, 1)
+        if hrv_ms is not None:
+            dims['S'] = np.clip((200 - hrv_ms) / 180, 0, 1)
+    if dopamine_relative is not None:
+        dims['r'] = np.clip(dopamine_relative, 0, 1)
+    return dims
+
+
+@classmethod
+def anxiety_profile(cls) -> Dict[str, float]:
+    return cls.from_biomarkers(cortisol_ng_ml=22.0, heart_rate_bpm=95.0,
+                               hrv_ms=25.0, dopamine_relative=0.3)
+
+
+@classmethod
+def flow_profile(cls) -> Dict[str, float]:
+    return cls.from_biomarkers(cortisol_ng_ml=8.0, heart_rate_bpm=75.0,
+                               hrv_ms=120.0, dopamine_relative=0.8)
+
+
+@classmethod
+def burnout_profile(cls) -> Dict[str, float]:
+    return cls.from_biomarkers(cortisol_ng_ml=28.0, heart_rate_bpm=88.0,
+                               hrv_ms=18.0, dopamine_relative=0.15)
+

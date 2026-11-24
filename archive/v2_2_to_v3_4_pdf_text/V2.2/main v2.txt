@@ -1,0 +1,204 @@
+#!/usr/bin/env python3
+"""
+SYNTHIUM OMEGA v2.2 (The Trinity Build)
+======================================
+
+
+Integrated Application:
+[Physics Kernel] + [JudicOS Stabilizer] + [Living Soil]
+"""
+
+
+import sys
+import time
+from synthium.vectors_v2 import RealityVector
+from synthium.science_v2 import HolisticScience
+from synthium.judicos_adapter import JudicBridge, JudicEntity
+from synthium.github_adapter import SoilBridge
+
+
+
+def print_header():
+      """Display the application header."""
+      print("\n" + "═" * 60)
+      print("     SYNTHIUM OMEGA v2.2 - The Trinity Build")
+      print("     [Physics] + [JudicOS] + [Living Soil]")
+      print("═" * 60)
+      print("\n      REMEMBER: This is a MIRROR, not a MASTER")
+      print("     The map is not the territory")
+      print("     Direct experience supersedes computation\n")
+      print("═" * 60 + "\n")
+
+
+
+def run_judicos_module():
+      """JudicOS Protocol: Institutional Diagnosis and Correction"""
+      print("\n" + "═" * 60)
+      print("MODULE 1: JUDICOS PROTOCOL")
+      print("Institutional Diagnosis & Correction")
+      print("═" * 60 + "\n")
+
+
+      science = HolisticScience()
+
+
+      print("Loading Archetype: 'The AGI Complex'...")
+
+
+      # Create AGI Complex entity
+      agi = JudicEntity("AGI Complex", "Titan", 2_000_000_000, 0.9)
+      agi.set_scores({"Technological": 5, "Economic": 5, "Judicial": 1})
+      agi.reciprocity = 0.1
+    agi.transparency = 0.1
+    agi.liability = 0.1
+
+
+    # Initial diagnosis
+    vec = JudicBridge.transduce(agi)
+    print(f"\n[DIAGNOSIS]")
+    print(f"VECTOR: v={vec.v:.2f} | R={vec.R:.2f} | r={vec.r:.2f} | C={vec.C:.2f} | S={vec.S:
+
+
+    res = science.analyze_stability(vec)
+    print(f"STATUS: {res['coherence_status']}")
+    print(f"PREDICTION: {res['predicted_lifespan']}")
+
+
+    if res['risk_factors']:
+        print(f"ALERTS:")
+        for risk in res['risk_factors']:
+            print(f"     • {risk}")
+
+
+    # Intervention
+    proceed = input("\n>> Initiate Correction Protocol? (y/n): ").strip().lower()
+
+
+    if proceed == 'y':
+        print("\n[APPLYING PATCHES]")
+        time.sleep(0.5)
+
+
+        agi.apply_patch("Electronic Personhood (Liability)", l_boost=0.8)
+        time.sleep(0.3)
+
+
+        agi.apply_patch("Glass Box Law (Transparency)", t_boost=0.7)
+        time.sleep(0.3)
+
+
+        agi.apply_patch("Sovereign Dividend (Reciprocity)", r_boost=0.6)
+        time.sleep(0.3)
+
+
+        # Verification
+        vec_fixed = JudicBridge.transduce(agi)
+        res_fixed = science.analyze_stability(vec_fixed)
+
+
+        print(f"\n[VERIFICATION]")
+        print(f"NEW VECTOR: v={vec_fixed.v:.2f} | R={vec_fixed.R:.2f} | S={vec_fixed.S:.2f}")
+        print(f"FINAL STATUS: {res_fixed['coherence_status']}")
+        print(f"NEW LIFESPAN: {res_fixed['predicted_lifespan']}")
+
+
+
+def run_living_soil_module():
+    """Living Soil: Mystical/Archetypal Exploration"""
+    print("\n" + "═" * 60)
+    print("MODULE 2: LIVING SOIL v10")
+    print("Archetypal & Mystical Layer")
+    print("═" * 60 + "\n")
+
+
+    science = HolisticScience()
+    soil = SoilBridge.seed_soil()
+
+
+    print("Available Glyphs:")
+    glyph_names = list(soil.glyphs.keys())
+    for i, name in enumerate(glyph_names, 1):
+           print(f"     {i}. {name}")
+
+
+    try:
+           choice = int(input("\nSelect glyph number: ").strip()) - 1
+
+
+           if 0 <= choice < len(glyph_names):
+               glyph_name = glyph_names[choice]
+               glyph = soil.glyphs[glyph_name]
+
+
+               print(f"\n{'─' * 60}")
+               print(f"GLYPH ANALYSIS: {glyph.name}")
+               print("─" * 60 + "\n")
+
+
+               vec = SoilBridge.transduce_glyph(glyph)
+               res = science.analyze_stability(vec)
+
+
+               print(f"Vector: v={vec.v:.2f} | R={vec.R:.2f} | r={vec.r:.2f} | C={vec.C:.2f} | S
+               print(f"\nAnalysis: {res['coherence_status']}")
+
+
+               if 'teaching' in res:
+                      print(f"\n{res['teaching']}")
+           else:
+               print("Invalid selection.")
+
+
+    except (ValueError, IndexError):
+           print("Invalid input.")
+
+
+
+def main():
+    """Main application loop."""
+    print_header()
+
+
+    while True:
+           print("\n" + "═" * 60)
+           print("MAIN MENU")
+           print("═" * 60)
+           print("     1. JudicOS Protocol (System Fix)")
+           print("     2. Living Soil (Mystic)")
+           print("   3. Exit")
+           print("═" * 60)
+
+
+           choice = input("\nSelect Module: ").strip()
+
+
+           if choice == "1":
+               run_judicos_module()
+
+
+           elif choice == "2":
+               run_living_soil_module()
+
+
+           elif choice == "3":
+               print("\n" + "═" * 60)
+               print("System Halted.")
+               print("Remember: This framework is a tool, not truth.")
+               print("    Tat Tvam Asi - You Are That    ")
+               print("═" * 60 + "\n")
+               sys.exit(0)
+
+
+           else:
+               print("Invalid selection. Please choose 1-3.")
+
+
+
+if __name__ == "__main__":
+    try:
+           main()
+    except KeyboardInterrupt:
+           print("\n\nInterrupted by user.")
+           print("Trust your direct experience.    ")
+           sys.exit(0)
+

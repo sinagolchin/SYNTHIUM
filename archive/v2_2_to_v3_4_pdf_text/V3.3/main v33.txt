@@ -1,0 +1,299 @@
+#!/usr/bin/env python3
+"""
+SYNTHIUM OMEGA v3.3 - The Empirical Edition
+===========================================
+
+
+Reality IS mathematics. Let's FIND the equations.
+
+
+Demonstrates:
+1. Discovering patterns from historical data
+2. Applying patterns to new cases (Iran is ONE test)
+3. Reporting probabilities (no moral framing)
+4. Contrast with v3.2's approach
+"""
+
+
+import sys
+import numpy as np
+from .vectors_v33 import RealityVector
+from .empirical_discovery import EmpiricalDiscovery, InterventionCase
+
+
+
+def demo_1_discover_patterns():
+      """Demo 1: Discover what predicts intervention stability."""
+      print("\n" + "="*70)
+      print("DEMO 1: Discovering Intervention Patterns from Historical Data")
+      print("="*70 + "\n")
+
+
+      print("Method: Analyze 5 historical interventions")
+      print("Question: What factors predict stability vs collapse?")
+      print("Approach: Measure correlations (NO political encoding)\n")
+
+
+      discovery = EmpiricalDiscovery()
+
+
+      # List cases
+      print("Historical Cases:")
+      for i, case in enumerate(discovery.cases, 1):
+          outcome = "✓ Stable" if case.achieved_stability else "✗ Failed"
+          print(f"   {i}. {case.name:20s} → {outcome} (score: {case.stability_score:.2f})")
+
+
+      print("\nDiscovering patterns...")
+      patterns = discovery.discover_stability_predictors()
+
+
+      print("\nDISCOVERED CORRELATIONS:")
+      sorted_patterns = sorted(patterns.items(), key=lambda x: abs(x[1]), reverse=True)
+    for factor, corr in sorted_patterns:
+        direction = "+" if corr > 0 else "-"
+        print(f"     {direction} {factor:25s}: {corr:+.3f}")
+
+
+    print("\nINTERPRETATION:")
+    print("    Positive correlation = factor increases stability")
+    print("    Negative correlation = factor decreases stability")
+    print("    These are OBSERVATIONS, not prescriptions.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_2_apply_to_iran():
+    """Demo 2: Apply discovered patterns to Iran (as ONE test case)."""
+    print("\n" + "="*70)
+    print("DEMO 2: Applying Discovered Patterns to Iran")
+    print("="*70 + "\n")
+
+
+    print("Important: Iran is a TEST case, not the source of the patterns.")
+    print("We discovered the math from OTHER cases, now testing on Iran.\n")
+
+
+    # Define Iran's current state (measurable)
+    iran_current = RealityVector(
+        0, 0, 0,
+        v=0.85,     # High violence (regime crackdown)
+        R=0.90,     # High resistance to change
+        r=0.15,     # Low resonance with population
+        C=0.30,     # Depleted capacity (sanctions)
+        S=0.85      # High entropy (unstable)
+    )
+
+
+    # Hypothetical intervener (e.g., USA)
+    intervener = RealityVector(
+        0, 0, 0,
+        v=0.60,     # Moderate violence capability
+        R=0.70,     # Moderate resistance
+        r=0.40,     # Some resonance
+        C=0.85,     # High capacity
+        S=0.30      # Low internal chaos
+    )
+
+
+    print("Iran Current State:")
+    print(f"     Violence (v): {iran_current.v:.2f}")
+    print(f"     Entropy (S): {iran_current.S:.2f}")
+    print(f"     Capacity (C): {iran_current.C:.2f}")
+    print(f"     Resonance (r): {iran_current.r:.2f}\n")
+# Scenarios
+discovery = EmpiricalDiscovery()
+discovery.discover_stability_predictors()
+
+
+print("SCENARIO A: Full Military Intervention")
+prediction_a = discovery.predict_intervention_outcome(
+    target_state=iran_current,
+    intervener_state=intervener,
+    military_force=1.0,        # Full invasion
+    local_support=0.35,        # Measured from polling (example)
+    expected_duration=10.0     # Years
+)
+
+
+print(f"    Predicted stability: {prediction_a['predicted_stability']:.1%}")
+print(f"    Confidence: {prediction_a['confidence']:.1%}")
+print(f"    Most similar case: {prediction_a['most_similar_case']}")
+print(f"    That case's outcome: {prediction_a['similar_case_outcome']:.2f}")
+
+
+print("\nSCENARIO B: Air Support Only (No Ground Troops)")
+prediction_b = discovery.predict_intervention_outcome(
+    target_state=iran_current,
+    intervener_state=intervener,
+    military_force=0.4,        # Limited force
+    local_support=0.35,
+    expected_duration=2.0
+)
+
+
+print(f"    Predicted stability: {prediction_b['predicted_stability']:.1%}")
+print(f"    Confidence: {prediction_b['confidence']:.1%}")
+print(f"    Most similar case: {prediction_b['most_similar_case']}")
+
+
+print("\nSCENARIO C: High Local Support (If measured at 70%)")
+prediction_c = discovery.predict_intervention_outcome(
+    target_state=iran_current,
+    intervener_state=intervener,
+    military_force=0.7,
+    local_support=0.70,        # IF this were true (needs measurement)
+    expected_duration=3.0
+)
+
+
+print(f"    Predicted stability: {prediction_c['predicted_stability']:.1%}")
+print(f"    Confidence: {prediction_c['confidence']:.1%}")
+
+
+print("\n" + "="*70)
+print("KEY INSIGHT:")
+print("    These are PROBABILITIES from historical pattern matching.")
+print("    NOT moral judgments. NOT justifications.")
+    print("   Just: 'Based on X similar cases, here's the predicted outcome.'")
+    print("="*70)
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_3_contrast_with_v32():
+    """Demo 3: Show the difference from Gemini's v3.2."""
+    print("\n" + "="*70)
+    print("DEMO 3: v3.2 vs v3.3 - Prescription vs Discovery")
+    print("="*70 + "\n")
+
+
+    print("v3.2 (Gemini's Version - REJECTED):")
+    print("   ✗ Hardcoded 'Moral Suction' formula")
+    print("   ✗ Encoded 'Reza Pahlavi' into equations")
+    print("   ✗ Designed math to justify intervention")
+    print("   ✗ Iran was the SOURCE of the 'physics'")
+    print("   ✗ Claimed 'infinite force' (just 100x multiplier)")
+    print("   ✗ Political engineering dressed as science\n")
+
+
+    print("v3.3 (This Version - EMPIRICAL):")
+    print("   ✓ Analyzed 5 historical cases FIRST")
+    print("   ✓ Discovered correlations from data")
+    print("   ✓ Iran is ONE test case (not the source)")
+    print("   ✓ Reports probabilities (not justifications)")
+    print("   ✓ No political figures in equations")
+    print("   ✓ Mathematical realism: Find equations, don't encode desires\n")
+
+
+    print("The Core Difference:")
+    print("   v3.2: 'We want intervention to work, so we designed math to show it will'")
+    print("   v3.3: 'Here's what happened in 5 cases. Here's what that predicts.'\n")
+
+
+    print("YOUR Original Goal: 'Reality IS mathematics, let's find the equations'")
+    print("v3.3 DOES THIS. v3.2 DID NOT.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_4_full_report():
+    """Demo 4: Generate complete empirical report."""
+    print("\n" + "="*70)
+    print("DEMO 4: Full Empirical Report")
+    print("="*70 + "\n")
+
+
+    discovery = EmpiricalDiscovery()
+    discovery.discover_stability_predictors()
+    report = discovery.generate_empirical_report()
+    print(report)
+
+
+    print("\nWhat This Report Shows:")
+    print("     • Which factors correlate with stability")
+    print("     • How strong those correlations are")
+    print("     • Historical success rate (40% in our sample)")
+    print("     • NO moral claims about what 'should' happen")
+    print("     • Just: 'This is what the data shows'")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def main():
+    """Main demonstration menu."""
+    demos = [
+        ("Discover Patterns from Historical Data", demo_1_discover_patterns),
+        ("Apply to Iran (Test Case)", demo_2_apply_to_iran),
+        ("v3.2 vs v3.3 Comparison", demo_3_contrast_with_v32),
+        ("Full Empirical Report", demo_4_full_report)
+    ]
+
+
+    print("\n" + "="*70)
+    print("     SYNTHIUM OMEGA v3.3 - The Empirical Edition")
+    print("="*70)
+    print("\n     Reality IS mathematics. Let's FIND the equations.")
+    print("     (Not encode our desired outcomes)\n")
+    print("="*70 + "\n")
+
+
+    while True:
+        print("\n" + "="*70)
+        print("DEMONSTRATIONS")
+        print("="*70)
+
+
+        for i, (name, _) in enumerate(demos, 1):
+               print(f"{i}. {name}")
+        print(f"{len(demos)+1}. Run All Demos")
+        print(f"{len(demos)+2}. Exit")
+        print("="*70)
+
+
+        choice = input("\nSelect demo: ").strip()
+
+
+        try:
+               n = int(choice)
+               if 1 <= n <= len(demos):
+                   demos[n-1][1]()
+               elif n == len(demos)+1:
+                    for _, func in demos:
+                         func()
+                    print("\n" + "="*70)
+                    print("All demonstrations complete.")
+                    print("="*70)
+                    input("\nPress Enter to return to menu...")
+               elif n == len(demos)+2:
+                    print("\n" + "="*70)
+                    print("Synthium v3.3 - The Empirical Edition")
+                    print("\nRemember:")
+                    print("   • Reality IS mathematics")
+                    print("   • Discover equations, don't encode desires")
+                    print("   • Report probabilities, not justifications")
+                    print("   • Iran is a test case, not the source")
+                    print("="*70 + "\n")
+                    sys.exit(0)
+               else:
+                    print("Invalid selection.")
+           except (ValueError, IndexError):
+               print("Invalid input.")
+
+
+
+if __name__ == "__main__":
+    try:
+           main()
+    except KeyboardInterrupt:
+           print("\n\nInterrupted. The mathematics remain discoverable.")
+           sys.exit(0)
+

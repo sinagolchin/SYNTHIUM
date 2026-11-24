@@ -1,0 +1,145 @@
+"""
+SYNTHIUM OMEGA v2.2 - Core Vector Representations
+================================================
+"""
+
+
+import math
+from dataclasses import dataclass
+from typing import Tuple, List
+
+
+
+@dataclass
+class RealityVector:
+      """
+      Unified 8D Reality Vector
+      3D Spatial + 5D Qualitative = Complete reality description
+      """
+      # Spatial dimensions (meters from origin)
+      x: float
+      y: float
+      z: float
+
+
+      # Qualitative dimensions (normalized 0-1)
+      v: float     # Velocity
+      R: float     # Resistance
+      r: float     # Resonance
+      C: float     # Capacity
+      S: float     # Entropy
+
+
+      def __post_init__(self):
+            """Validate all dimensions."""
+            for dim in ['v', 'R', 'r', 'C', 'S']:
+                 value = getattr(self, dim)
+                 if not (0.0 <= value <= 1.0):
+                     raise ValueError(
+                         f"Qualitative dimension '{dim}' must be 0-1. Got {value}"
+                     )
+
+
+      def spatial_part(self) -> Tuple[float, float, float]:
+            """Return only the 3D spatial coordinates."""
+            return (self.x, self.y, self.z)
+
+
+      def qualitative_part(self) -> Tuple[float, float, float, float, float]:
+            """Return only the 5D qualitative values."""
+            return (self.v, self.R, self.r, self.C, self.S)
+def is_coherent(self) -> Tuple[bool, List[str]]:
+    """
+    Check if vector represents a physically plausible reality state.
+
+
+    NOTE: In v2.2 (Discovery Mode), the "Energy Paradox" check has been
+    REMOVED to allow high-friction/high-speed states to be modeled.
+    """
+    violations = []
+
+
+    # Spatial coherence checks
+    if self.z < 0 and self.v > 0.8:
+          violations.append("High velocity underground (unusual but allowed)")
+
+
+    if abs(self.x) > 1000 or abs(self.y) > 1000 or abs(self.z) > 1000:
+          if self.r > 0.9:
+               violations.append(
+                   "High resonance at extreme distance (unusual but allowed)"
+               )
+
+
+    # Discovery Mode Patch: High v + High R is now allowed
+    # (Previously this would have raised a violation)
+
+
+    # Qualitative coherence
+    if self.S > 0.95 and self.C < 0.05:
+          violations.append(
+               "Total decay without substrate (violates conservation)"
+          )
+
+
+    return (len(violations) == 0, violations)
+
+
+def to_dict(self) -> dict:
+    """Serialize vector to dictionary."""
+    return {
+          'x': self.x, 'y': self.y, 'z': self.z,
+          'v': self.v, 'R': self.R, 'r': self.r,
+          'C': self.C, 'S': self.S
+    }
+
+
+@classmethod
+def from_dict(cls, data: dict) -> 'RealityVector':
+    """Deserialize vector from dictionary."""
+    return cls(
+          x=data['x'], y=data['y'], z=data['z'],
+          v=data['v'], R=data['R'], r=data['r'],
+          C=data['C'], S=data['S']
+    )
+    def __str__(self) -> str:
+          """Human-readable representation."""
+          return (
+               f"RealityVector(\n"
+               f"     Spatial: ({self.x:.2f}, {self.y:.2f}, {self.z:.2f})\n"
+               f"     v={self.v:.2f}, R={self.R:.2f}, r={self.r:.2f}, "
+               f"C={self.C:.2f}, S={self.S:.2f}\n"
+               f")"
+          )
+
+
+
+@dataclass
+class SynthiumVector:
+    """
+    Legacy 5D quality vector (for backward compatibility).
+    """
+    v: float        # Velocity
+    R: float        # Resistance
+    r: float        # Resonance
+    C: float        # Capacity
+    S: float        # Entropy
+
+
+    def to_reality_vector(self, x=0.0, y=0.0, z=0.0) -> RealityVector:
+          """Convert to full 8D RealityVector with default spatial position."""
+          return RealityVector(
+               x, y, z,
+               self.v, self.R, self.r, self.C, self.S
+          )
+
+
+    def __str__(self) -> str:
+          """Human-readable representation."""
+          return (
+               f"SynthiumVector("
+               f"v={self.v:.2f}, R={self.R:.2f}, r={self.r:.2f}, "
+               f"C={self.C:.2f}, S={self.S:.2f}"
+               f")"
+          )
+

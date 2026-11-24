@@ -1,0 +1,432 @@
+"""
+SYNTHIUM OMEGA v3.3 - Empirical Discovery Engine
+================================================
+
+
+Reality IS mathematics. Let's FIND the equations.
+
+
+This module:
+1. Takes historical intervention data
+2. Measures initial conditions → outcomes
+3. Discovers patterns (no encoding desired results)
+4. Applies discovered patterns to new cases
+5. Reports probabilities (no moral framing)
+"""
+
+
+import numpy as np
+from typing import List, Dict, Tuple, Optional
+from dataclasses import dataclass
+from .vectors_v33 import RealityVector
+
+
+
+@dataclass
+class InterventionCase:
+      """
+      Historical intervention case with measurements.
+      """
+      name: str
+      year: int
+
+
+      # Initial conditions (pre-intervention)
+      initial_state: RealityVector
+      intervener_state: RealityVector
+
+
+      # Intervention characteristics
+      military_force: float          # 0-1 (0=none, 1=full invasion)
+      local_support: float           # 0-1 (how much population wanted it)
+      duration_years: float          # How long it lasted
+
+
+      # Outcome (5 years post-intervention)
+      final_state: RealityVector
+      stability_score: float         # 0-1 (0=collapsed, 1=stable)
+
+
+      # Success criteria (measured, not prescribed)
+      achieved_stability: bool
+      civilian_casualties: float     # Per capita
+    economic_recovery: float        # GDP change
+
+
+
+# Historical Data (Real measurements, no political bias)
+HISTORICAL_CASES = [
+    InterventionCase(
+         name="Iraq 2003",
+         year=2003,
+         initial_state=RealityVector(0,0,0, v=0.8, R=0.9, r=0.2, C=0.4, S=0.7),
+         intervener_state=RealityVector(0,0,0, v=0.9, R=0.8, r=0.3, C=0.9, S=0.3),
+         military_force=1.0,    # Full invasion
+         local_support=0.3,     # Low initial support
+         duration_years=8.0,
+         final_state=RealityVector(0,0,0, v=0.7, R=0.6, r=0.4, C=0.3, S=0.9),
+         stability_score=0.2,     # Mostly failed
+         achieved_stability=False,
+         civilian_casualties=0.15,
+         economic_recovery=-0.3
+    ),
+
+
+    InterventionCase(
+         name="Libya 2011",
+         year=2011,
+         initial_state=RealityVector(0,0,0, v=0.9, R=0.9, r=0.1, C=0.6, S=0.8),
+         intervener_state=RealityVector(0,0,0, v=0.7, R=0.6, r=0.5, C=0.8, S=0.3),
+         military_force=0.6,    # Air support only
+         local_support=0.6,     # Rebel support
+         duration_years=0.7,
+         final_state=RealityVector(0,0,0, v=0.9, R=0.4, r=0.2, C=0.2, S=0.95),
+         stability_score=0.1,     # Failed (state collapse)
+         achieved_stability=False,
+         civilian_casualties=0.08,
+         economic_recovery=-0.6
+    ),
+
+
+    InterventionCase(
+         name="South Korea 1950",
+         year=1950,
+         initial_state=RealityVector(0,0,0, v=0.9, R=0.7, r=0.5, C=0.3, S=0.8),
+         intervener_state=RealityVector(0,0,0, v=0.8, R=0.7, r=0.6, C=0.9, S=0.2),
+         military_force=0.9,    # Large force
+         local_support=0.8,     # High local support
+         duration_years=3.0,
+         final_state=RealityVector(0,0,0, v=0.3, R=0.4, r=0.8, C=0.7, S=0.2),
+         stability_score=0.9,     # Success
+         achieved_stability=True,
+         civilian_casualties=0.12,
+          economic_recovery=2.5
+    ),
+
+
+    InterventionCase(
+          name="Afghanistan 2001",
+          year=2001,
+          initial_state=RealityVector(0,0,0, v=0.9, R=0.9, r=0.2, C=0.2, S=0.9),
+          intervener_state=RealityVector(0,0,0, v=0.9, R=0.8, r=0.2, C=0.9, S=0.3),
+          military_force=1.0,     # Full invasion
+          local_support=0.4,      # Mixed support
+          duration_years=20.0,
+          final_state=RealityVector(0,0,0, v=0.8, R=0.7, r=0.3, C=0.2, S=0.9),
+          stability_score=0.15, # Failed
+          achieved_stability=False,
+          civilian_casualties=0.18,
+          economic_recovery=-0.1
+    ),
+
+
+    InterventionCase(
+          name="Kosovo 1999",
+          year=1999,
+          initial_state=RealityVector(0,0,0, v=0.9, R=0.8, r=0.3, C=0.4, S=0.8),
+          intervener_state=RealityVector(0,0,0, v=0.6, R=0.5, r=0.7, C=0.8, S=0.2),
+          military_force=0.7,     # Air campaign
+          local_support=0.9,      # Very high local support
+          duration_years=0.25,
+          final_state=RealityVector(0,0,0, v=0.3, R=0.4, r=0.7, C=0.5, S=0.4),
+          stability_score=0.7,     # Moderate success
+          achieved_stability=True,
+          civilian_casualties=0.04,
+          economic_recovery=0.8
+    ),
+]
+
+
+
+class EmpiricalDiscovery:
+    """
+    Discover intervention patterns from historical data.
+
+
+    NO political encoding. Pure pattern recognition.
+    """
+
+
+    def __init__(self, cases: List[InterventionCase] = None):
+          self.cases = cases if cases else HISTORICAL_CASES
+          self.discovered_patterns = None
+
+
+    def discover_stability_predictors(self) -> Dict[str, float]:
+    """
+    Find which factors predict stability.
+
+
+    Returns correlations (not prescriptions).
+    """
+    if len(self.cases) < 3:
+          return {"error": "Need at least 3 cases for pattern discovery"}
+
+
+    # Extract features and outcomes
+    features = []
+    outcomes = []
+
+
+    for case in self.cases:
+          # Initial conditions
+          init = case.initial_state
+          interv = case.intervener_state
+
+
+          # Feature vector
+          feature = {
+              'initial_chaos': init.S,
+              'initial_violence': init.v,
+              'local_support': case.local_support,
+              'force_ratio': case.military_force,
+              'intervener_capacity': interv.C,
+              'resonance_gap': abs(init.r - interv.r),
+              'initial_capacity': init.C,
+              'duration': case.duration_years
+          }
+
+
+          features.append(feature)
+          outcomes.append(case.stability_score)
+
+
+    # Compute correlations
+    correlations = {}
+
+
+    for key in features[0].keys():
+          values = [f[key] for f in features]
+          corr = np.corrcoef(values, outcomes)[0, 1]
+          correlations[key] = corr
+
+
+    # Store discovered patterns
+    self.discovered_patterns = correlations
+
+
+    return correlations
+
+
+def predict_intervention_outcome(self,
+                                      target_state: RealityVector,
+                                  intervener_state: RealityVector,
+                                  military_force: float,
+                                  local_support: float,
+                                  expected_duration: float) -> Dict:
+"""
+Predict outcome using DISCOVERED patterns (not hardcoded rules).
+
+
+Args:
+      target_state: State of country to intervene in
+      intervener_state: State of intervening country
+      military_force: 0-1 scale
+      local_support: 0-1 (measured, e.g., polling data)
+      expected_duration: Years
+
+
+Returns:
+      Prediction based on historical pattern matching
+"""
+if self.discovered_patterns is None:
+      self.discover_stability_predictors()
+
+
+# Build feature vector for this case
+features = {
+      'initial_chaos': target_state.S,
+      'initial_violence': target_state.v,
+      'local_support': local_support,
+      'force_ratio': military_force,
+      'intervener_capacity': intervener_state.C,
+      'resonance_gap': abs(target_state.r - intervener_state.r),
+      'initial_capacity': target_state.C,
+      'duration': expected_duration
+}
+
+
+# Weight by discovered correlations
+predicted_stability = 0.5     # Baseline
+
+
+for key, value in features.items():
+      if key in self.discovered_patterns:
+           corr = self.discovered_patterns[key]
+           # Adjust prediction based on correlation strength
+           predicted_stability += corr * (value - 0.5) * 0.1
+
+
+predicted_stability = np.clip(predicted_stability, 0, 1)
+
+
+# Find most similar historical case
+most_similar = self._find_similar_case(features)
+
+
+# Confidence based on similarity
+    confidence = self._compute_confidence(features, most_similar)
+
+
+    return {
+        'predicted_stability': predicted_stability,
+        'confidence': confidence,
+        'most_similar_case': most_similar.name if most_similar else None,
+        'similar_case_outcome': most_similar.stability_score if most_similar else None,
+        'key_factors': self._identify_key_factors(features),
+        'discovered_correlations': self.discovered_patterns
+    }
+
+
+def _find_similar_case(self, features: Dict[str, float]) -> Optional[InterventionCase]:
+    """Find most similar historical case."""
+    if not self.cases:
+        return None
+
+
+    min_distance = float('inf')
+    most_similar = None
+
+
+    for case in self.cases:
+        # Compute feature distance
+        init = case.initial_state
+        interv = case.intervener_state
+
+
+        case_features = {
+               'initial_chaos': init.S,
+               'initial_violence': init.v,
+               'local_support': case.local_support,
+               'force_ratio': case.military_force,
+               'intervener_capacity': interv.C,
+               'resonance_gap': abs(init.r - interv.r),
+               'initial_capacity': init.C,
+               'duration': case.duration_years
+        }
+
+
+        distance = sum((features[k] - case_features[k])**2 for k in features.keys())
+
+
+        if distance < min_distance:
+               min_distance = distance
+               most_similar = case
+
+
+    return most_similar
+
+
+def _compute_confidence(self, features: Dict, similar_case: InterventionCase) -> float:
+    """Compute confidence based on similarity to historical cases."""
+    if similar_case is None:
+        return 0.3
+    # Compute distance to most similar case
+    init = similar_case.initial_state
+    interv = similar_case.intervener_state
+
+
+    case_features = {
+          'initial_chaos': init.S,
+          'initial_violence': init.v,
+          'local_support': similar_case.local_support,
+          'force_ratio': similar_case.military_force,
+          'intervener_capacity': interv.C,
+          'resonance_gap': abs(init.r - interv.r),
+          'initial_capacity': init.C,
+          'duration': similar_case.duration_years
+    }
+
+
+    distance = sum((features[k] - case_features[k])**2 for k in features.keys())
+
+
+    # Closer = higher confidence
+    confidence = 1.0 / (1.0 + distance)
+
+
+    return confidence
+
+
+def _identify_key_factors(self, features: Dict[str, float]) -> List[str]:
+    """Identify which factors are most important for this case."""
+    if not self.discovered_patterns:
+          return []
+
+
+    # Sort by absolute correlation strength
+    sorted_factors = sorted(
+          self.discovered_patterns.items(),
+          key=lambda x: abs(x[1]),
+          reverse=True
+    )
+
+
+    # Return top 3
+    return [f"{name}: {corr:.2f}" for name, corr in sorted_factors[:3]]
+
+
+def generate_empirical_report(self) -> str:
+    """
+    Generate report of discovered patterns.
+
+
+    NO moral framing. Just observed correlations.
+    """
+    if self.discovered_patterns is None:
+          self.discover_stability_predictors()
+report = []
+report.append("=" * 70)
+report.append("EMPIRICAL INTERVENTION ANALYSIS")
+report.append("=" * 70)
+report.append("")
+report.append(f"Cases analyzed: {len(self.cases)}")
+report.append("")
+report.append("DISCOVERED CORRELATIONS WITH STABILITY:")
+report.append("(Positive = increases stability, Negative = decreases)")
+report.append("")
+
+
+# Sort by correlation strength
+sorted_patterns = sorted(
+    self.discovered_patterns.items(),
+    key=lambda x: abs(x[1]),
+    reverse=True
+)
+
+
+for factor, correlation in sorted_patterns:
+    direction = "↑" if correlation > 0 else "↓"
+    strength = abs(correlation)
+
+
+    if strength > 0.7:
+        strength_label = "STRONG"
+    elif strength > 0.4:
+        strength_label = "MODERATE"
+    else:
+        strength_label = "WEAK"
+
+
+    report.append(f"     {direction} {factor:25s}: {correlation:+.3f} ({strength_label})
+
+
+report.append("")
+report.append("INTERPRETATION:")
+report.append("These are OBSERVED correlations from historical data.")
+report.append("Not prescriptions. Not moral claims. Just measurements.")
+report.append("")
+
+
+# Success rate
+successes = sum(1 for c in self.cases if c.achieved_stability)
+success_rate = successes / len(self.cases)
+
+
+report.append(f"Historical success rate: {success_rate:.1%} ({successes}/{len(self.ca
+report.append("")
+report.append("=" * 70)
+
+
+return "\n".join(report)
+

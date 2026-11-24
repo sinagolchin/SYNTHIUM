@@ -1,0 +1,362 @@
+#!/usr/bin/env python3
+"""
+SYNTHIUM OMEGA v3.1 - Discovery Edition Demonstrations
+======================================================
+
+
+Demonstrates:
+1. Care quantification (measuring care as a number)
+2. Stable equilibria discovery (which patterns don't collapse)
+3. Conservation law discovery (what's conserved in interactions)
+4. Collapse prediction (not moral, just physics)
+5. Ethical report generation (observed patterns, not prescriptions)
+"""
+
+
+import sys
+import numpy as np
+from synthium import *
+
+
+
+def print_header():
+      print("\n" + "="*70)
+      print(" SYNTHIUM OMEGA v3.1 - Discovery Edition")
+      print("="*70)
+      print("\n Ethics are not imposed—they are DISCOVERED through mathematics.")
+      print("\n Reality IS mathematics.")
+      print(" Care IS a measurable function.")
+      print(" Ethics EMERGE from stable equilibria.")
+      print("\n" + "="*70 + "\n")
+
+
+
+def demo_1_care_quantification():
+      """Demo 1: Measure care as a mathematical function."""
+      print("\n" + "="*70)
+      print("DEMO 1: Care Quantification")
+      print("="*70 + "\n")
+
+
+      print("Question: Can we measure 'care' as a number?")
+      print("Answer: Yes. Care = resource allocation toward another's wellbeing.\n")
+
+
+      # Being A in good state
+      being_A = RealityVector(0,0,0, v=0.3, R=0.2, r=0.8, C=0.7, S=0.2)
+
+
+      # Being B in distress
+      being_B = RealityVector(0,0,0, v=0.9, R=0.8, r=0.2, C=0.1, S=0.9)
+    print(f"Being A: E={being_A.E:.2f} (thriving)")
+    print(f"Being B: E={being_B.E:.2f} (suffering)\n")
+
+
+    # A decides to help B
+    caring_action = {'C': -0.2, 'S': -0.1, 'r': 0.1}     # Give capacity, reduce B's entropy
+
+
+    # A decides to ignore B
+    selfish_action = {'C': 0.1, 'v': 0.2}    # Take more for self
+
+
+    # Measure care in each case
+    care_helping = CareMetrics.measure(being_A, being_B, caring_action)
+    care_selfish = CareMetrics.measure(being_A, being_B, selfish_action)
+
+
+    print("Scenario 1: A helps B")
+    print(f"    Resource transfer: {care_helping.resource_transfer:.3f}")
+    print(f"    Action alignment: {care_helping.action_alignment:.3f}")
+    print(f"    TOTAL CARE: {care_helping.total_care:.3f}\n")
+
+
+    print("Scenario 2: A ignores B")
+    print(f"    Resource transfer: {care_selfish.resource_transfer:.3f}")
+    print(f"    Action alignment: {care_selfish.action_alignment:.3f}")
+    print(f"    TOTAL CARE: {care_selfish.total_care:.3f}\n")
+
+
+    print("✓ Care is measurable. It's not a feeling—it's a number.")
+    print("    (Just like velocity or entropy)")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_2_stable_equilibria():
+    """Demo 2: Find which multi-agent patterns are stable."""
+    print("\n" + "="*70)
+    print("DEMO 2: Stable Equilibria Discovery")
+    print("="*70 + "\n")
+
+
+    print("Question: Which multi-agent configurations are stable?")
+    print("Hypothesis: Stable equilibria reveal objective ethical constraints.\n")
+
+
+    print("Running 10 random multi-agent simulations...")
+    print("(Each with 3 agents, random initial conditions)\n")
+
+
+    discovery = EthicsDiscovery()
+
+
+    # Find stable patterns
+    stable = discovery.find_stable_equilibria(
+        num_agents=3,
+        num_trials=10,
+        timesteps=500
+    )
+
+
+    print(f"Found {len(stable)} stable configurations\n")
+
+
+    if stable:
+        print("Common characteristics of stable systems:")
+        avg_pattern = stable[0]['pattern']     # Simplified - should average across all
+
+
+        for dim, val in avg_pattern.items():
+            print(f"    {dim}: {val:.2f}")
+
+
+        print("\n✓ Stability is discoverable, not prescribed.")
+        print("   These patterns emerged from physics, not ethics codes.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_3_conservation_laws():
+    """Demo 3: Discover what's conserved in interactions."""
+    print("\n" + "="*70)
+    print("DEMO 3: Conservation Law Discovery")
+    print("="*70 + "\n")
+
+
+    print("Question: What quantities are conserved in multi-agent systems?")
+    print("Importance: Conservation laws = constraints on possible actions.\n")
+
+
+    # Create simple 2-agent system
+    sim = MultiAgentSimulation(dt=0.01)
+
+
+    agent1 = RealityVector(0,0,0, v=0.7, R=0.5, r=0.6, C=0.8, S=0.3)
+    agent2 = RealityVector(0,0,0, v=0.4, R=0.3, r=0.7, C=0.6, S=0.4)
+
+
+    sim.add_entity(agent1, "Agent1")
+    sim.add_entity(agent2, "Agent2")
+
+
+    print("Running 2-agent interaction for 1000 timesteps...")
+    history = sim.simulate(num_steps=1000)
+
+
+    print("\nDiscovering conservation laws...\n")
+
+
+    discovery = EthicsDiscovery()
+    laws = discovery.discover_conservation_laws(history)
+
+
+    for law in laws:
+        status = "✓ CONSERVED" if law.conserved else "✗ Not conserved"
+        print(f"{status}: {law.quantity}")
+        if law.conserved:
+              initial = law.measurements[0]
+              final = law.measurements[-1]
+              print(f"   Initial: {initial:.3f}")
+              print(f"   Final: {final:.3f}")
+              print(f"   Variation: {abs(final-initial)/initial*100:.1f}%")
+        print()
+
+
+    print("Interpretation:")
+    print("    If total_E is conserved → zero-sum (one's gain = another's loss)")
+    print("    If total_E increases → positive-sum possible")
+    print("    If total_C conserved → resources transfer, don't create")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_4_collapse_prediction():
+    """Demo 4: Predict collapse when laws violated (not moral, just physics)."""
+    print("\n" + "="*70)
+    print("DEMO 4: Collapse Prediction (Physics, Not Morality)")
+    print("="*70 + "\n")
+
+
+    print("Question: Can we predict if an action will cause system collapse?")
+    print("Method: Check if action violates discovered conservation laws.\n")
+
+
+    # System in balanced state
+    system = RealityVector(0,0,0, v=0.5, R=0.4, r=0.7, C=0.6, S=0.3)
+
+
+    print(f"Current system state: E={system.E:.2f}, M={system.M:.2f}, stable\n")
+
+
+    # Discovered law: total E conserved (example)
+    law = ConservationLaw(
+        name="total_E_conservation",
+        quantity="total_E",
+        conserved=True,
+        violation_tolerance=0.05
+    )
+    law.measurements = [system.E] * 100       # Historical measurements
+
+
+    # Proposed actions
+    sustainable_action = {'v': -0.1, 'S': -0.1}       # Reduce velocity & entropy
+    destructive_action = {'v': 0.4, 'R': 0.4, 'C': -0.5}       # High burn, drain capacity
+
+
+    discovery = EthicsDiscovery()
+
+
+    # Predict outcomes
+    pred1 = discovery.predict_collapse(system, sustainable_action, [law])
+    pred2 = discovery.predict_collapse(system, destructive_action, [law])
+
+
+    print("Action 1: Reduce v & S (sustainable)")
+    print(f"    Will collapse: {pred1['will_collapse']}")
+    print(f"    Violated laws: {pred1['violated_laws']}")
+    print()
+
+
+    print("Action 2: Increase v, R, drain C (destructive)")
+    print(f"    Will collapse: {pred2['will_collapse']}")
+    print(f"    Time to collapse: {pred2['time_to_collapse']:.2f} time units")
+    print(f"    Confidence: {pred2['collapse_confidence']*100:.0f}%")
+    print()
+
+
+    print("✓ This is NOT a moral judgment.")
+    print("    It's physics: 'If you do X, system collapses in Y time units.'")
+    print("    Like predicting a building collapse from stress analysis.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_5_ethical_report():
+    """Demo 5: Generate report of discovered laws (not prescriptions)."""
+    print("\n" + "="*70)
+    print("DEMO 5: Ethical Report Generation")
+    print("="*70 + "\n")
+
+
+    print("Generating comprehensive ethical discovery report...\n")
+
+
+    # Run full discovery pipeline
+    discovery = EthicsDiscovery()
+
+
+    # Find stable equilibria
+    print("Finding stable equilibria...")
+    stable = discovery.find_stable_equilibria(num_agents=3, num_trials=5, timesteps=200)
+
+
+    # Discover conservation laws
+    print("Discovering conservation laws...\n")
+    sim = MultiAgentSimulation()
+    for i in range(3):
+        agent = RealityVector(0,0,0, v=np.random.random(), R=np.random.random(),
+                               r=np.random.random(), C=np.random.random(), S=np.random.random())
+        sim.add_entity(agent, f"Agent{i}")
+
+
+    history = sim.simulate(num_steps=500)
+    laws = discovery.discover_conservation_laws(history)
+    # Generate report
+    report = discovery.generate_ethical_report()
+    print(report)
+
+
+    print("\nKey insight:")
+    print("     These are OBSERVATIONS, not COMMANDMENTS.")
+    print("     'Stable systems have high r and low S' is like")
+    print("     'Stable buildings have good foundations' - it's engineering.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def main():
+    """Main demonstration menu."""
+    demos = [
+        ("Care Quantification", demo_1_care_quantification),
+        ("Stable Equilibria Discovery", demo_2_stable_equilibria),
+        ("Conservation Law Discovery", demo_3_conservation_laws),
+        ("Collapse Prediction", demo_4_collapse_prediction),
+        ("Ethical Report Generation", demo_5_ethical_report)
+    ]
+
+
+    print_header()
+
+
+    while True:
+        print("\n" + "="*70)
+        print("DISCOVERY DEMONSTRATIONS")
+        print("="*70)
+
+
+        for i, (name, _) in enumerate(demos, 1):
+               print(f"{i}. {name}")
+        print(f"{len(demos)+1}. Run All Demos")
+        print(f"{len(demos)+2}. Exit")
+        print("="*70)
+
+
+        choice = input("\nSelect demo: ").strip()
+
+
+        try:
+               n = int(choice)
+               if 1 <= n <= len(demos):
+                   demos[n-1][1]()
+               elif n == len(demos)+1:
+                   for _, func in demos:
+                       func()
+                   print("\n" + "="*70)
+                   print("All demonstrations complete.")
+                   print("="*70)
+                    input("\nPress Enter to return to menu...")
+               elif n == len(demos)+2:
+                    print("\n" + "="*70)
+                    print("Synthium v3.1 - Discovery Edition")
+                    print("\nRemember:")
+                    print(" · Ethics are discoverable through mathematics")
+                    print(" · Care is measurable (not just a feeling)")
+                    print(" · Stability patterns reveal objective constraints")
+                    print(" · We observe, we don't prescribe")
+                    print("="*70 + "\n")
+                    sys.exit(0)
+               else:
+                    print("Invalid selection.")
+           except (ValueError, IndexError):
+               print("Invalid input.")
+
+
+
+if __name__ == "__main__":
+    try:
+           main()
+    except KeyboardInterrupt:
+           print("\n\nInterrupted. The mathematics remain discoverable.")
+           sys.exit(0)
+

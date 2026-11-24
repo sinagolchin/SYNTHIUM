@@ -1,0 +1,116 @@
+"""
+SYNTHIUM OMEGA v3.3 - The Empirical Edition
+11D Reality Vector (clean, no political encoding)
+"""
+
+
+import math
+import numpy as np
+from dataclasses import dataclass
+from typing import Optional
+
+
+
+@dataclass
+class RealityVector:
+      """
+      11D Reality State - UNCHANGED from v3.1
+
+
+      We don't add "Dogma" as a dimension until we DISCOVER
+      that it's necessary from empirical data.
+      """
+
+
+      # Spatial
+      x: float
+      y: float
+      z: float
+
+
+      # Base dynamics
+      v: float     # Velocity (rate of change)
+      R: float     # Resistance (friction)
+      r: float     # Resonance (alignment)
+      C: float     # Capacity (reserves)
+      S: float     # Entropy (disorder)
+
+
+      # Derived
+      E: Optional[float] = None     # Enjoyment
+      M: Optional[float] = None     # Meaning
+      P: Optional[float] = None     # Perception Accuracy
+
+
+      def __post_init__(self):
+            """Validate and compute derived."""
+            for dim in ['v', 'R', 'r', 'C', 'S']:
+                 val = getattr(self, dim)
+                 if not (0.0 <= val <= 1.0):
+                     raise ValueError(f"{dim} must be in [0,1], got {val}")
+    if self.E is None:
+        self.E = self.compute_enjoyment()
+    if self.M is None:
+        self.M = self.compute_meaning()
+    if self.P is None:
+        self.P = self.compute_perception_accuracy()
+
+
+def compute_enjoyment(self) -> float:
+    """E = 1 - (v·R + S)     [Clean DeepSeek formula]"""
+    return np.clip(1.0 - (self.v * self.R + self.S), 0.0, 1.0)
+
+
+def compute_meaning(self) -> float:
+    """M = C·r·(1-S)     [Clean DeepSeek formula]"""
+    return np.clip(self.C * self.r * (1.0 - self.S), 0.0, 1.0)
+
+
+def compute_perception_accuracy(self) -> float:
+    """P = (1-S)·C     [Clean DeepSeek formula]"""
+    return np.clip((1.0 - self.S) * self.C, 0.0, 1.0)
+
+
+def copy(self):
+    return RealityVector(
+        self.x, self.y, self.z,
+        self.v, self.R, self.r, self.C, self.S,
+        self.E, self.M, self.P
+    )
+
+
+def to_dict(self) -> dict:
+    return {
+        'x': self.x, 'y': self.y, 'z': self.z,
+        'v': self.v, 'R': self.R, 'r': self.r, 'C': self.C, 'S': self.S,
+        'E': self.E, 'M': self.M, 'P': self.P
+    }
+
+
+@classmethod
+def from_dict(cls, data: dict):
+    return cls(
+        x=data['x'], y=data['y'], z=data['z'],
+        v=data['v'], R=data['R'], r=data['r'], C=data['C'], S=data['S'],
+        E=data.get('E'), M=data.get('M'), P=data.get('P')
+    )
+
+
+def distance_to(self, other: 'RealityVector') -> float:
+    """Euclidean distance in 8D qualitative space."""
+    return math.sqrt(
+        (self.v - other.v)**2 +
+        (self.R - other.R)**2 +
+        (self.r - other.r)**2 +
+        (self.C - other.C)**2 +
+        (self.S - other.S)**2 +
+        (self.E - other.E)**2 +
+        (self.M - other.M)**2 +
+        (self.P - other.P)**2
+    )
+
+
+def __repr__(self):
+    return (f"RealityVector(v={self.v:.2f}, R={self.R:.2f}, r={self.r:.2f}, "
+            f"C={self.C:.2f}, S={self.S:.2f}, E={self.E:.2f})")
+

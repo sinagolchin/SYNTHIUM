@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "version": "1.5",
+    "created": "2024-01-15T10:00:00.000000"
+  },
+  "discovered_units": [
+    {
+      "term": "Grief",
+      "vector": {
+        "v": 0.1,
+        "R": 0.9,
+        "r": 0.2,
+        "C": 0.8,
+        "S": 0.4
+      },
+      "formula": "Mass = R \u00d7 C",
+      "timestamp": "2026-01-01T02:10:33.059900",
+      "category": "Psychological"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+"""
+SYNTHIUM OMEGA v3.4 - The Agnostic Edition
+==========================================
+
+
+AXIOM 0: AGNOSTICISM (Meta-Axiom)
+All formulas, measurements, and predictions are HYPOTHESES, not absolute truths.
+
+
+KEY CHANGES FROM v3.3:
+- Explicit uncertainty tracking at all levels
+- Confidence estimates for all claims
+- Framework evolution mechanisms
+- Agnosticism as foundational principle
+- No claims of absolute truth
+
+
+Philosophy: Mathematical Realism WITH Epistemic Humility
+- Reality APPEARS mathematical (not IS)
+- Formulas are testable hypotheses (not truths)
+- Measurements have uncertainty (not precision)
+- Predictions are probabilistic (not certain)
+"""
+
+
+from .confidence import (
+      aggregate_confidence,
+      Confidence,
+      ConfidenceLevel,
+      FORMULA_CONFIDENCE,
+      AXIOM_0_AGNOSTICISM,
+      print_agnosticism_axiom,
+      print_agnosticism_reminder
+)
+
+
+from .vectors_v34 import (
+      AgnosticRealityVector,
+      RealityVector   # Alias for compatibility
+)
+
+
+from .framework_evolution import (
+      FrameworkEvolution,
+      FormulaTest,
+      alternative_E_quadratic,
+      alternative_E_interaction,
+      alternative_E_threshold
+)
+from .empirical_agnostic import (
+    AgnosticEmpiricalDiscovery,
+    AgnosticPrediction,
+    InterventionCase,
+    HISTORICAL_CASES
+)
+
+
+# v3.3 modules (unchanged core functionality)
+from .perception_v34 import (
+    PerceptionFunction,
+    Being,
+    HUMAN_PERCEPTION,
+    SYNTHIUM_PERCEPTION,
+    ANIMAL_PERCEPTION,
+    ORGANIZATION_PERCEPTION
+)
+
+
+from .field_v34 import RealityField
+from .interactions_v34 import InteractionForce, MultiAgentSimulation
+from .units_v34 import SynthiumUnits, PhysiologicalCalibration
+from .science_v34 import HolisticScience
+
+
+from .ethics_discovery import (
+    CareMetrics,
+    ConservationLaw,
+    EthicsDiscovery
+)
+
+
+__version__ = "3.4"
+__codename__ = "The Agnostic Edition"
+
+
+PHILOSOPHICAL_PRINCIPLES = {
+    "AXIOM_0": "Agnosticism - We remain uncertain about our framework",
+    "ontology": "Reality APPEARS mathematical (we don't know ultimate nature)",
+    "epistemology": "Formulas are testable hypotheses (not absolute truths)",
+    "methodology": "Measure uncertainty explicitly (confidence at all levels)",
+    "ethics": "Stable equilibria are observed patterns (not moral prescriptions)",
+    "evolution": "Framework can improve via evidence (not fixed dogma)",
+    "humility": "We don't know what we don't know (epistemic modesty)"
+}
+
+
+WHAT_CHANGED_FROM_V33 = [
+    "Added Axiom 0 (Agnosticism) as meta-axiom",
+    "All vectors now track measurement confidence",
+    "Derived metrics labeled as HYPOTHESES",
+    "Predictions include uncertainty ranges",
+    "Framework evolution mechanism added",
+    "Explicit confidence levels on all claims",
+    "Full limitation/unknown tracking",
+    "No absolute truth claims anywhere"
+]
+
+
+__all__ = [
+    # Core with uncertainty
+    "AgnosticRealityVector",
+    "RealityVector",
+
+
+    # Confidence system
+    "Confidence",
+    "ConfidenceLevel",
+    "FORMULA_CONFIDENCE",
+    "AXIOM_0_AGNOSTICISM",
+    "print_agnosticism_axiom",
+    "print_agnosticism_reminder",
+
+
+    # Framework evolution
+    "FrameworkEvolution",
+    "FormulaTest",
+    "alternative_E_quadratic",
+    "alternative_E_interaction",
+    "alternative_E_threshold",
+
+
+    # Agnostic empirical
+    "AgnosticEmpiricalDiscovery",
+    "AgnosticPrediction",
+    "InterventionCase",
+    "HISTORICAL_CASES",
+
+
+    # Perception (v3.3)
+    "PerceptionFunction",
+    "Being",
+    "HUMAN_PERCEPTION",
+    "SYNTHIUM_PERCEPTION",
+    "ANIMAL_PERCEPTION",
+    "ORGANIZATION_PERCEPTION",
+
+
+    # Field & Interactions (v3.3)
+    "RealityField",
+    "InteractionForce",
+    "MultiAgentSimulation",
+
+
+    # Units & Analysis (v3.3)
+    "SynthiumUnits",
+    "PhysiologicalCalibration",
+    "HolisticScience",
+
+
+    # Ethics Discovery (v3.3)
+    "CareMetrics",
+    "ConservationLaw",
+    "EthicsDiscovery",
+
+
+    # Meta
+    "PHILOSOPHICAL_PRINCIPLES",
+    "WHAT_CHANGED_FROM_V33",
+    "__version__",
+    "__codename__",
+]
+
+
+
+def get_version_info() -> dict:
+    """Return version and framework information."""
+    return {
+        "version": __version__,
+        "codename": __codename__,
+        "philosophy": "Mathematical Realism WITH Epistemic Humility",
+        "axiom_0": "Agnosticism (all claims are uncertain)",
+        "what_changed": WHAT_CHANGED_FROM_V33,
+        "principles": PHILOSOPHICAL_PRINCIPLES,
+        "key_feature": "Explicit uncertainty tracking at all levels"
+    }
+
+
+
+def print_version():
+    """Print version banner."""
+    print("="*70)
+    print(f"SYNTHIUM OMEGA v{__version__} - {__codename__}")
+    print("="*70)
+    print("\n" + AXIOM_0_AGNOSTICISM)
+    print("\nPhilosophical Principles:")
+    for key, value in PHILOSOPHICAL_PRINCIPLES.items():
+        print(f"     • {key}: {value}")
+    print("\n" + "="*70)
+

@@ -1,0 +1,408 @@
+"""
+SYNTHIUM OMEGA v3.4 - Framework Evolution
+==========================================
+
+
+Agnosticism requires ability to UPDATE the framework itself.
+
+
+This module enables:
+- Testing alternative formulas against data
+- Discovering hidden variables
+- Measuring formula fit
+- Recommending updates based on evidence
+"""
+
+
+import numpy as np
+from typing import List, Dict, Callable, Tuple
+from dataclasses import dataclass
+from .confidence import Confidence, ConfidenceLevel
+
+
+
+@dataclass
+class FormulaTest:
+      """Results of testing a formula against data."""
+      formula_name: str
+      current_error: float
+      proposed_error: float
+      improvement: float
+      sample_size: int
+      recommendation: str
+      confidence: Confidence
+
+
+
+class FrameworkEvolution:
+      """
+      Meta-level class for evolving the framework itself.
+
+
+      AGNOSTICISM IN ACTION:
+      - Current formulas are hypotheses
+      - Can be tested against data
+      - Can be replaced if better ones found
+      - Framework improves over time
+      """
+
+
+      def __init__(self):
+            self.current_formulas = {
+          'E': lambda v, R, S: 1.0 - (v * R + S),
+          'M': lambda C, r, S: C * r * (1 - S),
+          'P': lambda C, S: (1 - S) * C
+    }
+
+
+    self.test_history = []
+
+
+def test_alternative_E_formula(
+    self,
+    new_formula: Callable,
+    test_data: List[Dict]
+) -> FormulaTest:
+    """
+    Test alternative formula for Enjoyment.
+
+
+    Args:
+          new_formula: Function taking (v, R, S) → E
+          test_data: List of dicts with {'v', 'R', 'S', 'observed_E'}
+
+
+    Returns:
+          FormulaTest with results and recommendation
+    """
+    current_formula = self.current_formulas['E']
+
+
+    current_error = self._measure_error(current_formula, test_data, ['v', 'R', 'S'])
+    new_error = self._measure_error(new_formula, test_data, ['v', 'R', 'S'])
+
+
+    improvement = current_error - new_error
+
+
+    # Determine recommendation
+    if improvement > 0.15:
+          recommendation = "STRONGLY RECOMMEND ADOPTION"
+    elif improvement > 0.05:
+          recommendation = "RECOMMEND ADOPTION"
+    elif improvement > -0.05:
+          recommendation = "NEUTRAL - Keep testing"
+    else:
+          recommendation = "KEEP CURRENT"
+
+
+    # Confidence based on sample size
+    if len(test_data) > 100:
+          conf_level = ConfidenceLevel.HIGH
+    elif len(test_data) > 30:
+          conf_level = ConfidenceLevel.MODERATE
+    else:
+          conf_level = ConfidenceLevel.LOW
+    confidence = Confidence(
+          level=conf_level,
+          basis=f'Tested on {len(test_data)} cases',
+          limitations=[
+               'Limited test data' if len(test_data) < 100 else 'Reasonable sample size',
+               'May not generalize',
+               'Overfitting possible'
+          ],
+          unknowns=[
+               'Out-of-sample performance',
+               'Edge case behavior',
+               'Long-term stability'
+          ]
+    )
+
+
+    result = FormulaTest(
+          formula_name='E (Enjoyment)',
+          current_error=current_error,
+          proposed_error=new_error,
+          improvement=improvement,
+          sample_size=len(test_data),
+          recommendation=recommendation,
+          confidence=confidence
+    )
+
+
+    self.test_history.append(result)
+    return result
+
+
+def _measure_error(
+    self,
+    formula: Callable,
+    test_data: List[Dict],
+    input_vars: List[str]
+) -> float:
+    """
+    Measure how well formula fits data.
+
+
+    Uses mean squared error.
+    """
+    errors = []
+
+
+    for case in test_data:
+          # Get inputs
+          inputs = [case[var] for var in input_vars]
+
+
+          # Compute prediction
+          predicted = formula(*inputs)
+          # Get observed
+          observed = case.get('observed_E', case.get('observed_M', case.get('observed_P', 0
+
+
+          # Error
+          error = (predicted - observed) ** 2
+          errors.append(error)
+
+
+    return np.mean(errors) if errors else float('inf')
+
+
+def discover_hidden_variables(
+    self,
+    data: np.ndarray,
+    n_components: int = 15
+) -> List[Dict]:
+    """
+    Search for patterns suggesting missing variables.
+
+
+    AGNOSTICISM IN ACTION:
+    We don't KNOW if we have all variables.
+    This searches for unexplained variance.
+
+
+    Args:
+          data: Matrix where rows are observations, columns are current 11 dimensions
+          n_components: Number of PCA components to test
+
+
+    Returns:
+          List of potential hidden variables
+    """
+    from sklearn.decomposition import PCA
+
+
+    # Fit PCA
+    pca = PCA(n_components=n_components)
+    pca.fit(data)
+
+
+    # Find components beyond our 11D that explain significant variance
+    variance_explained = pca.explained_variance_ratio_
+
+
+    suggestions = []
+    for i, var in enumerate(variance_explained[11:], start=12):
+          if var > 0.03:    # More than 3% unexplained variance
+               suggestions.append({
+                    'component': i,
+                    'variance_explained': var,
+                    'cumulative_variance': np.sum(variance_explained[:i]),
+                    'interpretation': f'Potential hidden variable explaining {var:.1%} of var
+                    'confidence': Confidence(
+                        level=ConfidenceLevel.SPECULATIVE,
+                        basis='PCA analysis',
+                        limitations=[
+                             'PCA finds linear combinations',
+                             'May be noise or artifact',
+                             'Correlation not causation'
+                        ],
+                        unknowns=[
+                             'True meaning of component',
+                             'Causal structure',
+                             'Measurement approach'
+                        ]
+                    )
+               })
+
+
+    return suggestions
+
+
+def compare_prediction_accuracy(
+    self,
+    predictions: List[Tuple[str, float]],
+    actual_outcomes: List[float]
+) -> Dict:
+    """
+    Compare prediction accuracy of different models/formulas.
+
+
+    Args:
+          predictions: List of (model_name, predicted_value) tuples
+          actual_outcomes: List of actual observed values
+
+
+    Returns:
+          Comparison results
+    """
+    results = {}
+
+
+    for model_name, predicted in predictions:
+          errors = [(p - a) ** 2 for p, a in zip([predicted] * len(actual_outcomes), actual
+          mse = np.mean(errors)
+
+
+          results[model_name] = {
+               'mse': mse,
+               'rmse': np.sqrt(mse),
+               'confidence': Confidence(
+                    level=ConfidenceLevel.MODERATE if len(actual_outcomes) > 10 else Confiden
+                    basis=f'Tested on {len(actual_outcomes)} outcomes',
+                    limitations=['Small sample', 'May not generalize'],
+                    unknowns=['Future performance', 'Edge cases']
+               )
+          }
+
+
+    # Find best model
+    best_model = min(results.items(), key=lambda x: x[1]['mse'])
+
+
+    return {
+          'results': results,
+          'best_model': best_model[0],
+          'best_mse': best_model[1]['mse'],
+          'recommendation': f"Based on {len(actual_outcomes)} cases, {best_model[0]} perfor
+    }
+
+
+def suggest_formula_improvements(
+    self,
+    residuals: np.ndarray,
+    variable_names: List[str]
+) -> List[str]:
+    """
+    Analyze residuals to suggest formula improvements.
+
+
+    Args:
+          residuals: Errors between predicted and observed
+          variable_names: Names of variables in model
+
+
+    Returns:
+          List of suggestions
+    """
+    suggestions = []
+
+
+    # Check for bias (systematic over/under-prediction)
+    mean_residual = np.mean(residuals)
+    if abs(mean_residual) > 0.1:
+          suggestions.append(
+               f"Systematic bias detected (mean residual = {mean_residual:.3f}). "
+               f"Consider adding constant term."
+          )
+
+
+    # Check for heteroscedasticity (non-constant variance)
+    variance_over_time = np.var(residuals[:len(residuals)//2]) / np.var(residuals[len(res
+    if variance_over_time > 2 or variance_over_time < 0.5:
+          suggestions.append(
+               "Non-constant error variance detected. "
+               "Consider non-linear transformations or interaction terms."
+          )
+
+
+    # Check for autocorrelation (pattern in errors)
+    if len(residuals) > 5:
+            autocorr = np.corrcoef(residuals[:-1], residuals[1:])[0, 1]
+            if abs(autocorr) > 0.3:
+                suggestions.append(
+                     f"Autocorrelation in residuals ({autocorr:.2f}). "
+                     f"Consider adding lagged variables or dynamic terms."
+                )
+
+
+        if not suggestions:
+            suggestions.append("No obvious improvements detected. Current formula appears ade
+
+
+        return suggestions
+
+
+    def generate_evolution_report(self) -> str:
+        """Generate report on framework evolution."""
+        lines = []
+        lines.append("="*70)
+        lines.append("FRAMEWORK EVOLUTION REPORT")
+        lines.append("="*70)
+
+
+        lines.append("\n      Formula Tests Conducted: " + str(len(self.test_history)))
+
+
+        if self.test_history:
+            lines.append("\nRecent Tests:")
+            for test in self.test_history[-5:]:
+                lines.append(f"\n     {test.formula_name}:")
+                lines.append(f"       Current Error: {test.current_error:.4f}")
+                lines.append(f"       Proposed Error: {test.proposed_error:.4f}")
+                lines.append(f"       Improvement: {test.improvement:+.4f}")
+                lines.append(f"       Recommendation: {test.recommendation}")
+                lines.append(f"       Confidence: {test.confidence.level.value}")
+
+
+        lines.append("\n" + "="*70)
+        lines.append("AGNOSTICISM IN ACTION:")
+        lines.append("="*70)
+        lines.append("This framework can evolve based on evidence.")
+        lines.append("Better formulas can replace current ones.")
+        lines.append("We remain open to being wrong and improving.")
+        lines.append("="*70)
+
+
+        return "\n".join(lines)
+
+
+
+# ==================================================
+# EXAMPLE ALTERNATIVE FORMULAS TO TEST
+# ==================================================
+
+
+def alternative_E_quadratic(v: float, R: float, S: float) -> float:
+    """
+    Alternative E formula with quadratic terms.
+
+
+    Hypothesis: Maybe E has non-linear dynamics
+    """
+    return np.clip(1.0 - (v * R + S + 0.1 * v**2), 0.0, 1.0)
+
+
+
+def alternative_E_interaction(v: float, R: float, S: float) -> float:
+    """
+    Alternative E formula with interaction term.
+
+
+    Hypothesis: Maybe v and S interact (violence in chaos is worse)
+    """
+    return np.clip(1.0 - (v * R + S + 0.2 * v * S), 0.0, 1.0)
+
+
+
+def alternative_E_threshold(v: float, R: float, S: float) -> float:
+    """
+    Alternative E formula with threshold effect.
+
+
+    Hypothesis: Maybe high S has threshold effect
+    """
+    S_penalty = S if S < 0.7 else S * 1.5
+    return np.clip(1.0 - (v * R + S_penalty), 0.0, 1.0)
+

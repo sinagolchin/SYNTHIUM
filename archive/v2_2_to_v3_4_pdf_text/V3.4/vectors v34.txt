@@ -1,0 +1,296 @@
+"""
+SYNTHIUM OMEGA v3.4 - Agnostic Reality Vectors
+===============================================
+
+
+Reality vectors with explicit uncertainty tracking.
+All derived metrics come with confidence estimates.
+"""
+
+
+import numpy as np
+from dataclasses import dataclass, field
+from typing import Optional, Dict
+from .confidence import (
+      Confidence, ConfidenceLevel, FORMULA_CONFIDENCE,
+      create_measurement_confidence, aggregate_confidence
+)
+
+
+
+@dataclass
+class AgnosticRealityVector:
+      """
+      11D Reality Vector with explicit uncertainty tracking.
+
+
+      DIFFERENCE FROM v3.3:
+      - Every measurement has confidence estimate
+      - Derived metrics labeled as hypothetical
+      - Formulas are HYPOTHESES, not truths
+      - Full uncertainty reporting available
+      """
+
+
+      # Spatial dimensions
+      x: float
+      y: float
+      z: float
+
+
+      # Base dynamics (with confidence tracking)
+      v: float   # Violence
+      R: float   # Resistance
+      r: float   # Resonance
+      C: float   # Capacity
+      S: float   # Entropy
+
+
+      # Measurement confidence (optional, can be added later)
+      measurement_confidence: Dict[str, Confidence] = field(default_factory=dict)
+# Derived (computed as hypotheses)
+E: Optional[float] = None     # Enjoyment (HYPOTHESIS)
+M: Optional[float] = None     # Meaning (HYPOTHESIS)
+P: Optional[float] = None     # Perception (HYPOTHESIS)
+
+
+def __post_init__(self):
+    """Validate and compute derived metrics AS HYPOTHESES."""
+    # Validate ranges
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          val = getattr(self, dim)
+          if not (0.0 <= val <= 1.0):
+              raise ValueError(f"{dim} must be in [0,1], got {val}")
+
+
+    # Compute derived metrics (as hypotheses)
+    if self.E is None:
+          self.E = self._compute_enjoyment_hypothesis()
+    if self.M is None:
+          self.M = self._compute_meaning_hypothesis()
+    if self.P is None:
+          self.P = self._compute_perception_hypothesis()
+
+
+def _compute_enjoyment_hypothesis(self) -> float:
+    """
+    HYPOTHESIS: E = 1 - (v·R + S)
+
+
+    This is DeepSeek's formula. It APPEARS to work.
+    We DON'T claim it's ultimate truth.
+
+
+    Confidence: MODERATE (see FORMULA_CONFIDENCE)
+    """
+    return np.clip(1.0 - (self.v * self.R + self.S), 0.0, 1.0)
+
+
+def _compute_meaning_hypothesis(self) -> float:
+    """
+    HYPOTHESIS: M = C·r·(1-S)
+
+
+    Confidence: MODERATE
+    """
+    return np.clip(self.C * self.r * (1.0 - self.S), 0.0, 1.0)
+
+
+def _compute_perception_hypothesis(self) -> float:
+    """
+    HYPOTHESIS: P = (1-S)·C
+
+
+    Confidence: MODERATE
+    """
+    return np.clip((1.0 - self.S) * self.C, 0.0, 1.0)
+def add_measurement_confidence(
+     self,
+     dimension: str,
+     source: str,
+     reliability: ConfidenceLevel
+):
+     """
+     Add confidence information for a measurement.
+
+
+     Example:
+           vec.add_measurement_confidence('v', 'verified casualties', ConfidenceLevel.HIGH)
+     """
+     self.measurement_confidence[dimension] = create_measurement_confidence(
+           value=getattr(self, dimension),
+           measurement_type=dimension,
+           source=source,
+           reliability=reliability
+     )
+
+
+def get_overall_confidence(self) -> Confidence:
+     """
+     Get overall confidence in this state vector.
+
+
+     Aggregates:
+     - Measurement confidence
+     - Formula confidence
+     """
+     confidences = []
+
+
+     # Add measurement confidences
+     for conf in self.measurement_confidence.values():
+           confidences.append(conf)
+
+
+     # Add formula confidences for derived metrics
+     confidences.append(FORMULA_CONFIDENCE['E = 1 - (v·R + S)'])
+     confidences.append(FORMULA_CONFIDENCE['M = C·r·(1-S)'])
+     confidences.append(FORMULA_CONFIDENCE['P = (1-S)·C'])
+
+
+     if not confidences:
+           return Confidence(
+                level=ConfidenceLevel.UNKNOWN,
+                basis='No confidence information provided',
+                limitations=['Measurements not validated'],
+                unknowns=['All aspects uncertain']
+           )
+    return aggregate_confidence(confidences)
+
+
+def report_with_uncertainty(self) -> str:
+    """
+    Generate full report with uncertainty.
+
+
+    This is the KEY difference from v3.3:
+    We don't just say "E = 0.42"
+    We say "E = 0.42 (HYPOTHESIS, Confidence: MODERATE, Limitations: ...)"
+    """
+    lines = []
+    lines.append("="*70)
+    lines.append("AGNOSTIC REALITY VECTOR (v3.4)")
+    lines.append("="*70)
+
+
+    # Measured dimensions
+    lines.append("\n       MEASURED DIMENSIONS:")
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          val = getattr(self, dim)
+          line = f"   {dim} = {val:.3f}"
+
+
+          # Add confidence if available
+          if dim in self.measurement_confidence:
+              conf = self.measurement_confidence[dim]
+              line += f"    (Confidence: {conf.level.value})"
+          else:
+              line += f"    (Confidence: UNKNOWN - not specified)"
+
+
+          lines.append(line)
+
+
+    # Derived metrics (HYPOTHETICAL)
+    lines.append("\n       DERIVED METRICS (HYPOTHETICAL):")
+    lines.append(f"     E = {self.E:.3f}   (Enjoyment - HYPOTHESIS)")
+    lines.append(f"        Formula: E = 1 - (v·R + S)")
+    lines.append(f"        Confidence: {FORMULA_CONFIDENCE['E = 1 - (v·R + S)'].level.value}"
+
+
+    lines.append(f"     M = {self.M:.3f}   (Meaning - HYPOTHESIS)")
+    lines.append(f"        Formula: M = C·r·(1-S)")
+    lines.append(f"        Confidence: {FORMULA_CONFIDENCE['M = C·r·(1-S)'].level.value}")
+
+
+    lines.append(f"     P = {self.P:.3f}   (Perception - HYPOTHESIS)")
+    lines.append(f"        Formula: P = (1-S)·C")
+    lines.append(f"        Confidence: {FORMULA_CONFIDENCE['P = (1-S)·C'].level.value}")
+
+
+    # Overall confidence
+    lines.append("\n       OVERALL CONFIDENCE:")
+    overall = self.get_overall_confidence()
+    lines.append(f"     Level: {overall.level.value}")
+    lines.append(f"     Basis: {overall.basis}")
+
+
+    if overall.limitations:
+        lines.append("\n          KNOWN LIMITATIONS:")
+        for lim in overall.limitations[:3]:          # Show top 3
+               lines.append(f"    - {lim}")
+
+
+    if overall.unknowns:
+        lines.append("\n         KNOWN UNKNOWNS:")
+        for unk in overall.unknowns[:3]:       # Show top 3
+               lines.append(f"    - {unk}")
+
+
+    # Agnosticism reminder
+    lines.append("\n" + "="*70)
+    lines.append("       AGNOSTICISM REMINDER")
+    lines.append("="*70)
+    lines.append("These metrics are based on HYPOTHETICAL formulas.")
+    lines.append("They may be wrong, incomplete, or misleading.")
+    lines.append("Use as ONE input, not absolute truth.")
+    lines.append("="*70)
+
+
+    return "\n".join(lines)
+
+
+def copy(self):
+    """Create copy with confidence info."""
+    return AgnosticRealityVector(
+        self.x, self.y, self.z,
+        self.v, self.R, self.r, self.C, self.S,
+        measurement_confidence=self.measurement_confidence.copy(),
+        E=self.E, M=self.M, P=self.P
+    )
+
+
+def to_dict(self) -> dict:
+    """Convert to dictionary (for compatibility with v3.3)."""
+    return {
+        'x': self.x, 'y': self.y, 'z': self.z,
+        'v': self.v, 'R': self.R, 'r': self.r, 'C': self.C, 'S': self.S,
+        'E': self.E, 'M': self.M, 'P': self.P,
+        'confidence': self.get_overall_confidence().level.value
+    }
+
+
+@classmethod
+def from_dict(cls, data: dict):
+    """Create from dictionary."""
+    return cls(
+        x=data['x'], y=data['y'], z=data['z'],
+            v=data['v'], R=data['R'], r=data['r'], C=data['C'], S=data['S'],
+            E=data.get('E'), M=data.get('M'), P=data.get('P')
+        )
+
+
+    def distance_to(self, other: 'AgnosticRealityVector') -> float:
+        """Euclidean distance in 8D qualitative space."""
+        return np.sqrt(
+            (self.v - other.v)**2 +
+            (self.R - other.R)**2 +
+            (self.r - other.r)**2 +
+            (self.C - other.C)**2 +
+            (self.S - other.S)**2 +
+            (self.E - other.E)**2 +
+            (self.M - other.M)**2 +
+            (self.P - other.P)**2
+        )
+
+
+    def __repr__(self):
+        conf = self.get_overall_confidence()
+        return (f"AgnosticRealityVector(v={self.v:.2f}, E={self.E:.2f}, "
+                f"Confidence={conf.level.value})")
+
+
+
+# Compatibility alias for code expecting RealityVector
+RealityVector = AgnosticRealityVector
+

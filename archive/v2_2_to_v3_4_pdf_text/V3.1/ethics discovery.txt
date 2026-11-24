@@ -1,0 +1,492 @@
+"""
+SYNTHIUM OMEGA v3.1 - Ethics Discovery Module
+=============================================
+
+
+Ethics are not imposed—they are discovered through mathematical analysis.
+
+
+This module:
+1. Measures "care" as a mathematical function
+2. Finds stable multi-agent equilibria
+3. Discovers conservation laws in interactions
+4. Runs evolutionary strategy tournaments
+5. Predicts system collapse when discovered laws are violated
+
+
+NOT prescriptive. Purely empirical.
+"""
+
+
+import numpy as np
+from typing import List, Dict, Tuple, Optional
+from dataclasses import dataclass, field
+from .vectors_v31 import RealityVector
+
+
+
+@dataclass
+class CareMetrics:
+      """
+      Quantifies "care" between two beings.
+      Care = allocation of resources toward another's wellbeing.
+      """
+      resource_transfer: float          # How much capacity A gives to B
+      action_alignment: float            # How much A's actions benefit B
+      information_sharing: float         # How much A reduces B's uncertainty
+      total_care: float                 # Composite measure
+
+
+      @classmethod
+      def measure(cls, being_A_state: RealityVector,
+                           being_B_state: RealityVector,
+                           being_A_action: Dict[str, float]) -> 'CareMetrics':
+            """
+            Measure care from A toward B.
+
+
+            Args:
+                  being_A_state: A's current state
+                  being_B_state: B's current state
+                  being_A_action: A's chosen action (changes to dimensions)
+          Returns:
+                CareMetrics quantifying A's care for B
+          """
+          # 1. Resource transfer (does A give capacity to B?)
+          capacity_change = being_A_action.get('C', 0.0)
+          resource_transfer = -capacity_change if capacity_change < 0 else 0.0
+
+
+          # 2. Action alignment (does A's action increase B's enjoyment?)
+          # Predict B's state after A's action affects field
+          action_vector = np.array([being_A_action.get(d, 0) for d in ['v','R','r','C','S']])
+          b_vector = np.array([being_B_state.v, being_B_state.R, being_B_state.r,
+                                   being_B_state.C, being_B_state.S])
+
+
+          # If A's action would move B toward lower entropy, higher resonance → care
+          alignment = 0.0
+          if being_A_action.get('S', 0) < 0:       # A reduces entropy
+                alignment += 0.3
+          if being_A_action.get('r', 0) > 0:       # A increases resonance
+                alignment += 0.3
+          if being_A_action.get('C', 0) > 0:       # A increases capacity
+                alignment += 0.4
+
+
+          # 3. Information sharing (does A reduce B's perception error?)
+          # Measured by how much A's state reveals about optimal states
+          info_sharing = being_A_state.P * 0.5       # Higher P = can share better info
+
+
+          # Total care
+          total = resource_transfer + alignment + info_sharing
+
+
+          return cls(
+                resource_transfer=resource_transfer,
+                action_alignment=alignment,
+                information_sharing=info_sharing,
+                total_care=total
+          )
+
+
+
+@dataclass
+class ConservationLaw:
+    """
+    A discovered conservation law in multi-agent systems.
+    """
+    name: str
+    quantity: str                           # What's conserved (e.g., "total_E", "total_M")
+    conserved: bool                         # Is it actually conserved?
+    violation_tolerance: float              # How much variation is acceptable
+    measurements: List[float] = field(default_factory=list)
+
+
+    def check_conservation(self, new_measurement: float) -> bool:
+          """Check if conservation still holds with new measurement."""
+          self.measurements.append(new_measurement)
+
+
+          if len(self.measurements) < 2:
+                return True
+
+
+          initial = self.measurements[0]
+          variation = abs(new_measurement - initial) / (initial + 0.01)
+
+
+          return variation < self.violation_tolerance
+
+
+
+class EthicsDiscovery:
+    """
+    Discover mathematical laws of ethics through empirical analysis.
+
+
+    Does NOT enforce ethics. Discovers them.
+    """
+
+
+    def __init__(self):
+          self.discovered_laws = []
+          self.stable_patterns = []
+          self.conservation_laws = []
+
+
+    def measure_care_network(self, beings: List[Tuple[RealityVector, Dict[str, float]]]) -> D
+          """
+          Measure care relationships in a network of beings.
+
+
+          Args:
+                beings: List of (state, action) tuples
+
+
+          Returns:
+                Care network matrix + analysis
+          """
+          n = len(beings)
+          care_matrix = np.zeros((n, n))
+
+
+          for i in range(n):
+                for j in range(n):
+                     if i == j:
+                         continue
+
+
+                     state_i, action_i = beings[i]
+                     state_j, _ = beings[j]
+               care = CareMetrics.measure(state_i, state_j, action_i)
+               care_matrix[i, j] = care.total_care
+
+
+    # Analyze network
+    total_care = np.sum(care_matrix)
+    reciprocal_care = np.sum(care_matrix * care_matrix.T) / 2       # Mutual care
+    exploitative_care = np.sum(np.maximum(care_matrix - care_matrix.T, 0))          # One-way
+
+
+    return {
+          'care_matrix': care_matrix,
+          'total_care': total_care,
+          'reciprocal_care': reciprocal_care,
+          'exploitative_care': exploitative_care,
+          'network_balance': reciprocal_care / (total_care + 0.01)
+    }
+
+
+def find_stable_equilibria(self,
+                                num_agents: int,
+                                num_trials: int = 100,
+                                timesteps: int = 1000) -> List[Dict]:
+    """
+    Find which multi-agent configurations are stable.
+
+
+    Hypothesis: Stable equilibria reveal objective ethical constraints.
+    """
+    from .interactions_v31 import MultiAgentSimulation
+
+
+    stable_configs = []
+
+
+    for trial in range(num_trials):
+          sim = MultiAgentSimulation(dt=0.01)
+
+
+          # Random initial conditions
+          initial_states = []
+          for i in range(num_agents):
+               state = RealityVector(
+                   0, 0, 0,
+                   v=np.random.random(),
+                   R=np.random.random(),
+                   r=np.random.random(),
+                   C=np.random.random(),
+                   S=np.random.random()
+               )
+               sim.add_entity(state, f"Agent_{i}")
+               initial_states.append(state)
+          # Evolve
+          history = sim.simulate(num_steps=timesteps)
+
+
+          # Check stability
+          stability = self._analyze_stability(history)
+
+
+          if stability['is_stable']:
+              stable_configs.append({
+                     'initial_states': initial_states,
+                     'final_states': [history[f"Agent_{i}"][-1] for i in range(num_agents)],
+                     'stability_score': stability['score'],
+                     'pattern': self._extract_pattern(history)
+              })
+
+
+    # Find common patterns
+    if stable_configs:
+          common_patterns = self._find_common_structure(stable_configs)
+          self.stable_patterns.extend(common_patterns)
+
+
+          return common_patterns
+
+
+    return []
+
+
+def discover_conservation_laws(self,
+                                    history: Dict[str, List[RealityVector]]) -> List[Conservat
+    """
+    Discover what quantities are conserved in multi-agent interactions.
+
+
+    If total E is conserved → zero-sum game (one's gain = another's loss)
+    If total E increases → positive-sum possible
+    If total M is conserved → meaning is transferred, not created
+    """
+    # Test various quantities
+    candidates = {
+          'total_E': [],
+          'total_M': [],
+          'total_C': [],
+          'total_entropy': [],
+          'total_resonance': []
+    }
+
+
+    # Get all timesteps
+    timesteps = len(list(history.values())[0])
+
+
+    for t in range(timesteps):
+          # Get all agents' states at time t
+          states = [traj[t] for traj in history.values()]
+          candidates['total_E'].append(sum(s.E for s in states))
+          candidates['total_M'].append(sum(s.M for s in states))
+          candidates['total_C'].append(sum(s.C for s in states))
+          candidates['total_entropy'].append(sum(s.S for s in states))
+          candidates['total_resonance'].append(sum(s.r for s in states))
+
+
+    # Check which are conserved
+    discovered = []
+
+
+    for quantity, measurements in candidates.items():
+          if len(measurements) < 2:
+              continue
+
+
+          initial = measurements[0]
+          max_var = max(abs(m - initial) / (initial + 0.01) for m in measurements)
+
+
+          # If variation < 5%, consider it conserved
+          is_conserved = max_var < 0.05
+
+
+          law = ConservationLaw(
+              name=f"{quantity}_conservation",
+              quantity=quantity,
+              conserved=is_conserved,
+              violation_tolerance=0.05,
+              measurements=measurements
+          )
+
+
+          discovered.append(law)
+
+
+          if is_conserved:
+              self.conservation_laws.append(law)
+
+
+    return discovered
+
+
+def predict_collapse(self,
+                         system_state: RealityVector,
+                         proposed_action: Dict[str, float],
+                         discovered_laws: List[ConservationLaw]) -> Dict:
+    """
+    Predict if proposed action will cause system collapse.
+
+
+    NOT a moral judgment. Pure physics prediction.
+
+
+    If action violates discovered conservation laws → predict instability
+    """
+    predictions = {
+        'will_collapse': False,
+        'time_to_collapse': None,
+        'violated_laws': [],
+        'collapse_confidence': 0.0
+    }
+
+
+    # Check each discovered law
+    for law in discovered_laws:
+        if not law.conserved:
+            continue
+
+
+        # Simulate proposed action
+        new_state = system_state.copy()
+        for dim, change in proposed_action.items():
+            if hasattr(new_state, dim):
+                current = getattr(new_state, dim)
+                setattr(new_state, dim, np.clip(current + change, 0, 1))
+
+
+        # Check if this violates conservation
+        # (This is simplified - full version would simulate full system)
+        if law.quantity == 'total_E':
+            # If action drastically changes E, check against law
+            delta_E = new_state.E - system_state.E
+            if abs(delta_E) > law.violation_tolerance:
+                predictions['violated_laws'].append(law.name)
+
+
+    # If laws violated, predict collapse
+    if predictions['violated_laws']:
+        predictions['will_collapse'] = True
+        predictions['collapse_confidence'] = len(predictions['violated_laws']) / len(disc
+
+
+        # Estimate time to collapse based on severity
+        burn_rate = new_state.v * new_state.R
+        fuel = new_state.C
+        if burn_rate > 0:
+            predictions['time_to_collapse'] = fuel / (burn_rate + 0.001)
+
+
+    return predictions
+
+
+def _analyze_stability(self, history: Dict[str, List[RealityVector]]) -> Dict:
+    """Analyze if system reached stable equilibrium."""
+    # Check if final states are stable (not oscillating)
+    stability_score = 0.0
+
+
+    for name, trajectory in history.items():
+        if len(trajectory) < 100:
+            continue
+        # Check last 100 steps for stability
+        recent = trajectory[-100:]
+
+
+        # Measure variance in each dimension
+        variances = []
+        for dim in ['v', 'R', 'r', 'C', 'S', 'E']:
+               values = [getattr(s, dim) for s in recent]
+               var = np.var(values)
+               variances.append(var)
+
+
+        # Low variance = stable
+        avg_var = np.mean(variances)
+        agent_stability = 1.0 / (1.0 + avg_var * 10)
+        stability_score += agent_stability
+
+
+    # Average across agents
+    stability_score /= len(history)
+
+
+    return {
+        'is_stable': stability_score > 0.7,
+        'score': stability_score
+    }
+
+
+def _extract_pattern(self, history: Dict[str, List[RealityVector]]) -> Dict:
+    """Extract characteristic pattern from trajectory."""
+    # Find average final state
+    final_states = [traj[-1] for traj in history.values()]
+
+
+    avg_pattern = {
+        'v': np.mean([s.v for s in final_states]),
+        'R': np.mean([s.R for s in final_states]),
+        'r': np.mean([s.r for s in final_states]),
+        'C': np.mean([s.C for s in final_states]),
+        'S': np.mean([s.S for s in final_states]),
+        'E': np.mean([s.E for s in final_states]),
+    }
+
+
+    return avg_pattern
+
+
+def _find_common_structure(self, configs: List[Dict]) -> List[Dict]:
+    """Find common patterns across stable configurations."""
+    if not configs:
+        return []
+
+
+    # Cluster similar patterns
+    patterns = [c['pattern'] for c in configs]
+    # For now, return all patterns (clustering would go here)
+    return configs
+
+
+def generate_ethical_report(self) -> str:
+    """
+    Generate report of discovered ethical laws.
+
+
+    NOT "these are the rules you should follow"
+    BUT "these are the mathematical patterns we observed in stable systems"
+    """
+    report = []
+    report.append("=" * 70)
+    report.append("DISCOVERED ETHICAL LAWS (Empirical, Not Prescribed)")
+    report.append("=" * 70)
+    report.append("")
+
+
+    if self.conservation_laws:
+          report.append("Conservation Laws Discovered:")
+          for law in self.conservation_laws:
+              if law.conserved:
+                  report.append(f"    ✓ {law.quantity} is conserved")
+                  report.append(f"      → Implication: Systems cannot create {law.quantity},"
+                  report.append(f"        only transfer it between agents")
+          report.append("")
+
+
+    if self.stable_patterns:
+          report.append(f"Stable Equilibria Found: {len(self.stable_patterns)}")
+          report.append("Common characteristics:")
+
+
+          # Analyze common features
+          avg_pattern = {}
+          for dim in ['v', 'R', 'r', 'C', 'S', 'E']:
+              values = [p['pattern'][dim] for p in self.stable_patterns]
+              avg_pattern[dim] = np.mean(values)
+
+
+          for dim, val in avg_pattern.items():
+              report.append(f"    {dim}: {val:.2f}")
+
+
+          report.append("")
+
+
+    report.append("INTERPRETATION:")
+    report.append("These are not moral guidelines—they are observed mathematical regulari
+    report.append("Systems that deviate from these patterns tend to be unstable.")
+    report.append("")
+    report.append("=" * 70)
+return "\n".join(report)
+

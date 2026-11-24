@@ -1,0 +1,336 @@
+"""
+SYNTHIUM OMEGA v3.4 - Confidence Tracking System
+=================================================
+
+
+Core module for tracking and reporting uncertainty at all levels.
+"""
+
+
+from dataclasses import dataclass
+from typing import List, Optional, Dict
+from enum import Enum
+
+
+
+class ConfidenceLevel(Enum):
+      """Standardized confidence levels."""
+      HIGH = "HIGH"
+      MODERATE = "MODERATE"
+      LOW = "LOW"
+      SPECULATIVE = "SPECULATIVE"
+      UNKNOWN = "UNKNOWN"
+
+
+
+@dataclass
+class Confidence:
+      """
+      Explicit confidence tracking for any claim.
+
+
+      Every measurement, formula, and prediction gets a Confidence object.
+      """
+      level: ConfidenceLevel
+      basis: str    # Why we have this confidence level
+      limitations: List[str]       # Known limitations
+      unknowns: List[str]     # Known unknowns (things we know we don't know)
+
+
+      def __repr__(self):
+            return f"{self.level.value}: {self.basis}"
+
+
+      def full_report(self) -> str:
+            """Generate full confidence report."""
+            lines = [
+                f"Confidence: {self.level.value}",
+                f"Basis: {self.basis}"
+            ]
+
+
+            if self.limitations:
+              lines.append("Known Limitations:")
+              for lim in self.limitations:
+                  lines.append(f"   - {lim}")
+
+
+         if self.unknowns:
+              lines.append("Known Unknowns:")
+              for unk in self.unknowns:
+                  lines.append(f"   - {unk}")
+
+
+         return "\n".join(lines)
+
+
+
+# ==================================================
+# FORMULA CONFIDENCE REGISTRY
+# ==================================================
+
+
+FORMULA_CONFIDENCE = {
+    'E = 1 - (v·R + S)': Confidence(
+         level=ConfidenceLevel.MODERATE,
+         basis='Derived by DeepSeek, works in tested cases',
+         limitations=[
+              'Not empirically optimized against large dataset',
+              'Assumes linear combination of terms',
+              'May be incomplete or wrong'
+         ],
+         unknowns=[
+              'Hidden variables not captured',
+              'Non-linear interactions possible',
+              'Cultural/contextual factors missing'
+         ]
+    ),
+
+
+    'M = C·r·(1-S)': Confidence(
+         level=ConfidenceLevel.MODERATE,
+         basis='Intuitive formula, appears to capture meaning dynamics',
+         limitations=[
+              'Not validated on large dataset',
+              'Meaning is subjective/hard to measure',
+              'May oversimplify complex phenomenon'
+         ],
+         unknowns=[
+              'Meaning may have non-multiplicative components',
+              'Individual vs collective meaning unclear',
+              'Cultural variations not captured'
+         ]
+    ),
+    'P = (1-S)·C': Confidence(
+         level=ConfidenceLevel.MODERATE,
+         basis='Logical: low chaos + high capacity = better perception',
+         limitations=[
+              'Perception accuracy hard to verify',
+              'May conflate perception with reality',
+              'Simplified model'
+         ],
+         unknowns=[
+              'Cognitive biases not modeled',
+              'Information quality not captured',
+              'Individual variation not included'
+         ]
+    ),
+
+
+    'Gradient Descent Dynamics': Confidence(
+         level=ConfidenceLevel.HIGH,
+         basis='Well-observed pattern in many physical and social systems',
+         limitations=[
+              'May get stuck in local minima',
+              'Assumes smooth potential landscape',
+              'May not apply to all systems'
+         ],
+         unknowns=[
+              'May be emergent rather than fundamental',
+              'Other dynamic modes may exist',
+              'Transition points unpredictable'
+         ]
+    ),
+
+
+    'Care = f(resources, alignment, info)': Confidence(
+         level=ConfidenceLevel.MODERATE,
+         basis='Operationalization of care as measurable function',
+         limitations=[
+              'Care is partly subjective',
+              'Formula is one possible definition',
+              'May not capture all aspects of care'
+         ],
+         unknowns=[
+              'Emotional/intentional components hard to measure',
+              'Cultural variations in what constitutes care',
+              'Long-term vs short-term care tradeoffs'
+         ]
+    )
+}
+# ==================================================
+# MEASUREMENT CONFIDENCE HELPERS
+# ==================================================
+
+
+def create_measurement_confidence(
+    value: float,
+    measurement_type: str,
+    source: str,
+    reliability: ConfidenceLevel
+) -> Confidence:
+    """
+    Helper to create confidence for a measurement.
+
+
+    Args:
+          value: The measured value
+          measurement_type: What was measured (e.g., 'violence', 'capacity')
+          source: Source of measurement
+          reliability: Assessed reliability level
+
+
+    Returns:
+          Confidence object
+    """
+
+
+    # Common limitations by measurement type
+    type_limitations = {
+          'violence': ['Casualty counts may be incomplete', 'Measurement during chaos'],
+          'capacity': ['Economic data may be outdated', 'Black market not captured'],
+          'resonance': ['Polling may have bias', 'Fear affects responses'],
+          'entropy': ['Subjective assessment', 'May miss hidden order'],
+          'resistance': ['Leadership opacity', 'Internal factions unclear']
+    }
+
+
+    # Common unknowns
+    type_unknowns = {
+          'violence': ['Hidden casualties', 'Unreported incidents'],
+          'capacity': ['Underground economy', 'External support'],
+          'resonance': ['Silent majority', 'Coerced compliance'],
+          'entropy': ['Emergent order', 'Hidden coordination'],
+          'resistance': ['Internal power struggles', 'Succession plans']
+    }
+
+
+    return Confidence(
+          level=reliability,
+          basis=f'{measurement_type}={value:.2f} from {source}',
+          limitations=type_limitations.get(measurement_type, ['Measurement uncertainty']),
+          unknowns=type_unknowns.get(measurement_type, ['Unknown factors'])
+    )
+# ==================================================
+# UNCERTAINTY AGGREGATION
+# ==================================================
+
+
+def aggregate_confidence(confidences: List[Confidence]) -> Confidence:
+    """
+    Aggregate multiple confidence levels.
+
+
+    Rule: Weakest link principle - overall confidence is lowest component.
+    """
+    levels = [c.level for c in confidences]
+
+
+    # Find weakest confidence
+    if ConfidenceLevel.SPECULATIVE in levels:
+          weakest = ConfidenceLevel.SPECULATIVE
+    elif ConfidenceLevel.LOW in levels:
+          weakest = ConfidenceLevel.LOW
+    elif ConfidenceLevel.MODERATE in levels:
+          weakest = ConfidenceLevel.MODERATE
+    else:
+          weakest = ConfidenceLevel.HIGH
+
+
+    # Aggregate limitations and unknowns
+    all_limitations = []
+    all_unknowns = []
+    for c in confidences:
+          all_limitations.extend(c.limitations)
+          all_unknowns.extend(c.unknowns)
+
+
+    return Confidence(
+          level=weakest,
+          basis=f'Aggregated from {len(confidences)} components',
+          limitations=list(set(all_limitations)),   # Deduplicate
+          unknowns=list(set(all_unknowns))
+    )
+
+
+
+# ==================================================
+# AGNOSTICISM DECLARATIONS
+# ==================================================
+
+
+AXIOM_0_AGNOSTICISM = """
+╔════════════════════════════════════════════════════════════════════╗
+║                       AXIOM 0: AGNOSTICISM                        ║
+║                       (Meta-Axiom)                                ║
+╚════════════════════════════════════════════════════════════════════╝
+
+
+We remain fundamentally uncertain about:
+
+
+1. ONTOLOGICAL UNCERTAINTY
+      - Whether reality IS mathematical or just appears so
+      - Whether our formalism captures true nature of existence
+      - Whether consciousness/qualia have mathematical form
+
+
+2. EPISTEMOLOGICAL UNCERTAINTY
+      - Whether our 11 dimensions are complete
+      - Whether our formulas are correct
+      - Whether hidden variables exist
+      - Whether our measurements are accurate
+
+
+3. ETHICAL UNCERTAINTY
+      - Whether stable equilibria are morally correct
+      - Whether high E is objectively good
+      - Whether care as defined is truly ethical
+      - Whether our discoveries reflect reality or projections
+
+
+4. METHODOLOGICAL UNCERTAINTY
+      - Whether historical patterns will continue
+      - Whether our framework generalizes
+      - Whether we've identified all failure modes
+      - Whether our predictions are reliable
+
+
+We commit to:
+
+
+1. Treating ALL formulas as testable HYPOTHESES
+2. Reporting uncertainty EXPLICITLY at all levels
+3. Updating beliefs based on EVIDENCE
+4. Remaining open to being WRONG
+5. Never claiming ABSOLUTE TRUTH
+
+
+This axiom itself is a CHOICE, not a proven fact.
+It reflects epistemic humility, not discovered truth.
+
+
+╔════════════════════════════════════════════════════════════════════╗
+║     "We don't know what we don't know"                            ║
+╚════════════════════════════════════════════════════════════════════╝
+"""
+
+
+
+AGNOSTICISM_REMINDER = """
+       AGNOSTICISM REMINDER
+This analysis is based on a framework that may be incomplete or incorrect.
+
+
+- Formulas are HYPOTHESES, not proven truths
+- Measurements have UNCERTAINTY
+- Predictions are PROBABILISTIC, not certain
+- Reality may not follow our models
+
+
+Use this as ONE input to decision-making, not absolute truth.
+Remain skeptical, including of this framework itself.
+"""
+
+
+
+def print_agnosticism_axiom():
+      """Print the agnosticism axiom."""
+      print(AXIOM_0_AGNOSTICISM)
+
+
+
+def print_agnosticism_reminder():
+      """Print brief reminder."""
+      print(AGNOSTICISM_REMINDER)
+

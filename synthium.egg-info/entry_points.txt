@@ -1,0 +1,2 @@
+[console_scripts]
+synthium = synthium.cli:main

@@ -1,0 +1,76 @@
+"""
+SYNTHIUM OMEGA v2.2 - Recorder
+=============================
+"""
+
+
+import json
+import os
+from datetime import datetime
+from typing import List
+from .vectors_v2 import RealityVector
+
+
+
+FIELD_DATA_PATH = os.path.join("data", "reality_fields")
+
+
+
+class Recorder:
+      """Manages persistence of reality field data."""
+
+
+      def __init__(self):
+          os.makedirs(FIELD_DATA_PATH, exist_ok=True)
+
+
+      def save_reality_field(self, field_name: str, vectors: List[RealityVector]) -> bool:
+          """Save a reality field to disk."""
+          field_data = {
+              "name": field_name,
+              "metadata": {
+                   "created": datetime.now().isoformat(),
+                   "vector_count": len(vectors),
+                   "framework_version": "2.2"
+              },
+              "vectors": [vec.to_dict() for vec in vectors]
+          }
+
+
+          filename = f"{field_name.replace(' ', '_')}.json"
+          filepath = os.path.join(FIELD_DATA_PATH, filename)
+
+
+          with open(filepath, 'w') as f:
+              json.dump(field_data, f, indent=2)
+
+
+          return True
+
+
+      def load_reality_field(self, field_name: str) -> List[RealityVector]:
+          """Load a reality field from disk."""
+          filename = f"{field_name.replace(' ', '_')}.json"
+    filepath = os.path.join(FIELD_DATA_PATH, filename)
+
+
+    if not os.path.exists(filepath):
+        raise FileNotFoundError(f"Reality field '{field_name}' not found")
+
+
+    with open(filepath, 'r') as f:
+        field_data = json.load(f)
+
+
+    return [RealityVector.from_dict(vec) for vec in field_data['vectors']]
+
+
+def list_fields(self) -> List[str]:
+    """List all saved reality fields."""
+    if not os.path.exists(FIELD_DATA_PATH):
+        return []
+
+
+    files = os.listdir(FIELD_DATA_PATH)
+    return [f.replace('.json', '').replace('_', ' ') for f in files if f.endswith('.json'
+

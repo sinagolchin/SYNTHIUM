@@ -1,0 +1,253 @@
+"""
+SYNTHIUM OMEGA v3.0 - Perception Functions
+==========================================
+
+
+Perception IS a mathematical function.
+All beings perceive through lossy measurement.
+"""
+
+
+import numpy as np
+from dataclasses import dataclass, field
+from typing import Dict, Optional
+from .vectors_v3 import RealityVector
+
+
+
+@dataclass
+class PerceptionFunction:
+      """
+      Models how a being perceives reality through lossy measurement.
+
+
+      Perception is NOT separate from math—it IS a specific mathematical
+      transformation of the reality state.
+      """
+      sensor_noise: float = 0.1             # Measurement noise (0 = perfect, 1 = random)
+      dimensions_visible: int = 5           # How many dimensions can be tracked
+      update_latency: float = 0.1           # Seconds between perception updates
+      prior_bias: Optional[Dict[str, float]] = None       # Bayesian priors
+
+
+      def __post_init__(self):
+            """Initialize bias dict if None."""
+            if self.prior_bias is None:
+                  self.prior_bias = {}
+
+
+      def perceive(self, true_state: RealityVector) -> RealityVector:
+            """
+            Apply perception function to true reality state.
+            Returns lossy, noisy, low-dimensional approximation.
+            """
+            perceived = true_state.copy()
+
+
+            # 1. Add sensor noise
+            for dim in ['v', 'R', 'r', 'C', 'S']:
+                  noise = np.random.normal(0, self.sensor_noise)
+                  new_val = getattr(perceived, dim) + noise
+                  setattr(perceived, dim, np.clip(new_val, 0, 1))
+        # 2. Apply prior biases (Bayesian distortion)
+        for dim, bias in self.prior_bias.items():
+              if hasattr(perceived, dim):
+                  current = getattr(perceived, dim)
+                  # Perception pulled toward prior belief
+                  biased = 0.7 * current + 0.3 * bias
+                  setattr(perceived, dim, np.clip(biased, 0, 1))
+
+
+        # 3. Dimensionality reduction (can't track all dimensions)
+        all_dims = ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']
+        if len(all_dims) > self.dimensions_visible:
+              # Keep only most salient dimensions (furthest from neutral 0.5)
+              salience = {dim: abs(getattr(perceived, dim) - 0.5) for dim in all_dims}
+              visible = sorted(salience, key=salience.get, reverse=True)[:self.dimensions_visib
+
+
+              # Set invisible dimensions to 0.5 (neutral/unknown)
+              for dim in all_dims:
+                  if dim not in visible and hasattr(perceived, dim):
+                      setattr(perceived, dim, 0.5)
+
+
+        # Recompute derived dimensions
+        perceived.E = perceived.compute_enjoyment()
+        perceived.M = perceived.compute_meaning()
+        perceived.P = perceived.compute_perception_accuracy()
+
+
+        return perceived
+
+
+    def perception_error(self, true_state: RealityVector) -> float:
+        """
+        Quantify how much perception deviates from reality.
+        Returns RMS error in 8D qualitative space.
+        """
+        perceived = self.perceive(true_state)
+
+
+        error = 0.0
+        for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+              true_val = getattr(true_state, dim)
+              perceived_val = getattr(perceived, dim)
+              error += (perceived_val - true_val) ** 2
+
+
+        return np.sqrt(error / 8.0)    # RMS
+
+
+
+# Predefined perception functions for different entity types
+
+
+HUMAN_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.2,                # Moderate noise
+    dimensions_visible=3,            # Can consciously track ~3 things
+    update_latency=0.3,              # ~300ms perception delay
+    prior_bias={                     # Cognitive biases
+          'E': 0.6,                  # Optimism bias (overestimate enjoyment)
+          'P': 0.7,                  # Dunning-Kruger (overestimate accuracy)
+          'v': 0.5                   # Neutral velocity perception
+    }
+)
+
+
+ORGANIZATION_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.4,                # High noise (many inconsistent sensors)
+    dimensions_visible=2,            # Track only key metrics
+    update_latency=30.0,             # 30 days (monthly reports)
+    prior_bias={
+          'r': 0.7,                  # Believe we're aligned (corporate delusion)
+          'S': 0.3,                  # Underestimate entropy
+          'E': 0.6                   # Overestimate employee satisfaction
+    }
+)
+
+
+SYNTHIUM_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.02,               # Very low noise (precise instruments)
+    dimensions_visible=8,            # See all dimensions
+    update_latency=0.001,            # Near real-time (1ms)
+    prior_bias={}                    # No biases (objective measurement)
+)
+
+
+ANIMAL_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.15,               # Lower noise than humans (sharper senses)
+    dimensions_visible=2,            # Limited abstraction
+    update_latency=0.1,              # Fast reflexes (100ms)
+    prior_bias={
+          'v': 0.6,                  # Bias toward detecting movement
+          'R': 0.4                   # Underestimate resistance (bold)
+    }
+)
+
+
+
+class Being:
+    """
+    An entity that perceives and models itself.
+    Better self-models = better decisions = competitive advantage.
+    """
+
+
+    def __init__(self,
+                      true_state: RealityVector,
+                  perception: PerceptionFunction,
+                  model_precision: float = 0.5):
+    """
+    Args:
+          true_state: Actual reality state
+          perception: How it perceives
+          model_precision: How accurate its internal model is (0-1)
+    """
+    self.true_state = true_state
+    self.perception = perception
+    self.model_precision = model_precision
+    self.self_model = None       # Its belief about its state
+
+
+def update_self_model(self) -> RealityVector:
+    """
+    Being measures itself and updates internal model.
+    Model accuracy depends on perception + model precision.
+    """
+    # Perceive current state (lossy)
+    perceived = self.perception.perceive(self.true_state)
+
+
+    # Update model (Bayesian update with model precision)
+    if self.self_model is None:
+          self.self_model = perceived
+    else:
+          # Combine prior model with new measurement
+          for dim in ['v', 'R', 'r', 'C', 'S']:
+              prior = getattr(self.self_model, dim)
+              measurement = getattr(perceived, dim)
+              updated = (
+                     self.model_precision * measurement +
+                     (1 - self.model_precision) * prior
+              )
+              setattr(self.self_model, dim, np.clip(updated, 0, 1))
+
+
+          # Recompute derived
+          self.self_model.E = self.self_model.compute_enjoyment()
+          self.self_model.M = self.self_model.compute_meaning()
+          self.self_model.P = self.self_model.compute_perception_accuracy()
+
+
+    return self.self_model
+
+
+def model_error(self) -> float:
+    """How wrong is the being's self-model?"""
+    if self.self_model is None:
+          return 1.0     # Maximally wrong (no model)
+    return self.true_state.distance_to(self.self_model) / np.sqrt(8)
+
+
+def competitive_fitness(self) -> float:
+    """
+    Beings with lower model error have higher fitness.
+    AXIOM 1: Precision confers survival advantage.
+    """
+    error = self.model_error()
+    perception_accuracy = self.true_state.P
+
+
+    # Fitness = 1 / (error + low_perception + epsilon)
+    fitness = 1.0 / (error + (1.0 - perception_accuracy) + 0.01)
+
+
+    return fitness
+
+
+def decide_action(self, goal_state: RealityVector) -> Dict[str, float]:
+    """
+    Decide action based on self-model.
+    Beings with accurate models make better decisions.
+    """
+    if self.self_model is None:
+          # No model = random action
+          return {dim: np.random.uniform(-0.1, 0.1)
+                  for dim in ['v', 'R', 'r', 'C', 'S']}
+
+
+    # Compute gradient toward goal (in perceived space)
+    action = {}
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          goal_val = getattr(goal_state, dim)
+          current_val = getattr(self.self_model, dim)
+
+
+          # Move toward goal
+          delta = goal_val - current_val
+          action[dim] = np.clip(delta * 0.1, -0.1, 0.1)
+
+
+    return action
+

@@ -1,0 +1,388 @@
+#!/usr/bin/env python3
+"""
+SYNTHIUM OMEGA v3.0 - Main Application
+=====================================
+
+
+Demonstrates all capabilities of the Mathematical Reality Engine.
+"""
+
+
+import sys
+import time
+import numpy as np
+from synthium import *
+
+
+
+def print_header():
+      print("\n" + "═" * 70)
+      print("     SYNTHIUM OMEGA v3.0 - The Mathematical Reality Engine")
+      print("═" * 70)
+      print("\n     Reality IS mathematics.")
+      print("     Perception IS a mathematical function.")
+      print("     All qualities reduce to quantities.")
+      print("\n" + "═" * 70 + "\n")
+
+
+
+def demo_1_basic_analysis():
+      """Demo 1: Basic stability analysis with trajectory prediction."""
+      print("\n" + "═" * 70)
+      print("DEMO 1: Burnout Detection & Trajectory Prediction")
+      print("═" * 70 + "\n")
+
+
+      # Create burnout state
+      burnout = RealityVector(0, 0, 0, v=0.9, R=0.8, r=0.3, C=0.2, S=0.7)
+
+
+      print("Initial State:")
+      print(f"    v={burnout.v:.2f} (high velocity)")
+      print(f"    R={burnout.R:.2f} (high resistance)")
+      print(f"    C={burnout.C:.2f} (low capacity)")
+      print(f"    S={burnout.S:.2f} (high entropy)")
+      print(f"    E={burnout.E:.2f} (enjoyment)")
+
+
+      # Analyze
+      science = HolisticScience()
+      analysis = science.analyze_stability(burnout)
+    print(f"\nStatus: {analysis['coherence_status']}")
+    print(f"Burn Rate: {analysis['burn_rate']}")
+    print(f"Predicted Lifespan: {analysis['predicted_lifespan']}")
+
+
+    if analysis['risk_factors']:
+        print("\n         Risk Factors:")
+        for risk in analysis['risk_factors']:
+               print(f"   • {risk}")
+
+
+    # Predict trajectory
+    print("\nPredicting trajectory over 100 timesteps...")
+    trajectory_analysis = science.predict_trajectory(burnout, time_horizon=100)
+
+
+    final = RealityVector.from_dict(trajectory_analysis['trajectory']['final_state'])
+
+
+    print(f"\nFinal State (after natural evolution):")
+    print(f"     v={final.v:.2f} (velocity)")
+    print(f"     S={final.S:.2f} (entropy)")
+    print(f"     E={final.E:.2f} (enjoyment)")
+
+
+    print(f"\n✓ System automatically recovers: E {burnout.E:.2f} → {final.E:.2f}")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_2_perception_accuracy():
+    """Demo 2: Compare human vs Synthium perception accuracy."""
+    print("\n" + "═" * 70)
+    print("DEMO 2: Perception as Mathematical Function")
+    print("═" * 70 + "\n")
+
+
+    # True reality state
+    true_state = RealityVector(0, 0, 0, v=0.7, R=0.5, r=0.6, C=0.4, S=0.3)
+
+
+    print("True Reality State:")
+    print(f"     v={true_state.v:.2f}, R={true_state.R:.2f}, r={true_state.r:.2f}")
+    print(f"     C={true_state.C:.2f}, S={true_state.S:.2f}")
+
+
+    # Human perception
+    human_error = HUMAN_PERCEPTION.perception_error(true_state)
+    human_view = HUMAN_PERCEPTION.perceive(true_state)
+
+
+    # Synthium perception
+    synthium_error = SYNTHIUM_PERCEPTION.perception_error(true_state)
+    synthium_view = SYNTHIUM_PERCEPTION.perceive(true_state)
+
+
+    print(f"\nHuman Perception:")
+    print(f"    Error: {human_error:.3f} (RMS)")
+    print(f"    Visible dimensions: {HUMAN_PERCEPTION.dimensions_visible}")
+    print(f"    Sensor noise: {HUMAN_PERCEPTION.sensor_noise}")
+    print(f"    Perceived v={human_view.v:.2f} (true: {true_state.v:.2f})")
+
+
+    print(f"\nSynthium Perception:")
+    print(f"    Error: {synthium_error:.3f} (RMS)")
+    print(f"    Visible dimensions: {SYNTHIUM_PERCEPTION.dimensions_visible}")
+    print(f"    Sensor noise: {SYNTHIUM_PERCEPTION.sensor_noise}")
+    print(f"    Perceived v={synthium_view.v:.2f} (true: {true_state.v:.2f})")
+
+
+    print(f"\n✓ Synthium is {human_error / synthium_error:.1f}x more accurate")
+    print("    (Better math = better perception)")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_3_multi_agent_emergence():
+    """Demo 3: Multi-agent interaction showing emergent behavior."""
+    print("\n" + "═" * 70)
+    print("DEMO 3: Multi-Agent Emergent Behavior")
+    print("═" * 70 + "\n")
+
+
+    # Create simulation
+    sim = MultiAgentSimulation(dt=0.01)
+
+
+    # Add chaotic person
+    chaotic = RealityVector(0, 0, 0, v=0.9, R=0.5, r=0.2, C=0.3, S=0.8)
+    sim.add_entity(chaotic, "Chaotic Person")
+
+
+    # Add ordered person
+    ordered = RealityVector(0, 0, 0, v=0.2, R=0.2, r=0.9, C=0.7, S=0.2)
+    sim.add_entity(ordered, "Ordered Person")
+
+
+    print("Initial States:")
+    print(f"    Chaotic: S={chaotic.S:.2f}, E={chaotic.E:.2f}")
+    print(f"    Ordered: S={ordered.S:.2f}, E={ordered.E:.2f}")
+
+
+    print("\nRunning simulation (1000 timesteps)...")
+    history = sim.simulate(num_steps=1000)
+
+
+    # Analyze results
+    final_chaotic = history["Chaotic Person"][-1]
+    final_ordered = history["Ordered Person"][-1]
+
+
+    print(f"\nFinal States:")
+    print(f"    Chaotic: S={final_chaotic.S:.2f}, E={final_chaotic.E:.2f}")
+    print(f"    Ordered: S={final_ordered.S:.2f}, E={final_ordered.E:.2f}")
+
+
+    print(f"\nEmergent Behavior:")
+    print(f"    • Chaotic person's entropy decreased: {chaotic.S:.2f} → {final_chaotic.S:.2f}")
+    print(f"    • Ordered person's entropy increased: {ordered.S:.2f} → {final_ordered.S:.2f}")
+    print(f"    • They influenced each other and converged")
+    print(f"\n✓ No ethics programmed—just interaction physics")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_4_si_units():
+    """Demo 4: SI unit grounding with physiological calibration."""
+    print("\n" + "═" * 70)
+    print("DEMO 4: SI Unit Grounding & Physiological Calibration")
+    print("═" * 70 + "\n")
+
+
+    # Get anxiety biomarkers
+    anxiety_dims = PhysiologicalCalibration.anxiety_profile()
+
+
+    print("Anxiety Biomarkers:")
+    print("    Cortisol: 22 ng/mL (elevated)")
+    print("    Heart Rate: 95 BPM (elevated)")
+    print("    HRV: 25 ms (low, high chaos)")
+
+
+    # Create vector
+    anxiety_vector = RealityVector(0, 0, 0, **anxiety_dims, r=0.3, C=0.3)
+
+
+    print(f"\nMapped to Synthium Dimensions:")
+    print(f"    v={anxiety_vector.v:.2f}")
+    print(f"    R={anxiety_vector.R:.2f}")
+    print(f"    S={anxiety_vector.S:.2f}")
+    print(f"    E={anxiety_vector.E:.2f} (low enjoyment)")
+
+
+    # Display SI units
+    print(f"\n{SynthiumUnits.display_si(anxiety_vector)}")
+
+
+    print("\n✓ Quality ('anxious') reduces to measurable quantities")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_5_competitive_fitness():
+    """Demo 5: Show that precise self-models confer survival advantage."""
+    print("\n" + "═" * 70)
+    print("DEMO 5: Precision → Survival Advantage")
+    print("═" * 70 + "\n")
+    # Same true state
+    true_state = RealityVector(0, 0, 0, v=0.7, R=0.5, r=0.6, C=0.4, S=0.3)
+
+
+    # Precise being
+    precise = Being(true_state, SYNTHIUM_PERCEPTION, model_precision=0.95)
+    precise.update_self_model()
+
+
+    # Vague being
+    vague = Being(true_state, HUMAN_PERCEPTION, model_precision=0.3)
+    vague.update_self_model()
+
+
+    print("Two beings in identical state:")
+    print(f"    True state: v={true_state.v:.2f}, S={true_state.S:.2f}")
+
+
+    print(f"\nPrecise Being:")
+    print(f"    Model error: {precise.model_error():.3f}")
+    print(f"    Fitness: {precise.competitive_fitness():.2f}")
+
+
+    print(f"\nVague Being:")
+    print(f"    Model error: {vague.model_error():.3f}")
+    print(f"    Fitness: {vague.competitive_fitness():.2f}")
+
+
+    fitness_ratio = precise.competitive_fitness() / vague.competitive_fitness()
+
+
+    print(f"\n✓ Precise being has {fitness_ratio:.1f}x survival advantage")
+    print("    (AXIOM 1: Mathematical precision → competitive advantage)")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_6_awakening_state():
+    """Demo 6: Sakshatkara as stable fixed point (not transcendent)."""
+    print("\n" + "═" * 70)
+    print("DEMO 6: Awakening as Mathematical Fixed Point")
+    print("═" * 70 + "\n")
+
+
+    # Create awakening state
+    awakening = RealityVector(0, 0, 0, v=0.0, R=0.0, r=1.0, C=1.0, S=0.0)
+
+
+    print("Sakshatkara State:")
+    print(f"    v={awakening.v:.2f} (no movement)")
+    print(f"    R={awakening.R:.2f} (no resistance)")
+    print(f"    r={awakening.r:.2f} (perfect resonance)")
+    print(f"    S={awakening.S:.2f} (zero entropy)")
+    print(f"    E={awakening.E:.2f} (maximum enjoyment)")
+    # Check stability
+    field = RealityField()
+    potential = field.compute_potential(awakening)
+    gradient = field.compute_gradient(awakening)
+    grad_magnitude = np.sqrt(sum(g**2 for g in gradient.values()))
+
+
+    print(f"\nPhysics Analysis:")
+    print(f"     Potential energy: {potential:.3f}")
+    print(f"     Gradient magnitude: {grad_magnitude:.6f}")
+
+
+    # Evolve and show it stays put
+    trajectory = field.evolve(awakening, num_steps=100)
+    final = trajectory[-1]
+
+
+    print(f"\nAfter 100 timesteps:")
+    print(f"     v={final.v:.3f}, r={final.r:.3f}, S={final.S:.3f}")
+    print(f"     (Stayed at fixed point within numerical precision)")
+
+
+    print("\n✓ Awakening is v=0, r=1.0, S=0—a stable equilibrium")
+    print("     Not 'transcendent'—just a special mathematical point")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def main():
+    """Main application menu."""
+    print_header()
+
+
+    demos = [
+        ("Burnout Detection & Trajectory", demo_1_basic_analysis),
+        ("Perception as Math Function", demo_2_perception_accuracy),
+        ("Multi-Agent Emergence", demo_3_multi_agent_emergence),
+        ("SI Unit Grounding", demo_4_si_units),
+        ("Precision → Survival", demo_5_competitive_fitness),
+        ("Awakening = Fixed Point", demo_6_awakening_state)
+    ]
+
+
+    while True:
+        print("═" * 70)
+        print("DEMONSTRATIONS")
+        print("═" * 70)
+
+
+        for i, (name, _) in enumerate(demos, 1):
+               print(f"   {i}. {name}")
+        print(f"     {len(demos) + 1}. Run All Demos")
+        print(f"     {len(demos) + 2}. Exit")
+        print("═" * 70)
+           choice = input("\nSelect demo: ").strip()
+
+
+           try:
+                  choice_num = int(choice)
+
+
+                  if 1 <= choice_num <= len(demos):
+                      demos[choice_num - 1][1]()
+
+
+                  elif choice_num == len(demos) + 1:
+                      for name, demo_func in demos:
+                          demo_func()
+
+
+                      print("\n" + "═" * 70)
+                      print("All demonstrations complete.")
+                      print("═" * 70)
+                      input("\nPress Enter to return to menu...")
+
+
+                  elif choice_num == len(demos) + 2:
+                      print("\n" + "═" * 70)
+                      print("Synthium v3.0: Mathematical Reality Engine")
+                      print("\nRemember:")
+                      print("   • Reality IS mathematics")
+                      print("   • Perception IS a mathematical function")
+                      print("   • Better math = better perception")
+                      print("   • Precision confers survival advantage")
+                      print("═" * 70 + "\n")
+                      sys.exit(0)
+
+
+                  else:
+                      print("Invalid selection.")
+
+
+           except (ValueError, IndexError):
+                  print("Invalid input.")
+
+
+
+if __name__ == "__main__":
+    try:
+           main()
+    except KeyboardInterrupt:
+           print("\n\nInterrupted.")
+           print("Reality is mathematics. The equations remain true.")
+           sys.exit(0)
+

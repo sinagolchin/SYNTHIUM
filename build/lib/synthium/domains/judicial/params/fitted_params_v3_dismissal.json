@@ -1,0 +1,8 @@
+{
+"apex_dismissal_gatekeeping": 0.0,
+"apex_dismissal_merits": 1.0,
+"n_gatekeeping": 14,
+"n_merits": 5,
+"note": "Apex dismissal splits into gatekeeping (original-action writs, standing, finality; near-0 movement) vs merits (appeal from a lower dismissal the court took up; near-1 movement). Fit on pooled attempts 18/21/22.",
+"retrieved_at": {"user_local": "2026-11-12T23:30:23.098-05:00", "user_timezone": "America/New_York", "utc": "2026-11-13T04:30:23.098Z"}
+}

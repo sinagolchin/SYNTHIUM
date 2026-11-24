@@ -1,5 +1,40 @@
 # Changelog
 
+## 2026-11-24: every earlier version brought back, nothing retired
+
+Sina's call: "Don't retire things because we did something wrong ... collectively all the
+things that we have done needs to be always under consideration." Every part that 9.0.0
+had set aside is back as live, importable code, and every formula, unit, axiom and tool is
+listed in one place with its status: under consideration. Results stay UNTESTED.
+
+- `docs/UNDER_CONSIDERATION.md`: the one index. 102 entries from V1 (Dec 2025) to now, each
+  with its version, what it claimed, why it was set aside at the time, any earlier test
+  result, and where it lives now. Generated from `synthium/phenomena/catalogue.py`; a test
+  keeps them in step.
+- `synthium/legacy/`: V1/Omega 1.5, V2, V3.4 (the combined script), V4, V4.3.1 (spec,
+  rubric, dataset, governance, the 2,045-line monolith and the trained neural encoder
+  weights), V5 honesty, V6 predictive and CourtListener labeler, V6.1 (the 12-unit
+  formula), V8's atlas loader and July blind protocol, and SynthiumBot. Original code; the
+  only changes are imports and data paths so they work inside one package, each marked
+  `RESTORED 2026-11-24`. SynthiumBot's settings file held a live Telegram token, so it was
+  left out and `config.py` reads `TELEGRAM_TOKEN` from the environment (a reconstruction).
+- `synthium/phenomena/`: the phenomenon framework. Each old phenomenon (14 V2 profiles plus
+  the V1 and V2 lexicon entries) sits on its own five dimensions and every old formula runs
+  on it. On real case scores it asks: is a quality a base dimension or made from others; if
+  made, by sum, product, weakest part, strongest part or strict priority; and does any mix
+  of qualities stay balanced (Sina's building, axiom G9). `python -m synthium.phenomena
+  CASES.csv --out DIR`.
+- `archive/v2_2_to_v3_4_pdf/` and `_text/`: the original V2.2 to V3.4 PDFs and their text.
+  `archive/originals_docs/`: the V4.3.1, V6, V6.1, V7 and V8 docs that 9.0.0 had dropped,
+  unchanged (including `RETIRED.md` itself, as a record).
+- `tests/test_legacy.py`, `tests/test_phenomena.py`, `tests/test_legacy_v8_blindprotocol.py`.
+- New extras: `legacy`, `legacy-neural`, `legacy-bot`.
+- The lineage table and "Set aside in 9.0.0, and why" below now say restored and under
+  consideration instead of retired.
+- Not copied: the SRIA RT files (judged "not Synthium" in 9.0.0; they look like Maysam's
+  work). They stay on Drive.
+- No change to the ruler, the ledgers, or any existing result.
+
 ## 2026-11-24: geometry and calculus brought back (`synthium/geometry/`)
 
 Sina's call: the V4 maths (manifold geometry, tensor calculus, dimensional discovery)
@@ -50,12 +85,12 @@ predictions and probabilities before and after the clean-up.
 
 | Version | Date | What it was | Fate |
 |---|---|---|---|
-| V2 / "Omega" | Dec 2025 | keyword quantifier: counted words into five dimensions, printed "formulas" | retired (V6.1) |
-| V2.2 to V3.4 | Jan to Mar 2026 | PDF-only "discovery" corpus (field, units, vectors, ethics/empirical discovery); V3.4 also an 1,800-line combined script | retired (V6.1) |
-| V4 | Apr 2026 | package: confidence, manifold geometry, tensor calculus, dimensional discovery, reality state | retired (V6.1) |
-| SynthiumBot | Apr 2026 | Telegram bot wrapping the V4 "Omega" engine | retired with V4 |
-| V4.3 / v4.3.1 | May 2026 | adds judicial spec, rubric, dataset, PyTorch encoder, governance; 2,045-line monolith | retired (V6.1) |
-| V5 | May 2026 | "honesty" single file: refused unlicensed arithmetic (froze the project) | idea kept, code retired |
+| V2 / "Omega" | Dec 2025 | keyword quantifier: counted words into five dimensions, printed "formulas" | set aside in V6.1; restored 2026-11-24 (`synthium/legacy/omega_v1_5`, `legacy/v2`), under consideration |
+| V2.2 to V3.4 | Jan to Mar 2026 | PDF-only "discovery" corpus (field, units, vectors, ethics/empirical discovery); V3.4 also an 1,800-line combined script | set aside in V6.1; restored 2026-11-24 (`legacy/v3_4`, PDFs in `archive/v2_2_to_v3_4_pdf/`), under consideration |
+| V4 | Apr 2026 | package: confidence, manifold geometry, tensor calculus, dimensional discovery, reality state | set aside in V6.1; restored 2026-11-24 (`legacy/v4`, extended in `synthium/geometry/`), under consideration |
+| SynthiumBot | Apr 2026 | Telegram bot wrapping the V4 "Omega" engine | set aside with V4; restored 2026-11-24 (`legacy/synthiumbot`, token left out), under consideration |
+| V4.3 / v4.3.1 | May 2026 | adds judicial spec, rubric, dataset, PyTorch encoder, governance; 2,045-line monolith | set aside in V6.1; restored 2026-11-24 (`legacy/v4_3_1`, with weights), under consideration |
+| V5 | May 2026 | "honesty" single file: refused unlicensed arithmetic (froze the project) | idea kept; code restored 2026-11-24 (`legacy/v5`), under consideration |
 | V6 | Jun 24 2026 | predictive harness: propose then validate, plus the CourtListener labeler | became `core/` and `data/` |
 | V6.1 | Jun 25 2026 | first clean package: core, data, cli, 12-unit judicial formula | core kept; 12 units removed in V7 |
 | V7 | Jun 29 2026 | 12 units removed; generic axiom tests; citation space | kept |
@@ -107,25 +142,30 @@ predictions and probabilities before and after the clean-up.
   section of `CROSS_BORDER.md`, the July classifier (both comma forms are now accepted), and
   the sealed CN excerpt in `data/blind_log_2026-07/` (its hash will not match the July log).
 
-### Dropped, and why
+### Set aside in 9.0.0, and why
+
+Everything in this list was restored on 2026-11-24 as live code in `synthium/legacy/`
+(see the top entry) and is under consideration. The reasons below are why each part was set
+aside at the time; they are kept as the record, not as a final verdict.
+
 
 - Omega keyword quantifier, V3.x PDF corpus, V4 geometry/tensor/dimensional-discovery
-  modules, the v4.3.1 monolith, governance engine, V5/V6 single files: retired in V6.1
+  modules, the v4.3.1 monolith, governance engine, V5/V6 single files: set aside in V6.1
   because they presented unvalidated numbers and pseudo-physics as measurement.
 - Neural encoder and its trained weights (V4.3): its headline accuracy was a leakage
   artifact and it only imitated rubric labels. The project decided it could return only
   as an optional extra once a court-derived dataset exists. The empty `neural` and
   `discovery` extras in V8's pyproject were removed because no code used them.
-- SynthiumBot: a chat front end for the retired V4 engine.
+- SynthiumBot: a chat front end for the V4 engine, set aside with it.
 - 12-unit judicial formula and spec (V6.1): removed in V7; the units were never validated
   and made axiom tests circular.
 - `synthium/data/atlas.py` and the 44-case suppression atlas CSV, `courtlistener_cases_v0.csv`:
   V8 kept them only as "legacy reference data"; nothing used them, and the atlas is coded
-  in the retired 12 units.
+  in the 12 units removed in V7.
 - July blind protocol's commit/reveal log code: superseded by the November protocol.
 - `setup.py`, `requirements.txt`, `CONTENTS.md`, the V8 README: replaced by `pyproject.toml`
   and this folder's README.
-- Retired-era docs (`AXIOMS.md`, `CODING_RUBRIC_v1.md`, `EMPIRICAL_STATUS.md`,
+- Docs of the set-aside era (`AXIOMS.md`, `CODING_RUBRIC_v1.md`, `EMPIRICAL_STATUS.md`,
   `RETIRED.md`, `UNITS_REMOVED.md`, old changelogs, `PROJECT_INSTRUCTIONS.md`): the reasons
   that mattered are summarized above.
 - Not Synthium: the SRIA RT files, the SRIA V3 paper, the SCK adaptive-CUSUM paper and three
