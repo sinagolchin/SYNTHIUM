@@ -162,3 +162,33 @@ def case_points(cases: Sequence[StagedCase], stage: str, keys: Sequence[str],
     return CaseScores([c.case_id for c in cases], list(keys), values,
                       [[None] * len(keys) for _ in rows], np.arange(len(cases)),
                       [None] * len(cases), domain)
+
+
+def median_of(copies: Sequence[StagedCase]) -> StagedCase:
+    """One case scored by several scorers, combined cell by cell: the median of the numbers,
+    the most common value for anything else. Used for the calibration case so that no single
+    scorer's reading of it stands in for the rest."""
+    from collections import Counter
+
+    def combine(values):
+        nums = [val(v) for v in values if val(v) is not None]
+        if nums and all(isinstance(v, (int, float, dict, type(None))) and not isinstance(v, bool)
+                        for v in values):
+            return {"v": float(np.median(nums)), "tag": "MEDIAN", "why": f"median of {len(nums)} scorers"}
+        plain = [json.dumps(v, sort_keys=True) for v in values if v is not None]
+        return json.loads(Counter(plain).most_common(1)[0][0]) if plain else None
+
+    stages: Dict[str, dict] = {}
+    for st in STAGES:
+        objs = [c.stages.get(st) for c in copies if c.stages.get(st)]
+        if not objs:
+            continue
+        out: dict = {}
+        for k in {k for o in objs for k in o if k != "Q"}:
+            out[k] = combine([o.get(k) for o in objs])
+        qkeys = {k for o in objs for k in (o.get("Q") or {})}
+        out["Q"] = {k: combine([(o.get("Q") or {}).get(k) for o in objs]) for k in qkeys}
+        stages[st] = out
+    first = copies[0]
+    return StagedCase(first.case_id, first.case_type, "median-of-" + str(len(copies)), stages,
+                      sorted({m for c in copies for m in c.missing}), "", {})

@@ -24,7 +24,8 @@ from ..phenomena.catalogue import RECORDS
 from .analyses import compare_with_first_reading, quality_motion, run_checks, scorer_agreement
 from .formulas import STAND_INS, all_for_stage
 from .geometry_on_stages import run_geometry, run_quality_geometry
-from .stages import STAGES, load_staged
+from .motion import motion
+from .stages import median_of, STAGES, load_staged
 
 # Why a record gets no check here (records that a check uses are filled in from the checks).
 NOT_CHECKED = {
@@ -124,6 +125,10 @@ def run(stages_dir: str, cases_csv: str, out_dir: str, seed: int = 0) -> dict:
     os.makedirs(out_dir, exist_ok=True)
     cases = load_staged(stages_dir)
     calib = load_staged(os.path.join(stages_dir, "calibration"))
+    # The calibration case enters the main run once, as the median of every scorer's copy,
+    # unless a main file for it already exists.
+    if calib and calib[0].case_id not in {c.case_id for c in cases}:
+        cases.append(median_of(calib))
     order = _reading_order(cases_csv)
     first = _first_values(cases_csv)
 
@@ -138,6 +143,7 @@ def run(stages_dir: str, cases_csv: str, out_dir: str, seed: int = 0) -> dict:
         "checks": checks,
         "records": record_status(checks),
         "quality_motion": quality_motion(cases),
+        "motion": motion(cases),
         "scorer_agreement": scorer_agreement(calib, cases) if calib else {"tested": False},
         "first_vs_stage": compare_with_first_reading(cases, first),
         "geometry": run_geometry(cases, seed=seed),
@@ -274,6 +280,43 @@ def report(res: dict) -> str:
     for k, v in qm[:25]:
         a(f"| {k} | {v['cases_with_2plus_stages']} | {_f(v['share_that_moved'])} | {_f(v['mean_range'])} | " +
           ", ".join(_f(v["mean_by_stage"].get(st)) for st in STAGES) + " |")
+
+    mo = res["motion"]
+    a("\n## 3b. Position, rate and acceleration (Sina: speed and acceleration are different but related)\n")
+    a("Position = a quality's score at a stage. Rate = its change from one stage to the next "
+      "(per stage step, not per day). Acceleration = the change in that rate over the next step. "
+      f"{mo['n_rate_tests']} rate tests and {mo['n_acceleration_tests']} acceleration tests were run, so q "
+      "(the expected share of chance finds among those kept) matters more than p. UNTESTED and NOT BLIND.\n")
+    a("Rates that repeat across cases (q < 0.10):\n")
+    a("| quality | step | cases | up | down | flat | mean rate | p | q |")
+    a("|---|---|---|---|---|---|---|---|---|")
+    keep = [t for t in mo["rate_tests"] if t["q"] < 0.10]
+    for t in keep:
+        a(f"| {t['key']} | {t['step']} | {t['n_cases']} | {t['up']} | {t['down']} | {t['flat']} | "
+          f"{_f(t['mean_rate'])} | {_f(t['p'], 4)} | {_f(t['q'], 3)} |")
+    if not keep:
+        a("| none | | | | | | | | |")
+    a("\nAccelerations that repeat across cases (q < 0.10):\n")
+    a("| quality | steps | cases | speeding up | slowing down | mean acceleration | p | q |")
+    a("|---|---|---|---|---|---|---|---|")
+    keep = [t for t in mo["acceleration_tests"] if t["q"] < 0.10]
+    for t in keep:
+        a(f"| {t['key']} | {t['steps']} | {t['n_cases']} | {t['speeding_up']} | {t['slowing_down']} | "
+          f"{_f(t['mean_acceleration'])} | {_f(t['p'], 4)} | {_f(t['q'], 3)} |")
+    if not keep:
+        a("| none | | | | | | | |")
+    a("\nMomentum: once a quality moves, does it keep going the same way on the next step? "
+      "(compared with the same values in shuffled stage order)\n")
+    a("| quality | cases | moving pairs | keep direction | shuffled | p | q | reading |")
+    a("|---|---|---|---|---|---|---|---|")
+    mom = [(k, v["momentum"]) for k, v in mo["per_key"].items() if v["momentum"].get("tested")]
+    for k, m in sorted(mom, key=lambda kv: kv[1]["p"]):
+        a(f"| {k} | {m['n_cases']} | {m['n_moving_pairs']} | {_f(m['share_keep_direction'])} | "
+          f"{_f(m['share_keep_direction_shuffled'])} | {_f(m['p'], 3)} | {_f(m['q'], 3)} | {m['reading']} |")
+    a("\nWhat goes with standing H rising or falling over a step (position at the start of the step; "
+      "exploratory, steps of one case are not independent):\n")
+    for t in mo["force_on_H"][:10]:
+        a(f"- {t['key']}: rho {_f(t['rho'])} over {t['n_steps']} steps (naive p {_f(t['p_naive'], 4)}, q {_f(t['q_naive'], 3)})")
 
     a("\n## 4. First reading vs stage re-scoring\n")
     a("| quality | cases | rank agreement | mean gap |")

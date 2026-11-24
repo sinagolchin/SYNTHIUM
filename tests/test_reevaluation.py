@@ -86,3 +86,16 @@ def test_path_order(tmp_path):
     cases = _fixture(tmp_path)
     out = path_order_test(cases, n_perm=50)
     assert out["tested"] and out["n_cases"] == 20
+
+
+def test_motion_rate_acceleration(tmp_path):
+    from synthium.reevaluation.motion import motion, bh
+
+    cases = _fixture(tmp_path)
+    out = motion(cases, keys=["v", "H_enjoyment", "Q33_motivation_strength"], n_perm=30)
+    assert out["n_rate_tests"] > 0 and out["n_acceleration_tests"] > 0
+    for t in out["rate_tests"]:
+        assert 0 <= t["p"] <= 1 and t["q"] >= t["p"] - 1e-12
+    assert "momentum" in out["per_key"]["v"]
+    q = bh([0.01, 0.04, 0.5])
+    assert q[0] <= q[1] <= q[2] and abs(q[2] - 0.5) < 1e-12
