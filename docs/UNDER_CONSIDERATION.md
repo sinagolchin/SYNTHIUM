@@ -63,7 +63,7 @@ column is left blank for them.
 
 - **SRIA RT** (`sria_rt_v033` to `v040`, `SRIA CMD.txt`) and the SRIA V3 paper sit in the
   Synthium export on Drive. The 9.0.0 clean-up judged them "not Synthium" and they look like
-  Maysam's work, so they were not copied. They can be added if Sina says so.
+  Maysam's work, so they were not copied. Sina said on 24 Nov 2026 that they are not needed here.
 - **Case scores** (`CASES.csv`, Q1 to Q67) stay on Drive; the repository is public.
 - **SynthiumBot's settings file** held a live Telegram token, so it was left out; the bot
   reads `TELEGRAM_TOKEN` from the environment instead.
