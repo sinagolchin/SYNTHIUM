@@ -36,12 +36,13 @@ def render() -> str:
          "unless the earlier result column says what an earlier test found.", ""]
     for era, recs in groups.items():
         L += [f"### {era}", "",
-              "| id | version | kind | phenomenon | what it says | dimensions | what it claimed | why it was set aside | earlier result | where it lives now |",
-              "|---|---|---|---|---|---|---|---|---|---|"]
+              "| id | version | kind | phenomenon | proposed by | what it says | dimensions | what it claimed | why it was set aside | earlier result | where it lives now |",
+              "|---|---|---|---|---|---|---|---|---|---|---|"]
         for r in recs:
             src = "" if r.source == "original" else f" ({r.source})"
             L.append("| " + " | ".join([
-                f"`{r.id}`", _cell(r.version), r.kind, _cell(r.phenomenon), _cell(r.statement),
+                f"`{r.id}`", _cell(r.version), r.kind, _cell(r.phenomenon), _cell(r.proposed_by) or "-",
+                _cell(r.statement),
                 _cell(", ".join(r.dimensions)) or "-", _cell(r.claimed),
                 _cell(r.set_aside) or "-", _cell(r.earlier_verdict) or "-",
                 _where(r) + _cell(src),

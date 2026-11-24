@@ -59,10 +59,13 @@ class Record:
     earlier_verdict: str = ""
     where: str = ""
     source: str = "original"  # original | reconstruction | text only
+    proposed_by: str = ""  # who first put it forward, where a source says so
     status: str = UNDER_CONSIDERATION
     evidence: str = "UNTESTED"
     compute: Optional[Callable[[Dict[str, float]], float]] = field(default=None, compare=False)
 
+
+JAN_WHERE = "claude.ai chat 'Synthium Omega complete implementation', Jan 2 2026 (text only, not in this repo)"
 
 _OMEGA_SET_ASIDE = (
     "Set aside in V6.1 (Jun 25 2026): the five numbers came from counting keywords or "
@@ -271,6 +274,48 @@ RECORDS: List[Record] = [
     Record("V3.4-EVOLUTION", "tool", "formula testing", "V3.4 (Jan to Mar 2026)",
            "Framework evolution: test rival formulas against cases and keep the best", (),
            "Formulas should compete.", _V3_SET_ASIDE, where="synthium/legacy/v3_4/combined.py"),
+    # ------------------------------------------------------------------ Jan 2 2026 dialogue
+    # A dialectical conversation with Claude on fear, found 2026-11-24 after Sina said
+    # "I remember claude even proposed formulas". Text only: no code ever ran them.
+    Record("FEAR-LOSS", "formula", "fear of loss", "Jan 2 2026 dialogue (claude.ai chat)",
+           "Fear of Loss = Connection x Possibility x Powerlessness",
+           ("Connection", "Possibility", "Powerlessness"),
+           "Fear of this kind needs all three at once: if any one is zero the fear is zero, and it "
+           "grows when any one grows; at its peak all three are at their peak.",
+           "Never set aside and never tested; the same chat said it was not known whether "
+           "multiplication is the right operation or whether the three parts are basic.",
+           earlier_verdict="matched Sina's own case when checked (mother unwell, mother well, a stranger)",
+           where=JAN_WHERE, source="text only",
+           proposed_by="Claude, from Sina's answers (Sina: removing any one of them ends the fear)"),
+    Record("FEAR-PARTS", "formula", "connection, possibility, powerlessness", "Jan 2 2026 dialogue (claude.ai chat)",
+           "Connection = Love + Obsession + (others unknown); Possibility = uncertainty about a "
+           "happening; Powerlessness = lack of force, knowledge or power against another's; Love "
+           "may be a unit of connection; Obsession = addiction to an existence whose lack would lead to fear",
+           ("Love", "Obsession", "uncertainty", "force", "knowledge"),
+           "The parts of fear are themselves made of qualities.", "Never set aside and never tested.",
+           where=JAN_WHERE, source="text only",
+           proposed_by="Sina (the parts); Claude wrote Connection as an equation"),
+    Record("PHEN-CYCLE", "law", "every phenomenon", "Jan 2 2026 dialogue (claude.ai chat)",
+           "Phenomena are made of each other in a cycle, not a tree: Fear -> Connection -> Love -> "
+           "Connection, and Connection -> Obsession -> Fear; they may need coupled equations, "
+           "recursive definitions or stable states (eigenstates) rather than a hierarchy",
+           (), "Qualities hold each other in place; none exists alone.", "Never set aside and never tested.",
+           where=JAN_WHERE, source="text only", proposed_by="Claude, from Sina's decompositions"),
+    Record("COORD-SPACE", "law", "every phenomenon", "Jan 2 2026 dialogue (claude.ai chat)",
+           "(v, R, r, C, S) as graph paper: one shared space where each phenomenon has its own law, "
+           "as F = ma and Maxwell's equations share (x, y, z)",
+           tuple(DIMENSIONS_5D),
+           "These five dimensions are enough, and needed, to place any phenomenon.",
+           "Sina corrected it in the same chat: axioms and dimensions are starting points to be "
+           "tested, not a fixed framework; V4 later said five was too few.",
+           where=JAN_WHERE, source="text only", proposed_by="Claude, restating Sina"),
+    Record("CLEAN-ROOM", "tool", "every phenomenon", "Jan 2 2026 dialogue (claude.ai chat)",
+           "Clean-room derivation: give a fresh AI only the axioms, not the five dimensions, and see "
+           "which dimensions it derives; if they match (v, R, r, C, S) that is evidence of discovery",
+           (), "The dimensions should follow from the axioms, not from the conversation's history.",
+           "Never run. Sina said the axioms and dimensions are tools for turning qualities into "
+           "quantities through discovery and testing, not generators of structure.",
+           where=JAN_WHERE, source="text only", proposed_by="Claude"),
     # ------------------------------------------------------------------ V4 (Apr 2026)
     Record("V4-NDIM", "axiom", "every phenomenon", "V4 (Apr 2026)",
            "Reality is N-dimensional with N >> 5; discover N from data", (),
@@ -315,6 +360,14 @@ RECORDS: List[Record] = [
            "strength, remedy closeness, doctrinal closure and ambiguity.",
            "Removed in V7 (Jun 28): the units were never validated and were AI choices.",
            where="synthium/legacy/v4_3_1/domains/judicial/spec.py"),
+    Record("V4.3-RUBRIC", "formula", "suppression pressure", "V4.3.1 (May 2026)",
+           "Symbolic rubric: effective privacy = Priv (1 - 0.85 Bound)(1 - 0.45 Gate), then effective "
+           "exception, scope breach and damping combine into suppression pressure (hand-set constants)",
+           ("Priv", "Bound", "Gate", "Excp", "Rem", "Obs", "Amb"),
+           "How strongly a court should suppress evidence.",
+           "The coefficients were hand-chosen; the network trained on its labels only imitated it.",
+           earlier_verdict="rubric imitation only (May 2026)",
+           where="synthium/legacy/v4_3_1/domains/judicial/rubric.py", proposed_by="Claude (V4.3.1 sessions)"),
     Record("V4.3-GOVERNANCE", "tool", "risk and governance", "V4.3.1 (May 2026)",
            "Governance engine: risk score, mismatch, actions such as SHADOW_OBSERVE", (),
            "Anomalies can be governed by a risk score.", _V4_SET_ASIDE,
@@ -451,26 +504,94 @@ RECORDS: List[Record] = [
            (), "Systems differ in what they think a death takes away.", "",
            earlier_verdict="verified in both directions from primary sources (attempt 36)",
            where="docs/VALUE_SKELETON.md"),
+    Record("GATES-PRODUCT", "formula", "movement on appeal", "V8 (Jul 2026)",
+           "P(move) = P(error shown | A2) x P(court can see it | A0) x P(right channel | A1); "
+           "independent gates multiply, so they add in log-odds",
+           ("A0 access", "A1 channel", "A2 inertia"),
+           "The three structural axioms act as independent gates; the fitted model's three features are their shadows.",
+           "", earlier_verdict="interaction test LR = 0.04 on 151 rows (attempt 32): consistent with "
+           "independence, low power", where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude"),
+    Record("GATE-DECIBANS", "unit", "weight of evidence", "V8 (Jul 2026)",
+           "Gate sizes in decibans (n = 159): baseline -9.2 +/- 2.2; law-side +7.0 +/- 2.3; apex "
+           "+2.2 +/- 1.6; documents vs credibility +25 +/- 9 (looking back); gatekeeping -25 +/- 9",
+           ("law-side", "apex", "documents", "gatekeeping"),
+           "Attacking law instead of fact buys about +7 db; the access and channel gates are ten times "
+           "the court-level gate.", "", earlier_verdict="measured on one register; portability across "
+           "jurisdictions untested", where="docs/MATH_CANDIDATES.md"),
+    Record("R-LOGIT-V1", "formula", "movement on appeal", "V8 (Jul 2026)",
+           "logit P(move) = -0.58 + 1.57 Phi + 0.41 apex, Phi = T x L x (1 - P)", ("Phi", "apex"),
+           "The hand-built ruler, fitted.", "", earlier_verdict="in-sample, one coder, one state",
+           where="docs/MATH_CANDIDATES.md"),
+    Record("R-LOGIT-4", "formula", "movement on appeal", "V8 (Jul 10 2026)",
+           "The four-number ruler: logit P(move) = -2.37 + 1.86 lawside + 0.39 apex", ("lawside", "apex"),
+           "Layer matters more than court level (odds x6.4 vs x1.5).", "",
+           earlier_verdict="refit on 71 committed rows", where="docs/MATH_CANDIDATES.md"),
+    Record("R-LOGIT-V2", "formula", "movement on appeal", "V8 (Jul 2026)",
+           "logit P(move) = -2.17 + 2.56 lawside + 0.28 apex - 2.34 (1 - P_posture)",
+           ("lawside", "apex", "P_posture"), "Adding posture improves the fit.", "",
+           earlier_verdict="posture sign opposite to the hand-set theory", where="docs/MATH_CANDIDATES.md"),
+    Record("TWO-SKELETONS", "law", "legal systems", "V8 (Jul 2026)",
+           "Two skeletons: an epistemic one (who may revise what; A0 to A2) and a value one (what a "
+           "harm or a life is worth; where Sina's axioms live)", (),
+           "Explains why Sina's axioms showed no signal: the cases measured the other skeleton.", "",
+           earlier_verdict="led to the value-skeleton domain (attempt 33)",
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude"),
+    Record("V-THREE-OBJECTS", "law", "value of a life", "V8 (Jul 2026)",
+           "Three priced objects: D_life, D_grief, V (dependency). Lord Campbell family = D_grief + V "
+           "with D_life forbidden; survival family = D_life + V with D_grief forbidden", ("D_life", "D_grief", "V"),
+           "Systems choose which of the three a death takes away.", "",
+           earlier_verdict="checked from primary sources in both directions",
+           where="docs/VALUE_SKELETON.md; docs/PREDICTIONS_REGISTER.md"),
+    Record("U-GRIEF-DIMS", "unit", "value of a life", "V8 (Jul 2026)",
+           "Dimensional analysis: UK bereavement is currency per death (fixed, divided among claimants); "
+           "German Hinterbliebenengeld is currency per mourner; Connecticut D_life is currency per death",
+           (), "Same institution name, different units, so different objects.", "",
+           where="docs/MATH_CANDIDATES.md"),
+    Record("A1-PRIME", "axiom", "enjoyment", "V8 (Jul 2026)",
+           "A1': for an enjoyment measure H fixed in advance, dH/dt >= 0 along chosen trajectories, "
+           "statistically, absent constraint", ("H",),
+           "Sina's first axiom in a form that can fail.", "",
+           earlier_verdict="blocked: needs its own enjoyment ruler", where="docs/AXIOM_CANDIDATES.md",
+           proposed_by="Claude, repairing Sina's A1"),
+    Record("A2-EMPIRICAL", "law", "non-interference", "V8 (Jul 2026)",
+           "Damages scale with interference: the penalty a court sets grows with how much one party's "
+           "path crossed another's", ("interference",), "Sina's second axiom as something to measure.", "",
+           earlier_verdict="regression not yet run", where="docs/AXIOM_CANDIDATES.md; docs/MATH_CANDIDATES.md",
+           proposed_by="Claude, from Sina's A2"),
+    Record("A3-LEGAL", "axiom", "preservation of life", "V8 (Jul 2026)",
+           "Legal systems rank life at or near the top; the exceptions (self-defence, war, capital "
+           "punishment) map each system's real order of values", (),
+           "A testable form of Sina's third axiom.", "", earlier_verdict="proposed, testable",
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude, from Sina's A3"),
+    Record("A3-SYSTEM", "axiom", "preservation of life", "V8 (Jul 2026)",
+           "Self-maintaining systems act to preserve themselves, with the system named in advance", (),
+           "Sina's third axiom for systems, not only beings.", "", earlier_verdict="proposed",
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude, from Sina's A3"),
+    Record("AXIOM-OPT", "formula", "enjoyment, non-interference, life", "V8 (Jul 2026)",
+           "Sina's three axioms together: maximize H_i subject to interference_ij <= 0 and survival_i >= floor",
+           ("H_i", "interference_ij", "survival_i"),
+           "Objective, constraint and floor make one well-posed problem; courts price its violations.", "",
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude, from Sina's axioms"),
     Record("A0", "axiom", "appellate review", "V8 (Jul 11 2026)",
            "Epistemic access: a court may revise only what it can see as well as the court below",
            (), "Explains why documents get reversed and credibility findings do not.", "",
            earlier_verdict="documents reversed 4/4, credibility 0/13; adversarial hunt found no falsifier",
-           where="docs/AXIOM_CANDIDATES.md"),
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude"),
     Record("A1-CHANNEL", "axiom", "appellate review", "V8 (Jul 12 2026)", "Channel exclusivity", (),
-           "What A0 cannot explain.", "", where="docs/AXIOM_CANDIDATES.md"),
+           "What A0 cannot explain.", "", where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude"),
     Record("A2-INERTIA", "axiom", "appellate review", "V8 (Jul 12 2026)", "Inertia: presumption of regularity", (),
-           "Results stay unless pushed.", "", earlier_verdict="near-tautological", where="docs/AXIOM_CANDIDATES.md"),
+           "Results stay unless pushed.", "", earlier_verdict="near-tautological", where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude"),
     Record("SINA-A1", "axiom", "enjoyment", "Sina (Jul 2026)",
            "Trajectory: every being's trajectory is toward more enjoyment", (), "Sina's first axiom.", "",
-           earlier_verdict="found enacted in a Connecticut damages rule", where="docs/AXIOM_CANDIDATES.md"),
+           earlier_verdict="found enacted in a Connecticut damages rule", where="docs/AXIOM_CANDIDATES.md", proposed_by="Sina"),
     Record("SINA-A2", "axiom", "non-interference", "Sina (Jul 2026)",
            "The way to enjoyment should not interfere with others' enjoyment", (), "Sina's second axiom.", "",
-           where="docs/AXIOM_CANDIDATES.md"),
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Sina"),
     Record("SINA-A3", "axiom", "preservation of life", "Sina (Jul 2026; sacrifice defined Nov 14)",
            "Nothing is more valuable than preserving the life of the being or system; sacrifice = a "
            "life given to protect another life from a present threat (rescue, defence, refusal)",
            (), "Sina's third axiom.", "", earlier_verdict="came out derivable (option value), Jul 12-13",
-           where="docs/AXIOM_CANDIDATES.md"),
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Sina"),
     Record("A4", "axiom", "pricing", "V8 (Jul 13 2026)",
            "Legitimacy bound: you may not price what you have no standing to price", (),
            "Sina's non-interference in institutional form.", "",
@@ -479,7 +600,7 @@ RECORDS: List[Record] = [
     Record("ENV", "law", "outside forces on courts", "V8 (Jul 13 2026)",
            "Environment layer: technology moves channel reliability r_c(t); regimes rewrite gates; "
            "deepfakes will lower r_video (direction fixed in advance)", ("r_c(t)",),
-           "Sina's external-parameters idea.", "", where="docs/ENVIRONMENT.md"),
+           "Sina's external-parameters idea.", "", where="docs/ENVIRONMENT.md", proposed_by="Sina (the idea); Claude wrote the formula"),
     Record("BLIND-JUL", "tool", "blind prediction", "V8 (Jul 14 2026)",
            "Seal a prediction with a time stamp and hash before reading the outcome", (),
            "Blinding must be mechanical.", "Rebuilt in Nov 2026; the July code was left out of 9.0.0.",
@@ -493,10 +614,10 @@ RECORDS: List[Record] = [
            "P(move | challenge) = A_j exp(-B(s) / T_j): barrier B by standard of review "
            "(universal), temperature T_j and attempt rate A_j per jurisdiction (local)",
            ("s standard of review", "T_j", "A_j"), "Sina's thermodynamics question in ruler form.", "",
-           earlier_verdict="pre-registered; data being gathered (T1_POINTS.csv)", where="docs/AXIOM_CANDIDATES.md"),
+           earlier_verdict="pre-registered; data being gathered (T1_POINTS.csv)", where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude, from Sina's thermodynamics question"),
     Record("G1-GREENE", "law", "power", "Nov 12 2026", "Greene rival: power explains outcomes", (),
            "A rival null hypothesis to the ruler.", "", earlier_verdict="draft, not adopted",
-           where="docs/AXIOM_CANDIDATES.md"),
+           where="docs/AXIOM_CANDIDATES.md", proposed_by="Claude (draft)"),
     Record("Q-QUALITIES", "unit", "human qualities in whole cases", "Nov 2026",
            "Q1 to Q67: adjectives scored 0..1 from counted signs in whole cases, with "
            "ADMITTED / FOUND / CLAIMED / INFERRED tags; motivation measured first", (),
