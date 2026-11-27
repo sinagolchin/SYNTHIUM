@@ -1,0 +1,242 @@
+"""
+SYNTHIUM OMEGA v3.0 - Reality Field
+===================================
+
+
+Systems follow gradients in state space.
+"Desire" is experiencing gradient descent.
+"""
+
+
+import numpy as np
+from typing import List, Dict, Callable
+from .vectors_v3 import RealityVector
+
+
+
+class RealityField:
+      """
+      The reality field that generates forces and evolution.
+      Systems don't "choose" trajectories—they follow gradients.
+      """
+
+
+      def __init__(self, dt: float = 0.01):
+            """
+            Args:
+                  dt: Timestep for evolution (seconds)
+            """
+            self.dt = dt
+
+
+      def compute_potential(self, vector: RealityVector) -> float:
+            """
+            Potential energy of a state.
+            Systems evolve toward LOW potential (like ball rolling downhill).
+
+
+            Low potential = High enjoyment + High meaning + Low entropy
+            """
+            potential = (
+                  (1.0 - vector.E) * 2.0 +   # High enjoyment = low potential
+                  (1.0 - vector.M) * 1.5 +   # High meaning = low potential
+                  vector.S * 3.0 +           # High entropy = high potential
+                  (vector.v * vector.R) * 1.0   # High burn = high potential
+            )
+            return potential
+
+
+      def compute_gradient(self, vector: RealityVector, epsilon: float = 0.001) -> Dict[str, fl
+            """
+            Gradient of potential field.
+    This is the "force" acting on the system.
+
+
+    Returns gradient for each base dimension.
+    """
+    gradient = {}
+    current_potential = self.compute_potential(vector)
+
+
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          # Perturb dimension
+          perturbed = vector.copy()
+          current_val = getattr(perturbed, dim)
+          setattr(perturbed, dim, np.clip(current_val + epsilon, 0, 1))
+
+
+          # Recompute derived dimensions
+          perturbed.E = perturbed.compute_enjoyment()
+          perturbed.M = perturbed.compute_meaning()
+          perturbed.P = perturbed.compute_perception_accuracy()
+
+
+          # Compute slope
+          new_potential = self.compute_potential(perturbed)
+          gradient[dim] = (new_potential - current_potential) / epsilon
+
+
+    return gradient
+
+
+def evolve(self,
+             vector: RealityVector,
+             num_steps: int = 1,
+             learning_rate: float = 0.1) -> List[RealityVector]:
+    """
+    Evolve system by following gradient descent.
+
+
+    This is what "desire" and "motivation" actually are—
+    the experience of following gradients in state space.
+
+
+    Args:
+          vector: Initial state
+          num_steps: Number of timesteps
+          learning_rate: How fast system responds to gradients
+
+
+    Returns:
+          Trajectory (list of states)
+    """
+    trajectory = [vector.copy()]
+    current = vector.copy()
+
+
+    for step in range(num_steps):
+          gradient = self.compute_gradient(current)
+          # Update each dimension (gradient descent)
+          for dim in ['v', 'R', 'r', 'C', 'S']:
+              current_val = getattr(current, dim)
+              new_val = current_val - learning_rate * gradient[dim]
+              setattr(current, dim, np.clip(new_val, 0, 1))
+
+
+          # Recompute derived dimensions
+          current.E = current.compute_enjoyment()
+          current.M = current.compute_meaning()
+          current.P = current.compute_perception_accuracy()
+
+
+          trajectory.append(current.copy())
+
+
+    return trajectory
+
+
+def find_equilibrium(self,
+                      initial: RealityVector,
+                      max_steps: int = 1000,
+                      tolerance: float = 0.001) -> RealityVector:
+    """
+    Evolve until reaching stable equilibrium.
+
+
+    Equilibrium = gradient ≈ 0 (local minimum of potential)
+    """
+    trajectory = self.evolve(initial, num_steps=max_steps, learning_rate=0.1)
+
+
+    # Find where gradient becomes small
+    for state in reversed(trajectory):
+          gradient = self.compute_gradient(state)
+          grad_magnitude = np.sqrt(sum(g**2 for g in gradient.values()))
+
+
+          if grad_magnitude < tolerance:
+              return state
+
+
+    # If no equilibrium found, return final state
+    return trajectory[-1]
+
+
+def analyze_trajectory(self, trajectory: List[RealityVector]) -> Dict:
+    """
+    Analyze properties of a trajectory.
+    """
+    if len(trajectory) < 2:
+          return {"error": "Need at least 2 states"}
+
+
+    initial = trajectory[0]
+    final = trajectory[-1]
+          # Compute changes
+          changes = {}
+          for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+                initial_val = getattr(initial, dim)
+                final_val = getattr(final, dim)
+                changes[dim] = {
+                     'initial': initial_val,
+                     'final': final_val,
+                     'delta': final_val - initial_val,
+                     'percent_change': ((final_val - initial_val) / (initial_val + 0.01)) * 100
+                }
+
+
+          # Potential energy change
+          initial_potential = self.compute_potential(initial)
+          final_potential = self.compute_potential(final)
+
+
+          return {
+                'num_steps': len(trajectory) - 1,
+                'changes': changes,
+                'potential': {
+                     'initial': initial_potential,
+                     'final': final_potential,
+                     'delta': final_potential - initial_potential,
+                     'decreased': final_potential < initial_potential
+                },
+                'converged': final_potential < initial_potential
+          }
+
+
+
+class CustomPotentialField(RealityField):
+    """
+    Reality field with custom potential function.
+    Allows defining arbitrary optimization targets.
+    """
+
+
+    def __init__(self, potential_func: Callable[[RealityVector], float], dt: float = 0.01):
+          """
+          Args:
+                potential_func: Custom function that computes potential energy
+                dt: Timestep
+          """
+          super().__init__(dt)
+          self.custom_potential = potential_func
+
+
+    def compute_potential(self, vector: RealityVector) -> float:
+          """Use custom potential function."""
+        return self.custom_potential(vector)
+
+
+
+# Predefined potential fields
+
+
+def maximize_enjoyment_field(vector: RealityVector) -> float:
+    """Potential field that maximizes enjoyment."""
+    return 10.0 * (1.0 - vector.E)    # Low E = high potential
+
+
+
+def minimize_entropy_field(vector: RealityVector) -> float:
+    """Potential field that minimizes entropy."""
+    return 10.0 * vector.S    # High S = high potential
+
+
+
+def balance_field(vector: RealityVector) -> float:
+    """Potential field that seeks balance (all dims ≈ 0.5)."""
+    potential = 0.0
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+        val = getattr(vector, dim)
+        potential += (val - 0.5) ** 2
+    return potential * 10.0
+

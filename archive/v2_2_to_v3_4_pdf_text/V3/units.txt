@@ -1,0 +1,321 @@
+"""
+SYNTHIUM OMEGA v3.0 - Unit System
+=================================
+
+
+Connect dimensionless [0,1] to physical SI units.
+Enables calibration against measurable reality.
+"""
+
+
+import numpy as np
+from typing import Dict, Tuple
+from .vectors_v3 import RealityVector
+
+
+
+class SynthiumUnits:
+      """
+      The Synthium Unit System (SUS)
+      Maps dimensionless qualitative dimensions to SI units.
+      """
+
+
+      # Dimension → SI unit mapping
+      DIMENSION_UNITS = {
+            'v': {
+                 'name': 'Velocity',
+                 'SI': 'Hz',   # Hertz (changes per second)
+                 'description': 'Rate of state change',
+                 'range': (0.001, 10.0),
+                 'calibration': lambda x: 0.001 + x * 9.999
+            },
+            'R': {
+                 'name': 'Resistance',
+                 'SI': 'kg⋅m/s',   # Momentum
+                 'description': 'Resistance to change (inertia)',
+                 'range': (0.1, 100.0),
+                 'calibration': lambda x: 0.1 + x * 99.9
+            },
+            'r': {
+                 'name': 'Resonance',
+                 'SI': 'dimensionless',    # Correlation coefficient
+                 'description': 'Alignment/coherence with field',
+                 'range': (0.0, 1.0),
+                 'calibration': lambda x: x
+            },
+            'C': {
+                 'name': 'Capacity',
+          'SI': 'J',     # Joules
+          'description': 'Energy storage capacity',
+          'range': (1.0, 10000.0),
+          'calibration': lambda x: 1.0 + x * 9999.0
+    },
+    'S': {
+          'name': 'Entropy',
+          'SI': 'J/K',     # Thermodynamic entropy
+          'description': 'Disorder/information entropy',
+          'range': (0.0, 1000.0),
+          'calibration': lambda x: x * 1000.0
+    },
+    'E': {
+          'name': 'Enjoyment',
+          'SI': 'utils',     # Utility (economics)
+          'description': 'Subjective wellbeing',
+          'range': (0.0, 1.0),
+          'calibration': lambda x: x
+    },
+    'M': {
+          'name': 'Meaning',
+          'SI': 'bits',     # Shannon information
+          'description': 'Information richness',
+          'range': (0.0, 1000000.0),
+          'calibration': lambda x: x * 1000000.0
+    },
+    'P': {
+          'name': 'Perception Accuracy',
+          'SI': 'dimensionless',
+          'description': 'Measurement precision',
+          'range': (0.0, 1.0),
+          'calibration': lambda x: x
+    }
+}
+
+
+@staticmethod
+def to_SI(vector: RealityVector) -> Dict[str, Tuple[float, str]]:
+    """
+    Convert RealityVector to SI units.
+
+
+    Returns:
+          Dict of {dimension: (value, unit)}
+    """
+    si_values = {}
+
+
+    for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+          dimensionless = getattr(vector, dim)
+          unit_info = SynthiumUnits.DIMENSION_UNITS[dim]
+
+
+          si_value = unit_info['calibration'](dimensionless)
+          si_unit = unit_info['SI']
+
+
+          si_values[dim] = (si_value, si_unit)
+
+
+    return si_values
+
+
+@staticmethod
+def from_SI(si_values: Dict[str, float]) -> RealityVector:
+    """
+    Convert SI measurements to RealityVector.
+
+
+    Args:
+          si_values: Dict of {dimension: si_value}
+
+
+    Returns:
+          RealityVector with normalized values
+    """
+    dimensionless = {}
+
+
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          if dim not in si_values:
+               dimensionless[dim] = 0.5   # Default neutral
+               continue
+
+
+          si_value = si_values[dim]
+          unit_info = SynthiumUnits.DIMENSION_UNITS[dim]
+          min_val, max_val = unit_info['range']
+
+
+          # Inverse calibration
+          normalized = (si_value - min_val) / (max_val - min_val)
+          dimensionless[dim] = np.clip(normalized, 0, 1)
+
+
+    return RealityVector(0, 0, 0, **dimensionless)
+
+
+@staticmethod
+def display_si(vector: RealityVector, precision: int = 2) -> str:
+    """
+    Display vector in SI units (human-readable).
+    """
+    si = SynthiumUnits.to_SI(vector)
+
+
+    lines = ["SI Unit Representation:"]
+    for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+          value, unit = si[dim]
+                name = SynthiumUnits.DIMENSION_UNITS[dim]['name']
+
+
+                # Format with appropriate precision
+                if unit == 'bits' or unit == 'J':
+                     formatted = f"{value:.0f}"
+                else:
+                     formatted = f"{value:.{precision}f}"
+
+
+                lines.append(f"   {name:20s}: {formatted:>10s} {unit}")
+
+
+          return "\n".join(lines)
+
+
+
+class PhysiologicalCalibration:
+    """
+    Maps physiological measurements to Synthium dimensions.
+
+
+    This is where we empirically calibrate the framework
+    against real human biology.
+    """
+
+
+    @staticmethod
+    def from_biomarkers(cortisol_ng_ml: float = None,
+                            heart_rate_bpm: float = None,
+                            hrv_ms: float = None,
+                            dopamine_relative: float = None) -> Dict[str, float]:
+          """
+          Convert biomarkers to Synthium dimensions.
+
+
+          Args:
+                cortisol_ng_ml: Cortisol level (5-25 ng/mL normal)
+                heart_rate_bpm: Heart rate (60-100 bpm normal)
+                hrv_ms: Heart rate variability (20-200 ms)
+                dopamine_relative: Relative dopamine (0-1 normalized)
+
+
+          Returns:
+                Dict of {dimension: value}
+          """
+          dims = {}
+
+
+          # Velocity from heart rate
+          if heart_rate_bpm is not None:
+                # 60 bpm = 0.0, 100 bpm = 1.0
+                dims['v'] = np.clip((heart_rate_bpm - 60) / 100, 0, 1)
+
+
+          # Resistance from cortisol
+          if cortisol_ng_ml is not None:
+            # 5 ng/mL = 0.0, 25 ng/mL = 1.0
+            dims['R'] = np.clip((cortisol_ng_ml - 5) / 50, 0, 1)
+
+
+        # Entropy from HRV (inverse)
+        if hrv_ms is not None:
+            # High HRV = low entropy (coherent)
+            # 200 ms = 0.0 entropy, 20 ms = 1.0 entropy
+            dims['S'] = np.clip((200 - hrv_ms) / 200, 0, 1)
+
+
+        # Resonance from dopamine
+        if dopamine_relative is not None:
+            dims['r'] = np.clip(dopamine_relative, 0, 1)
+
+
+        return dims
+
+
+    @staticmethod
+    def anxiety_profile() -> Dict[str, float]:
+        """Typical anxiety state biomarkers → Synthium dimensions."""
+        return PhysiologicalCalibration.from_biomarkers(
+            cortisol_ng_ml=22.0,    # Elevated
+            heart_rate_bpm=95.0,    # Elevated
+            hrv_ms=25.0,            # Low (high entropy)
+            dopamine_relative=0.3    # Low (poor resonance)
+        )
+
+
+    @staticmethod
+    def flow_profile() -> Dict[str, float]:
+        """Typical flow state biomarkers → Synthium dimensions."""
+        return PhysiologicalCalibration.from_biomarkers(
+            cortisol_ng_ml=8.0,     # Low-normal
+            heart_rate_bpm=75.0,    # Moderate
+            hrv_ms=120.0,           # High (low entropy)
+            dopamine_relative=0.8    # High (strong resonance)
+        )
+
+
+    @staticmethod
+    def burnout_profile() -> Dict[str, float]:
+        """Typical burnout biomarkers → Synthium dimensions."""
+        return PhysiologicalCalibration.from_biomarkers(
+            cortisol_ng_ml=28.0,    # Very high
+            heart_rate_bpm=88.0,    # Elevated
+            hrv_ms=18.0,            # Very low (high entropy)
+            dopamine_relative=0.15 # Very low
+        )
+
+
+
+class OrganizationalCalibration:
+"""
+Maps organizational metrics to Synthium dimensions.
+"""
+
+
+@staticmethod
+def from_metrics(employee_turnover_annual: float = None,
+                    revenue_growth_rate: float = None,
+                    decision_latency_days: float = None,
+                    cultural_alignment_score: float = None) -> Dict[str, float]:
+      """
+      Convert organizational metrics to Synthium dimensions.
+
+
+      Args:
+            employee_turnover_annual: Annual turnover % (0-100)
+            revenue_growth_rate: YoY growth % (-50 to 200)
+            decision_latency_days: Time to make decisions (1-90 days)
+            cultural_alignment_score: Employee alignment survey (0-10)
+
+
+      Returns:
+            Dict of {dimension: value}
+      """
+      dims = {}
+
+
+      # Velocity from growth rate
+      if revenue_growth_rate is not None:
+            # -50% = 0.0, 200% = 1.0
+            dims['v'] = np.clip((revenue_growth_rate + 50) / 250, 0, 1)
+
+
+      # Entropy from turnover
+      if employee_turnover_annual is not None:
+            # 0% = 0.0 entropy, 50% = 1.0 entropy
+            dims['S'] = np.clip(employee_turnover_annual / 50, 0, 1)
+
+
+      # Resistance from decision latency
+      if decision_latency_days is not None:
+            # 1 day = 0.0, 90 days = 1.0
+            dims['R'] = np.clip((decision_latency_days - 1) / 89, 0, 1)
+
+
+      # Resonance from cultural alignment
+      if cultural_alignment_score is not None:
+            # 0/10 = 0.0, 10/10 = 1.0
+            dims['r'] = np.clip(cultural_alignment_score / 10, 0, 1)
+
+
+      return dims
+

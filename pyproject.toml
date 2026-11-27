@@ -16,6 +16,15 @@ dependencies = []
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
+# The geometry module (synthium.geometry) needs numpy; the rest of the package does not.
+geometry = ["numpy>=1.20"]
+# Restored earlier versions (synthium.legacy) and the phenomena module. V1 to V3.4, V5 and
+# synthium.phenomena need numpy; V4 and V4.3.1 also need scipy and scikit-learn.
+legacy = ["numpy>=1.20", "scipy>=1.7", "scikit-learn>=1.0"]
+# V4.3.1's neural encoder (synthium.legacy.v4_3_1.neural) needs PyTorch.
+legacy-neural = ["numpy>=1.20", "scipy>=1.7", "scikit-learn>=1.0", "torch>=1.10"]
+# SynthiumBot (synthium.legacy.synthiumbot); set TELEGRAM_TOKEN in the environment.
+legacy-bot = ["numpy>=1.20", "scipy>=1.7", "scikit-learn>=1.0", "python-telegram-bot>=20"]
 
 [project.scripts]
 synthium = "synthium.cli:main"
@@ -25,6 +34,9 @@ include = ["synthium*"]
 
 [tool.setuptools.package-data]
 "synthium.domains.judicial" = ["params/*.json"]
+"synthium.legacy" = ["*/data/*.json", "*/data_files/*", "*/data_files/**/*",
+                     "v4_3_1/outputs_neural_judicial/*", "v4_3_1/outputs_deleaked/*",
+                     "v4_3_1/examples/*", "*/README.md", "*/requirements.txt"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

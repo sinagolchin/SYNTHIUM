@@ -1,0 +1,125 @@
+"""
+SYNTHIUM OMEGA v3.1 - Multi-Agent Interactions
+==============================================
+
+
+Forces between entities with conservation laws.
+"""
+
+
+import numpy as np
+from typing import List, Dict, Tuple
+from .vectors_v34 import RealityVector
+from .field_v34 import RealityField
+
+
+
+class InteractionForce:
+      """Base class for forces between entities."""
+
+
+      G_v = 0.1      # velocity attracts velocity
+      G_r = 0.3      # resonance attracts resonance
+      G_S = -0.2     # entropy repels
+      G_C = 0.05     # capacity has weak attraction
+
+
+      @classmethod
+      def compute_force(cls, entity_A: RealityVector,
+                           entity_B: RealityVector) -> Tuple[Dict[str, float], Dict[str, float]]:
+          """Compute interaction forces (Newton's 3rd law)."""
+          dist = entity_A.distance_to(entity_B) + 0.01
+
+
+          mag_v = cls.G_v * entity_A.v * entity_B.v / (dist * dist)
+          mag_r = cls.G_r * entity_A.r * entity_B.r / (dist * dist)
+          mag_C = cls.G_C * entity_A.C * entity_B.C / (dist * dist)
+          mag_S = cls.G_S * entity_A.S * entity_B.S / (dist * dist)
+
+
+          def direction(val_A, val_B):
+              return np.sign(val_B - val_A) if val_B != val_A else 0
+
+
+          force_A = {
+              'v': mag_v * direction(entity_A.v, entity_B.v),
+              'R': 0.0,
+              'r': mag_r * direction(entity_A.r, entity_B.r),
+              'C': mag_C * direction(entity_A.C, entity_B.C),
+              'S': mag_S * direction(entity_A.S, entity_B.S)
+          }
+          force_B = {k: -v for k, v in force_A.items()}
+          return force_A, force_B
+    @staticmethod
+    def apply_force(entity: RealityVector, force: Dict[str, float],
+                       dt: float) -> RealityVector:
+        """Update entity by applying force."""
+        updated = entity.copy()
+        for dim in ['v','R','r','C','S']:
+            new_val = getattr(updated, dim) + force.get(dim, 0.0) * dt
+            setattr(updated, dim, np.clip(new_val, 0, 1))
+        updated.E = updated.compute_enjoyment()
+        updated.M = updated.compute_meaning()
+        updated.P = updated.compute_perception_accuracy()
+        return updated
+
+
+
+class MultiAgentSimulation:
+    """Simulation of multiple interacting entities."""
+
+
+    def __init__(self, dt: float = 0.01, force_class=InteractionForce):
+        self.dt = dt
+        self.force_class = force_class
+        self.entities = []
+        self.field = RealityField(dt=dt)
+        self.time = 0.0
+
+
+    def add_entity(self, vector: RealityVector, name: str):
+        self.entities.append({'vector': vector.copy(), 'name': name})
+
+
+    def step(self):
+        """Execute one timestep."""
+        n = len(self.entities)
+        forces = [{'v':0,'R':0,'r':0,'C':0,'S':0} for _ in range(n)]
+
+
+        # Compute pairwise forces
+        for i in range(n):
+            for j in range(i+1, n):
+                vi = self.entities[i]['vector']
+                vj = self.entities[j]['vector']
+                f_i, f_j = self.force_class.compute_force(vi, vj)
+                for dim in forces[i]:
+                       forces[i][dim] += f_i.get(dim, 0)
+                       forces[j][dim] += f_j.get(dim, 0)
+
+
+        # Apply forces
+        for i, ent in enumerate(self.entities):
+            ent['vector'] = self.force_class.apply_force(ent['vector'], forces[i], self.dt)
+    # Internal gradient descent
+    for ent in self.entities:
+        traj = self.field.evolve(ent['vector'], num_steps=1, learning_rate=0.1)
+        ent['vector'] = traj[-1]
+
+
+    self.time += self.dt
+
+
+def simulate(self, num_steps: int) -> Dict[str, List[RealityVector]]:
+    """Run for num_steps and return history."""
+    history = {ent['name']: [ent['vector'].copy()] for ent in self.entities}
+    for _ in range(num_steps):
+        self.step()
+        for ent in self.entities:
+            history[ent['name']].append(ent['vector'].copy())
+    return history
+
+
+def get_state(self) -> Dict[str, dict]:
+    return {ent['name']: ent['vector'].to_dict() for ent in self.entities}
+

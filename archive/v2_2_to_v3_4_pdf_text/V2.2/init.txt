@@ -1,0 +1,36 @@
+"""
+SYNTHIUM OMEGA v2.2 - The Trinity Build
+======================================
+
+
+[Physics Kernel] + [JudicOS Stabilizer] + [Living Soil]
+"""
+
+
+from .vectors_v2 import RealityVector, SynthiumVector
+from .science_v2 import HolisticScience
+from .transducer_v2 import Transducer
+from .recorder_v2 import Recorder
+from .reality_field import RealityField
+from .judicos_adapter import JudicBridge, JudicEntity
+from .github_adapter import SoilBridge, Glyph, Soil
+
+
+__version__ = "2.2"
+__codename__ = "The Trinity Build"
+
+
+__all__ = [
+      "RealityVector",
+      "SynthiumVector",
+      "HolisticScience",
+      "Transducer",
+      "Recorder",
+      "RealityField",
+      "JudicBridge",
+      "JudicEntity",
+      "SoilBridge",
+      "Glyph",
+      "Soil",
+]
+

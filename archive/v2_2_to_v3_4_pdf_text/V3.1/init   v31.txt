@@ -1,0 +1,80 @@
+"""
+SYNTHIUM OMEGA v3.1 - Discovery Edition
+=======================================
+
+
+Ethics are not imposed—they are discovered through mathematics.
+
+
+Reality IS mathematics.
+Care IS a mathematical function.
+Ethics EMERGE from stable equilibria.
+"""
+
+
+from .vectors_v31 import RealityVector
+from .field_v31 import RealityField
+from .interactions_v31 import InteractionForce, MultiAgentSimulation
+from .ethics_discovery import (
+      CareMetrics,
+      ConservationLaw,
+      EthicsDiscovery
+)
+
+
+__version__ = "3.1"
+__codename__ = "Discovery Edition"
+
+
+# Core philosophical axioms
+PHILOSOPHICAL_AXIOMS = {
+      "ontology": "Reality IS mathematics (not 'can be modeled by')",
+      "epistemology": "Knowledge = reducing prediction error",
+      "perception": "Perception IS a mathematical function",
+      "consciousness": "Consciousness IS what computation feels like from inside",
+      "care": "Care IS measurable resource allocation toward another's wellbeing",
+      "ethics": "Ethics EMERGE from stable multi-agent equilibria (discovered, not imposed)",
+      "conservation": "Ethical constraints = discovered conservation laws in interactions",
+      "harm": "Harm = predicted system instability when conservation laws violated",
+      "vagueness": "Vagueness = measurement error (not fundamental)"
+}
+
+
+__all__ = [
+      # Core
+      "RealityVector",
+      "RealityField",
+      "InteractionForce",
+      "MultiAgentSimulation",
+
+
+      # Ethics Discovery (NEW in v3.1)
+    "CareMetrics",
+    "ConservationLaw",
+    "EthicsDiscovery",
+
+
+    # Meta
+    "PHILOSOPHICAL_AXIOMS",
+    "__version__",
+    "__codename__",
+]
+
+
+
+def get_version_info() -> dict:
+    """Return version and framework information."""
+    return {
+        "version": __version__,
+        "codename": __codename__,
+        "philosophy": "Discovery, not prescription",
+        "new_in_v31": [
+               "Care quantification (measurable as resource allocation)",
+               "Stable equilibria finder (which patterns don't collapse)",
+               "Conservation law discovery (what's actually conserved)",
+               "Collapse prediction (not moral judgment, pure physics)",
+               "Ethical report generation (observed patterns, not rules)"
+        ],
+        "axioms": PHILOSOPHICAL_AXIOMS
+    }
+

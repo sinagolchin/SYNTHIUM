@@ -1,0 +1,317 @@
+"""
+SYNTHIUM OMEGA v3.0 - Multi-Agent Interactions
+==============================================
+
+
+Forces between entities with conservation laws.
+No ethics—just physics and symmetries.
+"""
+
+
+import numpy as np
+from typing import List, Dict, Tuple
+from .vectors_v3 import RealityVector
+from .field import RealityField
+
+
+
+class InteractionForce:
+      """
+      Forces between entities in reality space.
+      Follows Newton's laws and conservation principles.
+      """
+
+
+      # Interaction constants (like gravitational constant G)
+      G_v = 0.1     # Velocity attracts velocity (social proof/mimicry)
+      G_r = 0.3     # Resonance attracts resonance (like attracts like)
+      G_S = -0.2    # Entropy repels (order avoids chaos)
+      G_C = 0.05    # Capacity has weak attraction (resources attract)
+
+
+      @staticmethod
+      def compute_force(entity_A: RealityVector,
+                         entity_B: RealityVector) -> Tuple[Dict[str, float], Dict[str, float]]:
+            """
+            Compute interaction force between two entities.
+
+
+            Returns: (force_on_A, force_on_B)
+
+
+            Forces follow:
+            1. Newton's 3rd Law: force_on_A = -force_on_B
+            2. Inverse square law in 8D space
+            3. Energy conservation
+            """
+            # Distance in 8D qualitative space
+            dist = entity_A.distance_to(entity_B) + 0.01    # Avoid singularity
+
+
+            # Interaction strength (dimension-dependent)
+            force_magnitude = {
+          'v': InteractionForce.G_v * entity_A.v * entity_B.v / dist**2,
+          'R': 0.0,   # Resistance doesn't interact
+          'r': InteractionForce.G_r * entity_A.r * entity_B.r / dist**2,
+          'C': InteractionForce.G_C * entity_A.C * entity_B.C / dist**2,
+          'S': InteractionForce.G_S * entity_A.S * entity_B.S / dist**2
+    }
+
+
+    # Direction: toward (attraction) or away (repulsion)
+    force_on_A = {}
+    force_on_B = {}
+
+
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          val_A = getattr(entity_A, dim)
+          val_B = getattr(entity_B, dim)
+
+
+          # Direction from A toward B
+          direction = np.sign(val_B - val_A) if val_B != val_A else 0
+
+
+          force_on_A[dim] = force_magnitude[dim] * direction
+          force_on_B[dim] = -force_on_A[dim]    # Newton's 3rd law
+
+
+    return force_on_A, force_on_B
+
+
+@staticmethod
+def apply_force(entity: RealityVector,
+                 force: Dict[str, float],
+                 dt: float) -> RealityVector:
+    """
+    Update entity state by applying force.
+
+
+    Args:
+          entity: Current state
+          force: Force vector (dict of dimension -> magnitude)
+          dt: Timestep
+
+
+    Returns:
+          Updated state
+    """
+    updated = entity.copy()
+
+
+    for dim in ['v', 'R', 'r', 'C', 'S']:
+          current_val = getattr(updated, dim)
+          # F = ma, simplified to direct state change
+          new_val = current_val + force.get(dim, 0.0) * dt
+          setattr(updated, dim, np.clip(new_val, 0, 1))
+
+
+    # Recompute derived dimensions
+          updated.E = updated.compute_enjoyment()
+          updated.M = updated.compute_meaning()
+          updated.P = updated.compute_perception_accuracy()
+
+
+          return updated
+
+
+
+class MultiAgentSimulation:
+    """
+    Simulate multiple entities interacting in shared reality field.
+    """
+
+
+    def __init__(self, dt: float = 0.01):
+          """
+          Args:
+                dt: Timestep for simulation
+          """
+          self.entities = []
+          self.field = RealityField(dt=dt)
+          self.dt = dt
+          self.time = 0.0
+
+
+    def add_entity(self, vector: RealityVector, name: str):
+          """Add an entity to the simulation."""
+          self.entities.append({
+                'vector': vector.copy(),
+                'name': name
+          })
+
+
+    def step(self):
+          """
+          Execute one timestep:
+          1. Compute all pairwise forces
+          2. Apply forces to entities (interaction)
+          3. Evolve entities along gradient (internal dynamics)
+          """
+          num_entities = len(self.entities)
+
+
+          # 1. Compute pairwise interactions
+          forces = {i: {'v': 0, 'R': 0, 'r': 0, 'C': 0, 'S': 0}
+                     for i in range(num_entities)}
+
+
+          for i in range(num_entities):
+                for j in range(i + 1, num_entities):
+                    entity_i = self.entities[i]['vector']
+                    entity_j = self.entities[j]['vector']
+               force_i, force_j = InteractionForce.compute_force(entity_i, entity_j)
+
+
+               # Accumulate forces
+               for dim in ['v', 'R', 'r', 'C', 'S']:
+                   forces[i][dim] += force_i[dim]
+                   forces[j][dim] += force_j[dim]
+
+
+    # 2. Apply interaction forces
+    for i, entity in enumerate(self.entities):
+          entity['vector'] = InteractionForce.apply_force(
+               entity['vector'],
+               forces[i],
+               self.dt
+          )
+
+
+    # 3. Apply internal gradient descent
+    for entity in self.entities:
+          trajectory = self.field.evolve(entity['vector'], num_steps=1, learning_rate=0.1)
+          entity['vector'] = trajectory[-1]
+
+
+    self.time += self.dt
+
+
+def simulate(self, num_steps: int) -> Dict:
+    """
+    Run simulation for N timesteps.
+
+
+    Returns:
+          Dictionary of {entity_name: [trajectory]}
+    """
+    history = {entity['name']: [entity['vector'].copy()]
+                 for entity in self.entities}
+
+
+    for step in range(num_steps):
+          self.step()
+
+
+          # Record state
+          for entity in self.entities:
+               history[entity['name']].append(entity['vector'].copy())
+
+
+    return history
+
+
+def get_state(self) -> Dict:
+    """Get current state of all entities."""
+    return {entity['name']: entity['vector'].to_dict()
+               for entity in self.entities}
+
+
+def compute_total_energy(self) -> float:
+          """
+          Compute total energy in system (sum of potentials).
+          Should be approximately conserved.
+          """
+          total = 0.0
+          for entity in self.entities:
+                total += self.field.compute_potential(entity['vector'])
+          return total
+
+
+    def analyze_convergence(self, history: Dict) -> Dict:
+          """
+          Analyze whether entities converged to equilibrium.
+          """
+          analysis = {}
+
+
+          for name, trajectory in history.items():
+                if len(trajectory) < 2:
+                    continue
+
+
+                initial = trajectory[0]
+                final = trajectory[-1]
+
+
+                # Check if state stabilized
+                distance_moved = initial.distance_to(final)
+
+
+                # Check final gradient
+                final_gradient = self.field.compute_gradient(final)
+                grad_magnitude = np.sqrt(sum(g**2 for g in final_gradient.values()))
+
+
+                analysis[name] = {
+                    'distance_moved': distance_moved,
+                    'final_gradient_magnitude': grad_magnitude,
+                    'converged': grad_magnitude < 0.01,
+                    'initial_enjoyment': initial.E,
+                    'final_enjoyment': final.E,
+                    'enjoyment_change': final.E - initial.E
+                }
+
+
+          return analysis
+
+
+
+class PredatorPreySimulation(MultiAgentSimulation):
+    """
+    Specialized simulation for predator-prey dynamics.
+    Shows that "harm" is just asymmetric energy transfer.
+    """
+def __init__(self, dt: float = 0.01):
+    super().__init__(dt)
+    self.predation_strength = 0.2
+
+
+def step(self):
+    """Override to add predation dynamics."""
+    # First do normal step
+    super().step()
+
+
+    # Then apply predation
+    for i, predator in enumerate(self.entities):
+        if 'predator' not in predator['name'].lower():
+            continue
+
+
+        for j, prey in enumerate(self.entities):
+            if 'prey' not in prey['name'].lower():
+                  continue
+
+
+            # Predator gains capacity from prey
+            distance = predator['vector'].distance_to(prey['vector'])
+
+
+            if distance < 0.3:    # Close enough to predate
+                  # Energy transfer (zero-sum)
+                  transfer = self.predation_strength * self.dt
+
+
+                  predator['vector'].C = min(1.0, predator['vector'].C + transfer)
+                  prey['vector'].C = max(0.0, prey['vector'].C - transfer)
+
+
+                  # Prey also gains entropy (stress)
+                  prey['vector'].S = min(1.0, prey['vector'].S + transfer * 0.5)
+
+
+                  # Recompute derived
+                  predator['vector'].E = predator['vector'].compute_enjoyment()
+                  prey['vector'].E = prey['vector'].compute_enjoyment()
+

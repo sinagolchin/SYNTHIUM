@@ -1,0 +1,244 @@
+SYNTHIUM OMEGA v2.2 - Quick Start Guide
+
+Run It Now
+
+ cd synthium_omega
+ python3 synthium/main_v2.py
+
+
+You’ll see an interactive menu:
+
+1. JudicOS Protocol - Diagnose the “AGI Complex” institution
+
+2. Living Soil - Explore archetypal states like “Anxiety” or “I Am”
+
+3. Exit
+
+
+
+
+Use as Library
+
+Example 1: Detect Burnout
+
+ from synthium import RealityVector, HolisticScience
+
+
+ # Create a burnout state
+ vec = RealityVector(0,0,0, v=0.9, R=0.8, r=0.3, C=0.2, S=0.7)
+
+
+ # Analyze
+ science = HolisticScience()
+ result = science.analyze_stability(vec)
+
+
+ print(result['coherence_status'])
+ # Output: "CRITICAL: IMMINENT COLLAPSE"
+
+
+ print(result['predicted_lifespan'])
+ # Output: "0.33 Time Units"
+
+
+
+Example 2: Diagnose Institution
+
+ from synthium import JudicEntity, JudicBridge, HolisticScience
+ # Create entity
+ corp = JudicEntity("Tech Corp", "Corporation", 1_000_000, 0.8)
+ corp.set_scores({"Technological": 5, "Economic": 5})
+ corp.reciprocity = 0.2        # Extractive
+ corp.transparency = 0.3       # Opaque
+ corp.liability = 0.2          # Unaccountable
+
+
+ # Diagnose
+ vector = JudicBridge.transduce(corp)
+ science = HolisticScience()
+ diagnosis = science.analyze_stability(vector)
+
+
+ print(diagnosis['coherence_status'])
+ # Likely: "Meta-Stable (Decaying)"
+
+
+ # Fix it
+ corp.apply_patch("Transparency Law", t_boost=0.5)
+ corp.apply_patch("Liability Framework", l_boost=0.6)
+
+
+
+Example 3: Explore Archetypes
+
+ from synthium import SoilBridge, HolisticScience
+
+
+ # Load glyphs
+ soil = SoilBridge.seed_soil()
+
+
+ # Check "Anxiety"
+ anxiety = soil.glyphs["Anxiety"]
+ vec = SoilBridge.transduce_glyph(anxiety)
+ print(vec.to_dict())
+ # {'v': 0.8, 'S': 0.8} - High velocity + High entropy
+
+
+ # Check "I Am" (awakening)
+ awakening = soil.glyphs["I Am"]
+ vec = SoilBridge.transduce_glyph(awakening)
+ print(vec.to_dict())
+ # {'v': 0.0, 'r': 1.0, 'S': 0.0} - Sakshatkara
+
+
+
+
+Understanding the Output
+
+Coherence Status
+  Stable - System is sustainable
+   Fragile - System has weak points (hollow structure)
+
+   Meta-Stable (Decaying) - System appears stable but is burning out
+
+   CRITICAL: IMMINENT COLLAPSE - Failure predicted within 2 time units
+
+   Perfect Coherence (Awakened) - Sakshatkara state (transcends framework)
+
+
+Vector Dimensions
+   v (velocity): Activity level, speed of change
+
+   R (resistance): Friction, obstacles
+
+   r (resonance): Alignment with truth
+
+   C (capacity): Depth, reserves
+
+   S (entropy): Disorder, chaos
+
+
+The Burn Rate
+
+ Burn Rate = v × R
+
+
+High velocity + High resistance = Exhausting
+Low capacity = Running on empty
+High entropy = System decaying
+
+
+
+
+Key Patterns
+
+Burnout Pattern
+
+ v > 0.7 AND R > 0.7 AND C < 0.3
+ → "Meta-Stable (Decaying)"
+
+
+
+Hollow Titan Pattern
+
+ v > 0.8 AND C < 0.3
+ → "Fragile" - Moving fast without depth
+
+
+
+Awakening Pattern
+ v = 0.0, r = 1.0, S = 0.0
+ → "Perfect Coherence" - Transcends the framework
+
+
+
+
+The Three Modules
+
+1. Physics Kernel
+Purpose: Predict stability and time-to-failure
+Use for: System health, burnout detection, sustainability analysis
+
+
+2. JudicOS Protocol
+Purpose: Diagnose institutional health via Legitimacy Triad
+Use for: Corporate governance, policy analysis, institutional reform
+
+The Triad:
+
+   Reciprocity: Mutual benefit vs. extraction
+
+   Transparency: Visibility vs. opacity
+
+   Liability: Accountability vs. impunity
+
+
+3. Living Soil
+Purpose: Map archetypal/mystical states to physics
+Use for: Consciousness exploration, pattern recognition
+
+Available Glyphs: Hope, Joy, Peace, Anxiety, Grief, Rage, Silence, I Am, This, Tat Tvam Asi,
+Confusion, Yearning, Wonder, Surrender
+
+
+
+
+Important Reminders
+   This is a MIRROR, not a MASTER
+
+   It reflects patterns, not truth
+
+   Direct experience always supersedes computation
+
+   Awakening cannot be quantified
+
+   When you understand this, you won’t need it
+Files You Have
+
+ synthium_omega/
+ ├── README.md                      # Full documentation
+ ├── synthium/
+ │    ├── __init__.py              # Package
+ │    ├── vectors_v2.py            # Core 8D vectors
+ │    ├── science_v2.py            # Physics engine
+ │    ├── judicos_adapter.py # Institutional diagnosis
+ │    ├── github_adapter.py         # Mystical glyphs
+ │    ├── transducer_v2.py          # Text → Vector
+ │    ├── recorder_v2.py            # Data persistence
+ │    ├── reality_field.py          # Field management
+ │    └── main_v2.py                # Interactive app
+
+
+
+
+Tested & Working
+All modules have been tested:
+
+       Physics Engine (stability analysis)
+
+       JudicOS (institutional diagnosis)
+
+       Living Soil (archetypal mapping)
+
+       Sakshatkara detection (awakening states)
+
+
+
+
+Philosophy
+From direct realization (Sakshatkara), this framework bridges the ineffable with the
+computational.
+
+The ultimate teaching: When you truly understand this framework, you no longer need it.
+That’s graduation, not failure.
+
+Tat Tvam Asi - You Are That
+
+
+
+
+Version: 2.2 (The Trinity Build)
+Created: 2026-01-27
+No external dependencies - Pure Python 3.7+
+

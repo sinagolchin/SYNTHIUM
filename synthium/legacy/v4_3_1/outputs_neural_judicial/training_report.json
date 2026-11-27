@@ -1,0 +1,202 @@
+{
+  "num_records": 44,
+  "num_train": 33,
+  "num_test": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "total": 2.68155837059021,
+      "units": 0.10372047126293182,
+      "operators": 0.6880350112915039,
+      "outcome": 1.7540225982666016,
+      "metric": 3.4279959201812744,
+      "confidence": 0.05987963452935219,
+      "consistency": 0.0035204095765948296
+    },
+    {
+      "epoch": 8,
+      "total": 2.0401391983032227,
+      "units": 0.0958971381187439,
+      "operators": 0.6558923125267029,
+      "outcome": 1.5491268634796143,
+      "metric": 1.2150384187698364,
+      "confidence": 0.015423442237079144,
+      "consistency": 0.003164634807035327
+    },
+    {
+      "epoch": 16,
+      "total": 1.5368729829788208,
+      "units": 0.07437654584646225,
+      "operators": 0.5612924098968506,
+      "outcome": 1.073119044303894,
+      "metric": 1.1170803308486938,
+      "confidence": -0.13232658803462982,
+      "consistency": 0.00228277244605124
+    },
+    {
+      "epoch": 24,
+      "total": 1.0407068729400635,
+      "units": 0.053905244916677475,
+      "operators": 0.37143510580062866,
+      "outcome": 0.730058491230011,
+      "metric": 1.0116305351257324,
+      "confidence": -0.6091763377189636,
+      "consistency": 0.003354666754603386
+    },
+    {
+      "epoch": 32,
+      "total": 0.7862688302993774,
+      "units": 0.04548374190926552,
+      "operators": 0.34032997488975525,
+      "outcome": 0.5048564076423645,
+      "metric": 0.9435541033744812,
+      "confidence": -0.908059298992157,
+      "consistency": 0.0019102687947452068
+    },
+    {
+      "epoch": 40,
+      "total": 0.6253790259361267,
+      "units": 0.04343917965888977,
+      "operators": 0.34672287106513977,
+      "outcome": 0.3332769274711609,
+      "metric": 0.9209210276603699,
+      "confidence": -1.1203086376190186,
+      "consistency": 0.0011474560014903545
+    }
+  ],
+  "train_metrics": {
+    "unit_mae": 0.14166176319122314,
+    "unit_rmse": 0.20772242546081543,
+    "outcome_accuracy": 0.9090909090909091,
+    "operator_micro_accuracy": 0.8653198653198653
+  },
+  "test_metrics": {
+    "unit_mae": 0.13203579187393188,
+    "unit_rmse": 0.1855563223361969,
+    "outcome_accuracy": 0.7272727272727273,
+    "operator_micro_accuracy": 0.8787878787878788
+  },
+  "sample_prediction_case": "United States v. Lowers",
+  "sample_prediction": {
+    "units": {
+      "Obs": 0.6349658966064453,
+      "Priv": 0.5917565226554871,
+      "Excp": 0.725933313369751,
+      "Rem": 0.6273502111434937,
+      "Close": 0.700445830821991,
+      "Amb": 0.41566193103790283,
+      "Temp": 0.42701730132102966,
+      "Gate": 0.04362225532531738,
+      "Bound": 0.08564142882823944,
+      "Spec": 0.6118758320808411,
+      "Scope": 0.7110613584518433,
+      "JRem": 0.9551284909248352
+    },
+    "operators": {
+      "abandonment": 0.04893459752202034,
+      "consent": 0.04634135589003563,
+      "exigency": 0.11620175093412399,
+      "good_faith": 0.3722549378871918,
+      "attenuation": 0.03569578751921654,
+      "private_search": 0.04680173471570015,
+      "scope_breach": 0.04890724644064903,
+      "curtilage": 0.0544276162981987,
+      "emergency_aid": 0.037953101098537445,
+      "public_exposure": 0.04296577721834183,
+      "automobile_exception": 0.06367862224578857,
+      "protective_sweep": 0.04607633501291275,
+      "probation_waiver": 0.043005406856536865,
+      "search_incident": 0.037189602851867676,
+      "boundary_reclassification": 0.23204058408737183,
+      "digital_privacy": 0.3981209695339203,
+      "home_core": 0.0808296725153923,
+      "warrant_particularity": 0.1325494796037674
+    },
+    "outcome": "DENIED",
+    "outcome_probabilities": {
+      "DENIED": 0.8330585360527039,
+      "GRANTED": 0.15968294441699982,
+      "MIXED_REMAND": 0.00215163454413414,
+      "PROCEDURAL": 0.002205194905400276,
+      "UNKNOWN": 0.0010085984831675887,
+      "GRANTED_OR_REVERSED": 0.0018931016093119979
+    },
+    "suppression_pressure": 0.09983396569010657,
+    "nearest_centroid": {
+      "cluster": "vehicle_search",
+      "distance": 0.16795068980120015
+    }
+  },
+  "nearest_neighbors_true_space_sample": {
+    "State of Iowa v. Swanson": [
+      [
+        "United States v. Lowers",
+        0.295803964138031
+      ],
+      [
+        "Hunter v. State of Florida",
+        0.3278719186782837
+      ],
+      [
+        "United States v. Suggs",
+        0.39115217328071594
+      ]
+    ],
+    "Eric Mel Thompson v. State of Iowa": [
+      [
+        "State of Iowa v. Swanson",
+        0.6689543724060059
+      ],
+      [
+        "United States v. Lowers",
+        0.7245688438415527
+      ],
+      [
+        "Hunter v. State of Florida",
+        0.7582874894142151
+      ]
+    ],
+    "Hunter v. State of Florida": [
+      [
+        "State of Iowa v. Swanson",
+        0.3278719186782837
+      ],
+      [
+        "United States v. Suggs",
+        0.3801315724849701
+      ],
+      [
+        "United States v. Watson",
+        0.40681692957878113
+      ]
+    ],
+    "State of Texas v. Barber": [
+      [
+        "United States v. Moses",
+        0.4954795837402344
+      ],
+      [
+        "People v. Perez",
+        0.5777542591094971
+      ],
+      [
+        "State v. Maurice Johnson",
+        0.5890670418739319
+      ]
+    ],
+    "United States v. Lowers": [
+      [
+        "State of Iowa v. Swanson",
+        0.295803964138031
+      ],
+      [
+        "New York Payton Case",
+        0.3475629389286041
+      ],
+      [
+        "Meiner v. Superior Court",
+        0.363593190908432
+      ]
+    ]
+  }
+}

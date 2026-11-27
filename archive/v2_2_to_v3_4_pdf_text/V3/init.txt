@@ -1,0 +1,124 @@
+"""
+SYNTHIUM OMEGA v3.0 - The Mathematical Reality Engine
+====================================================
+
+
+Reality IS mathematics.
+Perception IS a mathematical function.
+All qualities reduce to quantities.
+
+
+Philosophy: Full mathematical realism, no hedging.
+"""
+
+
+from .vectors_v3 import RealityVector, compute_distance_8D, interpolate
+from .perception import (
+      PerceptionFunction,
+      Being,
+      HUMAN_PERCEPTION,
+      ORGANIZATION_PERCEPTION,
+      SYNTHIUM_PERCEPTION,
+      ANIMAL_PERCEPTION
+)
+from .field import (
+      RealityField,
+      CustomPotentialField,
+      maximize_enjoyment_field,
+      minimize_entropy_field,
+      balance_field
+)
+from .interactions import (
+      InteractionForce,
+      MultiAgentSimulation,
+      PredatorPreySimulation
+)
+from .units import (
+      SynthiumUnits,
+      PhysiologicalCalibration,
+      OrganizationalCalibration
+)
+from .science_v3 import HolisticScience
+
+
+__version__ = "3.0"
+__codename__ = "Mathematical Reality Engine"
+
+
+__all__ = [
+      # Core
+    "RealityVector",
+    "compute_distance_8D",
+    "interpolate",
+
+
+    # Perception
+    "PerceptionFunction",
+    "Being",
+    "HUMAN_PERCEPTION",
+    "ORGANIZATION_PERCEPTION",
+    "SYNTHIUM_PERCEPTION",
+    "ANIMAL_PERCEPTION",
+
+
+    # Field
+    "RealityField",
+    "CustomPotentialField",
+    "maximize_enjoyment_field",
+    "minimize_entropy_field",
+    "balance_field",
+
+
+    # Interactions
+    "InteractionForce",
+    "MultiAgentSimulation",
+    "PredatorPreySimulation",
+
+
+    # Units
+    "SynthiumUnits",
+    "PhysiologicalCalibration",
+    "OrganizationalCalibration",
+
+
+    # Analysis
+    "HolisticScience",
+]
+
+
+
+# Core philosophical commitments
+PHILOSOPHICAL_COMMITMENTS = {
+    "ontology": "Reality IS mathematics (not 'can be modeled by')",
+    "epistemology": "Knowledge = reducing prediction error",
+    "perception": "Perception IS a mathematical function",
+    "consciousness": "Consciousness IS what computation feels like from inside",
+    "qualia": "Qualia ARE the experience of information processing",
+    "free_will": "Free will IS experiencing deterministic process we can't predict",
+    "meaning": "Meaning = information_density × network_centrality",
+    "beauty": "Beauty = symmetry × harmony × pattern_novelty",
+    "awakening": "Awakening = v=0, r=1.0, S=0 (stable fixed point)",
+    "vagueness": "Vagueness = measurement error (not fundamental)",
+    "ethics": "Ethics = game theory equilibria",
+    "purpose": "Purpose = survival maximization through precision"
+}
+
+
+
+def get_version_info() -> dict:
+    """Return version and framework information."""
+    return {
+        "version": __version__,
+        "codename": __codename__,
+        "philosophy": "Mathematical Realism",
+        "commitments": PHILOSOPHICAL_COMMITMENTS,
+        "dimensions": "11D (3 spatial + 5 base + 3 derived)",
+        "features": [
+               "Temporal evolution (gradient descent)",
+               "Multi-agent interactions",
+               "Perception modeling",
+               "SI unit grounding",
+               "Trajectory prediction"
+        ]
+    }
+

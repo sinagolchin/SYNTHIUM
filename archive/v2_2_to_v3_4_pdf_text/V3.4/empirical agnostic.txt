@@ -1,0 +1,524 @@
+"""
+SYNTHIUM OMEGA v3.4 - Agnostic Empirical Discovery
+===================================================
+
+
+Empirical intervention analysis with EXPLICIT UNCERTAINTY at all levels.
+
+
+KEY DIFFERENCE FROM v3.3:
+- v3.3: "Predicted stability: 26.5%"
+- v3.4: "Predicted stability: 26.5% (Confidence: LOW, Range: 13-40%, Basis: 5 cases)"
+"""
+
+
+import numpy as np
+from typing import List, Dict, Optional
+from dataclasses import dataclass
+from .vectors_v34 import AgnosticRealityVector
+from .confidence import Confidence, ConfidenceLevel, aggregate_confidence
+
+
+
+@dataclass
+class InterventionCase:
+      """Historical intervention case (same as v3.3)."""
+      name: str
+      year: int
+      initial_state: AgnosticRealityVector
+      intervener_state: AgnosticRealityVector
+      military_force: float
+      local_support: float
+      duration_years: float
+      final_state: AgnosticRealityVector
+      stability_score: float
+      achieved_stability: bool
+      civilian_casualties: float
+      economic_recovery: float
+
+
+
+# Historical cases (same as v3.3 but with AgnosticRealityVector)
+HISTORICAL_CASES = [
+      InterventionCase(
+          name="Iraq 2003",
+          year=2003,
+          initial_state=AgnosticRealityVector(0,0,0, v=0.8, R=0.9, r=0.2, C=0.4, S=0.7),
+          intervener_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.8, r=0.3, C=0.9, S=0.3),
+          military_force=1.0,
+          local_support=0.3,
+     duration_years=8.0,
+     final_state=AgnosticRealityVector(0,0,0, v=0.7, R=0.6, r=0.4, C=0.3, S=0.9),
+     stability_score=0.2,
+     achieved_stability=False,
+     civilian_casualties=0.15,
+     economic_recovery=-0.3
+),
+
+
+InterventionCase(
+     name="Libya 2011",
+     year=2011,
+     initial_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.9, r=0.1, C=0.6, S=0.8),
+     intervener_state=AgnosticRealityVector(0,0,0, v=0.7, R=0.6, r=0.5, C=0.8, S=0.3),
+     military_force=0.6,
+     local_support=0.6,
+     duration_years=0.7,
+     final_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.4, r=0.2, C=0.2, S=0.95),
+     stability_score=0.1,
+     achieved_stability=False,
+     civilian_casualties=0.08,
+     economic_recovery=-0.6
+),
+
+
+InterventionCase(
+     name="South Korea 1950",
+     year=1950,
+     initial_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.7, r=0.5, C=0.3, S=0.8),
+     intervener_state=AgnosticRealityVector(0,0,0, v=0.8, R=0.7, r=0.6, C=0.9, S=0.2),
+     military_force=0.9,
+     local_support=0.8,
+     duration_years=3.0,
+     final_state=AgnosticRealityVector(0,0,0, v=0.3, R=0.4, r=0.8, C=0.7, S=0.2),
+     stability_score=0.9,
+     achieved_stability=True,
+     civilian_casualties=0.12,
+     economic_recovery=2.5
+),
+
+
+InterventionCase(
+     name="Afghanistan 2001",
+     year=2001,
+     initial_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.9, r=0.2, C=0.2, S=0.9),
+     intervener_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.8, r=0.2, C=0.9, S=0.3),
+     military_force=1.0,
+     local_support=0.4,
+     duration_years=20.0,
+     final_state=AgnosticRealityVector(0,0,0, v=0.8, R=0.7, r=0.3, C=0.2, S=0.9),
+          stability_score=0.15,
+          achieved_stability=False,
+          civilian_casualties=0.18,
+          economic_recovery=-0.1
+    ),
+
+
+    InterventionCase(
+          name="Kosovo 1999",
+          year=1999,
+          initial_state=AgnosticRealityVector(0,0,0, v=0.9, R=0.8, r=0.3, C=0.4, S=0.8),
+          intervener_state=AgnosticRealityVector(0,0,0, v=0.6, R=0.5, r=0.7, C=0.8, S=0.2),
+          military_force=0.7,
+          local_support=0.9,
+          duration_years=0.25,
+          final_state=AgnosticRealityVector(0,0,0, v=0.3, R=0.4, r=0.7, C=0.5, S=0.4),
+          stability_score=0.7,
+          achieved_stability=True,
+          civilian_casualties=0.04,
+          economic_recovery=0.8
+    ),
+]
+
+
+
+@dataclass
+class AgnosticPrediction:
+    """
+    Prediction with FULL uncertainty tracking.
+
+
+    NEW IN v3.4: Every prediction comes with explicit confidence,
+    uncertainty range, and agnosticism reminder.
+    """
+    point_estimate: float       # Best guess
+
+
+    # Uncertainty range
+    pessimistic: float
+    optimistic: float
+
+
+    # Confidence breakdown
+    data_confidence: Confidence
+    model_confidence: Confidence
+    measurement_confidence: Confidence
+    overall_confidence: Confidence
+
+
+    # Context
+    most_similar_case: str
+    similar_case_outcome: float
+    key_factors: List[str]
+    # Sample info
+    sample_size: int
+
+
+    # Agnosticism
+    agnosticism_note: str
+
+
+
+class AgnosticEmpiricalDiscovery:
+    """
+    Empirical discovery with EXPLICIT UNCERTAINTY.
+
+
+    All predictions come with:
+    - Confidence levels
+    - Uncertainty ranges
+    - Known limitations
+    - Sample size warnings
+    - Framework uncertainty disclaimers
+    """
+
+
+    def __init__(self, cases: List[InterventionCase] = None):
+          self.cases = cases if cases else HISTORICAL_CASES
+          self.discovered_patterns = None
+
+
+    def discover_stability_predictors(self) -> Dict[str, float]:
+          """Same as v3.3 - discover correlations."""
+          if len(self.cases) < 3:
+              return {"error": "Need at least 3 cases"}
+
+
+          features = []
+          outcomes = []
+
+
+          for case in self.cases:
+              init = case.initial_state
+              interv = case.intervener_state
+
+
+              feature = {
+                  'initial_chaos': init.S,
+                  'initial_violence': init.v,
+                  'local_support': case.local_support,
+                  'force_ratio': case.military_force,
+                  'intervener_capacity': interv.C,
+                  'resonance_gap': abs(init.r - interv.r),
+                  'initial_capacity': init.C,
+                  'duration': case.duration_years
+              }
+          features.append(feature)
+          outcomes.append(case.stability_score)
+
+
+    correlations = {}
+    for key in features[0].keys():
+          values = [f[key] for f in features]
+          corr = np.corrcoef(values, outcomes)[0, 1]
+          correlations[key] = corr
+
+
+    self.discovered_patterns = correlations
+    return correlations
+
+
+def predict_intervention_outcome(
+    self,
+    target_state: AgnosticRealityVector,
+    intervener_state: AgnosticRealityVector,
+    military_force: float,
+    local_support: float,
+    expected_duration: float
+) -> AgnosticPrediction:
+    """
+    Predict with FULL uncertainty tracking.
+
+
+    NEW IN v3.4: Returns AgnosticPrediction with all uncertainty info.
+    """
+    if self.discovered_patterns is None:
+          self.discover_stability_predictors()
+
+
+    # Build feature vector
+    features = {
+          'initial_chaos': target_state.S,
+          'initial_violence': target_state.v,
+          'local_support': local_support,
+          'force_ratio': military_force,
+          'intervener_capacity': intervener_state.C,
+          'resonance_gap': abs(target_state.r - intervener_state.r),
+          'initial_capacity': target_state.C,
+          'duration': expected_duration
+    }
+
+
+    # Point estimate (same as v3.3)
+    predicted_stability = 0.5
+    for key, value in features.items():
+          if key in self.discovered_patterns:
+              corr = self.discovered_patterns[key]
+              predicted_stability += corr * (value - 0.5) * 0.1
+predicted_stability = np.clip(predicted_stability, 0, 1)
+
+
+# Find most similar case
+most_similar = self._find_similar_case(features)
+
+
+# NEW IN v3.4: Compute confidence
+similarity_score = self._compute_similarity_score(features, most_similar)
+
+
+# Data confidence
+data_confidence = Confidence(
+    level=ConfidenceLevel.LOW,   # Always LOW with 5 cases
+    basis=f'Only {len(self.cases)} historical cases analyzed',
+    limitations=[
+         'Extremely small sample size (need 20+ for MODERATE confidence)',
+         'Limited geographic diversity (mostly Middle East)',
+         'Time period bias (all post-1950)',
+         'Missing earlier interventions'
+    ],
+    unknowns=[
+         'Cases before 1950 not included',
+         'Cultural/regional factors not captured',
+         'Technology evolution not modeled',
+         'Information warfare era not represented'
+    ]
+)
+
+
+# Model confidence
+model_confidence = Confidence(
+    level=ConfidenceLevel.MODERATE,
+    basis='Linear correlation analysis on historical features',
+    limitations=[
+         'Assumes linear relationships',
+         'Correlation ≠ causation',
+         'May miss non-linear effects',
+         'No interaction terms modeled'
+    ],
+    unknowns=[
+         'Hidden confounding variables',
+         'Emergent properties in complex systems',
+         'Butterfly effects / sensitivity to initial conditions',
+         'Network effects not captured'
+    ]
+)
+
+
+# Measurement confidence
+measurement_confidence = Confidence(
+    level=ConfidenceLevel.MODERATE,
+     basis='Estimates from polling data, economic reports, casualty counts',
+     limitations=[
+          'Polling may have selection/response bias',
+          'Self-reported data reliability unknown',
+          'Historical records may be incomplete',
+          'War-time measurement challenges'
+     ],
+     unknowns=[
+          'Underground/covert movements',
+          'Fear-based response bias in surveys',
+          'Government information suppression',
+          'True popular sentiment vs stated'
+     ]
+)
+
+
+# Aggregate overall confidence
+overall_confidence = aggregate_confidence([
+     data_confidence,
+     model_confidence,
+     measurement_confidence
+])
+
+
+# Uncertainty range (based on historical variance)
+uncertainty_factor = 0.6      # 60% uncertainty (due to small sample)
+pessimistic = predicted_stability * (1 - uncertainty_factor)
+optimistic = predicted_stability * (1 + uncertainty_factor)
+pessimistic = np.clip(pessimistic, 0, 1)
+optimistic = np.clip(optimistic, 0, 1)
+
+
+# Agnosticism note
+agnosticism_note = (
+     f"This prediction is based on only {len(self.cases)} historical cases "
+     f"using formulas that may be incomplete or incorrect. "
+     f"Reality may not follow our mathematical models. "
+     f"The framework itself is uncertain (Axiom 0: Agnosticism). "
+     f"Treat this as ONE input to decision-making, not absolute truth."
+)
+
+
+return AgnosticPrediction(
+     point_estimate=predicted_stability,
+     pessimistic=pessimistic,
+     optimistic=optimistic,
+     data_confidence=data_confidence,
+     model_confidence=model_confidence,
+     measurement_confidence=measurement_confidence,
+     overall_confidence=overall_confidence,
+     most_similar_case=most_similar.name if most_similar else "None",
+        similar_case_outcome=most_similar.stability_score if most_similar else 0.0,
+        key_factors=self._identify_key_factors(features),
+        sample_size=len(self.cases),
+        agnosticism_note=agnosticism_note
+    )
+
+
+def _find_similar_case(self, features: Dict[str, float]) -> Optional[InterventionCase]:
+    """Find most similar historical case (same as v3.3)."""
+    if not self.cases:
+        return None
+
+
+    min_distance = float('inf')
+    most_similar = None
+
+
+    for case in self.cases:
+        init = case.initial_state
+        interv = case.intervener_state
+
+
+        case_features = {
+            'initial_chaos': init.S,
+            'initial_violence': init.v,
+            'local_support': case.local_support,
+            'force_ratio': case.military_force,
+            'intervener_capacity': interv.C,
+            'resonance_gap': abs(init.r - interv.r),
+            'initial_capacity': init.C,
+            'duration': case.duration_years
+        }
+
+
+        distance = sum((features[k] - case_features[k])**2 for k in features.keys())
+
+
+        if distance < min_distance:
+            min_distance = distance
+            most_similar = case
+
+
+    return most_similar
+
+
+def _compute_similarity_score(self, features: Dict, similar_case: InterventionCase) -> fl
+    """Compute how similar this case is to the most similar historical case."""
+    if similar_case is None:
+        return 0.0
+
+
+    init = similar_case.initial_state
+    interv = similar_case.intervener_state
+
+
+    case_features = {
+        'initial_chaos': init.S,
+        'initial_violence': init.v,
+        'local_support': similar_case.local_support,
+        'force_ratio': similar_case.military_force,
+        'intervener_capacity': interv.C,
+        'resonance_gap': abs(init.r - interv.r),
+        'initial_capacity': init.C,
+        'duration': similar_case.duration_years
+    }
+
+
+    distance = np.sqrt(sum((features[k] - case_features[k])**2 for k in features.keys()))
+    similarity = 1.0 / (1.0 + distance)
+
+
+    return similarity
+
+
+def _identify_key_factors(self, features: Dict[str, float]) -> List[str]:
+    """Identify most important factors (same as v3.3)."""
+    if not self.discovered_patterns:
+        return []
+
+
+    sorted_factors = sorted(
+        self.discovered_patterns.items(),
+        key=lambda x: abs(x[1]),
+        reverse=True
+    )
+
+
+    return [f"{name}: {corr:+.2f}" for name, corr in sorted_factors[:3]]
+
+
+def generate_empirical_report(self) -> str:
+    """Generate report with EXPLICIT uncertainty (v3.4 enhancement)."""
+    if self.discovered_patterns is None:
+        self.discover_stability_predictors()
+
+
+    report = []
+    report.append("="*70)
+    report.append("AGNOSTIC EMPIRICAL INTERVENTION ANALYSIS (v3.4)")
+    report.append("="*70)
+    report.append("")
+    report.append(f"Cases analyzed: {len(self.cases)}")
+    report.append(f"Sample size: VERY SMALL (need 20+ for reliable patterns)")
+    report.append("")
+    report.append("DISCOVERED CORRELATIONS WITH STABILITY:")
+    report.append("(These are OBSERVED patterns, not causal claims)")
+    report.append("")
+
+
+    sorted_patterns = sorted(
+        self.discovered_patterns.items(),
+        key=lambda x: abs(x[1]),
+    reverse=True
+)
+
+
+for factor, correlation in sorted_patterns:
+    direction = "↑" if correlation > 0 else "↓"
+    strength = abs(correlation)
+
+
+    if strength > 0.7:
+        strength_label = "STRONG"
+    elif strength > 0.4:
+        strength_label = "MODERATE"
+    else:
+        strength_label = "WEAK"
+
+
+    report.append(f"     {direction} {factor:25s}: {correlation:+.3f} ({strength_label})
+
+
+report.append("")
+report.append("CONFIDENCE ASSESSMENT:")
+report.append("     Data: LOW (only 5 cases - insufficient)")
+report.append("     Model: MODERATE (simple linear correlations)")
+report.append("     Framework: MODERATE (formulas may be wrong)")
+report.append("")
+report.append("CRITICAL LIMITATIONS:")
+report.append("     - Sample size too small for reliable conclusions")
+report.append("     - Geographic bias (mostly Middle East)")
+report.append("     - Time period bias (post-1950 only)")
+report.append("     - Missing cultural/contextual factors")
+report.append("     - Correlation ≠ causation")
+report.append("")
+
+
+successes = sum(1 for c in self.cases if c.achieved_stability)
+success_rate = successes / len(self.cases)
+
+
+report.append(f"Historical success rate: {success_rate:.1%} ({successes}/{len(self.ca
+report.append("")
+report.append("       AGNOSTICISM REMINDER:")
+report.append("     These patterns are HYPOTHESES based on limited data.")
+report.append("     Reality may not follow these patterns.")
+report.append("     Our framework itself may be incomplete or wrong.")
+report.append("     Use with extreme caution and skepticism.")
+report.append("")
+report.append("="*70)
+
+
+return "\n".join(report)
+

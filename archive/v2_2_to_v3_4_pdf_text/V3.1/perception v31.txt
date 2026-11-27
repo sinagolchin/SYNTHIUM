@@ -1,0 +1,157 @@
+"""
+SYNTHIUM OMEGA v3.1 - Perception as Mathematical Function
+=========================================================
+
+
+Perception IS a mathematical function (not separate from math).
+"""
+
+
+import numpy as np
+from dataclasses import dataclass, field
+from typing import Dict, Optional
+from .vectors_v31 import RealityVector
+
+
+
+@dataclass
+class PerceptionFunction:
+      """Models how a being perceives reality through lossy measurement."""
+
+
+      sensor_noise: float = 0.1
+      dimensions_visible: int = 5
+      update_latency: float = 0.1
+      prior_bias: Optional[Dict[str, float]] = None
+
+
+      def __post_init__(self):
+          if self.prior_bias is None:
+              self.prior_bias = {}
+
+
+      def perceive(self, true_state: RealityVector) -> RealityVector:
+          """Apply perception function: noise + dimensionality reduction + bias."""
+          perceived = true_state.copy()
+
+
+          # 1. Add sensor noise
+          for dim in ['v', 'R', 'r', 'C', 'S']:
+              noise = np.random.normal(0, self.sensor_noise)
+              new_val = getattr(perceived, dim) + noise
+              setattr(perceived, dim, np.clip(new_val, 0, 1))
+
+
+          # 2. Apply prior biases
+          for dim, bias in self.prior_bias.items():
+              if hasattr(perceived, dim):
+                  current = getattr(perceived, dim)
+                  biased = 0.7 * current + 0.3 * bias
+                  setattr(perceived, dim, np.clip(biased, 0, 1))
+
+
+          # 3. Dimensionality reduction
+        all_dims = ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']
+        if len(all_dims) > self.dimensions_visible:
+            salience = {dim: abs(getattr(perceived, dim) - 0.5) for dim in all_dims}
+            visible = sorted(salience, key=salience.get, reverse=True)[:self.dimensions_visib
+            for dim in all_dims:
+                if dim not in visible and hasattr(perceived, dim):
+                      setattr(perceived, dim, 0.5)
+
+
+        # Recompute derived
+        perceived.E = perceived.compute_enjoyment()
+        perceived.M = perceived.compute_meaning()
+        perceived.P = perceived.compute_perception_accuracy()
+
+
+        return perceived
+
+
+    def perception_error(self, true_state: RealityVector) -> float:
+        """RMS error between perception and reality."""
+        perceived = self.perceive(true_state)
+        error = 0.0
+        for dim in ['v', 'R', 'r', 'C', 'S', 'E', 'M', 'P']:
+            true_val = getattr(true_state, dim)
+            perceived_val = getattr(perceived, dim)
+            error += (perceived_val - true_val) ** 2
+        return np.sqrt(error / 8.0)
+
+
+
+# Predefined perception functions
+HUMAN_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.2,
+    dimensions_visible=3,
+    update_latency=0.3,
+    prior_bias={'E': 0.6, 'P': 0.7, 'v': 0.5}
+)
+
+
+SYNTHIUM_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.02,
+    dimensions_visible=8,
+    update_latency=0.001,
+    prior_bias={}
+)
+
+
+ANIMAL_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.15,
+    dimensions_visible=2,
+    update_latency=0.1,
+    prior_bias={'v': 0.6, 'R': 0.4}
+)
+ORGANIZATION_PERCEPTION = PerceptionFunction(
+    sensor_noise=0.4,
+    dimensions_visible=2,
+    update_latency=30.0,
+    prior_bias={'r': 0.7, 'S': 0.3, 'E': 0.6}
+)
+
+
+
+class Being:
+    """
+    Entity that perceives and models itself.
+    Better self-models = competitive advantage.
+    """
+
+
+    def __init__(self, true_state: RealityVector,
+                    perception_func: PerceptionFunction,
+                    model_precision: float = 0.5):
+          self.true_state = true_state.copy()
+          self.perception = perception_func
+          self.model_precision = model_precision
+          self.self_model = None
+
+
+    def update_self_model(self):
+          """Update internal model using perception."""
+          perceived = self.perception.perceive(self.true_state)
+          self.self_model = RealityVector(
+               x=self.true_state.x, y=self.true_state.y, z=self.true_state.z,
+               v=self.model_precision * self.true_state.v + (1-self.model_precision) * perceived
+               R=self.model_precision * self.true_state.R + (1-self.model_precision) * perceived
+               r=self.model_precision * self.true_state.r + (1-self.model_precision) * perceived
+               C=self.model_precision * self.true_state.C + (1-self.model_precision) * perceived
+               S=self.model_precision * self.true_state.S + (1-self.model_precision) * perceived
+          )
+
+
+    def model_error(self) -> float:
+          """Distance between true state and self-model."""
+          if self.self_model is None:
+               return 1.0
+          return self.true_state.distance_to(self.self_model) / np.sqrt(8)
+
+
+    def competitive_fitness(self) -> float:
+          """Fitness = 1 / (model_error + (1 - perception_accuracy) + epsilon)."""
+          error = self.model_error()
+          perception_accuracy = self.true_state.P
+          return 1.0 / (error + (1.0 - perception_accuracy) + 0.01)
+

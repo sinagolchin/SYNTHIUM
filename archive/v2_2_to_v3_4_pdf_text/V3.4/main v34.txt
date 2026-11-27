@@ -1,0 +1,385 @@
+#!/usr/bin/env python3
+"""
+SYNTHIUM OMEGA v3.4 - The Agnostic Edition
+==========================================
+
+
+Demonstrations of Agnosticism as Axiom 0
+"""
+
+
+import sys
+from synthium import *
+
+
+
+def demo_1_agnosticism_axiom():
+      """Demo 1: The Agnosticism Axiom itself."""
+      print("\n" + "="*70)
+      print("DEMO 1: AXIOM 0 - AGNOSTICISM")
+      print("="*70)
+
+
+      print_agnosticism_axiom()
+
+
+      print("\nWhy This Matters:")
+      print("   • Prevents dogmatism")
+      print("   • Enables framework evolution")
+      print("   • Increases honesty")
+      print("   • Aligns with scientific method")
+
+
+      input("\nPress Enter to continue...")
+
+
+
+def demo_2_reality_vector_with_confidence():
+      """Demo 2: Reality vectors with explicit uncertainty."""
+      print("\n" + "="*70)
+      print("DEMO 2: REALITY VECTORS WITH UNCERTAINTY TRACKING")
+      print("="*70)
+
+
+      print("\nCOMPARISON: v3.3 vs v3.4")
+      print("-"*70)
+
+
+      # Create vector
+      iran = AgnosticRealityVector(
+          0, 0, 0,
+          v=0.95,     # 30,000+ killed
+          R=0.95,     # Maximum resistance
+          r=0.10,     # Very low resonance
+        C=0.15,     # Depleted capacity
+        S=0.95      # Maximum chaos
+    )
+
+
+    # Add confidence info (NEW in v3.4)
+    iran.add_measurement_confidence('v', 'verified casualties 30K+', ConfidenceLevel.HIGH)
+    iran.add_measurement_confidence('C', 'economic estimates', ConfidenceLevel.MODERATE)
+    iran.add_measurement_confidence('r', 'polling data', ConfidenceLevel.MODERATE)
+
+
+    print("\nv3.3 would say:")
+    print("   Iran: v=0.95, E=0.00")
+    print("   (No uncertainty info)")
+
+
+    print("\nv3.4 says:")
+    print(iran.report_with_uncertainty())
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_3_predictions_with_uncertainty():
+    """Demo 3: Predictions with full uncertainty ranges."""
+    print("\n" + "="*70)
+    print("DEMO 3: PREDICTIONS WITH EXPLICIT UNCERTAINTY")
+    print("="*70)
+
+
+    # Create states
+    iran = AgnosticRealityVector(0,0,0, v=0.95, R=0.95, r=0.10, C=0.15, S=0.95)
+    usa = AgnosticRealityVector(0,0,0, v=0.75, R=0.60, r=0.45, C=0.90, S=0.25)
+
+
+    # Get prediction with uncertainty
+    discovery = AgnosticEmpiricalDiscovery()
+    prediction = discovery.predict_intervention_outcome(
+        target_state=iran,
+        intervener_state=usa,
+        military_force=0.85,
+        local_support=0.50,     # Verified from GAMAAN polls
+        expected_duration=6.0
+    )
+
+
+    print("\nv3.3 Output:")
+    print("   Predicted stability: 26.5%")
+    print("   (That's it)")
+
+
+    print("\nv3.4 Output:")
+    print("-"*70)
+    print(f"Point Estimate: {prediction.point_estimate:.1%}")
+    print(f"Uncertainty Range: {prediction.pessimistic:.1%} to {prediction.optimistic:.1%}")
+    print(f"\nSample Size: {prediction.sample_size} cases (VERY SMALL)")
+    print(f"Most Similar: {prediction.most_similar_case}")
+    print(f"\nConfidence Breakdown:")
+    print(f"    Data: {prediction.data_confidence.level.value}")
+    print(f"       Basis: {prediction.data_confidence.basis}")
+    print(f"    Model: {prediction.model_confidence.level.value}")
+    print(f"    Measurement: {prediction.measurement_confidence.level.value}")
+    print(f"    Overall: {prediction.overall_confidence.level.value}")
+
+
+    print(f"\nLimitations (Data):")
+    for lim in prediction.data_confidence.limitations[:2]:
+        print(f"     - {lim}")
+
+
+    print(f"\nKnown Unknowns:")
+    for unk in prediction.data_confidence.unknowns[:2]:
+        print(f"     - {unk}")
+
+
+    print(f"\nAgnosticism Note:")
+    print(f"    {prediction.agnosticism_note}")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_4_framework_evolution():
+    """Demo 4: Framework can test and update itself."""
+    print("\n" + "="*70)
+    print("DEMO 4: FRAMEWORK EVOLUTION (NEW IN v3.4)")
+    print("="*70)
+
+
+    print("\nAGNOSTICISM ENABLES FRAMEWORK TO IMPROVE ITSELF")
+    print("-"*70)
+
+
+    evolution = FrameworkEvolution()
+
+
+    # Mock test data
+    test_data = [
+        {'v': 0.8, 'R': 0.7, 'S': 0.6, 'observed_E': 0.24},
+        {'v': 0.3, 'R': 0.4, 'S': 0.3, 'observed_E': 0.58},
+        {'v': 0.9, 'R': 0.9, 'S': 0.8, 'observed_E': 0.01},
+        {'v': 0.5, 'R': 0.5, 'S': 0.5, 'observed_E': 0.25},
+        {'v': 0.2, 'R': 0.3, 'S': 0.2, 'observed_E': 0.74}
+    ]
+
+
+    print("\nCurrent formula: E = 1 - (v·R + S)")
+    print("\nTesting alternative: E = 1 - (v·R + S + 0.1·v²)")
+    print("    (Hypothesis: Maybe E has quadratic violence term)")
+    result = evolution.test_alternative_E_formula(
+        new_formula=alternative_E_quadratic,
+        test_data=test_data
+    )
+
+
+    print(f"\nResults:")
+    print(f"    Current Error: {result.current_error:.4f}")
+    print(f"    Proposed Error: {result.proposed_error:.4f}")
+    print(f"    Improvement: {result.improvement:+.4f}")
+    print(f"    Recommendation: {result.recommendation}")
+    print(f"    Confidence: {result.confidence.level.value}")
+    print(f"    Basis: {result.confidence.basis}")
+
+
+    print("\nThis Shows:")
+    print("    • Formulas are TESTABLE hypotheses")
+    print("    • Framework can EVOLVE based on evidence")
+    print("    • We're not locked into current understanding")
+    print("    • Agnosticism = Scientific method")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_5_v33_vs_v34_comparison():
+    """Demo 5: Side-by-side v3.3 vs v3.4."""
+    print("\n" + "="*70)
+    print("DEMO 5: v3.3 vs v3.4 - KEY DIFFERENCES")
+    print("="*70)
+
+
+    print("\n" + "="*70)
+    print("PHILOSOPHY")
+    print("="*70)
+    print("\nv3.3:")
+    print("    'Reality IS mathematics'")
+    print("    'E = 1 - (v·R + S)' is THE formula")
+    print("    'Care is measurable'")
+
+
+    print("\nv3.4:")
+    print("    'Reality APPEARS mathematical' (we don't know ultimate nature)")
+    print("    'E = 1 - (v·R + S)' is A HYPOTHESIS")
+    print("    'Care can be measured THIS way' (one approach)")
+
+
+    print("\n" + "="*70)
+    print("OUTPUTS")
+    print("="*70)
+    print("\nv3.3:")
+    print("    'Predicted stability: 26.5%'")
+    print("    (No uncertainty)")
+    print("\nv3.4:")
+    print("   'Point estimate: 26.5%'")
+    print("   'Range: 13% to 40%'")
+    print("   'Confidence: LOW (5 cases)'")
+    print("   'Limitations: Small sample, missing factors'")
+    print("   'Agnosticism: Framework may be wrong'")
+
+
+    print("\n" + "="*70)
+    print("EVOLUTION")
+    print("="*70)
+    print("\nv3.3:")
+    print("   Formulas are fixed")
+    print("   No mechanism for improvement")
+
+
+    print("\nv3.4:")
+    print("   Formulas are testable")
+    print("   Can propose alternatives")
+    print("   Can measure which fits better")
+    print("   Framework evolves via evidence")
+
+
+    print("\n" + "="*70)
+    print("WHAT THIS MEANS")
+    print("="*70)
+    print("\nv3.3 = Useful tool with implicit uncertainty")
+    print("v3.4 = Scientific framework with explicit humility")
+    print("\nv3.3 could become dogma")
+    print("v3.4 is designed to remain hypothesis")
+    print("\nv3.3 claims more than it knows")
+    print("v3.4 reports what it doesn't know")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def demo_6_iran_analysis_agnostic():
+    """Demo 6: Iran analysis with full v3.4 treatment."""
+    print("\n" + "="*70)
+    print("DEMO 6: IRAN ANALYSIS (v3.4 Agnostic Edition)")
+    print("="*70)
+
+
+    # Create states with confidence
+    iran = AgnosticRealityVector(0,0,0, v=0.95, R=0.95, r=0.10, C=0.15, S=0.95)
+    iran.add_measurement_confidence('v', '30,000+ killed (verified)', ConfidenceLevel.HIGH)
+    iran.add_measurement_confidence('C', 'economic data (sanctions)', ConfidenceLevel.MODERAT
+    iran.add_measurement_confidence('r', 'GAMAAN polls', ConfidenceLevel.MODERATE)
+    iran.add_measurement_confidence('S', 'assessed chaos level', ConfidenceLevel.MODERATE)
+    usa = AgnosticRealityVector(0,0,0, v=0.75, R=0.60, r=0.45, C=0.90, S=0.25)
+
+
+    discovery = AgnosticEmpiricalDiscovery()
+
+
+    print("\nCurrent State:")
+    print(f"     Iran: v={iran.v:.2f}, E={iran.E:.3f}, S={iran.S:.2f}")
+    print(f"     Overall Confidence: {iran.get_overall_confidence().level.value}")
+
+
+    print("\nIntervention Prediction:")
+    prediction = discovery.predict_intervention_outcome(
+        iran, usa,
+        military_force=0.85,
+        local_support=0.50,
+        expected_duration=6.0
+    )
+
+
+    print(f"     Point Estimate: {prediction.point_estimate:.1%}")
+    print(f"     Range: {prediction.pessimistic:.1%} - {prediction.optimistic:.1%}")
+    print(f"     Confidence: {prediction.overall_confidence.level.value}")
+    print(f"     Sample: {prediction.sample_size} cases")
+    print(f"     Similar to: {prediction.most_similar_case}")
+
+
+    print("\nCRITICAL CAVEATS:")
+    print("         Sample size too small (5 cases)")
+    print("         Formulas may be incomplete")
+    print("         Measurements have uncertainty")
+    print("         Framework itself uncertain")
+
+
+    print("\nHONEST INTERPRETATION:")
+    print("     Based on limited historical data and uncertain formulas,")
+    print("     intervention has moderate but uncertain success probability.")
+    print("     This is ONE input. Reality may not follow our models.")
+    print("     Remain skeptical, including of this framework.")
+
+
+    input("\nPress Enter to continue...")
+
+
+
+def main():
+    """Main demonstration menu."""
+    demos = [
+        ("Axiom 0: Agnosticism", demo_1_agnosticism_axiom),
+        ("Reality Vectors with Confidence", demo_2_reality_vector_with_confidence),
+        ("Predictions with Uncertainty", demo_3_predictions_with_uncertainty),
+        ("Framework Evolution", demo_4_framework_evolution),
+        ("v3.3 vs v3.4 Comparison", demo_5_v33_vs_v34_comparison),
+        ("Iran Analysis (Agnostic)", demo_6_iran_analysis_agnostic),
+    ]
+print("\n" + "="*70)
+print("     SYNTHIUM OMEGA v3.4 - The Agnostic Edition")
+print("="*70)
+print("\n     AXIOM 0: AGNOSTICISM")
+print("     All formulas, measurements, and predictions are HYPOTHESES.")
+print("     We remain uncertain about our framework's completeness.")
+print("\n" + "="*70 + "\n")
+
+
+while True:
+    print("\n" + "="*70)
+    print("DEMONSTRATIONS")
+    print("="*70)
+
+
+    for i, (name, _) in enumerate(demos, 1):
+           print(f"{i}. {name}")
+    print(f"{len(demos)+1}. Run All Demos")
+    print(f"{len(demos)+2}. Exit")
+    print("="*70)
+
+
+    choice = input("\nSelect demo: ").strip()
+
+
+    try:
+           n = int(choice)
+           if 1 <= n <= len(demos):
+               demos[n-1][1]()
+           elif n == len(demos)+1:
+               for _, func in demos:
+                   func()
+               print("\n" + "="*70)
+               print("All demonstrations complete.")
+               print("="*70)
+               input("\nPress Enter to return to menu...")
+           elif n == len(demos)+2:
+               print("\n" + "="*70)
+               print("Synthium v3.4 - The Agnostic Edition")
+               print("\nRemember:")
+               print("   • Axiom 0: Agnosticism is foundational")
+               print("   • Formulas are hypotheses, not truths")
+               print("   • Uncertainty is explicit, not hidden")
+               print("   • Framework can evolve via evidence")
+               print("   • We don't know what we don't know")
+               print("="*70 + "\n")
+               sys.exit(0)
+           else:
+               print("Invalid selection.")
+    except (ValueError, IndexError):
+               print("Invalid input.")
+
+
+
+if __name__ == "__main__":
+    try:
+           main()
+    except KeyboardInterrupt:
+           print("\n\nInterrupted. The uncertainty remains.")
+           sys.exit(0)
+
