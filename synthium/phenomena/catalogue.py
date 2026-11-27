@@ -623,6 +623,44 @@ RECORDS: List[Record] = [
            "ADMITTED / FOUND / CLAIMED / INFERRED tags; motivation measured first", (),
            "Each adjective is a dimension; formulas should emerge from many cases.", "",
            earlier_verdict="rankings with no real unit yet", where="CASES.csv on Drive (not in this repo)"),
+    Record("STRUCTURE-CALCULUS", "law", "every structure", "Nov 24 2026",
+           "Not one equation but the maths behind each structure: rates of change (derivatives), "
+           "stocks built up over time (integrals) and fixed relations (constants)", (),
+           "Sina: \"What would the integral or derivation mean there?\"", "Never set aside.",
+           where="research runs since Nov 24 2026 (Drive); synthium/geometry/",
+           proposed_by="Sina (the question); Claude (rate, stock, relation)"),
+    Record("JEALOUSY", "formula", "jealousy", "Nov 24 2026",
+           "J = connection x rival pull x possibility x powerlessness; envy is the same with no bond",
+           ("connection", "rival pull", "possibility", "powerlessness"),
+           "Fear of Loss extended to a rival.",
+           "Sina: jealousy was only an example; structures depend on each case's own qualities.",
+           where="project chat, Nov 24 2026 (text only, not in this repo)", source="text only"),
+    Record("STRUCTURE-BALANCE", "law", "every being", "Nov 26 2026",
+           "Every being, material or not, is a structure: forces in N dimensions that sum to zero "
+           "(for a flowing structure, what flows in equals what flows out), built and drained by "
+           "forces, with sub-structures of its own; knowing the forces lets you change or collapse it",
+           ("N dimensions", "building forces", "draining forces", "sub-structures"),
+           "A being has to be a structure to be called a being (anger too). How many dimensions, "
+           "forces and sub-structures an abstract structure has is what the research tries to find.",
+           "Never set aside: adopted on Nov 26 as the working convention. Each run names the forces, "
+           "stability, lifetime and collapse force before reading the outcome.",
+           earlier_verdict="first runs (Nov 26-27): named collapse forces missed twice (a forced "
+           "marriage's end did not end an illness; denial, not travel, broke a patient's pill-taking)",
+           where="research runs since Nov 26 2026; STRUCTURES file on Drive (not in this repo); "
+           "synthium/phenomena/structure.py",
+           proposed_by="Sina; Claude added stable balance, lifetime and countable units; "
+           "precedent: Kurt Lewin's force fields (1940s)"),
+    Record("STRUCTURES-CASES", "unit", "the qualities in each case", "Nov 26 2026",
+           "About 40 structures built from each case's own qualities, each with its dimensions, "
+           "forces, sub-structures, stability, lifetime and collapse force; earlier recipe versions kept",
+           (), "Structures should come from the cases, not from a fixed list.", "Never set aside.",
+           where="STRUCTURES file on Drive (case data, not in this repo)",
+           proposed_by="Sina (the convention); built in Claude's research runs"),
+    Record("LOCK-IN", "law", "every structure", "Nov 26 2026",
+           "Lock-in: once a structure has formed it can keep itself going without the forces that built it",
+           (), "Why removing the force that built a structure may not collapse it.", "",
+           earlier_verdict="one case so far (three wedding-onset illnesses)",
+           where="research run of Nov 26 2026 (Drive)", proposed_by="Claude (research run)"),
     Record("GEOMETRY", "tool", "space of cases", "Nov 24 2026",
            "Cases as points, qualities as dimensions: build-up, base-vs-derived test, curvature, "
            "metric fields, rates of change", (), "V4's maths fed with real case scores.", "",

@@ -75,7 +75,7 @@ The list below is generated from `synthium/phenomena/catalogue.py`; edit that fi
 
 <!-- BEGIN GENERATED: python -m synthium.phenomena index --write -->
 
-121 entries. Every one: status **under consideration**, evidence **UNTESTED** unless the earlier result column says what an earlier test found.
+126 entries. Every one: status **under consideration**, evidence **UNTESTED** unless the earlier result column says what an earlier test found.
 
 ### V1
 
@@ -320,7 +320,17 @@ The list below is generated from `synthium/phenomena/catalogue.py`; edit that fi
 
 | id | version | kind | phenomenon | proposed by | what it says | dimensions | what it claimed | why it was set aside | earlier result | where it lives now |
 |---|---|---|---|---|---|---|---|---|---|---|
+| `STRUCTURE-CALCULUS` | Nov 24 2026 | law | every structure | Sina (the question); Claude (rate, stock, relation) | Not one equation but the maths behind each structure: rates of change (derivatives), stocks built up over time (integrals) and fixed relations (constants) | - | Sina: "What would the integral or derivation mean there?" | Never set aside. | - | research runs since Nov 24 2026 (Drive); `synthium/geometry/` |
+| `JEALOUSY` | Nov 24 2026 | formula | jealousy | - | J = connection x rival pull x possibility x powerlessness; envy is the same with no bond | connection, rival pull, possibility, powerlessness | Fear of Loss extended to a rival. | Sina: jealousy was only an example; structures depend on each case's own qualities. | - | project chat, Nov 24 2026 (text only, not in this repo)(text only) |
 | `GEOMETRY` | Nov 24 2026 | tool | space of cases | - | Cases as points, qualities as dimensions: build-up, base-vs-derived test, curvature, metric fields, rates of change | - | V4's maths fed with real case scores. | - | - | `synthium/geometry/` |
 | `PHENOMENA` | Nov 24 2026 | tool | every phenomenon | - | Phenomenon as a structure: its own dimensions, how it is created from them (sum, product, weakest/strongest link, priority), and which combination stays balanced | - | The early phenomenon idea, tested on case scores. | - | - | `synthium/phenomena/` |
+
+### Nov 26 2026
+
+| id | version | kind | phenomenon | proposed by | what it says | dimensions | what it claimed | why it was set aside | earlier result | where it lives now |
+|---|---|---|---|---|---|---|---|---|---|---|
+| `STRUCTURE-BALANCE` | Nov 26 2026 | law | every being | Sina; Claude added stable balance, lifetime and countable units; precedent: Kurt Lewin's force fields (1940s) | Every being, material or not, is a structure: forces in N dimensions that sum to zero (for a flowing structure, what flows in equals what flows out), built and drained by forces, with sub-structures of its own; knowing the forces lets you change or collapse it | N dimensions, building forces, draining forces, sub-structures | A being has to be a structure to be called a being (anger too). How many dimensions, forces and sub-structures an abstract structure has is what the research tries to find. | Never set aside: adopted on Nov 26 as the working convention. Each run names the forces, stability, lifetime and collapse force before reading the outcome. | first runs (Nov 26-27): named collapse forces missed twice (a forced marriage's end did not end an illness; denial, not travel, broke a patient's pill-taking) | research runs since Nov 26 2026; STRUCTURES file on Drive (not in this repo); `synthium/phenomena/structure.py` |
+| `STRUCTURES-CASES` | Nov 26 2026 | unit | the qualities in each case | Sina (the convention); built in Claude's research runs | About 40 structures built from each case's own qualities, each with its dimensions, forces, sub-structures, stability, lifetime and collapse force; earlier recipe versions kept | - | Structures should come from the cases, not from a fixed list. | Never set aside. | - | STRUCTURES file on Drive (case data, not in this repo) |
+| `LOCK-IN` | Nov 26 2026 | law | every structure | Claude (research run) | Lock-in: once a structure has formed it can keep itself going without the forces that built it | - | Why removing the force that built a structure may not collapse it. | - | one case so far (three wedding-onset illnesses) | research run of Nov 26 2026 (Drive) |
 
 <!-- END GENERATED -->

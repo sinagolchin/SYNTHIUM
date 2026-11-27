@@ -7,11 +7,12 @@ things that we have done needs to be always under consideration." Every part tha
 had set aside is back as live, importable code, and every formula, unit, axiom and tool is
 listed in one place with its status: under consideration. Results stay UNTESTED.
 
-- `docs/UNDER_CONSIDERATION.md`: the one index. 121 entries from V1 (Dec 2025) to now, each
+- `docs/UNDER_CONSIDERATION.md`: the one index. 126 entries from V1 (Dec 2025) to now, each
   with its version, who proposed it where a source says so, what it claimed, why it was set aside at the time, any earlier test
   result, and where it lives now. Generated from `synthium/phenomena/catalogue.py`; a test
   keeps them in step. It includes the formulas Claude proposed, among them Fear of Loss =
-  Connection x Possibility x Powerlessness from a Jan 2 2026 dialogue with Sina (text only).
+  Connection x Possibility x Powerlessness from a Jan 2 2026 dialogue with Sina (text only),
+  and Sina's Nov 26 convention that every being is a structure of balanced forces.
 - `synthium/legacy/`: V1/Omega 1.5, V2, V3.4 (the combined script), V4, V4.3.1 (spec,
   rubric, dataset, governance, the 2,045-line monolith and the trained neural encoder
   weights), V5 honesty, V6 predictive and CourtListener labeler, V6.1 (the 12-unit
